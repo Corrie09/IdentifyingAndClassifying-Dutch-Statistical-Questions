@@ -1,0 +1,94 @@
+title: Kinderopvang - Besteding IT-budget
+thema: Welzijn en Gezin
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2030641
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1791953
+SCHRIFTELIJKE VRAAG
+nr. 164 
+van ILSE MALFROOT
+datum: 5 januari 2024
+aan HILDE CREVITS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+Kinderopvang  -  Besteding IT-budget
+Eind 2022, na de parlementaire onderzoekscommissie over de problemen in de 
+kinderopvang, verscheen volgend bericht: “Vlaams minister van Welzijn en Gezin Hilde 
+Crevits investeert ruim 1,7 miljoen euro voor de uitbouw van een efficiënt en performant 
+elektronisch dossierbeheer voor de opvolging van de kinderopvang”. Concreet zal alle 
+informatie over inspectie en handhaving terug te vinden zijn op een plaats. Klachten en 
+meldingen over een bepaalde opvanglocatie zullen automatisch gekoppeld en zichtbaar 
+worden op een dashboard dat belangrijke informatie samenbrengt om verontrustende 
+signalen snel te kunnen detecteren. De investeringen moeten de processen rond 
+meldingen, klachten en handhaving stroomlijnen, zodat problemen sneller gedetecteerd 
+en aangepakt kunnen worden.
+1. Welke doelstellingen heeft de heer Van Loo met dat bedrag al kunnen realiseren in 
+2023?
+2. Graag het gespendeerde bedrag, opgesplitst per doelstelling.
+3. Hebben die investeringen geleid tot een betere informatiedoorstroming naar derden?
+4. Hoe evalueert de minister de verwezenlijkingen? Voldoen zij aan de verwachtingen?
+5. Hoeveel budget wordt er in 2024 geïnvesteerd in IT-systemen?
+6. Graag een overzicht met opsplitsing van het bedrag per te realiseren doelstelling voor 
+2024.
+HILDE CREVITS 
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+ANTWOORD
+op vraag nr. 164 van 5 januari 2024
+van ILSE MALFROOT
+1.
+•Automatisch uitwisselen van informatie tussen de bestaande systemen.
+Er werd een automatische uitwisseling opgezet tussen de systemen van 
+klantenbeheer bij Opgroeien en het systeem van Zorginspectie waardoor er snel en 
+efficiënt zicht is op de uitgevoerde inspectiebezoeken.
+•Toegankelijker en overzichtelijker maken van dossierinformatie
+Door het opzetten van gestructureerde informatieschermen in het 
+dossierbeheersysteem is het dossier overzichtelijk en kan het dashboard, de 
+datamining ed. worden gevoed.
+In het dossierbeheersysteem is daarenboven een dossieroverzichtfiche voorzien 
+waarin relevante informatie die gestructureerd wordt toegevoegd aan het dossier 
+automatisch wordt opgenomen waardoor er snel en overzichtelijk belangrijke 
+informatie over een opvanglocatie gebundeld kan worden.
+•Realiseren van een gebruiksvriendelijk dashboard
+Er is een dashboard ontwikkeld waarin kan worden opgevolgd welke 
+inspectiebezoeken moeten worden opgevolgd, welke handhaving in voorbereiding 
+is, …
+•Kwantitatieve risicoanalyse d.m.v. datamining mogelijk maken
+Op basis van de datamining worden potentiële risicodossiers gerangschikt die dan 
+systematisch kunnen worden onderzocht om na te gaan of bijkomende acties nodig 
+zijn.
+•Actief openbaar maken informatie
+Via de kinderopvangzoeker worden ouders beter geïnformeerd over de opvolging 
+van inspectiebezoeken en handhaving in de kinderopvang.
+De (geanonimiseerde) inspectieverslagen worden automatisch openbaar gemaakt 
+(via onder meer https://publiek.departementzorg.be/cobrha/). 
+•Betere opvolging van meldingen/klachten
+Sinds 2 januari 2024 werd een centraal registratiesysteem voor alle meldingen in 
+gebruik genomen (zowel klachten, gewone meldingen, …) zodat deze efficiënter en 
+overzichtelijker kunnen opgevolgd worden. Er werd ook een automatische 
+gegevensuitwisseling met het dossierbeheersysteem kinderopvang opgezet.
+Er werd 550.000 euro toegekend aan het Departement Zorg. Daarmee werden de 
+volgende doelstellingen gerealiseerd:
+•De inspectiesoftware aanpassen: 500.000 euro, waaronder het uitwerken van het 
+concept “inbreuk”, het herwerken van het inspectieformulier, het tonen van alle 
+bijlagen bij de inspectieverslagen als de medewerkers van Opgroeien inloggen op 
+de inspectiesoftware, het consequente gebruik van de universele ID’s voor 
+zorgvoorzieningen (=HCO-nummers), … 
+•Het automatisch voeden van het dossieropvolgingssysteem bij Opgroeien vanuit de 
+inspectiesoftware: 50.000 euro voorzien, maar het werd intern opgenomen.
+2. Van het investeringsbedrag van 1,7 miljoen euro hierboven vermeld, werd 
+1.165.362,04 euro toegekend aan Opgroeien. Hiermee werden in 2023 al 
+onderstaande doelstellingen gerealiseerd.
+Zoals reeds gesteld werd 550 000 euro toegekend aan het departement Zorg. Voor de 
+verdeling van het budget, zie 1. 
+3. Deze investeringen hebben inderdaad geleid tot een betere informatiedoorstroming. 
+Zowel vanuit Zorginspectie naar Opgroeien, vanuit het systeem voor de opvolging van 
+klachten/meldingen alsook de informatiedoorstroming vanuit Opgroeien naar de 
+gezinnen.
+4. De acties die ondernomen zijn en nog ondernomen zullen worden komen 
+overeenkomen met de aanbevelingen van de onderzoekscommissie, Audit Vlaanderen 
+en het actieplan kinderopvang.
+5. Van het aan Opgroeien toegekende investeringsbedrag van 1.165.362,04 euro rest 
+nog 637.449,53 euro om in 2024 te investeren in IT-systemen. Van het aan het 
+Departement Zorg toegekende investeringsbedrag rest nog 101.649,89 euro.
+
+6.
+

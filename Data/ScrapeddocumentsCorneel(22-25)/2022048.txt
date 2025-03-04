@@ -1,0 +1,81 @@
+title: Evolutie EPB-aangiftes - Verhouding tot aantal vergunde woningen en appartementen
+thema: Energie
+Wonen
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2022048
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1783772
+SCHRIFTELIJKE VRAAG
+nr. 171
+van STAF AERTS
+datum: 30 november 2023
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Evolutie EPB-aangiftes  -  Verhouding tot aantal vergunde woningen en appartementen
+Alle gebouwen in Vlaanderen waarvoor een stedenbouwkundige vergunning wordt 
+aangevraagd of een melding wordt gedaan, moeten aan bepaalde energieprestatienormen 
+voldoen. Die normen worden de EPB-eisen genoemd. EPB staat voor 'energieprestatie en 
+binnenklimaat'.
+Uit de EPB-rapportering op de Energiekaart blijkt dat in 2020 3811 EPB-aangiftes voor 
+eengezinswoningen werden gedaan, voor appartementen noteerde het Vlaams Energie- en 
+Klimaatagentschap (VEKA) 713 aangiftes. Dat waren bijzonder lage cijfers, maar het was 
+natuurlijk ook het jaar dat covid de wereld overnam.
+Opvallend is dat het aantal EPB-aangiftes sinds 2012 een veel grilligere evolutie vertoont 
+dan in de periode daarvoor. Over heel de periode 2006-2020 bedraagt het jaarlijkse 
+gemiddelde 12.359 EPB-aangiftes voor eengezinswoningen. De cijfers sinds 2006 laten een 
+dalende trendlijn zien. (https://apps.energiesparen.be/energiekaart/vlaanderen/epb-e-
+peil-res-evolutie)
+Nochtans kende het aantal vergunde woningen en flats in diezelfde periode voortdurend 
+een omgekeerde trend: die ging in stijgende lijn (https://www.vlaanderen.be/statistiek-
+vlaanderen/bouwen-en-wonen/nieuwbouwvergunningen#bijna-44000-vergunde-nieuwe-
+woningen).
+Natuurlijk leidt niet elke uitgereikte vergunning datzelfde jaar tot een afgewerkte woning, 
+maar zelfs over de jaren heen blijft de discrepantie voortduren en lopen de twee grafieken 
+verder uit mekaar.
+1. Hoe verklaart de minister de discrepantie tussen het aantal EPB-aangiftes en het aantal 
+uitgereikte vergunningen? 
+2. Wanneer zullen bij de EPB-rapportering de cijfers voor 2021, 2022 en 2023 
+beschikbaar zijn? 
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 171 van 30 november 2023
+van STAF AERTS
+1. Het is niet mogelijk om voor de recente vergunningsaanvraagjaren uitspraken te doen 
+over het totaal aantal EPB-aangiften. Zoals u in het cijferrapport op de Energiekaart 
+kan zien via het rapport ‘EPB-aangiften’ 
+(https://apps.energiesparen.be/energiekaart/vlaanderen/epb-aangiften), kent de 
+indiening van EPB-aangiften voor een bepaald aanvraagjaar een typisch cyclisch 
+verloop. Hierbij neemt het aantal ingediende EPB-aangiften stelselmatig toe, 
+vervolgens piekt het aantal 3 tot 4 jaar na het aanvraagjaar, en daarna neemt het 
+aantal stelselmatig terug af. Het huidige cijferrapport op de Energiekaart dateert van 
+begin 2023 en bevat data tot 31/12/2022. Op dat moment zitten we voor aanvraagjaar 
+2020 nog maar in de eerste stijgende fase. Via het Selfservicerapport ‘EPB: Aantal EPB-
+aangiften in Vlaanderen’, dat momenteel gegevens bevat voor alle ingediende EPB-
+aangiften tot eind september 2023, zien we dat voor het aanvraagjaar 2020 
+ondertussen 13.010 EPB-aangiften zijn ingediend, waaronder 9.452 voor 
+eengezinswoningen en 2.641 voor appartementen.
+Het klopt inderdaad dat in de cijfers van de EPB-aangiften sinds 2013 een sterk 
+schommelend karakter te zien is. Het VEKA leidt daaruit af dat de typisch tweejaarlijkse 
+verstrengingen van de EPB-eisen zorgden voor een toename van het aantal 
+vergunningsaanvragen aan het einde van de oneven jaartallen, voorafgaand aan de 
+nieuwe eisen. Dat is ook te zien in de grafieken van de vergunningen, al liggen de 
+pieken daar dan net in de even jaren omdat vergunningen die aan het einde van het 
+jaar worden aangevraagd typisch pas in het volgend jaar worden afgeleverd. 
+Er is dan ook op dit moment geen duidelijke discrepantie te zien tussen de gegevens 
+van de vergunningen en de gegevens van de EPB-aangiften. We zien dezelfde trends, 
+uiteraard rekening houdend met de vertraging op de EPB-aangiften omwille van hun 
+doorlooptijd ten opzichte van de vergunningen en het verschil tussen aanvraagjaar en 
+vergunningsjaar. Voor de meest recente jaren is er nog geen vergelijking mogelijk.
+Tot slot is het ook belangrijk te vermelden dat niet elke vergunning wordt uitgevoerd 
+en dat het VEKA niet beschikt over informatie van het aantal niet-uitgevoerde 
+vergunningen. Soms worden ook meerdere vergunningen ingediend voor hetzelfde 
+project.
+2. Aan het begin van elk jaar wordt het EPB-cijferrapport op de Energiekaart vernieuwd 
+met de data van de EPB-aangiften van het afgelopen jaar. Op dat moment wordt ook 
+nagegaan of het volgende aanvraagjaar (in dit geval 2021) voldoende EPB-aangiften 
+heeft om representatieve data te vermelden. De gegevens van recentere 
+aanvraagjaren zijn sowieso nog niet representatief en worden daarom nog niet getoond 
+in rapporten met resultaten.
+In de Selfservice Rapporten die ook op de Energiekaart worden getoond, worden de 
+data al tijdens het jaar vernieuwd. Daar kan dus al iets sneller naar meer recente data 
+gekeken worden. Bij de rapporten met resultaten per aanvraagjaar wordt ook daar aan 
+het begin van het jaar een nieuw aanvraagjaar toegevoegd in de grafieken.

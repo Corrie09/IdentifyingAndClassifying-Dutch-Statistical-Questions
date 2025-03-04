@@ -1,0 +1,138 @@
+title: Ontbossing - Koolstofverlies
+thema: Natuur en Milieu
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2013304
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1776703
+SCHRIFTELIJKE VRAAG
+nr. 94
+van MIEKE SCHAUVLIEGE
+datum: 6 november 2023
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Ontbossing  -  Koolstofverlies
+Ontbossing heeft nefaste gevolgen, waaronder het verlies van koolstofopslag. Volgens het 
+rapport omtrent ontbossing in Vlaanderen dat door BOS+ eind juni 2023 gepubliceerd werd 
+“draagt ontbossing twee keer bij aan een hogere uitstoot: door het verlies aan bestaande 
+opslag in bodem en biomassa, maar ook doordat verdere opslag in de toekomst wordt 
+belemmerd. Boscompensatie op een andere locatie is op dit vlak geen evenwaardig 
+alternatief. Het CO 2-verlies per hectare dat volgt uit de ontbossing van een goed ontwikkeld 
+bos, kan nooit op korte termijn ge-offset worden door de CO 2-opslag in de wettelijk 
+verplichte boscompensatie. Er is dus steeds sprake van een verlies, dat bij mature en goed 
+ontwikkelde bossen kan oplopen tot een factor 100! Dit soort bossen kan tot 750 ton CO 2 
+per hectare in hun bovengrondse biomassa en bosbodem opslaan, terwijl een 
+succesvol compensatiebos ‘slechts’ 7,5 à 10 ton per hectare en per jaar uit de lucht haalt. 
+Bovendien wordt de hoogste opslagcapaciteit van bossen pas behaald rond de leeftijd van 
+100 jaar. De hoge dynamiek en verjonging van bossen heeft dus een dubbel negatieve 
+invloed. Wandelende bossen zorgen voor een netto koolstofverlies.” 
+Echter, er wordt in Vlaanderen nog steeds relatief veel ontbost en het fenomeen van 
+‘wandelende bossen’ is zichtbaar via de aanleg van compensatiebossen.
+1. Bestaat er een monitoring die de koolstofverliezen door ontbossing in Vlaanderen in 
+kaart brengt? Zo ja, welke actoren zijn daarbij betrokken en hoe vaak wordt die 
+informatie geüpdatet?
+2. Graag een overzicht van de koolstofverliezen als gevolg van ontbossing, graag data 
+per provincie en per jaar voor de periode 2014-2023.
+3. Bestaat er een monitoring die de opgeslagen koolstofgehaltes meet van nieuwe 
+bosaanleg en compensatiebossen? Zo ja, welke actoren zijn daarbij betrokken en hoe 
+vaak wordt die informatie geüpdatet?
+4. Hoe worden de aantallen van koolstofverliezen verwerkt in de 
+compensatieverplichtingen?
+5. In antwoord op mijn schriftelijke vraag nr. 947 van 6 juli 2023 gaf de minister aan dat 
+een LULUCF-actieplan tegen eind 2023 gepubliceerd zal worden (LULUCF: Land Use, 
+Land Use Change and Forestry).
+a) Wat is de stand van zaken?
+b) Hoe wordt het verlies van koolstofopslag geïntegreerd in de initiatieven om het 
+streefcijfer van de LULUCF-regelgeving in Vlaanderen te behalen?
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 94 van 6 november 2023
+van MIEKE SCHAUVLIEGE
+1. Bodemkoolstof is het onderwerp van het Vlaamse Bodemkoolstofmeetnetwerk. 
+Daarmee wordt op een statistisch onderbouwde manier de gemiddelde 
+koolstofvoorraad en de evoluties daarin van een reeks van landgebruiksklassen, 
+waaronder bossen, opgevolgd. Daarin zit ook de impact van ontbossing (i.e. de 
+omvorming van bos naar bijvoorbeeld grasland of ruimtebeslag) vervat, weliswaar 
+verwerkt in de gemiddelden voor de gehele landgebruiksklasse. Dit meetnetwerk wordt 
+gerund door het Departement Omgeving, het Instituut voor Natuur- en Bosonderzoek 
+(INBO) en het Instituut voor Landbouw-, Visserij- en Voedingsonderzoek (ILVO). 
+In dit meetnetwerk wordt een statistisch relevant aantal meetpunten – voor bos zijn 
+dat er in het totaal 490 – bemonsterd en geanalyseerd. In een tienjarige cyclus wordt 
+jaarlijks 10% van deze punten onder handen genomen zodat na de hermeting 
+uitspraken over trends kunnen worden gedaan. Om specifiek in te kunnen gaan op het 
+effect van ontbossing wordt deze aanpak aangevuld met specifieke staalnameplots voor 
+de belangrijkste landgebruiksveranderingen. Voor ontbossing zijn dit er voorlopig 25 
+(tien naar grasland, 10 naar ruimtebeslag en 5 naar wetland). De uitvoering moet 
+echter nog starten. Op dit moment worden de weliswaar tussentijdse resultaten in een 
+jaarrapport gerapporteerd. Op termijn kan dit uitgroeien tot een officiële indicator.
+De koolstofopslag in biomassa op Vlaams niveau wordt, wat bossen betreft, ook 
+gemonitord via de Vlaamse Bosinventarisatie in beheer van het Agentschap voor Natuur 
+en Bos (ANB). Deze inventaris werkt met punten in een vast geometrisch grid. Via deze 
+inventarisatie wordt onder meer de gemiddelde staande voorraad levende (en dode) 
+biomassa en de gemiddelde aangroei gemonitord. Er bestaat geen specifiek 
+monitoringsnetwerk voor ontbossingen, maar de cijfers van de Vlaamse 
+Bosinventarisatie, net zoals op termijn die van het bodemkoolstofmeetnetwerk, worden 
+gebruikt om in het kader van de jaarlijkse LULUCF (Land Use, Land-Use Change, and 
+Forestry/Landgebruik, Verandering in Landgebruik en Bosbouw) 
+broeikasgasboekhouding een raming te maken van de uitstoot ten gevolge van 
+ontbossing.
+Er wordt in Vlaanderen net als in de andere gewesten voor de sector van LULUCF een 
+emissie-inventaris opgemaakt door de Vlaamse Milieumaatschappij (VMM) en jaarlijks 
+internationaal gerapporteerd op Belgisch niveau. Voor deze inventaris wordt een 
+inschatting gemaakt van het jaarlijks ontbost land in Vlaanderen en wordt er een 
+berekening gemaakt om de hieraan gekoppelde emissies in kaart te brengen. 
+De inschatting van landgebruiksveranderingen is een intensief werk dat is gebaseerd 
+op verschillende landgebruikskaarten. Dit kan echter niet voor elk jaar opgemaakt 
+worden. Voor de jaren 1990, 2009, 2012 en 2015 werd een landgebruikskaart 
+geïntegreerd in de LULUCF-inventaris. Voor het jaar 2018 is ondertussen ook een 
+landgebruikskaart beschikbaar, maar deze kon nog niet geïntegreerd worden in de 
+inventaris. Dit zal ten vroegste gebeuren bij de rapportering van 15/03/2025.
+2. Het model om een inschatting te maken van de broeikasgasemissies afkomstig van de 
+LULUCF-sector is opgesteld om accuraat te zijn op Vlaams niveau, maar kan geen 
+correcte inschatting geven op het niveau van de provincies. Momenteel kan er enkel 
+gerapporteerd worden voor emissies tot en met 2021. De cijfers in de tabel hieronder 
+komen bijgevolg overeen met de gerapporteerde cijfers van 15/03/2023 aan de 
+Europese Commissie. Voor de berekening van de koolstofverliezen wordt bij ontbossing 
+het verlies aan biomassa volledig in rekening gebracht in het jaar van de ontbossing. 
+Het koolstofverlies in de bodem wordt over een periode van 20 jaar in rekening 
+gebracht. 
+Zoals aangehaald in mijn antwoord op vraag 1 zijn er voor de jaren 1990, 2009, 2012 
+en 2015 landgebruiken voor LULUCF vastgelegd. Na 2015 werd er nog geen nieuwe 
+landgebruikskaart geïntegreerd in de inventaris. Voor de tussenliggende jaren wordt 
+op basis van interpolatie een inschatting gemaakt van de landgebruiksveranderingen. 
+Hierbij worden de veranderingen gelijkmatig verdeeld over de tussenliggende jaren. 
+Voor de data vanaf 2016 wordt de trend in landgebruiksveranderingen tussen 2009 en 
+2015 gebruikt om te extrapoleren.
+3. Zie mijn antwoord op vraag 1, met dien verstande dat wat bodemkoolstof betreft het 
+aantal specifieke bebossingplots 20 bedraagt (10 vanuit grasland en 10 vanuit akker). 
+Wat de koolstofopslag in biomassa van nieuwe bossen betreft, worden nieuwe bossen 
+mee opgemeten in de Vlaamse Bosinventarisatie, maar niet apart. Het verschil tussen 
+nieuw aangeplante en de andere bossen gaat dus verloren in de berekende 
+gemiddelden. 
+4. Het beoogde doel van een compensatiebos is, in eerste instantie, het behoud van een 
+gelijkwaardig bosareaal (cf. artikel 90bis, §2). Dit draagt uiteraard bij aan de 
+doelstelling van het Vlaams Energie- en Klimaatplan (VEKP) om de bestaande 
+koolstofvoorraden te beschermen door de emissies door ontbossing tot een minimum 
+te beperken (zie 2.3.3.2.3 Verhoogde koolstofopslag in bos en natuur). Bij ontbossing 
+gaat de in de bovengrondse biomassa opgeslagen koolstof verloren, behalve dat 
+gedeelte dat verwerkt wordt in een duurzaam houtproduct. Wat de ondergronds 
+opgeslagen koolstof betreft, hangt dit af van het landgebruik na de ontbossing. 
+Omvorming naar een (half)natuurlijkgrasland e.d. heeft waarschijnlijk een beperkte 
+uitstoot (bij gelijkblijvend vochtgehalte); afgraving, sterke bodemverstoring of 
+drainage een grote. Hoewel de compensatiefactoren hier niet op afgestemd zijn, komt 
+de aanpak hieraan deels tegemoet. Een 1-op-1-compensatie dekt, gezien het verschil 
+in opslag afhankelijk is van de boomleeftijd en de mate van bodemkoolstofverzadiging 
+tussen ontbossing en compensatie, niet helemaal de lading. Oude en soortenrijke 
+bossen, vaak de nattere met een hogere leeftijd, hebben veelal de hoogste 
+compensatiefactoren en die komen hier dus beter aan tegemoet. 
+5. a) Mijn administratie heeft in de loop van 2023 dit LULUCF-actieplan verder 
+voorbereid. Er vonden onder meer 12 thematische workshops of overlegmomenten 
+plaats over zowel data- als beleidsaspecten met een brede groep aan 
+beleidsmedewerkers en experten in verschillende aanverwante thema's zoals 
+natuur, landbouw, ruimtelijke ordening, water, bosbouw en geoogste 
+houtproducten. De werkgroep consolideert momenteel de resultaten van al deze 
+workshops en heeft als opdracht om het actieplan tegen eind 2023 te finaliseren. 
+Daarna volgt de voorbereiding van de politieke besluitvorming en publicatie.
+b) Het is nog te vroeg om daar uitspraken over te doen. Zoals in mijn antwoord op 
+vraag 5 a) aangegeven is het plan nog in ontwikkeling. Dit gezegd zijnde zal de 
+bescherming van bestaande koolstofvoorraden een centraal element zijn van dit 
+plan zoals het VEKP zelf ook reeds aangeeft.Vlaanderen 2014 2015 2016 2017 2018 2019 2020 2021
+emissies gelinkt aan ontbossing (kt CO2) 94,22 93,43 369,26 374,56 379,86 385,17 390,48 395,79

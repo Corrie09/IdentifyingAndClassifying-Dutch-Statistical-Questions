@@ -1,0 +1,74 @@
+title: Fluvius - Softwareprobleem
+thema: Natuur en Milieu
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2062273
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1815854
+SCHRIFTELIJKE VRAAG
+nr. 467
+van PETER VAN ROMPUY
+datum: 25 maart 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Fluvius  -  Softwareprobleem
+In de media was er aandacht voor de hoge energieafrekeningen voor bepaalde afnemers. 
+Een van de verklarende elementen zou een softwareprobleem zijn, waardoor het 
+doorgegeven verbruik niet tot bij de leveranciers raakt. Ook Testaankoop maakt melding 
+van het probleem (De Morgen, 21 maart 2024). Het zou gaan om 14.000 tot 18.000 
+dossiers. Bij 3500 afnemers zou het probleem al meer dan zes maanden aanslepen.
+1. Is er op dit moment een softwareprobleem bij Fluvius waardoor het effectieve verbruik 
+niet tot bij de leverancier raakt? 
+a) Wat is het probleem? 
+b) Wanneer zou het probleem opgelost zijn? 
+c) Welke stappen moeten daartoe gezet worden? 
+2. Voor hoeveel energieverbruikers is er door het softwareprobleem onduidelijkheid over 
+de uiteindelijke energiefactuur? 
+a) Zijn de energieverbruikers daarvan op de hoogte? 
+b) Is er in een compensatie voorzien voor de afnemers die door het softwareprobleem 
+getroffen zijn? 
+ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD 
+op vraag nr. 467 van 25 maart 2024
+van PETER VAN ROMPUY
+1. a) Het berichtenverkeer tussen Fluvius en de energieleveranciers verloopt via het 
+nieuwe central market system (CMS) bij Atrias. Van alle transacties verloopt 99,9% 
+succesvol. Uitzonderlijk verloopt het berichtenverkeer (leverancier <–> Atrias <–> 
+Fluvius) niet correct. De oorzaak daarvan kan liggen bij de systemen van Fluvius, 
+bij het CMS van Atrias, bij de systemen van de energieleverancier of bij de 
+communicatie tussen deze systemen.
+b) De leveranciers, de distributienetbeheerders en Atrias werken via het Programma 
+Elektra nauw samen om de problemen op te lossen. Het is de doelstelling om tegen 
+na de zomer van 2024 structurele oplossingen uit te werken en op die manier de 
+werking te stabiliseren.
+c) Via het programma Elektra wordt ingezet op verschillende oplossingspistes:
+•Blokkeringen reduceren door structurele oplossingen op het CMS bij Atrias door 
+te voeren bij de komende releases.
+•Voor een aantal problemen werden intussen cleanings opgezet. Die zorgen 
+ervoor dat de uitval beperkt wordt.
+•Voor de langst geblokkeerde en complexere punten wordt een systeemoplossing 
+moeilijk. Hiervoor overlegt Fluvius met Atrias en de leveranciers over een 
+specifieke geval-per-geval aanpak.
+Het programma Elektra krijgt de hoogste prioriteit. De capaciteit van de betrokken 
+teams is opgeschaald en er zijn verschillende samenwerkingsplatformen 
+geïnstalleerd tussen de betrokken partijen.
+2. Het aantal klanten dat effectief hinder ondervindt van vertraagde energiefacturen blijft 
+gelukkig beperkt. Zoals uit onderstaande grafiek blijkt, evolueert dat aantal de 
+afgelopen maanden in dalende lijn. Slechts 0,78% van de huishoudens ontvangt de 
+afrekeningsfactuur later dan 3 maanden na de verwachte verzendingsdatum.
+Met betrekking tot de voorschotfacturen ondervinden slechts 0,07% van de 
+huishoudens een probleem. Zij ontvangen een voorschotfactuur minstens twee maand 
+later dan voorzien.
+a) Generieke communicatie richting de klanten is niet evident. Elk dossier is immers 
+specifiek. Het betreft vaak een combinatie van generieke en specifieke (geval-per-
+geval) communicatie.
+Omdat een blokkering in de systemen van Fluvius niet steeds leidt tot een 
+vertraging in de energiefactuur worden de klanten vanuit Fluvius niet actief 
+gecontacteerd. Indien klanten twijfelen of hun EAN geïmpacteerd is, kunnen zij dat 
+via de website van Fluvius nagaan: Vertraging energiefactuur | Fluvius
+Er zijn wel duidelijke afspraken over de boodschappen richting de klant zodat de 
+klant niet doorverwezen wordt tussen de verschillende marktpartijen.
+
+b) Fluvius betaalt alleen een schadevergoeding aan eindklanten als voldaan is aan de 
+volgende voorwaarden: 
+•Fluvius kan de situatie niet herstellen;
+•De schade is te wijten aan de distributienetbeheerder;
+•De schade is bewezen door de klant.

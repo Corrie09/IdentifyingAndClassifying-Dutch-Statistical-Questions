@@ -1,0 +1,78 @@
+title: Digitalisering centraal woningregister (CWR) - Stand van zaken
+thema: Wonen
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2062428
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1813819
+SCHRIFTELIJKE VRAAG
+nr. 235
+van SARAH SMEYERS
+datum: 19 maart 2024
+aan MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+Digitalisering centraal woningregister (CWR)  -  Stand van zaken
+In de beleids- en begrotingstoelichting (BBT) bij de begroting voor het Departement Wonen 
+voor het begrotingsjaar 2024 wordt op blz. 62 onder operationele doelstelling 6.5 
+‘Performante overheid’ ook het gebruik van informatie- en communicatietechnologie (ICT) 
+voor het centraal woningregister vermeld. Zo staat er te lezen: 
+“Daarnaast wordt verder geïnvesteerd in een performante ICT-ondersteuning, met als 
+belangrijkste focusgebieden: 
+- Versterken van de beveiliging van ICT-systemen en van de informatieveiligheid (AVG-
+conformiteit), door o.a. verder investeren in cloudtechnologie en beveiligingssystemen en 
+–procedures. 
+- Versterken van de ICT-governance (een vervolgtraject op de fusie van de ICT-diensten 
+van VMSW en Wonen-Vlaanderen), waarbij in eerste instantie ingezet wordt op 
+wendbaarheid, efficiëntie en kwaliteit. 
+- Verdere integratie van datawarehouse en ‘business intelligence’-systemen van de 
+voormalige VMSW en Wonen-Vlaanderen, vanuit de strategische evolutie naar een data-
+gedreven overheid.”
+1. Kan de minister over de digitalisering van het CWR een stand van zaken geven? In 
+2021 antwoordde de minister nog dat “’gelet op de belasting bij de lokale actoren en 
+softwareleveranciers’ de digitalisering van het centraal inschrijvingsregister (CIR) en 
+het CWR niet samen konden gerealiseerd worden”. 
+Hoe staat het er nu mee?
+2. Hoe staat het met de verdere integratie van datawarehouse en ‘business intelligence’-
+systemen van de voormalige Vlaamse Maatschappij voor Sociaal Wonen (VMSW) en 
+Wonen-Vlaanderen?
+3. Wat houdt het vervolgtraject op de fusie van de ICT-diensten van de VMSW en Wonen-
+Vlaanderen precies in? Welke stappen worden genomen om de ICT-governance te 
+versterken en te zorgen voor wendbaarheid, efficiëntie en kwaliteit?
+4. Hoe wordt de verdere integratie van datawarehouse en 'business intelligence'-
+systemen van de voormalige VMSW en Wonen-Vlaanderen aangepakt? Welke 
+voordelen worden verwacht van die integratie voor de efficiëntie en effectiviteit van de 
+overheid?
+MATTHIAS DIEPENDAELE
+MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+ANTWOORD 
+op vraag nr. 235 van 19 maart 2024
+van SARAH SMEYERS
+1. De werkzaamheden aan het CIR hebben er ook in 2023 voor gezorgd dat de 
+woonmaatschappijen niet de ruimte hadden voor een eventuele aansluiting op het CWR. 
+De uitwerking van het CWR zelf is ook nog niet gefinaliseerd, maar het is wel de 
+bedoeling om de eerste piloot-woonmaatschappij in het tweede kwartaal van 2024 aan 
+te sluiten op het CWR. De verdere planning voor de aansluitingen is afhankelijk van de 
+woonmaatschappijen en hun ICT-dienstenleveranciers.
+2. Zie het antwoord op vraag 4 hieronder.
+3. De ICT-diensten van de VMSW en Wonen-Vlaanderen werden ondertussen 
+samengevoegd en functioneren nu als één dienst, waarbij specifieke profielen geclusterd 
+werden in teams, zoals infrastructuur & operations, dienstenbeheer, architectuur, 
+applicatieontwikkeling en -onderhoud, BI. Het belangrijkste voordeel van de fusie was 
+dat door het groter aantal ICT-ers er meer specialisatie mogelijk werd voor bepaalde 
+ICT-functies, en dat daardoor een aantal taken en functies op een meer systematische 
+en profssionele manier konden aangepakt worden. Naar wendbaarheid, efficiëntie en 
+kwaliteit toe, zijn de belangrijkste initiatieven en veranderingen:
+•Professionaliseren van de testaanpak en inzetten op testautomatisering, zodat 
+ontwikkeling en onderhoud van software op termijn sneller kan verlopen, en met een 
+hogere kwaliteit als resultaat.
+•Verder inzetten op architectuur-gedreven softwareontwikkeling, zodat consistentie 
+en onderhoudbaarheid van software beter gegarandeerd wordt.
+4. Alle voor BI-doeleinden relevante bedrijfsgegevens van het vroegere Wonen-Vlaanderen 
+worden systematisch geïntegreerd in het ‘enterprise data warehouse’ (EDWH) dat reeds 
+door de VMSW was opgezet. De Qlikview rapporteringsomgeving wordt systematisch en 
+geleidelijk vervangen door een Power BI rapporteringsomgeving die sterk geïntegreerd 
+is met het EDWH. Dit is een intensief proces omdat er uitvoerig getest moet worden 
+opdat de juiste informatie wordt samengebracht. Het afgelopen jaar werd sterk 
+geïnvesteerd in het opbouwen van een “Power BI community” om ervoor te zorgen dat 
+de kennis en vaardigheden verder verspreid kunnen worden in de organisatie.
+Via de nieuwe rapporteringen, die momenteel uitgebouwd worden, verwachten we op 
+termijn performantere beleidsinformatie te kunnen aanleveren waarbij het zowel 
+mogelijk is om op een hoger niveau te rapporteren, maar ook in te zoomen op lagere 
+niveaus. Enkele rapporten zijn reeds in productie. 

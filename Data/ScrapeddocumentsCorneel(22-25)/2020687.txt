@@ -1,0 +1,66 @@
+title: Vlaamse Jeugdraad - Verkiezingen
+thema: Jeugdbeleid
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2020687
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1784406
+SCHRIFTELIJKE VRAAG
+nr. 39
+van FREYA PERDAENS
+datum: 1 december 2023
+aan BENJAMIN DALLE
+VLAAMS MINISTER VAN BRUSSEL, JEUGD, MEDIA EN ARMOEDEBESTRIJDING
+Vlaamse Jeugdraad  -  Verkiezingen
+De Vlaamse Jeugdraad heeft een nieuw bestuur. Zo’n bestuur wordt elke 3 jaar verkozen 
+en het nieuwe bestuur zal binnenkort ook zijn nieuwe voorzitter kiezen. Zo’n 4700 jongeren 
+uit Vlaanderen en Brussel brachten tussen 4 en 19 november hun stem uit om de nieuwe 
+samenstelling van dit officiële adviesorgaan van de Vlaamse Regering te bepalen.
+1. Op welke manieren konden jongeren stemmen voor die verkiezingen? Welke 
+problemen kwamen er aan de oppervlakte?
+2. Op welke wijze werd er gecontroleerd of de jongeren die hun stem uitbrachten deel 
+uitmaken van de Vlaamse Gemeenschap?
+3. Wat met jongeren die niet beschikken over itsme of e-ID? Hoe konden zij stemmen?
+4. Hoeveel stemmen waren er tijdens de verkiezingen van 2020, 2017 en 2014? Op welke 
+manieren kon toen worden gestemd?
+BENJAMIN DALLE 
+VLAAMS MINISTER VAN BRUSSEL, JEUGD, MEDIA EN ARMOEDEBESTRIJDING
+ANTWOORD
+op vraag nr. 39 van 1 december 2023
+van FREYA PERDAENS
+1. Jongeren kunnen stemmen door middel van hun eID en itsme. 
+Jongeren van 12 tot en met 15 jaar kunnen geldig stemmen door het inlezen van hun 
+identiteitskaart. Bij het stemmen via eID-reader werden twee drempels vastgesteld. 
+De eerste is dat de toegang tot CSAM eerder omslachtig is. Niet iedereen heeft een eID-
+reader, het blijkt niet vanzelfsprekend om de software te installeren en niet elke browser 
+wordt ondersteund. Daarenboven wordt vastgesteld dat de jongeren vaak hun pincode 
+niet kennen. 
+Een sensibiliseringscampagne om jongeren te stimuleren om de pincode op te zoeken 
+of om een nieuwe pincode op te vragen, heeft weinig resultaat opgeleverd. Gelet op 
+deze drempels, hebben ook de bezoeken aan scholen om jongeren aan te moedigen om 
+te stemmen, weinig resultaat opgeleverd.
+Jongeren van 16 tot en met 17 jaar kunnen ook gebruik maken van itsme als ze bij een 
+grootbank zijn aangesloten, ze een bankkaart hebben en hun eID bij de bank is 
+ingelezen. Het inlezen van de eID blijkt een drempel: veel jongeren hebben dit nog niet 
+gedaan waardoor ze itsme niet kunnen gebruiken. Ze zijn bijgevolg aangewezen op hun 
+eID waarbij ze op de hierboven aangehaalde drempels stoten.
+Jongeren vanaf 18 jaar zijn meer vertrouwd met het eID. Grote problemen werden daar 
+vooralsnog niet vastgesteld. 
+De Vlaamse Jeugdraad heeft de intentie om met CSAM en itsme in dialoog te gaan over 
+oplossingen.
+2. Jongeren met een eID of een permanente verblijfsvergunning kunnen deelnemen aan 
+de verkiezingen. CSAM, het systeem van identiteits- en toegangsbeheer, regelt de 
+identificatie en authenticatie. De Vlaamse jeugdraad heeft geen toegang tot de 
+persoonlijke gegevens van de jongeren die een stem uitbrengen. 
+3. Jongeren die geen eID of itsme hebben, kunnen niet stemmen. Mensen met een 
+permanente verblijfsvergunning kunnen op dezelfde manier stemmen als mensen met 
+een eID.
+4. In onderstaande tabel is aangegeven hoeveel stemmen er waren er tijdens de 
+verkiezingen van 2020, 2017 en 2014 en op welke manieren er toen kon worden 
+gestemd.
+Jaar Stemmen Procedure
+2014 896 Stemmen gebeurde gedurende een week door middel van 
+eID met stemcomputers tijdens fysieke evenementen.
+2017 912 Stemmen gebeurde gedurende een week door middel van 
+eID met stemcomputers tijdens fysieke evenementen en 
+een online website.
+2020 4929 Stemmen gebeurde gedurende twee weken door middel 
+van eID en itsme met stemcomputers, smartphones en 
+online website.

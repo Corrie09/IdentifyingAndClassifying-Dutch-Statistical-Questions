@@ -1,0 +1,151 @@
+title: Agentschap Wegen en Verkeer (AWV) - Hernieuwbare energie en verledding openbare verlichting
+thema: Energie
+Mobiliteit en Verkeer
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2022009
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1784294
+SCHRIFTELIJKE VRAAG
+nr. 303
+van ROBRECHT BOTHUYNE
+datum: 1 december 2023
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Agentschap Wegen en Verkeer (AWV)  -  Hernieuwbare energie en verledding openbare 
+verlichting
+Op haar website geeft de minister aan dat zij inzet op het aanwenden van ongebruikte 
+gronden van het Agentschap Wegen en Verkeer voor de implementatie van hernieuwbare 
+energie, zonnepanelen. 
+AWV betaalde in 2022 ongeveer 45 miljoen euro voor het elektriciteitsverbruik. De factuur 
+voor 2023 zou daar niet veel van verschillen.
+AWV heeft die energie nodig voor openbare verlichting (OV). Wegverlichting en 
+tunnelinfrastructuur zijn de grootste energievreters, aldus de minister. Niet minder dan 
+85% van het totale energieverbruik.
+Momenteel zou 200 hectare grond nodig zijn om in de jaarlijkse energiebehoefte van AWV 
+te kunnen voorzien. 
+Meest logisch lijkt het om zonnepanelen te plaatsen op die restgronden. De bedoeling is 
+om de opgewekte energie aan te wenden voor eigen gebruik. Pas daarna kijkt men naar 
+‘energiedelen met jezelf’ en andere vormen van energiedelen. Het is een investering die 
+een terugverdientijd heeft van 5 à 7 jaar. 
+Een eerste project is de uitrusting van de tunneldaken van de Beverentunnel. 
+Ondertussen gaat de minister verder met de ‘verledding’ van de OV op de Vlaamse wegen. 
+Tegen 2027 moeten alle autosnelwegen ledverlichting hebben, tegen 2025 de 
+gewestwegen. 
+1. Een ruwe oefening leerde de minister echter dat er een theoretisch potentieel van 
+minimum 600 hectare voorhanden zou zijn. 
+a) Op welke manier heeft de minister die berekening aangevat? 
+b) Wie of welke organisatie stond in voor die berekening? 
+c) Op welke manier en onder welke voorwaarden werden de gronden als 
+‘toegewezen’ aanzien indien ze in aanmerking kwamen voor het plaatsen van 
+zonnepanelen of hernieuwbare energie (HE)? 
+2. Waar liggen die gronden? Graag totaalaantal hectare en opdeling naar
+a) provincie met totaalaantal hectare voor die provincie; 
+b) gemeente/stad met totaalaantal hectare voor die gemeente/stad;
+c) gelegen aan gewestweg of autosnelweg;
+d) gelegen aan brug of tunnel.
+3. Vanwaar de keuze om zonnepanelen te plaatsen en geen andere vorm van HE? 
+4. Op welke manier zal de minister aan de benodigde vergunningen geraken om HE te 
+plaatsen? Hoe ziet de minister die procedure? 
+5. Momenteel zijn er serieuze vragen rond de cybersecurity van de omvormers van de 
+zonnepanelen. 
+Op welke manier en via welke interventies zal AWV daarmee omgaan eens de 
+zonnepanelen geïnstalleerd zijn? 
+6. Tegen wanneer denkt de minister klaar te zijn met de implementatie van HE op de 200 
+hectare gronden, nodig voor de jaarlijkse energiebehoefte van AWV? Wie of welke 
+organisatie zal daar toezicht op houden? 
+7. Hoe verloopt de omzetting naar ledverlichting op de gewestwegen in 2023? Hoe ver 
+staat men sinds de start in 2021? 
+8. In september 2024 moet de verledding van de OV gefinaliseerd zijn. 
+Zit men op schema? Zo niet, waarom niet? Op welke stukken zal men bijschaven? 
+9. Wat de ombouw naar ledverlichting betreft, hoeveel is het besparingspotentieel in 
+Vlaanderen? Graag zowel in GWh als in euro.
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD 
+op vraag nr. 303 van 1 december 2023
+van ROBRECHT BOTHUYNE
+1. De 600 ha grond is het resultaat van een eerste high-level screening die tot doel had 
+om het potentieel van de gronden in beheer van het Agentschap Wegen en Verkeer 
+(AWV) om energie op te wekken, in kaart te brengen. Hierbij werden alle percelen in 
+het beheer van het AWV onderzocht, aangevuld met het openbaar domein rond de 
+autosnelwegen dat beheerd wordt door het AWV. Tot dit openbaar domein behoren 
+onder andere de gronden in de lussen van grote verkeerswisselaars.
+De uitgevoerde (eerste) screening betreft een high-level screening gebaseerd op een 
+geautomatiseerde GIS-analyse waarbij de voorvermelde gronden gematcht werden 
+met de bodembedekkingskaart van Vlaanderen. Hierbij werden enkel de zones die op 
+de bodembedekkingskaart Vlaanderen ingetekend zijn als “gras en/of struiken” of 
+“water” weerhouden. Bij deze screening werd geen rekening gehouden met mogelijke 
+beperkingen van de weerhouden gronden zoals bv. de te respecteren afstandsregels 
+tot gevaarlijke installaties (zoals hoogspanningslijnen, aardgasleidingen ...), de 
+ruimtelijke haalbaarheid (bv. vergunningen), de huidige of toekomstige functie van de 
+grond ... 
+Bovenstaande oefening werd uitgevoerd door studiebureau Ingenium in opdracht van 
+het AWV dat hiervoor beroep gedaan heeft op een raamovereenkomst van het Vlaams 
+Energiebedrijf (VEB).
+2. De uitgevoerde high-level studie geeft naast de totale beschikbare oppervlakte ook 
+inzicht in de onderverdeling van de types grond. Daarbij bestaat de resulterende netto 
+oppervlakte uit 36% stroken langs snelwegen, 13% gronden bij 
+verkeerswisselaars/tunnels en 51% overige restgronden. Een verdere mate aan 
+detailinfo is momenteel onvolledig of nog niet beschikbaar.
+3. In deze high-level studie werd enkel het potentieel voor zonnepanelen onderzocht. Na 
+deze eerste (high-level) screening dienen nog detailscreenings uitgevoerd te worden 
+van alle percelen die uit de high-level screening werden weerhouden, met als doel het 
+effectieve potentieel van de betreffende gronden in kaart te brengen. Hierin zal ook 
+het potentieel van windmolens mee onderzocht worden.
+4. Om de kans op slagen van ieder vergunningsproces te maximaliseren, zal het AWV 
+tijdig in dialoog treden met lokale stakeholders. Bij het opmaken van de nodige 
+voorbereidende studies zal het AWV zich ook maximaal laten ondersteunen, zodat een 
+kwaliteitsvolle vergunningsaanvraag kan ingediend worden.
+5. Voor de zonnepaneleninstallaties die op dit moment bij het AWV reeds operationeel 
+zijn, wordt gewerkt met 4G-communicatie op basis van eigen SIM-kaarten i.p.v. 
+omvormers te verbinden met het WIFI-netwerk. Hierdoor gebeurt de opvolging van de 
+gehele installatie en haar opbrengsten via een mobiele internetverbinding die via de 
+provider op het eigen telematicanetwerk van het AWV terechtkomt. Dit is op zijn beurt 
+beschermd door meerdere firewalls, die alle inkomende en uitgaande data monitoren. 
+Dit is een praktijk die het AWV in de toekomst ook steeds voor eigen 
+zonnepaneleninstallaties zal blijven gebruiken. 
+6. Het AWV heeft een plan van aanpak uitgewerkt voor de aanwending van de 
+restgronden voor opwekking van energie. Dit plan van aanpak werd via een 
+conceptnota ook voorgelegd aan de Vlaamse Regering (zie 
+https://beslissingenvlaamseregering.vlaanderen.be/document-
+view/6409F29193165640DEAF5D3F). Samen met dit plan van aanpak werd eveneens 
+een stappenplan opgemaakt voor implementatie. 
+Zoals aangegeven in het antwoord op vraag 1, is het ingeschatte potentieel van  600 
+ha het resultaat van een eerste high-level screening. De eerste verdere stap bestaat 
+erin om de geïdentificeerde 600 ha verder te screenen, om op die manier 200 ha aan 
+percelen in het beheer van het AWV te identificeren die het best voldoen aan de 
+technische randvoorwaarden voor de meest efficiënte ontwikkeling van hernieuwbare 
+energie. Deze oefening is momenteel lopende. 
+Daarnaast werden afgelopen jaar de eerste detailstudies opgestart van de gronden 
+rond vijf tunnels met groot potentieel. Vanaf 2024 is het de bedoeling om de concrete 
+projecten rond de tunnels op te starten op basis van de uitgevoerde studies. 
+7. De aanvangsdatum van de opdracht werd vastgelegd op 8 september 2021. De 
+opdrachtnemer heeft vanaf die datum 36 kalendermaanden, hetzij tot 7 september 
+2024, om de betreffende ombouw te realiseren. Hij kan hierbij zelf de detailplanning 
+bepalen binnen de in het bestek bepaalde randvoorwaarden.
+Tot op heden werden volgende activiteiten uitgevoerd:
+•voorbereidende studies en werken:
+ouitvoeren verlichtingsstudies;
+oaftoetsing toepassing lichtvisie;
+ouitvoeren inspecties ter plaatse op de masten (scope opdracht is 70.000 
+masten verdeeld over 1103 installaties) om na te gaan of de kwaliteit 
+van de masten nog voldoende is of deze eventueel dienen vervangen te 
+worden;
+o…
+Momenteel zijn de studiedossiers van 80% van de installaties in scope volledig 
+goedgekeurd voor uitvoering. 
+•controle van de aangeboden verlichtingstoestellen, zowel op het vlak van 
+lichtsterkte als op het vlak van behuizing (coating van de toestellen);
+•ombouw op het terrein: momenteel is ongeveer 21% omgebouwd.
+Voorlopig hebben we nog geen informatie ontvangen van de opdrachtnemer dat de 
+totale uitvoeringstermijn niet haalbaar zou zijn. Het AWV gaat er bijgevolg van uit dat 
+de vooropgestelde deadline gehaald zal worden. Bijsturing is op dit moment dan ook 
+niet aan de orde.
+8. Zie het antwoord op vraag 7 voor wat betreft de ombouw van de verlichting langs 
+gewestwegen in beheer van het AWV.
+Naast de verledding van de verlichting langs de gewestwegen in beheer van het AWV, 
+dient ook de verlichting langs autosnelwegen van het type Natrium hogedruk nog 
+omgebouwd te worden naar led. Voor deze ombouw is afgelopen jaar een contract 
+gegund en opgestart. Deze ombouw zal tegen 2027 gerealiseerd zijn. 
+9. Ingeschat wordt dat de omschakeling naar ledverlichting het energieverbruik van de 
+verlichting met ongeveer 35% zal laten dalen. Dit betekent een geraamde besparing 
+op jaarbasis van ca. 20,5 GWh. Aan de huidige elektriciteitsprijzen komt dit overeen 
+met een besparing van ongeveer 8.600.000 euro.

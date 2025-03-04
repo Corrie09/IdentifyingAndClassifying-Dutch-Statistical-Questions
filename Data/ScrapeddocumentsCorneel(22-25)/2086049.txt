@@ -1,0 +1,116 @@
+title: Cyberveiligheid - Doorstroming informatie tussen het Agentschap Innoveren en Ondernemen (VLAIO) en ondernemers
+thema: Wetenschap en Innovatie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2086049
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1836779
+SCHRIFTELIJKE VRAAG
+nr. 32
+van KRISTOF SLAGMULDER
+datum: 31 oktober 2024
+aan MATTHIAS DIEPENDAELE
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN ECONOMIE, INNOVATIE EN 
+INDUSTRIE, BUITENLANDSE ZAKEN, DIGITALISERING EN FACILITAIR MANAGEMENT
+Cyberveiligheid  -  Doorstroming informatie tussen het Agentschap Innoveren en 
+Ondernemen (VLAIO) en ondernemers
+De Vlaamse Regering stelt in haar regeerakkoord dat ze zal blijven inzetten op 
+cyberveiligheid en het betrokken beleidsplan. Blijkbaar vinden op dat vlak veel 
+ondernemers hun weg niet naar de bestaande dienstverlening van VLAIO. Daarom wordt 
+er gepleit voor een verhoogde bewustwording, het stimuleren van marktwerking en de 
+evaluatie van de raamovereenkomsten voor verbetertrajecten inzake cyberveiligheid.
+1. Welke concrete stappen heeft de minister al gezet om het bewustzijn rond 
+cyberveiligheid bij ondernemers te vergroten en hen beter toegang te geven tot de 
+dienstverlening van VLAIO? Welke aandachtspunten wil deze regering leggen in 
+vergelijking met de vorige regering?
+2. Hoe zal de stimulering van de marktwerking in haar werk gaan? Welke effecten 
+verwacht de minister daarvan?
+3. Hoe verloopt de evaluatie van de bestaande raamovereenkomsten in het kader van de 
+verbetertrajecten inzake cyberveiligheid? Werden er al bepaalde vaststellingen gedaan 
+of verbeterpunten vastgesteld? Zo ja, welke? Welke concrete stappen werden daar al 
+voor gezet?
+4. Wordt er momenteel in specifieke ondersteuning voorzien voor bedrijven, die vaak 
+beperkte middelen en kennis hebben om zelf cyberveiligheid optimaal te organiseren? 
+Zo ja, welke?
+5. Met welke problemen kampen onze Vlaamse bedrijven inzake cyberveiligheid?
+6. Hoeveel meldingen werden er de laatste 5 jaar gemaakt over problemen met 
+cyberveiligheid in onze Vlaamse ondernemingen?
+MATTHIAS DIEPENDAELE
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN ECONOMIE, INNOVATIE EN 
+INDUSTRIE, BUITENLANDSE ZAKEN, DIGITALISERING EN FACILITAIR MANAGEMENT
+ANTWOORD 
+op vraag nr. 32 van 31 oktober 2024
+van KRISTOF SLAGMULDER
+1. Zoals aangegeven in het Regeerakkoord blijft cybersecurity als thema hoog op de 
+agenda staan van deze Vlaamse Regering. Binnen het plan ter bevordering van de 
+digitale transformatie bij kmo’s en innovatievolgers zullen we dan ook de nodige 
+aandacht geven aan sensibiliserende acties rond cyberveiligheid. De in 2024 
+geselecteerde structurele partners binnen het contract ondernemerschap en 
+innovatieversnelling zetten hiertoe ook de volgende jaren in op laagdrempelige 
+werkvormen zoals masterclasses, infosessie en hacking-demo’s om nog meer Vlaamse 
+ondernemingen te activeren. Ook zal de proeftuin Innovatieve Cyberbeveiligingen voor 
+Industrie 4.0 en logistiek bijdragen aan het creëren van meer algemeen bewustzijn 
+binnen de Vlaamse industrie en logistiek over de reële risico’s op het vlak van 
+cyberveiligheid en vervolgens deze doelgroep activeren om hun 
+cyberveiligheidscapaciteit te verhogen. In overleg met de stakeholders zullen we 
+bekijken of er de volgende jaren bijkomende acties nodig zijn om het bereik te 
+vergroten dan wel nieuwe accenten te leggen.
+2. Via de Cybersercurity-verbetertrajecten en de kmo-portefeuille kunnen Vlaamse 
+ondernemingen met steun advies rond cyberveiligheid aankopen bij externe 
+dienstverleners. Daar waar elke binnen de kmo-portefeuille erkende dienstverlener 
+advies rond cyberveiligheid kan verlenen aan het verhoogd steunpercentage werken 
+we voor de cybersecurity-verbetertrajecten met een beperktere groep van erkende 
+dienstverleners die geselecteerd wordt via een overheidsopdracht. Sinds 2020 werden 
+al 2 overheidsopdrachten gelanceerd waarbij de markt de mogelijkheid gekregen heeft 
+om zich kandidaat te stellen waarna respectievelijk 9 en 10 dienstverleners werden 
+geselecteerd. Aangezien de erkenning van de eerste groep van dienstverleners eind 
+2024 afloopt zullen we bekijken of het relevant en nodig is om een nieuwe 
+overheidsopdracht te lanceren die aan iedereen die aan de voorwaarden voldoet de 
+mogelijkheid kan geven om zich kandidaat te stellen. 
+3. De Cybersecurity-verbetertrajecten lopen sinds 2021. Doorheen de jaren hebben we 
+verschillende aanpassingen gedaan om het gebruik ervan nog laagdrempeliger 
+gemaakt. VLAIO biedt de cybersecurity verbetertrajecten nu in drie versies aan. Hierbij 
+kiezen ondernemingen het pakket dat het best aansluit bij hun noden. Zo is er het 
+pakket START voor ondernemingen die nog niet ver op gebied van cyberveiligheid 
+staan en eerst graag een eerste analyse maken om te weten welke stappen ze dienen 
+te zetten om de cyberveiligheid in hun onderneming te verbeteren. De pakketten 
+MEDIUM en PLUS zijn bedoeld voor ondernemingen die naast een analyse en een 
+actieplan ook nood hebben aan begeleiding op maat bij het effectief oplossen van 
+veiligheidsproblemen?
+Sinds de start van de CS-verbetertrajecten (januari 2021) maakten circa 330 unieke 
+ondernemingen in Vlaanderen gebruik van de CS-verbetertrajecten. Meer dan de helft 
+van deze trajecten werden opgestart in 2024. Deze stijging is mede door toedoen van 
+enerzijds de start van 10 nieuwe dienstverleners naast de 8 nog actieve 
+dienstverleners uit de 1e raamovereenkomst en anderzijds de NIS2-regulering. 
+4. Met de cybersecurity-verbetertrajecten hebben we een specifiek instrument waarmee 
+kmo’s beroep kunnen doen op externe expertise voor het opzetten van een sterker 
+cybersecuritybeleid. Voor kleinere bedrijven voor wie de cybersecurity-
+verbetertrajecten te groot zijn in omvang voorzien we al sinds 2021 de mogelijkheid 
+om binnen de kmo-portefeuille advies en opleiding rond cyberveiligheid in te kopen 
+aan een verhoogd steunpercentage. 
+5. Uit de resultaten van de meest recente CS-barometer (bevraging uitgevoerd in 2023) 
+blijkt dat:
+- Het blijft een probleem dat zelfs vrij elementaire basistoepassingen, zoals 
+regelmatige software-updates, sterke paswoordauthenticatie, toegangsbeheer van 
+het ondernemingsnetwerk en een systematisch beleid rond back-ups niet door alle 
+bedrijven worden toegepast. Indien het gaat om meer innovatieve 
+beveiligingsmaatregelen is de groep die deze toepast nog kleiner.
+- Bij kmo’s bestaat nog heel wat groeimarge op het vlak van de implementatie van 
+beheerprocedures. Ook beschikt slechts de minderheid van de bedrijven over een 
+uitgewerkt Cyberveiligheidsplan met acties en procedures. Hierdoor zijn vele 
+bedrijven onvoldoende beschermd tegen een eventueel cyberincident en zijn ze 
+onvoldoende voorbereid om adequaat te kunnen reageren na een mogelijke aanval.  
+- Een gebrek aan bewustzijn en een gebrek aan relevante kennis, vaardigheden en 
+ervaring blijven een belangrijk obstakel bij de invoer en het gebruik van CS-
+maatregelen. Desondanks voorziet slechts een derde van de Vlaamse 
+ondernemingen in opleidingen of activiteiten rond cybersecurity.
+- Bij een niet onbelangrijk deel van de ondernemingen blijft het een probleem dat bij 
+het management de perceptie blijft dat het invoeren van een CS-beleid weinig nut 
+biedt voor de organisatie. 
+6. Er zijn hiervan geen cijfers beschikbaar voor de voorbije 5 jaar. In de meest recente 
+CS-barometer geeft bijna één op 10 (8,8%) aan dat men het afgelopen jaar het 
+slachtoffer geweest is van een cyberaanval, waarbij cybercriminelen al dan niet met 
+succes trachtten computersystemen onklaar te maken of persoonlijke of confidentiële 
+gegevens te verkrijgen. Dit aandeel is naar alle waarschijnlijkheid een onderschatting 
+van het werkelijke aandeel aangezien (i) een cyberaanval onopgemerkt kan blijven, 
+(ii) respondenten eerder geneigd zijn om zich een cyberaanval te herinneren en deze 
+te rapporteren wanneer de cyberaanval uiteindelijk schade berokkende aan het bedrijf 
+en/of (iii) bedrijven uit vrees voor reputatieschade terughoudend zijn om hierover te 
+communiceren.

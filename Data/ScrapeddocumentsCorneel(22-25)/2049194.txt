@@ -1,0 +1,77 @@
+title: Wantoestanden rijscholen - Controle software
+thema: Mobiliteit en Verkeer
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2049194
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1807812
+SCHRIFTELIJKE VRAAG
+nr. 715
+van STIJN BEX
+datum: 28 februari 2024
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Wantoestanden rijscholen  -  Controle software
+In een televisiereportage van de VRT in het voorjaar van 2021 werden wantoestanden in 
+rijscholen aangeklaagd. De minister reageerde toen fors en meldde dat ze "alle rotte 
+appels" eruit wil. Een van de pistes om fraude tegen te gaan die de minister toen naar 
+voren schoof was het inzetten op digitalisering. In afwachting van de volledige digitalisering 
+die in 2022 zou volgen, zou in 2021 al op kortere termijn worden onderzocht of het 
+haalbaar was om de inspectiediensten toegang te geven tot de softwaresystemen van de 
+rijscholen.
+ 
+Uit de reportage bleek dat malafide rijscholen bekwaamheidsattesten te koop aanbieden 
+zonder dat de kandidaat-bestuurder ook maar één rijles heeft gevolgd. Normaal gezien 
+krijgt men zo’n attest - dat recht geeft op een voorlopig rijbewijs - pas na het volgen van 
+twintig uur rijles én nadat men door de rijlesgever voldoende in staat wordt geacht om 
+zelfstandig aan het verkeer deel te nemen.
+Om de inspecteurs van Mobiliteit en Openbare Werken (MOW) efficiënter en sneller 
+controles te laten uitvoeren en meer controles te doen plaatsvinden, zou worden nagegaan 
+of het haalbaar is om MOW toegang te verlenen tot de softwaresystemen van de rijscholen. 
+Dat voorstel kwam van Federdrive, de federatie van erkende rijscholen, zelf. De minister 
+kondigde aan dat dat een tijdelijke maatregel zou zijn in afwachting van de complete 
+digitalisering in 2022. Een digitaal platform voor rijinstructeurs en examencentra zou 
+fraude met papieren documenten moeten voorkomen. 
+1. Hebben inspecteurs van MOW effectief op korte termijn toegang gekregen tot de 
+softwaresystemen van de rijscholen zoals aangekondigd in april 2021 door de minister? 
+Zo ja, wat waren de resultaten daarvan? Zo niet, waarom niet?
+2. De volledige digitalisering werd beloofd vanaf 2022. 
+Is die uitgevoerd zoals gepland? Wat is de actuele stand van zaken?
+3. Is de digitalisering volledig waterdicht tegen fraude? Welke garanties zijn er daarvoor? 
+Wat zijn de zwakke punten?
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD
+op vraag nr. 715 van 28 februari 2024
+van STIJN BEX
+1. Ik vertelde in de bewuste hoorzitting op 22 april 2021 inderdaad dat 
+vertegenwoordigers van de federatie van erkende rijscholen het idee hadden 
+geopperd om MOW toegang te geven tot de gegevens die rijscholen digitaal 
+bijhouden. Mijn administratie heeft dit bekeken, maar omdat het om een veelheid aan 
+verschillende systemen gaat, en er bovendien nog rijscholen zijn die geen software 
+gebruiken, bleek dit niet werkbaar. Een rijschool die moedwillig de regels overtreedt 
+en zelfs flagrant fraudeert, zal immers zijn gegevens niet vrijwillig ter beschikking 
+stellen van de toezichthoudende overheid.
+2. Tijdens de hoorzitting gaf de secretaris-generaal van het departement MOW aan dat 
+er voor de digitalisering van de gegevens van de rijlessen werd gestreefd naar eind 
+2022. 
+Om op een volledig digitale manier te kunnen werken, alle nodige gegevens te kunnen 
+bijhouden en de nodige datastromen te mogen opzetten, zijn we echter ook 
+afhankelijk van verschillende factoren en partners, en is uitvoerige wetgeving nodig. 
+De AVG (Algemene Verordening Gegevensbescherming) of GDPR heeft het ons op dat 
+vlak niet gemakkelijk gemaakt. De juridische basis voor een digitale werking werd 
+samen met een ruimere hervorming van de rijschoolsector in een wetgevend traject 
+gegoten. Dit traject duurt helaas langer dan we hadden verwacht. In het parlement 
+werd intussen een voorstel van decreet ingediend dat de grondslag moet leggen voor 
+deze wetgeving. Straks moet hier nog uitvoering aan worden gegeven met een besluit 
+van de Vlaamse Regering. 
+Voor het vormingsmoment dat sinds 1 maart opnieuw verplicht is, werd van bij de 
+start de digitale kaart getrokken. De planningen van de aanbieders worden digitaal 
+geregistreerd in de toepassing van het departement, evenals de gevolgde opleidingen. 
+Deelnemers moeten zich bij het begin en het einde van het vormingsmoment digitaal 
+registreren of ‘inchecken en uitchecken’. Dit is de beste manier om te verhinderen dat 
+attesten worden uitgereikt aan mensen die niet hebben deelgenomen. De 
+examencentra zullen de deelname van de begeleiders in de databank van het 
+departement kunnen controleren. Deze werkwijze is met succes opgezet voor het 
+vormingsmoment en zal ook gebruikt worden voor het registreren van rijlessen.
+ 
+3. Een volledig waterdicht systeem bestaat niet, maar we doen er wel alles aan om zowel 
+de wetgeving als de digitale systemen zo robuust mogelijk te maken, zodat 
+achterpoortjes zoveel als mogelijk gesloten blijven. 

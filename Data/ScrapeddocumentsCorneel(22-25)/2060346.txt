@@ -1,0 +1,43 @@
+title: Evolutie landgebruik - Provincies
+thema: Ruimtelijke ordening
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2060346
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1813633
+SCHRIFTELIJKE VRAAG
+nr. 452
+van MIEKE SCHAUVLIEGE
+datum: 18 maart 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Evolutie landgebruik  -  Provincies
+In opdracht van Omgeving Vlaanderen werd in 2023 de studie 'Landgebruik en 
+ruimtebeslag in Vlaanderen, toestand 2022' gepubliceerd door het Vlaamse Instelling voor 
+Technologisch Onderzoek (VITO). Het rapport beschrijft de ontwikkeling van het 
+landgebruiksbestand voor het referentiejaar 2022 voor Vlaanderen. Het is het resultaat 
+van een voortschrijdende ontwikkeling en is gebaseerd op de combinatie van de in 
+Vlaanderen best beschikbare ruimtelijke info. Het rapport bevat ook de evolutie van de 
+verschillende landgebruikscategorieën in de periode 2013-2022, en uitgesplitst over de 
+verschillende periodes: 2013-2016, 2016-2019 en 2019-2022.
+Kan de minister de cijfers van de evolutie van de verschillende landgebruikscategorieën in 
+de periode 2013-2022, en uitgesplitst over de verschillende periodes: 2013-2016, 2016-
+2019 en 2019-2022 ook per provincie geven? 
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 452 van 18 maart 2024
+van MIEKE SCHAUVLIEGE
+De data van de landgebruikskaart worden door het Departement Omgeving verspreid als 
+open data (voor toestanden 2013, 2016, 2019 en 2022) en zijn raadpleegbaar via Geopunt 
+Datavindplaats:
+https://www.vlaanderen.be/datavindplaats/catalogus/landgebruik-vlaanderen-toestand-
+2022 
+Het Departement Omgeving maakte ook een overeenkomst met de provinciebesturen  om 
+op basis van dezelfde open data de oppervlaktecijfers m.b.t. het landgebruik aan te bieden 
+via de webtoepassing van Provincies in Cijfers. Hierbij kunnen de cijfers geaggregeerd 
+worden op verschillende administratieve en bestuurlijke niveaus, uiteraard ook op de 
+provinciegrenzen zelf.
+De cijfers m.b.t. het landgebruik zijn raadpleegbaar via volgende directe link: 
+https://provincies.incijfers.be/databank?workspace_guid=ba3a0e5c-7e71-4bab-b8fe-
+f21daa8ba94f
+Ook de specifieke cijfers m.b.t. het ruimtebeslag zijn op gelijkaardige manier ontsloten:
+https://provincies.incijfers.be/databank?workspace_guid=99573934-0468-4f71-916b-
+52e5aceb6305 

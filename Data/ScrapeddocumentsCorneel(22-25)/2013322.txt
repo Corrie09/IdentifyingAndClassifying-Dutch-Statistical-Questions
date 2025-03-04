@@ -1,0 +1,116 @@
+title: Energiecentrales - Tegengaan van softwarematige begrenzingen
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2013322
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1778882
+SCHRIFTELIJKE VRAAG
+nr. 116
+van WILLEM-FREDERIK SCHILTZ
+datum: 10 november 2023
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Energiecentrales  -  Tegengaan van softwarematige begrenzingen
+Bij het wijzigingsbesluit van 9 oktober voegde de minister een definitie van ‘bruto 
+(elektrisch) nominaal vermogen’ toe aan het Energiebesluit. Dat was met name gericht op 
+projectontwikkelaars van windturbines die softwarematig hun vermogen begrensd zouden 
+hebben om onder een gunstiger subsidieregime te vallen.
+Door die wijziging moeten ontwikkelaars nu het werkelijke vermogen van hun windturbine 
+opgeven, middels het bij de turbine behorende IEC-certificaat (in homologatiedocument) 
+waar de ‘rated power’ (= bruto nominaal vermogen) expliciet in vermeld staat.
+Die regeling werd van toepassing op dossiers die nog geen definitieve beslissing over hun 
+certificatenaanvraag hadden ontvangen.
+1. Hoeveel keer werd sinds de inwerkingtreding van het wijzigingsbesluit een 
+certificatenaanvraag negatief beoordeeld?
+2. Aangezien niet alleen projectontwikkelaars van windturbines certificatenaanvragen 
+doen, kan de minister daarbij aangeven over welke (soort) 
+projecten/installaties/technologieën het dan ging?
+3. Op welke manier werd aangetoond dat die installaties niet aan de vereisten voldeden?
+4. Welk gevolg werd eraan gegeven door de ontwikkelaars?
+5. Hoeveel van de projecten werden vervolgens wel of niet gerealiseerd? Over welke 
+bijkomende vermogens of verloren vermogens spreken we?
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 116 van 10 november 2023
+van WILLEM-FREDERIK SCHILTZ
+1. In het geval dat certificatenaanvragen negatief worden beoordeeld, wordt niet 
+systematisch bijgehouden op welke grond negatief is beslist. Er worden dan ook geen 
+systematische cijfers bijgehouden van het aantal certificatenaanvragen dat negatief 
+werd beoordeeld naar aanleiding van de invoering van de definitie bruto nominaal 
+(elektrisch) vermogen in artikel 1.1.1, § 2, 11° /0 van het Energiebesluit van 19 
+november 2010, via het Besluit van de Vlaamse Regering van 9 oktober 2020. 
+2. Op basis van een eerste screening kan worden vastgesteld dat sinds de inwerkingtreding 
+van het besluit van 9 oktober 2020 de certificatenbeslissingen werden aangepast in 
+functie van het onbegrensd vermogen voor 10 winddossiers, een biogasdossier en een 
+biomassadossier. In de meeste gevallen had dit geen rechtstreeks gevolg op de 
+steuntoekenning. In een geval werd door het Vlaams Energie- en Klimaatagentschap 
+(VEKA) beslist dat een project niet in aanmerking kwam voor de toekenning van 
+(groenestroom)certificaten omdat het elektrisch vermogen van het project 
+softwarematig of op een andere manier begrensd is, zoals bedoeld in artikel 1.1.1, § 2, 
+11° /0 van het Energiebesluit van 19 november 2010.
+3. De vraag of een productie-installatie softwarematig of op een andere manier wordt 
+begrensd in de zin van artikel 1.1.1, § 2, 11° /0 van het Energiebesluit van 19 november 
+2010 dient te worden beantwoord op basis van een technische controle van het 
+doorgegeven vermogen en de eigenschappen van de installaties. Dat is een beoordeling 
+die geval per geval bekeken moet worden. Voor de uitleg van het begrip bruto nominaal 
+(elektrisch) vermogen wordt daarnaast gesteund op de nota bij het Besluit van de 
+Vlaamse Regering van 9 oktober 2020, waarbij de definitie werd ingevoerd (VR 2020 
+0910 DOC.1100/1BIS):
+“Er wordt een definitie ingevoegd van “bruto (elektrisch) nominaal vermogen”. In het 
+kader van het besluit van de Vlaamse Regering van 10 juli 202067 werd de splitsing in 
+artikel 6.2/1.2 van het Energiebesluit van 19 november 2010 voor grootschalige 
+windturbines in een categorie 300kW-3MW en een categorie 3MW-4,5MW reeds 
+aangepast om ongewenste neveneffecten weg te werken. Aangezien de steun hoger is 
+voor turbines onder 3 MW, worden er soms turbines gepland net onder de 3 MW zodat 
+de zone suboptimaal wordt ingevuld. In de praktijk gaat het om een softwarematige of 
+andere kunstmatige begrenzing, wat potentieel fraudegevoelig is. Om dit te vermijden 
+werd in artikel 6.2/1.2 en in bijlage III/1 de grens tussen de twee categorieën al 
+verlaagd van 3 MWe naar 2,5 MWe. Voor windenergie worden bij de berekening van de 
+onrendabele top, voor de berekening van de vollasturen, na de invoering van deze 
+wijziging, alleen de windturbines met een “bruto nominaal vermogen” vanaf 2 MW in 
+beschouwing genomen die binnen de vermogensvork van de betreffende 
+projectcategorie vallen. Deze aanpassing van de categorieën voor windturbines is 
+ondertussen van toepassing geworden voor projecten met stardatum vanaf 15 
+september 2020. 
+ 
+In dit kader wordt thans bijkomend voor o.a. de afbakening van die projectcategorieën 
+een duidelijke definitie van de term “bruto (elektrisch) nominaal vermogen” ingevoerd 
+waardoor het niet voor interpretatie vatbaar is dat men in het kader van de 
+energieregelgeving de installatie softwarematig of op een andere wijze kan begrenzen 
+om op deze wijze het vermogen kunstmatig te drukken om zo o.a. hogere steun te 
+verkrijgen. Deze wijziging is enkel van toepassing binnen de context van het 
+Energiebesluit en staat uiteraard los van vermogensbegrenzing die zou worden opgelegd 
+om te voldoen aan vergunningsvoorwaarden: die voorwaarden blijven onverminderd 
+parallel van toepassing. Het betekent enkel dat in het kader van de energieregelgeving 
+uit wordt gegaan van het bruto nominaal vermogen van de installatie zonder rekening 
+te houden met enige softwarematige of andere begrenzing die in de praktijk wordt of 
+moet worden toegepast.
+ 
+Concreet zal dit bv. voor windturbines bij de groenestroomcertificatenvraag aangetoond 
+worden aan de hand van het bij dat specifieke type van windturbine behorende 
+homologatiedocument dat door de turbineproducent werd afgeleverd. Elke windturbine 
+heeft immers (overeenkomstig de IEC 61400-norm of gelijkwaardig) een IEC-certificaat, 
+alwaar de “rated power” (= bruto nominaal vermogen) expliciet in staat vermeld. Dit 
+homologatiecertificaat is specifiek voor elk type turbine en er zijn geenaparte 
+certificaten per land, enkel per ‘product’. 
+ 
+De wijziging treedt in werking op de datum van de bekendmaking ervan in het Belgisch 
+Staatsblad. Deze definitie wordt in het kader van certificatenvragen echter enkel van 
+toepassing op alle dossiers die in het kader van de procedures beschreven in artikel 
+6.1.2, §1 en artikel 6.2.2 van het Energiebesluit van 19 november 2010 op moment van 
+de inwerkingtreding van deze bepaling nog geen definitieve beslissing over hun 
+certificatenaanvraag hebben ontvangen, maar zal van toepassing zijn los van de 
+wijziging die middels het voormelde besluit van de Vlaamse Regering van 10 juli 2020 
+aan de grenzen van de representatieve projectcategorieën voor wind werden 
+doorgevoerd. Doordat die dossiers immers nog niet definitief zijn, kan deze correcte 
+toepassing van wat een “bruto nominaal vermogen” is op hen worden toegepast. Voor 
+dossiers waar al een definitieve beslissing werd verkregen verandert er echter niets: de 
+beslissingen in dergelijke dossiers waarin rechten al definitief werden toegekend kunnen 
+immers conform de rechtspraak van de Raad van State niet worden herzien of 
+ingetrokken.”
+4. In het enige dossier dat volgens de eerste screening niet in aanmerking kwam voor de 
+toekenning van (groenestroom)certificaten omdat het elektrisch vermogen van het 
+project softwarematig of op een andere manier begrensd is zoals bedoeld in artikel 
+1.1.1, § 2, 11° /0 van het Energiebesluit van 19 november 2010 werd door de 
+projectontwikkelaar een dagvaarding bij de Rechtbank van Eerste Aanleg in Brussel 
+ingediend. Deze rechtszaak is op heden nog lopende.
+5. Alle vermelde projecten werden in dienst genomen.

@@ -1,0 +1,83 @@
+title: Woningpas - Stand van zaken
+thema: Energie
+Wonen
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2060368
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1813939
+SCHRIFTELIJKE VRAAG
+nr. 463
+van ROBRECHT BOTHUYNE
+datum: 19 maart 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Woningpas  -  Stand van zaken
+De woningpas is een schitterend instrument. Als digitaal paspoort van de woning staat 
+daar alle informatie op die nodig is voor een woning: info over energie, isolatie, EPC-attest, 
+gebouwinformatie zoals plannen, vergunningen, zonnekaart, allerhande attesten 
+enzovoort. 
+De woningpas is er eind 2018 gekomen door een gedegen samenwerking tussen het 
+Vlaams Energie- en Klimaatagentschap (VEKA), het Departement Omgeving, Wonen-
+Vlaanderen en de Openbare Vlaamse Afvalstoffenmaatschappij (OVAM).
+1.Hoeveel keer werd de woningpas geconsulteerd in 2023? Graag het totaalaantal 
+bezoekers, met opdeling volgens: 
+a) aantal bezoekers; 
+b) aantal unieke bezoekers; 
+c) per maand. 
+2. Sinds mei 2020 kan de woningpas gedeeld worden met specifieke derden. 
+Hoeveel keer werd de woningpas gedeeld in 2023? Graag volgende opdeling: 
+a) activatiecodes opgemaakt; 
+b) effectieve activaties; 
+c) aantal gedeelde woningpassen per maand. 
+3. De woningpas kan ook gedeeld worden met iedereen en dat sinds juli 2022 (publiek 
+delen). 
+Hoeveel publieke linken werden in 2023 gedeeld? Graag het totaalaantal gedeelde 
+passen.
+4. De woningpas kan ook gekoppeld worden aan Mijn Burgerprofiel. 
+Hoeveel mensen hebben hun woningpas in 2023 gekoppeld aan Mijn Burgerprofiel? 
+Graag totaalaantal.
+5. De databank verwarming is in volle ontwikkeling. Die zou in december 2023 gekoppeld 
+worden. Nog in december 2023 zou de integratie en ontwikkeling van de webservices 
+in de woningpas vooropgesteld worden. 
+Wat is de stand van zaken?
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 463 van 19 maart 2024
+van ROBRECHT BOTHUYNE
+1. In uitvoering van de Europese Algemene Verordering Gegevensbescherming (AVG of 
+ook GDPR) werd in mei 2023 een aangepaste cookiewerking ingevoerd bij de 
+woningpas. Daarbij bewaren we standaard enkel functionele cookies en moeten burgers 
+actief via het beheren van voorkeuren een toestemming geven voor het opslaan van 
+analytische cookies. Dat doen mensen zelden. Hierdoor kunnen de paginabezoeken of 
+bezoekers (uniek of niet uniek) niet meer worden geraadpleegd en zijn er geen cijfers 
+meer beschikbaar voor 2023.
+2. Er werden in 2023 2.427 activatiecodes gegenereerd. Hiervan zijn er 1.103 effectief 
+geactiveerd. Het overzicht per maand als volgt:
+Aantal delingen 
+(activatiecodes)Aantal effectief 
+geactiveerde Aantal gedeelde 
+woningpassen
+jan/23 298 125 258
+feb/23 225 93 185
+mrt/23 195 65 161
+apr/23 187 87 159
+mei/23 207 101 163
+jun/23 173 70 130
+jul/23 139 69 115
+aug/23 141 67 112
+sep/23 168 79 151
+okt/23 224 110 168
+nov/23 222 113 148
+dec/23 248 124 130
+totaal 2.427 1.103 1.880
+3. In 2023 werden slechts 210 publieke linken gedeeld. Dit komt neer op 186 publiek 
+gedeelde woningpassen.
+4. In 2023 werden 20.544 woningpassen door de eigenaar gekoppeld aan Mijn 
+Burgerprofiel.
+5. De ontwikkeling van de databank verwarming en het ontsluiten van de gegevens vanuit 
+dit register van meldingen van centrale stooktoestellen liep eind 2023 en begin 2024 
+vertraging op door andere prioriteiten binnen het Vlaams Energie- en 
+Klimaatagentschap (VEKA). Ondertussen is de functionele en technische analyse voor 
+het ontsluiten van deze informatie afgerond. Eind juni 2024 wordt een 
+uitwisselingsbestand (API) tussen het meldingsregister van CV-installaties en de 
+woningpas afgerond. Hierna start de integratie van en visualisatie in de woningpas. 
+Begin oktober 2024 is hiervoor een release gepland in de woningpas.

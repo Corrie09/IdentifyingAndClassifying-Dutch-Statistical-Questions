@@ -1,0 +1,132 @@
+title: Errerahuis - Beveiliging
+thema: Vlaamse Regering
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2001530
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1763683
+SCHRIFTELIJKE VRAAG
+nr. 8
+van KLAAS SLOOTMANS
+datum: 27 september 2023
+aan JAN JAMBON
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN, CULTUUR, 
+DIGITALISERING EN FACILITAIR MANAGEMENT
+Errerahuis  -  Beveiliging
+Het Errerahuis is de ambtswoning van de Vlaamse Regering en verdient dus de nodige 
+bescherming, zowel op het vlak van fysieke als van digitale toegang. Dat die niet optimaal 
+was, bewees het binnendringen op 7 december 2021 van een vrouw, die ook toegang kon 
+krijgen tot informaticasystemen.
+1. Welke maatregelen werden er sindsdien getroffen? Kan de minister stellen dat de 
+huidige beveiliging optimaal is?
+2. Is er ook fysieke bewaking door politionele ordediensten voor het Errerahuis (militaire 
+politie…)? Zo niet, overweegt men daartoe stappen te zetten?
+JAN JAMBON 
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN, 
+CULTUUR, DIGITALISERING EN FACILITAIR MANAGEMENT
+ANTWOORD
+op vraag nr. 8 van 27 september 2023
+van KLAAS SLOOTMANS
+Uw vraag betreft het veiligheidsbeleid van het Errerahuis. Dit is echter gevoelige 
+informatie die niet zomaar publiek gemaakt kan worden, vandaar dat het antwoord 
+hieronder algemeen geformuleerd is en weinig details bevat. 
+1. Ik wens vooreerst te benadrukken dat het incident op 7 december 2021, waarbij een 
+persoon zich oneigenlijke toegang had verschaft tot het Errerahuis en toegang kon 
+krijgen tot een VO-toestel, te wijten was aan een paar jammere menselijke fouten. 
+Niettegenstaande zijn er verschillende (bijkomende) maatregelen die de digitale en 
+fysieke veiligheid verzekeren van het Errerahuis.
+Fysieke veiligheid:  
+Er werden vernieuwde organisatorische afspraken gemaakt m.b.t. het sluiten van 
+de poort en de toegangsdeuren tot het gebouw met de conciërge, de dienst Protocol 
+van het departement Kanselarij en Buitenlandse Zaken en Het Facilitair Bedrijf. De 
+poort wordt systematisch dichtgehouden. Indien deze voor langere tijd open staat 
+(bijvoorbeeld in het kader van een event), is er steeds een bewakingsagent aanwezig 
+om de toegang te bewaken. Personeel van team Protocol & Ontvangst wordt er ook op 
+attent gemaakt de situatie permanent te monitoren tijdens bijvoorbeeld een event.
+Er wordt samengewerkt met een nieuwe partner voor de werking en het onderhoud 
+van de toegangspoort. De poort wordt systematisch getest door de firma en de 
+werking wordt bijgestuurd indien nodig. 
+Het project m.b.t. videoparlofonie werd afgewerkt. De videoparlofoon werd 
+vernieuwd en voorzien van een back-up systeem.
+De lopende aanpassingen aan het camerabewakingssysteem werden verder gezet 
+en afgerond. Camerabewaking is permanent aanwezig in functie van operationele 
+bewaking en in functie van incidentonderzoek. Het systeem is zodanig technisch 
+gekozen dat het gebruik naar de toekomst toe flexibel en permanent ingezet kan 
+worden.
+De inbraakdetectie werd geoptimaliseerd en is operationeel. Het gebouw kan op 
+momenten dat er geen activiteiten zijn correct beveiligd worden. Het bewustzijn rond 
+het correct en systematisch gebruik van deze installatie is aanwezig bij de 
+medewerkers. 
+De branddetectie werd geoptimaliseerd en is performant aanwezig. Het afgelopen 
+jaar werden ook de evacuatieplannen geüpdatet. Die procedures verzekeren de 
+veiligheid in een noodsituatie. De procedures worden getest aan de hand van 
+oefeningen, zodat optimalisatie en bijsturing mogelijk is. 
+Verder werd er ook een veiligheidsaudit door de federale politie uitgevoerd. De 
+pijnpunten die hier naar boven kwamen werden, rekening houdend met de 
+beperkingen door de status van beschermd erfgoed, weggewerkt. 
+Er kan en wordt in situaties waar bijkomende veiligheidsmaatregelen nodig zijn (bv. 
+georganiseerde events) beroep gedaan op een bewakingsfirma. De 
+bewakingsagenten staan onder andere in voor de toegangsveiligheid en kunnen 
+onbevoegde toegang tot het gebouw verhinderen. 
+Er is een inwonende conciërge op de site. Het behoort tot het takenpakket van deze 
+persoon om veiligheidsproblemen (bv. vandalisme of verdachte situaties) in en rond 
+het gebouw te signaleren. Ook de toegang van bezoekers (leveranciers, 
+onderhoudsfirma, ...) wordt strikter bewaakt door de conciërge. Waar mogelijk worden 
+duidelijke afspraken gemaakt met de bezoekers.  
+Er wordt ook onderzocht in welke mate de toegangsveiligheid op andere manieren 
+gegarandeerd kan worden, gezien het gebruik van het Errerahuis heel anders is dan 
+de “standaard” gebouwen van de Vlaamse overheid. 
+Digitale veiligheid: 
+Gedurende het incident op 7 december 2021 had de indringer geen schade berokkend 
+aan materiaal of aan de IT-infrastructuur. De persoon had enkel toegang tot een 
+publiek aangeboden toestel dat enkel toegang had tot het bezoekersnetwerk en 
+geen toegang had tot de interne informatieverwerking. Deze publieke toestellen 
+worden aangeboden op initiatief van de bewoners van het gebouw en zijn niet 
+verbonden aan de centrale dienstverlening. Met de betrokken medewerkers en externe 
+leveranciers werden afspraken gemaakt omtrent het gebruik en de 
+terbeschikkingstelling van de laptop. 
+De Vlaamse Regering heeft op 15/10/2021 de Strategie voor Informatieveiligheid 
+goedgekeurd. Die strategie zet onder andere in op het verhogen van de digitale 
+weerbaarheid van zowel de medewerkers als van de processen rond 
+informatieveiligheid. Dit is een bestendiging van de activiteiten die de verschillende 
+betrokken overheidsentiteiten nu al ondernemen om hun medewerkers bewust te 
+maken van bepaalde veiligheidsrisico’s.
+De Vlaamse overheid neemt vanuit haar rol als voorzichtige en redelijke eigenaar 
+bijkomende veiligheidsmaatregelen op het VO IT-netwerk alsook op het VO 
+bezoekersnetwerk:  
+•Sites en functies zijn geblokkeerd op basis van hun classificatie, zo zijn sites met 
+een illegale of schadelijk inhoud niet bereikbaar door gebruikers van het netwerk, 
+onafhankelijk het doelpubliek. Dit zowel voor Vo medewerkers als voor 
+bezoekers. 
+•Anomalieën en inbreuken op het veiligheidsbeleid worden gemonitord en 
+opgevolgd. Bij ernstig of meervoudig misbruik zal de CISO van Digitaal 
+Vlaanderen optreden: 
+oVoor bezoekers zal de toegang voor de betrokken gebruiker van het netwerk 
+worden geschrapt. 
+oVoor Vo medewerkers contacteert Digitaal Vlaanderen de leidend ambtenaar 
+waar de betrokken medewerker aan rapporteert. Samen met de leidend 
+ambtenaar zal dan afgesproken worden welke acties en/of sancties er zullen 
+worden genomen. 
+Gebruikers van toestellen van de VO hebben standaard geen beheerdersrechten op 
+hun toestel. Dit belet onder andere dat ze ongeoorloofde of illegale software kunnen 
+installeren of beveiligingsmaatregelen uitschakelen. Enkel software die door de 
+Vlaamse overheid als werkgever ter beschikking gesteld is, kan geïnstalleerd worden. 
+De leidend ambtenaar heeft de mogelijkheid om dit veiligheidsbeleid bij te sturen 
+onder eigen verantwoordelijkheid. Digitaal Vlaanderen rapporteert op maandelijkse 
+basis via de dienstenleveranciers.
+Het agentschap Digitaal Vlaanderen voert monitoring uit op de IT netwerken en de 
+werkstations (binnen het centrale ICT aanbod) van de Vlaamse overheid, om te 
+verifiëren welke bedreigingen er zich kunnen voordoen en om daar ook onmiddellijk 
+op te kunnen reageren als dat nodig is.  
+ 
+Er wordt ook gecommuniceerd om medewerkers te sensibiliseren en de 
+bewustwording te vergroten inzake digitale veiligheid. Vanuit Digitaal Vlaanderen is er 
+een aanbod van bewustmakingscampagnes (informatie)veiligheid, waarbij ook het 
+bestaande beleid rond het gebruik en delen van paswoorden is toegelicht. Elke entiteit 
+kan met deze informatie aan de slag om zijn personeelsleden correct te informeren. 
+Naar de toekomst (2024) toe zal een breed aanbod aan basis kennis worden 
+aangeboden.
+2. Het Errerahuis valt binnen de verhoogde zonale bescherming van de neutrale zone, 
+waardoor er meer politionele aanwezigheid is. Er is momenteel geen indicatie om het 
+veiligheidsniveau te verhogen. Bij een verhoogde dreiging kan de politionele 
+aanwezigheid vergroot worden en kunnen bijkomende maatregelen genomen worden. 
+Naar aanleiding van de aanslag in oktober was er een algemene verscherpte controle. 
+Bij belangrijke events wordt de lokale politie steeds gecontacteerd en kan indien nodig 
+bijkomend worden gepatrouilleerd. 

@@ -1,0 +1,98 @@
+title: Register onbebouwde percelen (ROP) - Stand van zaken
+thema: Ruimtelijke ordening
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2050971
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1806122
+SCHRIFTELIJKE VRAAG
+nr. 370
+van BRECHT WARNEZ
+datum: 23 februari 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Register onbebouwde percelen (ROP)  -  Stand van zaken
+Het register onbebouwde percelen (ROP) is een instrument dat aangewend wordt om 
+inzicht te verkrijgen in de beschikbare ruimte per woongebied op het niveau van het 
+gewest, de provincies en de gemeenten. Nog beschikbare onbebouwde terreinen worden 
+in het register opgenomen met als doel ondersteuning te bieden bij het vormgeven van 
+het ruimtelijk beleid, meer bepaald bij het woonbeleid. Na het opmaken van het register, 
+wordt er ook verwacht van de gemeenten dat zij het om de zes maanden actualiseren.
+Gelieve alle gegevens beschikbaar te stellen in Excel.
+1. Graag een overzicht van de cijfers van het aantal bebouwbare onbebouwde percelen:
+a) in het bezit van Vlaamse besturen opgedeeld per provincie en per gemeente;.
+b) in het bezit van Vlaamse semipublieke rechtspersonen opgedeeld per provincie en 
+per gemeente;
+c) in het bezit van particulieren of private rechtspersonen opgedeeld per provincie en 
+per gemeente.
+2. Graag, per provincie, een overzicht van de gemeenten die een register hebben 
+opgesteld.
+3. Graag, per provincie, een overzicht van de gemeenten die hun register effectief om de 
+zes maanden actualiseren.
+4. Voor de gemeenten die zich niet houden aan de halfjaarlijkse actualiseringsplicht: 
+krijgen zij daarvoor een ingebrekestelling?
+5. a) Hoe worden de actualisaties gemonitord?
+b) Is de minister van mening dat dat vlot verloopt of ziet zij de noodzaak om nieuwe 
+maatregelen te treffen?
+6. Wanneer verwacht de minister een nieuwe geactualiseerde rapportering van de cijfers 
+in verband met het aantal bebouwbare onbebouwde percelen in Vlaanderen?
+7. Hoe ziet de minister de evolutie in het aantal beschikbare bebouwbare onbebouwde 
+percelen?
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 370 van 23 februari 2024
+van BRECHT WARNEZ
+Niet elke gemeente rapporteert zesmaandelijks over het register onbebouwde percelen 
+(ROP). Ik wil er ook op wijzen dat het ROP betrekking heeft op het aantal ‘kadastrale 
+percelen’ en als dusdanig geen 1-op-1 beeld geeft van het aantal woongelegenheden die 
+op die percelen kunnen opgericht worden. 
+Al enkele jaren houdt Vlaanderen een eigen (gebiedsdekkend) register bij op basis van 
+verschillende input, het zogenaamde vermoedens-ROP. Het vermoedens-ROP vormt de 
+bron voor de antwoorden op deelvragen 6 en 7. Hierin zijn evenwel geen gegevens omtrent 
+de eigenaar opgenomen. Deelvragen 1 t.e.m. 5 hebben betrekking op het decretaal 
+verplicht aan te leveren ROP. Deelvragen 6 en 7 geeft de meest actuele toestand (2023) 
+weer op basis van het vermoedens-ROP.
+1. In Bijlage 1 vindt u een overzicht per gemeente en per provincie met de aangeleverde 
+cijfers van de laatste 2 jaren bijgewerkt tot en met 13 februari 2024. 
+2. In Bijlage 2 vindt u een overzicht per gemeente en per provincie van de lokale besturen 
+die een register hebben opgesteld en hebben aangeleverd aan mijn administratie ter 
+validatie.
+3. In Bijlage 2 vindt u een overzicht per gemeente en per provincie van de lokale besturen 
+die de voorbije 2 jaren voldeden aan de halfjaarlijkse actualisatieverplichting.
+4. Lokale besturen worden door mijn administratie aangemaand om te voldoen aan de 
+halfjaarlijkse rapportering via een communicatie per e-mail. De decreetgever heeft niet 
+voorzien in een sanctie.
+5. a) Om de aanlevering te faciliteren, wordt als doorgeefluik de data manager-
+toepassing ingezet. De aangeleverde data worden gevalideerd en eventuele 
+suggesties ter verbetering worden aangereikt aan het lokaal bestuur. Van zodra de 
+vormelijke en inhoudelijke validatie is afgerond, heeft het bestuur jaarlijks recht op 
+een subsidiëring. 
+b) Niet elk lokaal bestuur ziet de meerwaarde in de opmaak of het aanleveren van een 
+register, of het inzetten op het frequent bijwerken van een register, omwille van 
+beperkte tijd, middelen of personeel. Mijn administratie heeft daarom voor 
+onderzoeks- en monitoringsdoeleinden een eigen product laten ontwikkelen dat wel 
+op een uniforme wijze toelaat om te monitoren en als openbare statistiek te 
+ontsluiten.
+6. Gezien niet elk lokaal bestuur beschikt over een gemeentelijk ROP is mijn administratie 
+aan de slag gegaan met de opmaak van een inventaris die gebiedsdekkend is voor heel 
+Vlaanderen. De meest recente cijfers voor Vlaanderen en de gemeenten is beschikbaar 
+naar aanleiding van de studie ‘Berekening van de realisatiegraden van de 
+woongebieden in Vlaanderen’. In die studieopdracht is een vermoedens-ROP opgesteld 
+voor de jaren 2014, 2019 en 2023. De studieresultaten zijn beschikbaar op de website 
+van het Departement Omgeving: https://omgeving.vlaanderen.be/nl/onderzoek-
+cijfers-en-geotoepassingen/berekening-van-de-realisatiegraden-van-de-
+woongebieden-in-vlaanderen 
+Op basis van de methodiek, uitgewerkt om voor heel Vlaanderen een vermoedens-ROP 
+op te stellen, kan voor de volgende jaren een gelijkaardige berekening gemaakt 
+worden. Evenwel kunnen niet alle gegevens daarbij geautomatiseerd worden op schaal 
+Vlaanderen, waardoor we spreken van een vermoeden van onbebouwde percelen. De 
+resultaten bevatten aantallen en oppervlaktes van onbebouwde bouwpercelen, maar 
+niet de eigenaarsgegevens. Omwille van privacyredenen kan die info niet zondermeer 
+gekoppeld worden aan de bekomen data. 
+7. Zoals vermeld in mijn antwoord op deelvraag 6 beschikt mijn administratie thans over 
+een historische reeks bestaande uit drie peiljaren: 2014, 2019 en 2023. 
+De evolutie over die jaren heen ziet er als volgt uit (uitgedrukt in aantal hectare):
+BIJLAGEN
+1.Overzicht bebouwbare onbebouwde percelen in het bezit van Vlaamse besturen, 
+opgedeeld per gemeente en per provincie
+2.Overzicht lokale besturen met een register onbebouwde percelen
+Overzicht lokale besturen die voldoen aan de actualisatieverplichting
+

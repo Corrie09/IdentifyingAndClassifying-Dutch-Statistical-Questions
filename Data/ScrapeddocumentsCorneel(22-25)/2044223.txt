@@ -1,0 +1,135 @@
+title: Uitstoot binnenvaart - Stand van zaken
+thema: Mobiliteit en Verkeer
+Natuur en Milieu
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2044223
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1798882
+SCHRIFTELIJKE VRAAG
+nr. 280
+van ORRY VAN DE WAUWER
+datum: 26 januari 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Uitstoot binnenvaart  -  Stand van zaken
+De binnenvaart vertegenwoordigde in 2020 twee procent van de Vlaamse uitstoot. De 
+voorbije jaren daalde de uitstoot van de binnenvaart sterk door de inzet van schonere 
+brandstoffen en motoren, de uitrol van walstroom en andere maatregelen van sector en 
+overheid. De uitstoot bleef de afgelopen jaren evenwel stabiel. Het aandeel 
+getransporteerde goederen over water is al jaren stabiel maar kende tussen 2016 en 2018 
+bijvoorbeeld nog een toename in de modal split qua goederenvervoer. 
+1. Wat zijn de actuele cijfers van de uitstoot op de Vlaamse waterwegen? Is er een dalende 
+evolutie te merken? Graag een totaaloverzicht van de verschillende emissies (NOx, 
+CO2, zwaveloxide enzovoort) voor de jaren van deze legislatuur.
+2. Welke maatregelen werden er verder getroffen om de uitstoot op de Vlaamse 
+waterwegen te beperken? Welke maatregelen worden verder uitgerold?
+3. Hoe wordt de strengere emissienorm vanuit de Europese Non-Road Mobile Machinery 
+(NRMM) Verordening (2016/1628) geëvalueerd? Hebben die emissienormen een 
+duidelijke impact op de emissiecijfers?
+4. Wat is de stand van zaken van het voorzien in walstroom langs de Vlaamse 
+waterwegen? Kwamen er de afgelopen jaren nog walstroomkasten bij? Heeft de studie 
+daarrond en het lidmaatschap van De Vlaamse Waterweg (DVW) bij het Nederlandse 
+Walstroomcollectief een actieplan of duidelijk kader opgeleverd?
+5. Welke stappen werden er ondernomen om de Vlaamse vloot verder te vergroenen? 
+Welke plannen worden verder gemaakt?
+6. Aan welke studies wordt momenteel deelgenomen door Vlaanderen rond het 
+vergroenen van de (binnen)vaart en het verlagen van emissies? Op welke studies wordt 
+er verder ingeschreven?
+Deze vraag werd gesteld aan de ministers Zuhal Demir (280), Lydia Peeters (566)
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+GECOÖRDINEERD ANTWOORD
+op vraag nr. 280 van 26 januari 2024
+van ORRY VAN DE WAUWER
+1. De uitstoot door de binnenvaart blijft de voorbije jaren vrij constant. Er moet bij de 
+data opgemerkt worden dat er beperkt rekening gehouden wordt met inbouw van 
+nieuwe motoren en er geen rekening gehouden werd met uitrol van walstroom of 
+andere maatregelen. 
+ CO PM2.5 SO 2 NO x(NO 2)
+ ton % ton % ton % ton %
+2018 499 100 76 100 1 100 2749 100
+2019 477 96 71 94 1 97 2622 95
+2020 466 93 69 91 1 96 2556 93
+2021 487 98 71 94 1 103 2664 97
+ NH 3 NMVOS CO 2 CH 4
+ ton % ton % ton % ton %
+2018 0,699 100 86 100 214530 100 4 100
+2019 0,679 97 80 94 208257 97 3 94
+2020 0,674 96 77 90 206765 96 3 90
+2021 0,721 103 80 93 221186 103 3 93
+2. Op 23 juni 2023 werd de Vlaamse Green Deal Binnenvaart gelanceerd. Ik verwijs ook 
+naar het antwoord op vraag 5.
+3. Er wordt voor de berekening van de uitstoot inderdaad rekening gehouden met de EU 
+Stage V emissie-eisen voor de binnenvaart zoals vermeld in de NRMM-Verordening. 
+Deze verordening wordt pas toegepast vanaf scheepsbouwjaar 2020. De impact ervan 
+op emissies is dus nog eerder beperkt zoals ook blijkt uit de evolutie gegeven in 
+antwoord op vraag 1.
+4. Binnenvaart heeft bij uitstek een grensoverschrijdende karakter. De Vlaamse Waterweg 
+(DVW) is dan ook toegetreden tot het Nederlandse Walstroomcollectief en tot het 
+Interreg-project SPIES, zodat elk schip op zijn volledige reis op uniforme wijze aan de 
+stekker kan. In het verleden werd immers vastgesteld dat, in tegenstelling tot de 
+laadpalen voor e-voertuigen, deze interoperabiliteit in de walstroommarkt niet zo 
+vanzelfsprekend was.
+Enkel door samenwerking en uniformiteit in dataprotocollen kan deze interoperabiliteit 
+gerealiseerd worden. Het eerste resultaat van deze samenwerking vertaalde zich in de 
+raamovereenkomst voor de levering van walstroomkasten die DVW, namens 27 
+(binnen)havens en waterwegbeheerders in Vlaanderen en Nederland, eind 2023 in de 
+markt heeft gezet.
+Inmiddels is het gunningsproces achter de rug en wordt met Fluvius het gesprek 
+aangegaan om een versnelde uitrol van walstroom in Vlaanderen te realiseren. De 
+verdere investeringskost is afhankelijk van het feit of de walstroomkasten rechtstreeks 
+op het distributienet kunnen aangesloten worden, dan wel of er bijkomende 
+investeringen, o.a. het plaatsen van extra hoogspanningscabines, noodzakelijk zullen 
+zijn. In functie van de investeringskost en de beschikbare middelen zal DVW op korte 
+termijn extra walstroomkasten kunnen plaatsen. 
+Om walstroom nog beter te verankeren in heel Vlaanderen engageren de havens en 
+waterwegbeheerders zich om het aantal walstroomkasten te verhogen. Via de 
+raamovereenkomst wenst DVW op te treden als aankoopcentrale voor de levering van 
+walstroomkasten voor de binnenvaart in Vlaanderen en Nederland. Het bestek werd 
+onderverdeeld in 7 percelen (2 voor Vlaanderen met een maximum van 500.000 euro 
+per perceel).
+In uitvoering van AFIR en aangegane engagementen zullen de door het Klimaatfonds 
+beschikbare middelen (1 miljoen euro voor de twee percelen in Vlaanderen) besteed 
+worden aan de aankoop van onderstaande walstroomkasten. Het betreft hierbij enkel 
+de aankoop van de kast en dus niet de installatie ervan. De installatie wordt met DVW-
+middelen voorzien en zal per project aanbesteed worden.
+•Noordlanddok: 9 kasten met 34 aansluitingen
+•Albertkanaal-Straatsburgdok: 5 kasten met 15 aansluitingen
+•Albertkanaal-Sluis Olen: 6 kasten met 18 aansluitingen
+•Sluis Kwaadmechelen: 6 kasten met 18 aansluitingen
+•Albertkanaal-Sluis Hasselt: 6 kasten met 18 aansluitingen
+•Albertkanaal-Sluis Genk: 7 kasten met 42 aansluitingen
+•Albertkanaal-Kanne: 2 kasten met 8 aansluitingen
+•Dender Aalst: 2 kasten met 4 aansluitingen
+•Avelgem: 2 kasten met 6 aansluitingen
+•Roeselare: 9 kasten met 25 aansluitingen
+•Wipkaai: 4 kasten met 16 aansluitingen
+•Sluis Bossuit: 6 kasten met 12 aansluitingen
+5. Hiervoor verwijs ik naar het antwoord op vraag 7 van uw schriftelijke vraag nr. 127 
+gesteld op 20 oktober 2022 aan minister Peeters. De Green Deal Binnenvaart die in het 
+antwoord op deelvraag 7 wordt toegelicht, werd op 23 juni 2023 ondertekend door 
+minister Peeters en ca. 85 andere stakeholders uit de binnenvaart. Ondertussen werden 
+verschillende werkgroepen opgericht waarin de verschillende betrokken partners 
+plaatsnemen en verschillende stappen zetten om de operationele en strategische 
+doelstellingen uit de Green Deal Binnenvaart te bereiken.
+6. Voor het antwoord op deze vraag verwijs ik naar het antwoord op vragen 8 en 9 van 
+uw schriftelijke vraag nr. 127 van 20 oktober 2022.
+Daarnaast neemt DVW ook deel aan volgende studies of netwerken: 
+•RH2INE: Rhine Hydrogen Integration Network of Excellence (RH2INE) is een 
+initiatief van de Provincie Zuid-Holland en Nordrhein-Westfalen. Dit project is 
+een onderdeel van de afgesloten samenwerkingsovereenkomst tussen 
+Nederland en Duitsland. Op dit moment is het RH2INE project het grootste 
+project rond waterstof, gericht op een aangepaste wetgeving en standaardisatie 
+voor de uitbouw van waterstof in binnenschepen, de uitbouw van infrastructuur 
+en het uitrusten van 10 tot 15 vaartuigen op waterstof tegen 2025.
+•CONDOR H2: Condor H2 zal waterstofopslag en brandstofcellen met een 
+batterijpakket leveren op basis van pay-per-use, zodat schepen emissievrij 
+gemaakt kunnen worden met beperkte investeringen vooraf voor 
+scheepseigenaren. De waterstof wordt geleverd in ‘tanktainers’ die makkelijk 
+aan boord gebracht en snel gewisseld kunnen worden, waarmee ook langere 
+vaarten goed mogelijk blijven. CONDOR H2 is een initiatief van het Havenbedrijf 
+Rotterdam samen met de Provincie Zuid-Holland. DVW trad toe als 
+ondersteunende partner.
+•EESV Seine-Schelde: in het kader van het uitvoeringsbesluit Seine-Schelde zal 
+een studie worden uitgevoerd die tot doel heeft een strategisch kader op te 
+stellen om te komen tot een uitrol van infrastructuur voor alternatieve 
+brandstoffen in het Seine-Scheldegebied. De studie wordt begin 2024 opgestart 
+en zal naar verwachting afgerond worden in 2025.

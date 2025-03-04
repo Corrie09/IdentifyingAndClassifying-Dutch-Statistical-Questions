@@ -1,0 +1,64 @@
+title: Domeinnaam .vlaanderen - Registraties
+thema: Vlaamse administratie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2048774
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1805427
+SCHRIFTELIJKE VRAAG
+nr. 141
+van BRECHT WARNEZ
+datum: 22 februari 2024
+aan JAN JAMBON
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN, CULTUUR, 
+DIGITALISERING EN FACILITAIR MANAGEMENT
+Domeinnaam .vlaanderen  -  Registraties
+In 2014 werd de internetextensie .vlaanderen op de markt gebracht. De lancering ervan 
+verliep in verschillende fasen, waarbij de merkhouders enerzijds en overheden, bedrijven 
+en organisaties anderzijds voorkeur kregen tot registratie. Met de extensie wou de Vlaamse 
+overheid lokale bedrijven, organisaties, overheden en burgers de kans geven om zich te 
+onderscheiden, hun online-identiteit op te bouwen en zich te verbinden aan Vlaanderen. De 
+concessie voor het beheer van de internetextensie is toegekend aan DNS Belgium.
+Gelieve de gevraagde gegevens in een Excel-bestand weer te geven.
+1. Hoeveel .vlaanderen-domeinnamen werden geregistreerd in 2023 en in 2024? Graag 
+een overzicht per jaar.
+2. Hoeveel geregistreerde .vlaanderen-domeinnamen werden in 2023 en in 2024 
+verwijderd of niet verlengd? Graag een overzicht per jaar.
+3. Hoeveel overheden registreerden zich voor de extensie .vlaanderen? Over welke (type) 
+overheden gaat het (Vlaamse overheid, federale overheid, gemeenten, provincies, 
+intergemeentelijke samenwerkingsverbanden, …)? Graag een overzicht van alle 
+geregistreerde domeinnamen, met vermelding van het type overheidsorganisatie.
+4. Graag voor onderstaande vragen een overzicht van de domeinnamen met daarbij de 
+vermelding van het land en het adres van de domeinnaamhouder, het land van de 
+vestigingseenheid van het bedrijf en de nationaliteit van de domeinnaamhouder.
+a) Hoeveel keer werd de extensie .vlaanderen geregistreerd door een 
+domeinnaamhouder met een adres buiten België?
+b) Hoeveel keer werd de extensie .vlaanderen geregistreerd door een bedrijf met 
+vestigingseenheid buiten België?
+c) Hoeveel keer werd de extensie .vlaanderen geregistreerd door een particulier 
+zonder houder te zijn van de Belgische nationaliteit?
+5. Kan de minister-president meer duiding geven bij de evolutie van de registraties in 
+vergelijking met andere zogenaamde ‘geografische toplevel domeinen’ (gTLD’s)? 
+6. Hoe evalueert de minister-president het gebruik van de domeinnaam .vlaanderen?
+JAN JAMBON
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN, CULTUUR, 
+DIGITALISERING EN FACILITAIR MANAGEMENT
+ANTWOORD 
+op vraag nr. 141 van 22 februari 2024
+van BRECHT WARNEZ
+1. In 2023 waren er 506 registraties van de nieuwe .vlaanderen-domeinnamen en in 2024 
+(tot 29 februari) waren het er 42. 
+2. Het aantal verwijderde of niet-verlengde registraties bedraagt 659 voor 2023 en 102 
+voor 2024 (tot 29 februari).
+3. In bijlage 1 is het overzicht opgenomen van de registraties van overheidsorganisaties.
+4. De actuele registraties (6.058 in totaal) zijn als volgt verdeeld:
+•bedrijven, organisaties en particulieren in België: 5.487;
+•bedrijven en organisaties buiten België: 488;
+•particulieren buiten België: 83.
+In bijlage 2 is de geografische verdeling weergegeven. 
+5-6.De evolutie van het aantal registraties verloopt vergelijkbaar met andere zogenaamde 
+‘geografische toplevel domeinen’ (gTLD’s). Tijdens de eerste covidjaren (2020 en 
+2021) was er sprake van een kleine versnelling, terwijl er zich nu eerder een kleine 
+daling aftekent. De zone .vlaanderen blijft wel een zeer veilige zone waar nauwelijks 
+enige vorm van misbruik of veiligheidsproblemen (zoals malware-infecties) worden 
+genoteerd.
+BIJLAGEN
+1.Overzicht registraties overheidsorganisaties
+2.Geografische verdeling

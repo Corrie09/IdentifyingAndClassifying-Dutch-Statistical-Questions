@@ -1,0 +1,92 @@
+title: Inventarisatieproject jeugdinfrastructuur - Stand van zaken
+thema: Jeugdbeleid
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2073540
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1832452
+SCHRIFTELIJKE VRAAG
+nr. 4
+van MERCINA CLAESEN
+datum: 8 oktober 2024
+aan MELISSA DEPRAETERE
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WONEN, ENERGIE EN 
+KLIMAAT, TOERISME EN JEUGD
+Inventarisatieproject jeugdinfrastructuur  -  Stand van zaken
+In opvolging van eerdere vragen van collega Filip Brusselmans met betrekking tot het 
+inventarisatieproject jeugdinfrastructuur had ik graag een actuele stand van zaken 
+gekregen. In antwoord op zijn schriftelijke vraag nr. 85 van 29 februari 2024 liet minister 
+Dalle, de vorige minister van Jeugd, weten dat na de grondige analyse van de voorstudie 
+door IDEA Consult, de administratie tot de conclusie kwam dat de bouw van een inventaris 
+verantwoord is. De studie toonde namelijk aan dat een inventaris voor cultuur- en 
+jeugdinfrastructuur een centrale bouwsteen kan worden in het Vlaamse digitale 
+ecosysteem en dat niet enkel voor het digitaal inventariseren en beheren van het volledige 
+infrastructuurlandschap, maar ook om toekomstgerichte dienstverlening te kunnen 
+realiseren voor de betrokken belanghebbenden. 
+Op aanbeveling van het voorbereidende onderzoek werd gekozen om de inventaris op te 
+bouwen als een groeiverhaal, waarbij in een eerste fase de basisbouwstenen worden 
+voorzien. Drie redenen liggen aan de basis van die beslissing: de complexiteit van de te 
+ontwikkelen technische componenten, het beschikbare budget en de heterogeniteit in het 
+bestaande (data-)landschap met betrekking tot cultuur- en jeugdinfrastructuur.
+1. De oplevering van de eerste versie van de basisinventaris cultuur- en 
+jeugdinfrastructuur was gepland in februari 2024. Maar het Departement Cultuur, 
+Jeugd en Media (DCJM) liet aan minister Dalle weten dat er vertraging op zat door het 
+complexe karakter van het traject. De eerste oplevering van de inventaris moest zijn 
+gerealiseerd tegen het einde van het tweede kwartaal 2024. 
+Is dat inmiddels gebeurd? Zo niet, waarom niet?
+2. Na een grondige testfase bij de eerste oplevering, gepland op het einde van het tweede 
+kwartaal van 2024, zou verder worden gewerkt aan de operationalisering van de 
+resultaten (met dataleveranciers enzovoort). 
+Graag een stand van zaken.
+3. Ook zou er in 2024 een aanbeveling worden gedaan in functie van het verdere 
+groeiverhaal in de volgende regeerperiode. 
+Werd die aanbeveling aan de minister gedaan en wat zijn de krachtlijnen ervan?
+4. Plant de minister nog bijkomende initiatieven in het raam van dat traject?
+MELISSA DEPRAETERE
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WONEN, ENERGIE EN 
+KLIMAAT, TOERISME EN JEUGD
+ANTWOORD
+op vraag nr. 4 van 8 oktober 2024
+van MERCINA CLAESEN
+1. Het CJI-project is innovatief, omdat het inzet op decentrale dataverzameling volgens 
+OSLO-standaarden en Linked Open Data. Naast activiteiten en cultuurpartipatie vormt 
+de basisinformatie omtrent cultuur- en jeugdinfrastructuur een belangrijk dataproduct 
+binnen het UiTwisselingsplatform. Het project CJI streeft ernaar om infrastructuurdata 
+uit verschillende referentie- en thematische databanken – elk met een eigen 
+technische structuur, specifiek doel, en unieke informatie – te integreren. Op termijn 
+wil het departement een uitgebreide databank opbouwen die cultuur- en 
+jeugdinfrastructuur van lokaal tot nationaal niveau in kaart brengt en die de locatie, 
+gebruikskenmerken en bouwfysische eigenschappen van elk gebouw opneemt. Voor 
+de jeugdsector bijvoorbeeld omvat Jeugdmaps de lijst van lokale jeugdinfrastructuur, 
+en Kampas inventariseert jeugdverblijfcentra. Samen bieden ze al een vrij compleet 
+overzicht van jeugdinfrastructuur in Vlaanderen, maar bouwfysische kenmerken en 
+toegankelijkheid zijn beperkt opgenomen en worden bijvoorbeeld in de Terra-databank 
+bijgehouden. CJI streeft ernaar alle informatie te integreren. Op het moment van 
+schrijven bevat de CJI databank 14.500 infrastructuren, waarvan 5000 
+jeugdinfrastructuren (jeugdhuizen, jeugdlokalen, verblijfscentra, terreinen...).
+2. Aan het einde van het eerste kwartaal van 2024 heeft het Departement een interne 
+evaluatie van het CJI-project uitgevoerd. De stuurgroep constateerde dat er nog 
+steeds problemen zijn met functionele en technische eisen en dat de softwareoplossing 
+nog niet stabiel genoeg is. Enkele problemen zijn kinderziektes van het platform zelf. 
+Het functionele en technische CJI-datamodel is inmiddels wel voldoende 
+gestandaardiseerd en flexibel om gegevens vanuit verschillende bronnen te integreren 
+of nieuwe bronnen toe te voegen. De dekking van het aantal infrastructuren is, met 
+de integratie van zeven1 bronnen, voldoende goed; de integratie van infrastructurele 
+kenmerken blijft echter achter.
+Tijdens het tweede kwartaal zijn stappen gezet om de stabiliteit van het platform én 
+om de datakwaliteit te verbeteren: er werd een algoritme ingevoerd om duplicaten 
+effectief te vermijden, geografische gegevens uit het Vlaamse Adressen- en 
+Gebouwenregister werden geïntegreerd, en filter- en monitoringsmechanismen 
+werden geïmplementeerd om de kwaliteit te bewaken en waar nodig bij te sturen. Voor 
+het najaar is een verdere versterking van de bedrijfsregels voor automatische 
+datacleaning voorzien, zodat de datakwaliteit beter gewaarborgd kan worden zonder 
+handmatige tussenkomst. Daarnaast wordt de koppeling met het Vlaamse Adressen- 
+en Gebouwenregister (GIS-gegevens) verder geoptimaliseerd ter ondersteuning van 
+de horizontale dekking.
+3. Er is een plan opgesteld om bijkomende functionele en technische verbeterpunten 
+tegen eind 2024 aan te pakken. Hierbij ligt de nadruk op het inzetten van de data voor 
+beleidsrapportages en kaarttoepassingen. Deze zogeheten use cases worden in het 
+najaar in detail uitgewerkt, zodat ze kunnen worden afgestemd op de beschikbare data 
+en kunnen leiden tot de eerste operationele outputs van de databank.
+1 UiTdatabank, Erfgoedkaart, Natuur en bos, Terra, Jeugdmaps, Kampas, Kiosk.
+4. De ontwikkeling van de basisinventaris is een gezamenlijk project van Cultuur en 
+Jeugd. Voor de jeugdsector is de zoekbare kaart binnen Jeugdmaps een belangrijke 
+use case. Het gebruik van CJI-data voor nieuwe en aanvullende diensten wordt 
+bekeken in het kader van de digitale transformatie binnen de jeugdsector.

@@ -1,0 +1,169 @@
+title: VDAB - Opvolging vacatures door bemiddelaars
+thema: Werk
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2018869
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1780597
+SCHRIFTELIJKE VRAAG
+nr. 71
+van THIJS VERBEURGT
+datum: 20 november 2023
+aan JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+VDAB  -  Opvolging vacatures door bemiddelaars 
+Op de website van VDAB kunnen werkgevers vacatures laten publiceren. Daarnaast levert 
+VDAB een aantal diensten aan werkgevers om kandidaten voor vacatures te vinden. Het 
+matchen van werkzoekenden aan vacatures is de kerntaak van VDAB. Dat kan vertrekken 
+vanuit de werkzoekende die een job zoekt maar evenzeer vanuit een werkgever die 
+mensen zoekt. 
+Graag ontvang ik de volgende gegevens voor 2017 tot en met 2022 opgedeeld per jaar. 
+1. Hoe vaak wordt de gemiddelde vacature bekeken op de website van VDAB?
+2. Hoeveel keer werd een vacature gemiddeld automatisch verzonden naar 
+werkzoekenden? Graag het algemeen gemiddelde en een opdeling naar 
+knelpuntvacatures, per sector en per provincie.
+3. Hoeveel keer werd een vacature gemiddeld voorgesteld aan werkzoekenden door een 
+bemiddelaar? Graag het algemeen gemiddelde en een opdeling naar 
+knelpuntvacatures, per sector en per provincie. 
+4. Hoeveel keer werd er gemiddeld op een vacature online gesolliciteerd? Graag het 
+algemeen gemiddelde en een opdeling naar knelpuntvacatures, per sector en per 
+provincie. 
+5. In welk deel van de gevallen werd er op een vacature gesolliciteerd nadat een 
+bemiddelaar ze had voorgesteld aan een werkzoekende?
+a) In welk deel van die gevallen werd de werkzoekende daarna aangeworven? 
+b) En/of zien we een (al dan niet duurzame) uitstroom naar werk? 
+6. Hoeveel keer werd er sollicitatiefeedback gegeven? En gebeurt dat meer, minder of 
+evenveel wanneer er wordt gesolliciteerd na voorstel van een bemiddelaar? 
+JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+ANTWOORD 
+op vraag nr. 71 van 20 november 2023
+van THIJS VERBEURGT
+1. Dit wordt niet geregistreerd. 
+2. In onderstaande tabellen zijn de gemiddelden opgenomen van het aantal automatisch 
+verzonden matchings naar werkzoekende per vacature. Dit biedt een zicht op de 
+verhouding van het aantal verstuurde automatische matchings ten opzichte van het 
+aantal unieke vacatures die verstuurd zijn via de automatische matching. 
+2017 2018 2019 2020 2021 2022
+totaal 62,6 58 69 73,1 62,7 56,9
+knelpuntberoep 2017 2018 2019 2020 2021 2022
+Ja 52,5 47,1 58,8 66,5 56,5 47,8
+Nee 73,5 70,3 81,1 85 73,3 70,1
+Eindtotaal 62,6 58 69 73,2 62,7 56,9
+provincie_verblijfplaats 2017 2018 2019 2020 2021 2022
+Antwerpen 76,2 73,3 85 88,7 79 72,4
+Limburg 64,8 64,5 73,3 79,3 64,5 59,2
+Oost-Vlaanderen 66,2 58,8 69,8 73,6 61 54,1
+Vlaams-Brabant 65,8 61,6 72 76 68,4 61,6
+West-Vlaanderen 51,6 45,7 57,6 61,9 50,8 44,3
+Brussel 29,8 28,7 31,3 42,9 35,7 36,1
+Buiten Brussel/Vlaanderen 11 10,5 12 12 11,8 12,7
+Eindtotaal 62,6 58 69 73,1 62,7 56,9
+sector 2017 2018 2019 2020 2021 2022
+Bouw 66 63,4 72,1 76,4 68,4 60,2
+Chemie, rubber en 
+kunststof 66,1 64,3 79,6 82,3 79,2 72,6
+Diensten aan personen 94,5 94,7 94,2 86,3 78,8 91,7
+Dranken, voeding en tabak 81,1 85,3 91,1 91,8 88,9 86,4
+Energie, water en 
+afvalverwerking 77,6 71 85,6 84,3 74,3 75,2
+Financiële diensten 60,8 61,4 63,1 62,6 54,5 45,4
+Gezondheidszorg 73,1 71,1 79,1 78,9 71,1 66,1
+Grafische nijverheid, 
+papier en karton 76,9 73,3 84,3 78,2 75,5 69,5
+Groot- en kleinhandel 95,6 97,7 102,2 104 96,2 93,1
+Horeca en toerisme 90,8 95,9 98,3 100,7 94,9 88,7
+Hout- en meubelindustrie 72,3 69 81,4 84 74,3 70,8
+Informatica, media en 
+telecom 55,1 51,8 62,5 71,7 67 61
+Maatschappelijke 
+dienstverlening 99,7 101,9 106,2 108 96,8 92,4
+Metaal 65,6 65,5 72,3 83,4 71,8 65
+Onbepaald 78,9 67 66 67,7 57,1 54
+Onderwijs 84,9 84,6 103,5 106,2 93,7 88
+Ontspanning, cultuur en 
+sport 80,4 84,9 92,1 91,2 83,5 76,3
+Openbare besturen 86,8 89,2 95,1 98,4 92 89,4
+Overige dienstverlening 94,2 96,5 106,9 109,2 96,7 85,7
+Overige industrie 67,6 65,7 76,8 79,1 76,1 71,2
+Primaire sector 79,6 83,8 98,9 99,9 93,1 93,8
+Textiel, kleding en 
+schoeisel 72,7 67,8 87,8 90,3 77,5 73,8
+Transport, logistiek en post 85,4 78,9 89,5 91,7 81,8 77,3
+Uitzendbureaus en 
+arbeidsbemiddeling 57,6 52,1 64 68,7 56,7 50,6
+Vervaardiging van 
+bouwmaterialen 68,7 69,5 69,2 71,9 69,3 66,8
+Vervaardiging van 
+machines en toestellen 62 64,7 72 75,2 65,7 66,4
+Vervaardiging van 
+transportmiddelen 66,7 62,1 72,7 91,7 75,7 65,9
+Zakelijke dienstverlening 61,4 60,7 72,6 76,7 77,3 74,9
+Eindtotaal 62,6 58 69 73,1 62,7 56,9
+3. Hoeveel een vacature gemiddeld wordt voorgesteld aan een werkzoekende wordt niet 
+geregistreerd. Onderstaande tabellen bieden wel een zicht op hoeveel 
+sollicitatieopdrachten er gemiddeld zijn gegeven per vacature. Dit omvat de verhouding 
+van het aantal sollicitatie-opdrachten ten opzichte van het aantal unieke vacatures die 
+werden voorgesteld door middel van sollicitatie-opdrachten. Dit ligt in de lijn van de 
+spanningsindicator voor knelpuntberoepen; het aantal beschikbare werkzoekenden per 
+knelpuntvacature. 
+2017 2018 2019 2020 2021 2022
+Totaal 1,9 1,9 1,9 1,8 1,7 1,7
+knelpunt- 
+beroep 2017 2018 2019 2020 2021 2022
+Ja 2 2 2 1,8 1,7 1,6
+Nee 1,9 1,8 1,8 1,8 1,6 1,6
+Eindtotaal 1,9 1,9 1,9 1,8 1,7 1,6
+provincie_ 
+verblijfplaats 2017 2018 2019 2020 2021 2022
+Antwerpen 2 2 1,9 1,8 1,8 1,7
+Limburg 2,1 1,8 1,8 1,9 1,6 1,5
+Oost-Vlaanderen 2 2,1 2,1 2 1,8 1,7
+Vlaams-Brabant 1,7 1,7 1,7 1,8 1,7 1,7
+West-Vlaanderen 1,8 1,8 1,8 1,6 1,5 1,5
+Brussel 1,5 1,8 1,8 2,2 1,9 1,6
+Buiten 
+Brussel/Vlaanderen 1,4 1,8 2 1,9 1,6 1,3
+Eindtotaal 1,9 1,9 1,9 1,8 1,7 1,7
+4. In onderstaande tabellen is de verhouding opgenomen van het aantal online sollicitaties 
+ten opzichte van het aantal unieke vacatures waarvoor online gesolliciteerd werd. 
+Opmerking: de online sollicitaties zijn hier beperkt tot die sollicitaties die gebeurden 
+obv de knop ‘solliciteer nu’ op de VDAB-website. Sollicitaties via de website van de 
+werkgever of partner of sollicitaties via telefoon of e-mail zitten niet in deze cijfers. 
+Deze cijfers geven dus slechts een partieel beeld, maar liggen wel in de lijn van de 
+spanningsindicator. 
+2017 2018 2019 2020 2021 2022
+Totaal 1,6 1,5 1,5 1,6 1,8 1,8
+knelpuntberoep 2017 2018 2019 2020 2021 2022
+Ja 1,4 1,3 1,3 1,4 1,7 1,6
+Nee 1,8 1,6 1,6 1,9 2 2
+Eindtotaal 1,6 1,5 1,5 1,6 1,9 1,9
+provincie_verblijfplaat 2017 2018 2019 2020 2021 2022
+s
+Antwerpen 1,8 1,6 1,6 1,9 2,1 2,1
+Limburg 1,8 1,5 1,5 1,7 1,8 1,9
+Oost-Vlaanderen 1,5 1,4 1,4 1,6 1,8 1,7
+Vlaams-Brabant 1,6 1,3 1,4 1,5 1,8 1,8
+West-Vlaanderen 1,3 1,2 1,3 1,3 1,5 1,5
+Brussel 1,5 1,5 1,2 1,5 1,3 1,6
+Buiten 
+Brussel/Vlaanderen 1 1,3 1,2 1,1 1,4 1,5
+Eindtotaal 1,6 1,5 1,5 1,6 1,9 1,9
+5. VDAB beschikt niet over de nodige cijfergegevens om hierover een totaalbeeld te 
+kunnen geven.
+6. In onderstaande tabellen is weergeven hoeveel keer er sollicitatiefeedback is gegeven.   
+Dit omvat het aantal geregistreerde sollicitatiefeedback (door de burger of de 
+werkgever) per jaar - al dan niet nadat de vacature via een sollicitatie-opdracht is 
+voorgesteld door VDAB. 
+Opmerking: eenzelfde burger of werkgever kan meerdere keren feedback registreren 
+op een zelfde vacature.
+na sollicitatie- 
+opdracht? Waarden 2017 2018 2019 2020 2021 2022
+ja feedback totaal 62.163 94.887 126.890 134.607 164.632 157.372
+burgerfeedback 42.191 68.908 101.740 114.728 139.391 132.810
+werkgeverfeedback 19.972 25.979 25.150 19.879 25.241 24.562
+nee feedback totaal 1.114.090 1.367.543 2.269.577 2.463.164 2.202.942 1.533.786
+burgerfeedback 1.110.581 1.363.863 2.265.749 2.458.019 2.193.107 1.524.624
+werkgever- 
+feedback 3.509 3.680 3.828 5.145 9.835 9.162
+totaal feedback totaal 1.176.253 1.462.430 2.396.467 2.597.771 2.367.574 1.691.158
+totaal burgerfeedback 1.152.772 1.432.771 2.367.489 2.572.747 2.332.498 1.657.434
+totaalwerkgever- 
+feedback 23.481 29.659 28.978 25.024 35.076 33.724

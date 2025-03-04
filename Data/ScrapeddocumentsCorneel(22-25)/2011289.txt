@@ -1,0 +1,130 @@
+title: Circulaire economie - Beleidsknelpunten - Biobased materialen
+thema: Natuur en Milieu
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2011289
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1774667
+SCHRIFTELIJKE VRAAG
+nr. 84
+van BJÖRN RZOSKA
+datum: 25 oktober 2023
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Circulaire economie  -  Beleidsknelpunten  -  Biobased materialen
+In Vlaanderen willen we koploper zijn op het vlak van circulaire economie. Het adequaat 
+aanpakken van knelpunten in het beleid is noodzakelijk als we willen dat Vlaamse bedrijven 
+volop kunnen inzetten op die circulaire economie. 
+Ik heb de volgende vragen over een aantal knelpunten over het verschil tussen afval en 
+grondstof.
+1. Van grondstoffen uit afval vraagt de Openbare Vlaamse Afvalstoffenmaatschappij 
+(OVAM) een grondstoffenverklaring, waarin ook de toepassing van de grondstof al 
+opgegeven moet worden. Elke nieuwe toepassing vraagt een nieuwe 
+grondstoffenverklaring (en dus nieuwe labotesten, te betalen door de producent van 
+de nieuwe circulaire grondstof). Ook hoe die toepassing bij end-of-life zal verwerkt 
+worden, zit in de grondstoffenverklaring. Grondstoffen die niet uit reststromen komen, 
+hebben die verplichting niet. Dat is dus een handicap om nieuwe circulaire grondstoffen 
+op de markt te brengen, zeker omdat in het begin nog niet alle toepassingen gekend 
+zijn. Hoewel we voorzichtig moeten omspringen met nieuwe grondstoffen, rijst de 
+vraag hoe we daar beter mee kunnen omgaan, zodat het geen remmende factor is 
+voor innovatieve circulaire bedrijven.
+Is de minister op de hoogte van deze problematiek en ziet ze mogelijkheden om die 
+extra hindernis voor grondstoffen uit afval weg te nemen?
+2. Wat vindt de minister van het idee om een generieke grondstoffenverklaring voor 
+vezels uit 'groen-en landbouwresten' uit te werken in plaats van het huidige systeem 
+waarbij men voor elke vezel (vb. vezel uit riet, vezel uit bermmaaisel, ...) per 
+toepassing een aparte grondstoffenverklaring moet in orde brengen?
+3. Welke mogelijkheden ziet de minister om de certificering van biobased materialen uit 
+bijvoorbeeld stro, hennep, riet, ... vlotter te laten verlopen binnen tools zoals EPB en 
+TOTEM? Die zeer specifieke certificering is een drempel die moeilijk te nemen is voor 
+een innovatief startend bedrijf. Kan een generieke certificering soelaas bieden?
+4. Volgens de TOTEM-tool slaan biobased bouwmaterialen netto geen koolstof op. Alle 
+koolstof die opgeslagen werd tijdens de groei van de plant, zou namelijk sowieso 
+opnieuw vrijkomen in de lucht bij einde leven van het bouwmateriaal. Men gaat daarbij 
+uit van de meest courante praktijk bij sloop, namelijk verbranding, terwijl in de 
+grondstoffenverklaring wordt gevraagd dat de grondstof na einde leven opnieuw de 
+bodem in kan. Dat lijkt elkaar tegen te spreken. 
+Hoe staat de minister tegenover het verschil tussen beide? Welke opties ziet ze om 
+rekening te houden met niet-verbranding van biobased materialen?
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 84 van 25 oktober 2023
+van BJÖRN RZOSKA
+1. Niet elk gebruik van afvalstoffen vereist een grondstoffenverklaring van de OVAM. 
+Voor materialen waarvoor geen Europese criteria bestaan of waarvoor geen specifieke 
+criteria in het VLAREMA staan, valt de houder terug op de afvalstoffendefinitie en de 
+voorwaarden voor einde-afval uit artikel 36 en de voorwaarden voor bijproduct uit 
+artikel 37 van het Materialendecreet. Volgens afdeling 2.6 van het VLAREMA kan de 
+producent van het materiaal op basis van een zelfbeoordeling beslissen of aan de 
+voorwaarden in artikel 36 of 37 van het Materialendecreet is voldaan, en hij dus het 
+materiaal als een einde-afvalmateriaal of bijproduct kan beschouwen. De 
+zelfbeoordeling moet gebeuren op basis van de handleiding van de OVAM die online 
+beschikbaar is.
+Wanneer de houder van het materiaal toch een grondstoffenverklaring wil aanvragen 
+bij de OVAM, zal de OVAM inderdaad per toepassingsgebied een beoordeling uitvoeren. 
+Artikel 2.4.1.3. van het VLAREMA bepaalt dat een grondstoffenverklaring alleen wordt 
+afgegeven voor een specifiek materiaal dat wordt geproduceerd door een specifieke 
+producent of dat voortkomt uit een specifiek productieproces, en waarvoor een 
+specifieke toepassing wordt beoogd. De OVAM moet immers kunnen evalueren of het 
+toepassingsgebied past binnen de doelstellingen van het Vlaamse afval- en 
+materialenbeleid. Een analyserapport van eenzelfde materiaal kan bij de verschillende 
+aanvragen worden gehanteerd; er is dus geen eis dat per toepassingsgebied een 
+nieuwe analyse moet worden voorgelegd. Producenten kunnen zich dus verenigen en 
+gemeenschappelijk een analyse uitvoeren, waarbij mogelijke variatie tussen materialen 
+van elke producent wordt meegenomen. Bij een specifieke grondstoffenverklaring 
+kunnen ze dan individueel verwijzen naar die algemene analyse.
+2. Zoals gezegd kunnen houders van materialen op basis van een zelfbeoordeling de 
+status van hun materiaal evalueren. 
+Het concept van een ‘generieke grondstoffenverklaring’ wordt al voor heel wat 
+afvalstromen in de praktijk toegepast. Meerdere afvalstromen die in bijlage 2.2. van 
+het VLAREMA zijn opgenomen, hebben een generieke grondstofstatus verkregen voor 
+gebruik in de genormeerde toepassingen, zoals bodemverbeterend middel of bouwstof. 
+De OVAM evalueert continu of nieuwe materiaalstromen kunnen worden opgenomen in 
+bijlage 2.2. Op die manier kan de Vlaamse overheid de duurzame toepassing van 
+afvalstromen verder faciliteren.
+3. De EPD-certificering voor bouwproducten en het regelgevend kader errond is een 
+federale bevoegdheid. De FOD Volksgezondheid beheert deze databank en certificering.
+De drie gewesten die TOTEM beheren, hebben beslist om specifieke EPD’s op te nemen 
+in de TOTEM-databank om voor de respectievelijke materialen de werkelijke milieu-
+impact te kunnen bepalen. Het grootste deel van de TOTEM-databank is nog steeds 
+opgebouwd uit generieke materiaaldata. De bedoeling is om meer specifieke EPD’s in 
+de TOTEM-databank op te nemen.
+De opmaak van zo’n EPD kan inderdaad een financiële drempel vormen voor een 
+startend bedrijf. In TOTEM zijn echter heel wat biogebaseerde materialen beschikbaar 
+waarvoor generieke data gebruikt worden. Op deze manier kunnen in TOTEM de 
+biogebaseerde materialen reeds vergeleken worden met andere materialen. De sector 
+van biogebaseerde materialen zou met het Belgische EPD-programma het gesprek 
+kunnen aangaan rond een gegroepeerde benadering van EPD’s voor dergelijke 
+materialen.
+Voor EPB is het noodzakelijk dat de rekenwaarde voor de warmtegeleidbaarheid van 
+het materiaal gekend is. Om de lambdawaarden van producten op eenzelfde basis te 
+kunnen vergelijken is de bepaling van de lambdawaarde van een materiaal vastgelegd 
+in normen. Fabrikanten kunnen de lambdawaarden bepalen en de productgegevens 
+vervolgens laten erkennen en laten opnemen in de EPBD-productgegevensdatabank. 
+Deze databank geldt voor de drie gewesten. Voor een product dat opgenomen is in de 
+databank moet de EPB-verslaggever de lambdawaarde niet meer opvragen en 
+verifiëren bij de fabrikant of leverancier. Alle informatie rond het bepalen van de 
+lamdbawaarde is beschikbaar op:
+https://www.vlaanderen.be/epb-pedia/gebouw/scheidingsconstructies/materialen/de-
+warmtegeleidbaarheid-l-van-een-materiaal-huidig
+Biogebaseerde materialen zoals hennep, vlas, stro, pluimen, schapenwol of dons zijn 
+producten waarvan de continuïteit van de eigenschappen vaak variabel is omdat de 
+materialen niet zoals in een fabriek opgebouwde isolatiematerialen via nauwkeurig 
+gecontroleerde (chemische) processen vervaardigd worden. Isolatieproducten 
+opgebouwd uit biogebaseerde materialen moeten daarom volgens het 
+gelijkwaardigheidsbeginsel even streng beoordeeld worden op de betrouwbaarheid van 
+de geclaimde isolatiewaarden als andere isolatieproducten. Ze worden dus niet 
+stiefmoederlijk behandeld maar gelijkwaardig aan andere producten op de markt.
+4. Het is niet zo dat TOTEM enkel uitgaat van het verbranden van het biogebaseerde 
+materiaal als eindeleven scenario. Ook het scenario van het eindeleven via 
+compostering of andere recyclage wordt meegenomen. Van biogebaseerde 
+bouwmaterialen is te verwachten dat ze, na eventuele recyclage, uiteindelijk in een 
+materialenkringloop terechtkomen. De OVAM onderzoekt bij grondstoffenverklaringen 
+of de grondstof na einde leven opnieuw als materiaal kan worden gerecycleerd. Daarbij 
+wordt ook onderzocht of biogebaseerde materialen bestaande recyclagetrajecten niet 
+verstoren als ze samen met andere materialen worden ingezameld.
+Of een biogebaseerd bouwmateriaal over zijn hele levenscyclus bekeken een positieve 
+milieuimpact realiseert, kan worden onderzocht via een levenscyclusanalyse. Met 
+dergelijke analyse kan worden geobjectiveerd welke verwerkingswijze bij einde leven 
+voor het materiaal de meeste milieuwinst oplevert. Ik zie dus geen contradictie tussen 
+de TOTEM-benadering en de benadering bij het beoordelen van 
+grondstoffenverklaringen voor materialen die in biogebaseerde bouwmaterialen worden 
+ingezet.

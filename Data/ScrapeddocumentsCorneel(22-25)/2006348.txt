@@ -1,0 +1,107 @@
+title: Financiering residentiële ouderenzorg - Ontwikkeling eCalcura
+thema: Welzijn en Gezin
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2006348
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1769080
+SCHRIFTELIJKE VRAAG
+nr. 33
+van VEERLE GEERINCKX
+datum: 9 oktober 2023
+aan HILDE CREVITS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+Financiering residentiële ouderenzorg  -  Ontwikkeling eCalcura
+Sinds de overheveling van de financiering van de residentiële ouderenzorg werd de 
+vroegere toepassing RaaS verder gebruikt om de gegevensstromen en berekeningen van 
+onder andere de basistegemoetkoming te ontsluiten.
+Er wordt echter gewerkt aan een nieuwe toepassing die RaaS op termijn moet vervangen. 
+Ze kreeg de naam eCalcura. De uitrol van die toepassing verloopt volgens verschillende 
+fasen:
+- Fase 1: verwerking facturatiejaar 2023.
+- Fase 2a: verwerking facturatiejaar 2024.
+- Fase 2b: verwerking facturatiejaar 2025 en stopzetting RaaS.
+Volgens dit tijdpad zou fase 2b gestart moeten zijn.
+1. Is het project eCalcura nog steeds op schema? 
+2. Welke budgetten werden uitgetrokken om de toepassing te bouwen en uit te rollen? 
+Moeten voorzieningen ook zelf investeringen doen om de nieuwe toepassing te 
+gebruiken?
+3. Welke vereenvoudigingen mogen we verwachten van eCalcura ten opzichte van RaaS? 
+Op welke manier wordt ook werk gemaakt van het ‘only once’-principe?
+HILDE CREVITS 
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+ANTWOORD
+op vraag nr. 33 van 9 oktober 2023
+van VEERLE GEERINCKX
+1. eCalcura wordt inderdaad gerealiseerd in meerdere fasen. In elke volgende fase 
+worden bepaalde functionaliteiten vanuit RaaS overgedragen naar eCalcura.
+In fase 1 focuste het project eCalcura op het realiseren van de aanpassingen in de 
+berekening van de basistegemoetkoming voor zorg voor woonzorgcentra, al dan niet 
+met bijbehorend centrum voor kortverblijf, die voortvloeien uit het VIA6-akkoord, nl. 
+de wijzigingen aan het deel A1 en A2. De berekening blijft verder ongewijzigd zoals 
+deze ook in de RaaS-toepassing werd uitgevoerd. Deze fase gaat over berekeningen 
+tijdens het facturatiejaar 2023 en is succesvol gerealiseerd.
+Fase 2a heeft als eerste doestelling de rekenmotor van RaaS voor alle berekeningen 
+(zowel de basistegemoetkoming voor zorg als de tegemoetkoming ‘vrijstelling van 
+arbeidsprestaties en eindeloopbaan’ voor alle voorzieningen) te vervangen door de 
+rekenmotor van eCalcura. Daarnaast wordt in deze fase ook gerealiseerd dat alle 
+berekeningen in eCalcura consulteerbaar zijn. De gegevensinvoer door de 
+voorzieningen, voor de referentieperiode 2022/2023, verloopt in deze fase verder via 
+RaaS. De ontwikkelingen van deze functionaliteiten bevinden zich in de laatste fase. 
+Het Departement is intussen volop bezig met het testen van de ontwikkelingen. Uit 
+deze testen blijkt dat een periode van bugfixing en verlengde grondige testfase 
+noodzakelijk is om op die manier extra kwaliteitstesten en garanties vervuld te zien. 
+Intussen neemt het Departement Zorg de nodige acties om de berekeningen veilig te 
+stellen via het hybride projectopzet en brengt het als goede huisvader ook legistiek de 
+nodige elementen in orde.
+De eindgebruiker zou echter geen gevolgen mogen ondervinden van de uitgebreide 
+testing en ontwikkeling en zou in februari 2024 zonder problemen de definitieve 
+basistegemoetkoming voor zorg moeten kunnen factureren voor de maand januari 
+2024. Noch zouden de extra kwaliteitstesten een impact mogen hebben op de 
+tijdsplanning van fase 2b. 
+In fase 2b (facturatiejaar 2025) wordt ook de gegevensinvoer voor de 
+referentieperiode 2023/2024 volledig ingebed in eCalcura. De RaaS-toepassing is 
+vanaf dat moment niet meer in gebruik. Deze fase loopt samen met de start van de 
+nieuwe referentieperiode die van start ging op 1 juli 2023.
+Aangezien de berekeningen voor het facturatiejaar 2024 nog moeten gebeuren en 
+RaaS dus nog beschikbaar moet zijn voor voorzieningen tot wanneer zij de definitieve 
+berekening hebben ontvangen, zal de toegang tot de RaaS-webtoepassing pas daarna 
+afgesloten worden. Daarna worden de gegevens vanuit RaaS gemigreerd naar 
+eCalcura. Invoer voor de referentieperiode die gestart is op 1 juli 2023 is mogelijk in 
+eCalcura vanaf januari 2024. De gegevens moeten uiterlijk worden meegedeeld op 30 
+september 2024. 
+Het eCalcura-project zit globaal dus nog steeds op schema. Op dit moment wordt met 
+de hoogste prioriteit en met de extra kwaliteitstesten en -garanties fase 2b aangepakt.
+2. Momenteel is 4.367.887,50 euro voorzien voor de ontwikkeling van de toepassing. 
+Voorzieningen moeten zelf geen investeringen doen om eCalcura te gebruiken. 
+eCalcura is ingebed in het e-loket van het Departement. Voorzieningen gebruiken het 
+e-loket ook al voor andere zaken en zijn dus al vertrouwd met deze werking.
+3. Het vertrekpunt voor de invoer van de gegevens binnen eCalcura zijn de beschikbare 
+authentieke bronnen waarover het Departement beschikt. eCalcura zal wat betreft 
+gegevensinvoer dus een hele vereenvoudiging betekenen voor voorzieningen. Deze 
+vereenvoudigingen en koppeling met authentieke bronnen zal gebeuren vanaf fase 2b 
+(referentieperiode van 1 juli 2023 t.e.m. 30 juni 2024 – facturatiejaar 2025).
+In RaaS moesten voorzieningen zelf een rijksregisternummer, voornaam, naam en 
+kwalificatie van een medewerker invoeren.
+In eCalcura is er voor de invoer van gegevens van medewerkers een koppeling met 
+het rijksregister. Bij invoer van een rijksregisternummer wordt de voornaam en naam 
+van een medewerker automatisch opgehaald. Bijkomend wordt ook de correcte 
+kwalificatie van een medewerker gecontroleerd in de Zorgberoependatabank. Bij 
+selectie van een visumplichtige kwalificatie zal namelijk onmiddellijk een controle 
+gebeuren o.b.v. het rijksregisternummer of de betreffende medewerker over het 
+correcte visum beschikt. Op die manier komt een voorziening bij een retroactieve 
+controle niet meer voor verrassingen te staan dat bepaalde medewerkers niet in 
+aanmerking komen voor financiering. 
+De gefactureerde dagen van zowel VSB- als niet-VSB-verzekerden zijn een belangrijke 
+parameter voor de berekening van de basistegemoetkoming voor zorg. In RaaS 
+dienden voorzieningen deze dagen zelf in te voeren. In eCalcura worden de 
+gefactureerde dagen van VSB-verzekerden automatisch opgehaald vanuit eWZCfin. 
+eWZCfin is de module die is toegevoegd aan het digitaal platform Vlaamse Sociale 
+Bescherming om de gegevensuitwisseling tussen ouderenvoorzieningen en zorgkassen 
+mogelijk te maken. Via de toepassing eWZCfin melden ouderenvoorzieningen opnames 
+en indicatiestellingen aan de zorgkassen zodat ze de tegemoetkoming voor zorg 
+kunnen factureren. eWZCfin is dus de authentieke bron van het aantal gefactureerde 
+dagen van VSB-verzekerden.
+De eCalcura-toepassing zal ook in de komende jaren nog doorontwikkeld en verbeterd 
+worden. Daartoe lopen momenteel ook analysetrajecten waarbij de mogelijkheden 
+worden onderzocht om ook bijvoorbeeld de personeelsprestaties uit unieke bronnen 
+op te halen. 

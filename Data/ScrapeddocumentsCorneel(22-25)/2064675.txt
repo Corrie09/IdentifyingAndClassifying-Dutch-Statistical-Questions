@@ -1,0 +1,157 @@
+title: Woonkwaliteitshandhaving - Register van herstelvorderingen
+thema: Wonen
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2064675
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1825843
+SCHRIFTELIJKE VRAAG
+nr. 279
+van GUY D'HAESELEER
+datum: 3 mei 2024
+aan MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+Woonkwaliteitshandhaving  -  Register van herstelvorderingen
+Het register van herstelvorderingen verzamelt alle panden waarvoor de wooninspecteur in 
+het kader van de strafrechtelijke procedure over woningkwaliteitshandhaving een 
+herstelvordering heeft opgesteld en waarvoor nog niet werd vastgesteld dat die 
+herstelvordering uitgevoerd werd.
+1. Hoeveel panden zijn er sinds 2022 in het register vermeld? Graag opsplitsing per jaar 
+en per provincie en met vermelding om welke type pand (winkelpand, woning …) het 
+gaat.
+2. Welke herstelmaatregelen (herstellen gebreken, sloop, herbestemming) werden voor 
+die panden opgelegd? Graag een overzicht, opgesplitst per herstelmaatregel en per 
+provincie.
+3. Bij hoeveel van die panden werd er al een dagvaarding uitgebracht of een definitieve 
+veroordeling tot herstel? Graag de cijfers vanaf 2021 tot vandaag.
+4. Wat zijn de gemiddelde dwangsommen die opgelegd worden bij het niet tijdig voldoen 
+aan de opgelegde herstelmaatregelen?
+5. Welke problemen met de woonkwaliteit komen het vaakst voor bij die panden? Graag 
+de cijfers voor 2022 en 2023.
+6. Hoe verhouden de cijfers zich ten opzichte van de cijfers van vorige jaren? Is er een 
+daling of stijging merkbaar? Plant de minister op basis van de cijfers nog bijkomende 
+maatregelen anders dan vermeld in zijn beleidsnota?
+MATTHIAS DIEPENDAELE 
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+ANTWOORD
+op vraag nr. 279 van 3 mei 2024
+van GUY D'HAESELEER
+1. In de eerste tabel wordt een overzicht gegeven van het aantal panden waarvoor in 2022 
+een herstelvordering werd opgemaakt. Cijfers voor 2023 zijn nog niet beschikbaar. In 
+de laatste kolom wordt aangegeven hoeveel individuele woningen door deze 
+herstelvorderingen gevat werden. De term ‘woning’ wordt generiek gebruikt voor zowel 
+zelfstandige als niet-zelfstandige woningen. De vergunde toestand is niet van belang, 
+de fysieke toestand is doorslaggevend. Om deze reden wordt de vergunde toestand ook 
+niet gemonitord. Winkelpanden die omgevormd zijn tot woningen worden ook als 
+woning geteld.
+Provincie Aantal panden met HV Aantal woningen
+Antwerpen 90 259
+Vlaams-Brabant 56 119
+West-Vlaanderen 82 240
+Oost-Vlaanderen 73 199
+Limburg 42 104
+Totaal 343 921
+In de tweede tabel wordt een opsplitsing gemaakt per type woning. CNVVB staat voor 
+‘constructie niet voor bewoning bestemd’ en heeft betrekking op constructies waarin wel 
+gewoond wordt, maar die niet als woning beschouwd kunnen worden (bijvoorbeeld 
+enkel bedden, maar geen andere voorzieningen).
+Type woning Aantal per provincie
+Antwer-
+penVlaams-
+BrabantWest-
+VlaanderenOost-
+VlaanderenLimburg
+CNVBB 0 0 0 0 2
+Eengezinswoning 28 29 26 37 13
+Kamer 64 37 110 44 41
+Kamer 
+seizoenarbeider4 0 0 0 5
+Studio/apparte-
+ment163 53 104 118 43
+TOTAAL 259 119 240 199 104
+2. In de strafrechtelijke procedure inzake woningkwaliteit bestaan er twee 
+herstelmatregelen. De principiële maatregel is het herstel van de 
+woningkwaliteitsgebreken zodat de woning opnieuw conform is. Wanneer dat echter niet 
+mogelijk is, bijvoorbeeld omdat het herstel van de conformiteit tot gevolg zou hebben 
+dat een inbreuk op andere regelgeving bestendigd wordt (bijvoorbeeld een 
+stedenbouwkundige schending door wederrechtelijke wijziging van het aantal 
+woongelegenheden), wordt er herbestemming overeenkomstig de VCRO (andere functie 
+dan wonen) of sloop (tenzij dit verboden is op basis van bestaande regelgeving) 
+gevorderd. De wooninspecteur kan immers enkel herstel van de woningkwaliteit 
+vorderen en geen stedenbouwkundig herstel. De keuze tussen herbestemming of sloop 
+is aan de overtreder. Het betreft 1 maatregel.
+ProvincieAantal panden 
+met HVVordering sloop/
+herbestemmingVordering herstel 
+conformiteit
+Antwerpen 90 41 49
+Vlaams-Brabant 56 17 39
+West-Vlaanderen 82 42 40
+Oost-Vlaanderen 73 14 59
+Limburg 42 18 24
+Totaal 343 132 211
+3. In onderstaande tabel wordt het aantal panden weergegeven waarbij de 
+herstelvordering in 2021 of 2022 werd opgesteld én waarvoor ondertussen een 
+dagvaarding of definitieve veroordeling tussenkwam. Het aantal dagvaardingen geeft 
+effectief weer voor hoeveel panden er gedagvaard is. Het aantal definitieve 
+veroordelingen geeft het aantal panden weer waarover een definitieve uitspraak werd 
+gedaan. Als het parket dagvaardt, is het een strafrechtelijke dagvaarding (strafrechter). 
+Als de wooninspecteur zelf dagvaardt om de herstelvordering te laten opleggen nadat 
+het parket het heeft geseponeerd, is het een burgerlijke dagvaarding (burgerlijke 
+rechter).
+Jaar HV 
+opgesteldType 
+dagvaardingAantal panden met 
+dagvaardingAantal panden met 
+definitieve veroordeling
+2021 Burgerlijk 22 13
+2021 Strafrechtelijk 170 122
+2022 Burgerlijk 7 4
+2022 Strafrechtelijk 43 28
+Totaal 242 167
+Als we bekijken voor welke panden in 2021 of 2022 een veroordeling definitief werd, 
+ongeacht het jaar waarin de herstelvordering werd opgesteld, krijgen we volgend 
+resultaat:
+Jaar veroordeling 
+definitiefType dagvaardingAantal panden met definitieve 
+veroordeling
+2021 Burgerlijk 14
+2021 Strafrechtelijk 159
+2022 Burgerlijk 12
+2022 Strafrechtelijk 121
+Totaal 306
+4. Voor panden waarvoor een herstelvordering werd opgesteld in 2021 of 2022 en waarin 
+de rechter reeds een definitieve veroordeling uitsprak, bedroeg de gemiddelde 
+dwangsom die de rechter oplegde 130 euro per dag vertraging.
+5. De meest voorkomende gebreken bij zelfstandige woningen in 2022 zijn:
+•gebreken gelinkt aan een gevaar voor elektrocutie of brand (88,73%)
+•gebreken gelinkt aan vocht (68,36%)
+•gebreken gelinkt aan de gasinstallatie, algemene beschadigingen en toegankelijkheid 
+van de woning (allen tussen de 57 en 58%).
+De meest voorkomende gebreken bij niet zelfstandige woningen in 2022 zijn:
+•gebreken gelinkt aan een gevaar voor elektrocutie of brand (94,85%)
+•gebreken gelinkt aan privacy (91,33%), vaak een gevolg van het samenwonen in 
+eengezinswoningen zonder dat men een gezin vormt (dit wordt dan beschouwd als 
+kamerwonen)
+•gebreken gelinkt aan sanitaire installaties (76,96%)
+•gebreken gelinkt aan de toegankelijkheid van de woning (68,83%)
+•gebreken gelinkt aan de gasinstallatie (66,4%).
+Voormelde cijfers hebben enkel betrekking op aanvankelijke acties. Dit zijn acties 
+waarin de woningen voor de eerste keer onderzocht worden zonder dat er al 
+herstelwerkzaamheden gebeurd zijn.
+6. In 2022 werd er voor iets meer panden een herstelvorderingen opgesteld dan in 2021. 
+In totaal lag het aantal individuele woningen waarop deze herstelvorderingen betrekking 
+hadden wel iets lager dan in 2021. Globaal genomen is het aantal herstelvorderingen 
+over de voorbije jaren redelijk stabiel, al is er wel een licht stijgende trend.
+Op 21 mei 2024 stonden er 1349 herstelvorderingen op het register van 
+herstelvorderingen ten opzichte van 1242 op 1 maart 2023. Vergelijken tussen beide 
+jaren is moeilijk omdat het moment van het nazicht vaak een impact heeft. De 
+verhouding tussen herstelvorderingen met als voorwerp het herstel van de conformiteit 
+en herbestemming of sloop blijft gelijk. Een belangrijkere indicator is het aantal 
+uitgevoerde herstelvorderingen, wat ook globaal genomen de voorbije jaren in stijgende 
+lijn gaat. 
+Wat de gerechtelijke uitspraken betreft is er vanaf 2021 wel een stijging merkbaar, wat 
+toch aangeeft dat het openbaar ministerie ook meer inzet op de vervolging van 
+krotverhuur.
+De top van de meest voorkomende gebreken blijft al geruime tijd stabiel. Ook de 
+procentuele aanwezigheid van specifieke gebreken ligt in dezelfde lijn, met af en toe 
+een uitzonderlijke uitschieter.
+Wat eventuele bijkomende maatregelen betreft op basis van deze cijfers, verwijs ik naar 
+mijn antwoord op uw schriftelijk vraag nummer 224 van 16 februari 2023.

@@ -1,0 +1,173 @@
+title: Projectoproep 'Clean Power for Transport' - Stand van zaken
+thema: Energie
+Mobiliteit en Verkeer
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2033746
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1761814
+SCHRIFTELIJKE VRAAG
+nr. 1657 
+van ROBRECHT BOTHUYNE
+datum: 13 september 2023
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Projectoproep ‘Clean Power for Transport’  -  Stand van zaken 
+Het actieplan ‘Clean Power for Transport’ wil inzetten op elektrische voertuigen.
+De projectoproep richt zich tot ondernemingen, besturen en organisaties die publieke en 
+semipublieke laadinfrastructuur willen installeren voor elektrische personenwagens en 
+bestelwagens. Daarnaast ook niet-publieke laadinfrastructuur voor bestelwagens met het 
+oog op emissievrije stedelijke logistiek. Last but not least (semi)publieke laadinfrastructuur 
+voor hoog vermogen voor elektrische vrachtwagens en niet-publieke laadinfrastructuur 
+voor hoog vermogen voor elektrische vrachtwagens.
+Maximale steun is 300.000 euro per project en het budget per oproep is maximaal 10 
+miljoen euro.
+De oproep stond open tot 31 maart 2023.
+1. Hoeveel projecten werden naar aanleiding van deze oproep ingediend? Graag opdeling 
+naar:
+a) totaal aantal ingediende projecten;
+b) provincie van indiening;
+c) omschrijving van het project; 
+d) aanduiding om welke laadinfrastructuur het gaat;
+e) aanduiding van aard van aanvrager (onderneming, bestuur, organisatie);
+f) indien aanvrager bestuur, aanduiding welke gemeente/stad.
+2. Hoeveel van de projecten werden geselecteerd? Graag opdeling naar:
+a) totaal aantal geselecteerde projecten;
+b) provincie van indiening;
+c) omschrijving van het project;
+d) aanduiding om welke laadinfrastructuur het gaat;
+e) aanduiding van aard van aanvrager (onderneming, bestuur, organisatie);
+f) indien aanvrager bestuur, aanduiding welke gemeente/stad.
+3. Hoeveel van de projecten werden geweigerd? Graag opdeling naar:
+a) totaal aantal geweigerde projecten;
+b) provincie van indiening;
+c) omschrijving van het project;
+d) aanduiding om welke laadinfrastructuur het gaat;
+e) aanduiding van aard van aanvrager (onderneming, bestuur, organisatie);
+f) indien aanvrager bestuur, aanduiding welke gemeente/stad.
+4. Wat was de reden van weigering? Graag opdeling naar:
+a) reden van weigering;
+b) provincie van indiening;
+c) omschrijving van het project;
+d) aanduiding om welke laadinfrastructuur het gaat;
+e) aanduiding van aard van aanvrager (onderneming, bestuur, organisatie);
+f) indien aanvrager bestuur, aanduiding welke gemeente/stad.
+5. Hoe evalueert de minister deze projectoproep? Waar zal worden bijgestuurd en 
+waarom?
+6. Zullen er dit jaar nog gelijkaardige oproepen worden gelanceerd? Wanneer mogen we 
+die verwachten?
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD
+op vraag nr. 1657 van 13 september 2023
+van ROBRECHT BOTHUYNE
+1. a) Er werden in totaal 120 projecten ingediend.
+b) Onderstaande lijst toont het aantal projectonderdelen per provincie. Het totale 
+aantal projectonderdelen ligt hoger dan het aantal ingediende projecten (vraag 
+1a), omdat sommige projecten meerdere projectonderdelen hebben op 
+verschillende locaties.
+Provincie Aantal projectonderdelen op uniek adres
+West-Vlaanderen 43
+Oost-Vlaanderen 42
+Antwerpen 38
+Vlaams-Brabant 33
+Limburg 38
+c) Onderstaande tabel omschrijft de hoofddoelen van de infrastructuur.
+Omschrijving van het project Aantal projecten
+Bestelwagens, met het oog op stedelijke logistiek 33
+Vrachtwagens 50
+Bussen 19
+Vrachtwagens en bussen 15
+Geen info 3
+d) Onderstaande tabel toont de vermogensgroep van de laadinfrastructuur.
+Vermogensgroep Aantal laadpalen
+Van 3 tot 12 kW 8
+van 12 tot en met 22kW 592
+van 23kW tot en met 43kW 12
+van 50 tot en met 149kW 194
+van 150 kW tot en met 299 kW 223
+van 300 kW en hoger 146
+e) Wat de aanvrager betreft, kan er enkel een onderscheid gemaakt worden tussen 
+steden en gemeenten enerzijds en organisaties en ondernemingen anderzijds, 
+zoals getoond in onderstaande tabel.
+Aanvrager Aantal projecten
+Onderneming / organisatie 119
+Bestuur 1
+f) Stad Roeselare
+2. a) Er werden 109 projecten minstens deels goedgekeurd.
+b) Onderstaande lijst toont het aantal projectonderdelen per provincie. Het totale 
+aantal projectonderdelen ligt hoger dan het aantal ingediende projecten (vraag 
+1a), omdat sommige projecten meerdere projectonderdelen hebben op 
+verschillende locaties.
+Provincie Aantal projectonderdelen op uniek adres
+West-Vlaanderen 24
+Oost-Vlaanderen 33
+Antwerpen 32
+Vlaams-Brabant 11
+Limburg 19
+c) Onderstaande tabel omschrijft de hoofddoelen van de infrastructuur.
+Omschrijving van het project Aantal projecten
+Bestelwagens, met het oog op stedelijke logistiek 26
+Vrachtwagens en bussen 83
+d) Onderstaande tabel toont de vermogensgroep van de laadinfrastructuur.
+Vermogensgroep Aantal laadpalen
+Van 3 tot 12 kW 8
+van 12 tot en met 22kW 545
+van 23kW tot en met 43kW 12
+van 50 tot en met 149kW 177
+van 150 kW tot en met 299 kW 198
+van 300 kW en hoger 131
+e) Wat de aanvrager betreft, kan er enkel een onderscheid gemaakt worden tussen 
+steden en gemeenten enerzijds en organisaties en ondernemingen anderzijds, 
+zoals getoond in onderstaande tabel.
+Aanvrager Aantal projecten
+Onderneming / organisatie 108
+Bestuur 1
+f) Stad Roeselare
+3. a) In totaal werden negen projecten niet weerhouden. 
+Twee projecten werden gedeeltelijk goedgekeurd. 
+Er werden zes projecten ingediend die zich bevinden op locaties in bezit van het 
+Agentschap Wegen en Verkeer (AWV). Deze zes projecten krijgen van het AWV 
+een principiële goedkeuring. Dat houdt in dat het ingediende ontwerp alsnog moet 
+worden goedgekeurd en dat aanpassingen aan het ontwerp alsnog gevraagd 
+kunnen worden.  
+b) Onderstaande lijst toont het aantal projectonderdelen per provincie. Het totale 
+aantal projectonderdelen ligt hoger dan het aantal ingediende projecten (vraag 
+1a), omdat sommige projecten meerdere projectonderdelen hebben op 
+verschillende locaties.
+Provincie Aantal projectonderdelen op uniek adres
+West-Vlaanderen 19 
+Oost-Vlaanderen  9 
+Antwerpen  6 
+Vlaams-Brabant  22 
+Limburg  19
+c) Onderstaande tabel omschrijft de hoofddoelen van de infrastructuur.
+Omschrijving van het project Aantal projecten
+Bestelwagens, met het oog op stedelijke logistiek 8
+Vrachtwagens en bussen 2 (gedeeltelijk 
+afgekeurd)
+d) Onderstaande tabel toont de vermogensgroep van de laadinfrastructuur.
+Vermogensgroep Aantal laadpalen
+Van 3 tot 12 kW 0
+van 12 tot en met 22kW 47
+van 23kW tot en met 43kW 0
+van 50 tot en met 149kW 17
+van 150 kW tot en met 299 kW 25
+van 300 kW en hoger 15
+e) Het gaat om aanvragen voor laadpunten bij ondernemingen of organisaties.
+f) Niet van toepassing
+4. a) Eén project werd geweigerd omdat het dubbel werd ingediend. 
+Twee projecten werden geweigerd omdat er onvoldoende informatie werd 
+versterkt, waardoor een beoordeling niet mogelijk was.
+Acht projecten voldeden niet aan de eisen die gesteld werden aan de categorie 
+waaronder ze werden ingediend. Zeven projecten daarvan konden niet aantonen 
+dat er een link was met de emissievrije belevering van stedelijke kernen. 
+Eén project werd niet weerhouden omdat het niet voldeed aan de eis om groene 
+stroom te voorzien.
+b-d) Deze informatie is niet beschikbaar.
+e) Het gaat om aanvragen voor laadpunten bij ondernemingen of organisaties.
+f) Niet van toepassing
+5. De reactie op de call wordt als zeer positief geëvalueerd. De hoge respons toont dat 
+de logistieke sector en de sector van het busvervoer zicht klaarmaken voor de transitie 
+richting emissievrije logistiek en emissievrij collectief vervoer. Daarnaast stellen we 
+vast dat financiële ondersteuning bij de uitbouw van private en publieke 
+laadinfrastructuur in deze fase wenselijk is.
+6. Er wordt dit voorjaar nog een oproep voorzien die gericht is op de laadinfrastructuur 
+voor zwaar vervoer.

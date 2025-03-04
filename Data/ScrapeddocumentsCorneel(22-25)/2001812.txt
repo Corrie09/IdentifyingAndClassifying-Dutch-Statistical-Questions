@@ -1,0 +1,44 @@
+title: Premie PV-installatie - Tijdelijk verbod op verplaatsing na ingebruikname
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2001812
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1763557
+SCHRIFTELIJKE VRAAG
+nr. 4
+van STAF AERTS
+datum: 26 september 2023
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Premie PV-installatie  -  Tijdelijk verbod op verplaatsing na ingebruikname 
+Bij de eenmalige premie die Fluvius uitkeert wanneer iemand een pv-installatie plaatst, is 
+een van de voorwaarden: “De zonnepanelen mogen gedurende een periode van minstens 
+15 jaar na indienstname niet worden verplaatst naar een ander perceel.”
+https://www.vlaanderen.be/premie-van-fluvius-voor-zonnepanelen-op-gebouwen
+1. Waarom werd die voorwaarde opgenomen? Wat is de logica achter die bepaling?
+2. Hoe wordt dat gecontroleerd? Hoeveel controles werden sinds 2021 uitgevoerd en wat 
+waren de resultaten?
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 4 van 26 september 2023
+van STAF AERTS
+1. Deze voorwaarde werd bij het opstellen van de regelgeving in 2020 enerzijds 
+opgenomen om dubbele betoelaging voor eenzelfde installatie op twee adressen te 
+vermijden en anderzijds om verplaatsingen van installaties te ontmoedigen. Voor het 
+arrest van het Grondwettelijk Hof met betrekking tot de terugdraaiende teller kon het 
+immers voorvallen dat eenzelfde investeerder voor eenzelfde woning zowel van de 
+terugdraaiende teller als van de premie kon genieten. Dit door verhuis van een 
+installatie met premie naar een woning waar al een installatie met terugdraaiende teller 
+aanwezig was, of omgekeerd door de verhuis van een installatie met terugdraaiende 
+teller naar een woning waar een nieuwe installatie werd geplaatst met premie. 
+Bovendien is het beter dat de PV-installatie op het originele adres blijft dan dat die naar 
+elders wordt verplaatst. Er werd wel een uitzondering voorzien in geval van 
+eigendomsoverdracht waarbij voorafgaand aan de eigendomsoverdracht de installatie 
+uit dienst werd genomen.
+2. Gezien de vernietiging van het systeem van de terugdraaiende teller door het arrest 
+van het Grondwettelijk Hof in 2021 is het risico op dubbele betoelaging via premie en 
+systeem van terugdraaiende teller weggevallen. De incentive om een frauduleuze 
+verhuis te organiseren is achterhaald gezien het extra voordeel van de terugdraaiende 
+teller is verdwenen. Bovendien kan de premie enkel toegepast worden voor recente 
+installaties in dienst genomen vanaf 2021. Bijgevolg is een automatische controle in 
+het verwerkingsproces niet kostenefficiënt geacht en werden tot op heden ook geen 
+manuele controles uitgevoerd.

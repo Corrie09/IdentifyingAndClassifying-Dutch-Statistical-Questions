@@ -1,0 +1,92 @@
+title: Persoonsvolgend budget (PVB) - Niet-opgenomen budgetten
+thema: Welzijn en Gezin
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2006358
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1769675
+SCHRIFTELIJKE VRAAG
+nr. 37
+van TINE VAN DER VLOET
+datum: 11 oktober 2023
+aan HILDE CREVITS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+Persoonsvolgend budget (PVB)  -  Niet-opgenomen budgetten
+Ik heb al meermaals vragen gesteld over de onderbenutting van persoonsvolgende 
+budgetten. In 2022 werd er een onderbenutting vastgesteld van 128 miljoen euro. Daarvan 
+is 72 miljoen terug te brengen naar de persoonsvolgende financiering (PVF), de 
+multifunctionele centra (MFC’s) en rechtstreeks toegankelijke hulp (RTH). De andere zaken 
+zijn volgens de minister veeleer technisch van aard.
+Er zijn verschillende redenen voor onderbenutting. Een van de redenen is het groeiende 
+belang van cashbesteding. Cashbesteders kennen namelijk een grotere onderbenutting 
+dan voucherbesteders. Daarnaast is cashbesteding een beetje goedkoper dan 
+voucherbesteding en zijn cashbesteders voorzichtiger.
+Op 13 januari 2020 stelde ik schriftelijke vraag nr. 214 over dit onderwerp. Om een volledig 
+beeld te krijgen, heb ik een aantal vragen voor de minister.
+1. In het antwoord op schriftelijke vraag nr. 214 kreeg ik volgende tabel van de minister 
+voor het jaar 2018:
+Hoe wordt het PVB ingezet in 
+2018?% onderbenutting Aantal personen
+Enkel via voucher 0,95 % 21.015
+Enkel via cash nVZA 19,74 % 1.784
+Enkel via cash VZA 6,87 % 53
+Voucher en cash nVZA 12,37 % 1.056
+Voucher en cash VZA 4,03 % 41
+Cash VZA en cash nVZA 13,61 % 313
+Voucher, cash VZA en cash nVZA 11,90 % 158
+(nog) geen besteding cash of 
+voucher99,35 % 323
+Allen 3,50 % 24.420
+Kan de minister een update van die tabel bezorgen voor de jaren 2019, 2020 en 2021?
+2. Wat zijn de verschillen van onderbenutting wanneer het PVB is verkregen via de 
+reguliere procedure of via de automatische toekenningsgroepen (opgedeeld per 
+automatische toekenningsgroep)? Graag een overzicht voor de jaren 2019, 2020 en 
+2021.
+HILDE CREVITS 
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+ANTWOORD
+op vraag nr. 37 van 11 oktober 2023
+van TINE VAN DER VLOET
+1. De onderstaande tabel biedt zicht op de benuttingspercentage van de ingezette 
+persoonsvolgende budgetten. 
+2019 2020 2021
+Bestedingswijze aantal % 
+besteedaantal % 
+besteedaantal % 
+besteed
+(nog) geen besteding 
+cash of voucher334 0,9% 69 7,7% 547 0%
+cashnietvza+cashvza+
+voucher177 83,2% 238 88,6% 329 83,2%
+cashnietvza+voucher 1.494 83,6% 2.185 86,0% 2.705 82,6%
+cashvza+cashnietza 243 83,5% 381 83,5% 418 84,7%
+enkel cashnietvza 2.091 76,3% 2.367 76,5% 2.794 73,7%
+enkel cashvza 69 85,0% 73 91,5% 108 92,1%
+enkel voucher 21.430 97,5% 20.377 98,5% 20.920 97,9%
+voucher+cashvza 84 95,5% 90 93,6% 111 92,4%
+Totaal* 26.022 94,0% 25.780 95,2% 27.932 93,0%
+*Dit percentage is het percentage berekend op de totale groep budgethouders ook diegene die in het 
+jaar x overleden zijn. 
+2. Zie onderstaande tabel voor benuttingspercentage per procedure van de PVB-vraag. 
+De gegevens voor de jaren 2019, 2020 en 2021 komen uit de bestedingsanalyses van 
+deze jaren. Een één op één vergelijking van de verschillende procedures tussen de 
+jaren is niet mogelijk. In sommige jaren werd geen onderscheid gemaakt tussen 
+sommige procedures (vb. nood en verlenging nood). Het is een zeer arbeidsintensief 
+werk met groot risico op fouten om deze rapportering terug op te splitsen per 
+procedure.
+Procedure 2019 2020 2021
+Procedure 7-7 99% 99% 99%
+Na nood 93% 93% 93%
+(verlenging) nood 85% 89%
+nood 83%
+verlenging nood 86%
+Budget continuering jeugdhulp 88% 89%
+Zorgcontinuïteit PAB 91% 88% 89%
+Maatschappelijke noodzaak 84% 87% 86%
+Pvb na CRZ 84% 86% 87%
+Spoedprocedure 61% 67% 66%
+Transitie PAB 87% 87% 86%
+Zorgcontinuïteit MFC 87% 91% 92%
+Terbeschikkingstelling via prioriteitengroep 66% 76% 74%
+Transitie ZIN 99% 95%
+Correctiefase 2 99%
+Transitie ZIN/cf2 99%

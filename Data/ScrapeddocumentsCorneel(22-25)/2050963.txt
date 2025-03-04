@@ -1,0 +1,105 @@
+title: Woningisolatie - Thermografische kaarten West-Vlaanderen
+thema: Energie
+Wonen
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2050963
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1805410
+SCHRIFTELIJKE VRAAG
+nr. 364
+van BRECHT WARNEZ
+datum: 22 februari 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Woningisolatie  -  Thermografische kaarten West-Vlaanderen
+Via thermografie kan vanop een afstand de temperatuur van een object worden bepaald. 
+Een thermografische kaart geeft een warmtebeeld van woningen en andere gebouwen. De 
+kaarten zijn een unieke manier om het energieverlies in beeld te brengen en zo burgers 
+warm te maken voor energierenovatie.
+Luchtthermografie maakt het mogelijk om de warmteverliezen van daken in kaart te 
+brengen. Via de dakenscan van Fluvius werden in Vlaanderen heel wat gemeenten 
+overvlogen. Bij de meeste werden de gegevens al in kaart gebracht en zijn ze 
+consulteerbaar voor de burger en overheid (dakinzicht.fluvius.be). 
+Dit is een opvolgvraag van mijn eerdere schriftelijke vragen ter zake. Gelieve de gegevens 
+in een Excel-bestand weer te geven. 
+1. Is elke gemeente al overvlogen? Kan de minister een overzicht ter beschikking stellen 
+van alle steden en gemeenten in het gewest? 
+2. Kan de minister het jaar van overvliegen vermelden bij elke gemeente?
+3. Is Fluvius van plan om de gemeenten die eerder werden overvlogen nogmaals te 
+overvliegen om meer recente gegevens te verkrijgen?
+Zo ja, na welke termijn plant men de herhaling?
+Zo niet, hoe streeft de minister ernaar om de burgers recente informatie te verschaffen 
+met het oog op effectieve energiewinsten?
+4. Hoeveel bezoekers telt de website dakinzicht.fluvius.be? Heeft de minister zicht op het 
+aantal opzoekingen door burgers of anderen van het warmtebeeld van het dak? 
+Gelieve gegevens van de afgelopen vijf jaar in een Excel-bestand weer te geven, met 
+vermelding van het aantal unieke en het aantal effectieve bezoeken.
+5. Kan de minister voor de voorbije 5 jaar, per jaar en per provincie, een overzicht 
+bezorgen van de gemaakte kosten voor dat project, opgesplitst per deel 
+(conceptontwikkeling, overvliegen van de daken, het consulteerbaar maken ervan op 
+de website dakinzicht.fluvius.be, communicatie, …)?
+6. Hoe worden lokale besturen ondersteund om na het overvliegen de resultaten tot bij 
+de burgers te brengen en ermee aan de slag te gaan? Ziet de minister nood aan 
+bijkomende inspanningen op dat vlak? Zo ja, wat is het plan van aanpak en de timing?
+7. Wordt, al dan niet steekproefsgewijs, bijgehouden hoeveel procent van de burgers aan 
+de slag gaan met de adviezen via dit project? Ziet de minister nood aan bijkomende 
+inspanningen op dat vlak? Zo ja, wat is het plan van aanpak en de timing?
+ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 364 van 28 februari 2024
+van BRECHT WARNEZ
+1. Ik verwijs naar de bijlage voor de laatste stand van zaken (februari 2024). Deze winter 
+werden 26 bijkomende gemeenten overvlogen en gepubliceerd.
+Ten opzichte van het overzicht dat werd bezorgd middels mijn antwoord op uw 
+schriftelijke vraag nr. 921 van 22 juni 2023 is het aantal gepubliceerde gemeenten 
+echter gedaald (102 vs. 161). Naar aanleiding van een aantal klachten en nader 
+onderzoek stelde Fluvius immers vast dat de kwaliteit van de aangeleverde beelden in 
+enkele gemeenten onvoldoende was. Fluvius besliste bijgevolg om de beelden van 85 
+gemeenten offline te halen. Men doet het nodige om deze gemeenten zo snel mogelijk 
+opnieuw te overvliegen, al moeten we daarbij wel rekening houden met de juiste 
+vliegcondities om kwalitatief goede beelden te bekomen. De geïmpacteerde gemeenten 
+werden hierover door Fluvius geïnformeerd op 18 januari 2024: 240118 - Update 
+luchtthermografie ex-Infrax (flxml.eu). 
+2. De datum van overvliegen wordt bij elke opvraging op de website 
+www.dakinzicht.fluvius.be meegegeven en is daar dus vrij te raadplegen. Sommige 
+gemeenten werden niet in 1 keer overvlogen, waardoor de datum straat per straat kan 
+verschillen.
+3. Neen, dat is niet gepland. Er komt deze legislatuur geen bijkomend initiatief meer. 
+Woningen waarvan het dak sinds het maken van de beelden nog niet geïsoleerd werd, 
+hebben net zo goed baat bij de aanvankelijke beelden dan bij eventuele nieuwe 
+beelden. In die zin is voor die woningen de geboden informatie nog altijd recent. Voor 
+eigenaars van woningen die het dak lieten isoleren, is een update van het 
+thermografisch beeld eerder irrelevant, gelet op het voornamelijk sensibiliserend en 
+activerend doel van deze thermografische beelden.
+4. In de volgende tabel is voor 2021 tot heden het aantal unieke bezoekers vermeld. Er 
+zijn geen verdere details over de aard van het bezoek beschikbaar.
+ 
+Jaartal Aantal unieke 
+bezoekers 
+2021 30.889 
+2022 64.389 
+2023 25.736 
+2024 (tot eind 
+februari) 4.335 
+5. Tot nog toe bedragen de gemaakte kosten voor het overvliegen en de dataverwerking 
+1.400.000 euro. Daarbij komt nog een beperkte kost voor publicatie van de data op de 
+website van Fluvius.
+6. De energiehuizen en steden en gemeenten worden geïnformeerd over de beschikbare 
+data van de luchtthermografie. Op https://www.fluvius.be/nl/veelgestelde-
+vragen/dakinzicht is heel wat duiding beschikbaar voor een correcte interpretatie van 
+de beelden.
+Fluvius voorziet opleidingen voor loketmedewerkers van energiehuizen en steden en 
+gemeenten om samen met de huiseigenaars de thermografische beelden te 
+interpreteren en de burgers te begeleiden om energiebesparende maatregelen uit te 
+voeren. Daarnaast worden infovergaderingen voor burgers gefaciliteerd om samen de 
+thermografische beelden te bekijken en de mogelijke energiebesparende maatregelen 
+te overlopen (premies, mogelijke maatregelen, leningen, hernieuwbare energie, enz.). 
+Ook in de Energiefitsessies rond dakisolatie die Fluvius op regelmatige basis aanbiedt, 
+wordt gewerkt met de thermografische beelden ( Energiefitsessies | Fluvius). Ik zie 
+voorlopig geen nood aan bijkomende inspanningen.
+7. Neen, dat wordt niet systematisch bijgehouden. Het voornaamste doel is een heel brede 
+en laagdrempelige sensibilisering op basis waarvan eigenaars overgaan tot het plaatsen 
+van dakisolatie. Het systematisch in kaart brengen van de link tussen het consulteren 
+van een thermografische foto en het plaatsen van dakisolatie lijkt, gelet op de 
+bijkomende administratieve last, onvoldoende meerwaarde te hebben.
+BIJLAGE
+Overzicht van de overvlogen gemeenten (status februari 2024)

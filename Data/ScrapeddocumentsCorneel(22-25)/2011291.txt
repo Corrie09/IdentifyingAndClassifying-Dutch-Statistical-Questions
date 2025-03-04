@@ -1,0 +1,111 @@
+title: Gentse overstorten - Meetnet
+thema: Natuur en Milieu
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2011291
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1774874
+SCHRIFTELIJKE VRAAG
+nr. 86
+van STIJN DE ROO
+datum: 25 oktober 2023
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Gentse overstorten  -  Meetnet
+In mijn schriftelijke vraag nr. 967 van 14 juli 2023 informeerde ik naar de sanering van de 
+Gentse overstorten, die een onderschatte bron van vervuiling zijn binnen het systeem van 
+de Gentse binnenwateren. Zij lozen bij hevige regen ongezuiverd rioolwater in het 
+watersysteem. Bij een perfect werkend systeem zijn overstorten in principe overbodig. Het 
+regenwater wordt dan apart opgevangen en infiltreert in de bodem of wordt vertraagd 
+afgevoerd naar de waterloop.
+Op mijn schriftelijke vraag nr. 967 antwoordde de minister: “Gelet op het geactualiseerde 
+takenpakket van Aquafin onder de nieuwe samenwerkingsovereenkomst met het Gewest 
+werd het overstortmeetnet van de Vlaamse Milieumaatschappij (VMM) overgedragen naar 
+Aquafin. Recent werden door Aquafin ook bijkomende overstortmeters geplaatst. 
+Hieronder een overzicht van de op vandaag bestaande monitoren: OS Houtdok, Gent, OS 
+Jan van Hembysebolwerk 5, Gent, OS Stropkaai 55, Gent, OS PS Keizersbrug, Gent, OS 
+Lindenlei 38, Gent, OS Pleispark 27, Sint-Denijs-Westrem, OS Palinghuizen 63, Mariakerke, 
+OS Neststraat 24, Sint-Denijs-Westrem, OS Wiedauwkaai 88, Wondelgem, OS 
+Vijfhoekstraat, Mariakerke, OS PS Durmstraat, Mariakerke, OS Boskeetstraat 6, Drongen.
+In de toekomst plant Aquafin een verdere uitbreiding van dit meetnet.
+Concreet voor de Gentse regio heeft Aquafin samen met Farys een visie ontwikkeld in een 
+hydronautstudie over het rioleringsstelsel van Gent en heeft Aquafin daarnaast een 
+masterplan om deze overstorten te saneren. Hierin zijn maatregelen opgenomen op korte 
+en lange termijn door verschillende actoren.”
+1. Het lijkt er op dat het meetnet fors is opgetrokken. Op het Gentse grondgebied tellen 
+we twaalf meetlocaties.
+a) Hoeveel overstorten worden er nog niet gemeten?
+b) Op basis van welke parameters zijn de meetlocaties gekozen? Graag meer uitleg.
+c) Welke concrete taken en doelen kreeg Aquafin in de samenwerkingsovereenkomst 
+met betrekking tot het overstortmeetnet?
+d) Wat wordt er in het meetnet precies gemeten? Is het enkel de frequentie van de 
+overstorten of ook de duurtijd, het debiet, de waterkwaliteit,…? Graag meer uitleg.
+e) Worden de data - naar analogie van het Brusselse Hoofdstedelijke Gewest - 
+realtime toegankelijk gemaakt?
+f) Acht de minister het wenselijk om een proefproject op te zetten om die informatie 
+helder en transparant te communiceren? Zo ja, op welke manier en op welke 
+termijn kan dat proefproject gerealiseerd worden?
+2. Kan de minister een overzicht bezorgen van het masterplan, met vermelding van de 
+maatregelen die worden voorgesteld? Graag een overzicht per locatie van de 
+maatregelen, met vermelding van de timing.
+3. Kan de minister inzicht geven in de hoeveelheid regenwater die uit het rioleringsnet 
+gehouden moet worden om de huidige normen en aantallen (F7) van overstort niet 
+te overstijgen?
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 86 van 25 oktober 2023
+van STIJN DE ROO
+1. a) Op het grondgebied van Gent bevinden zich een 160-tal overstorten in het beheer 
+van Aquafin en 294 overstorten in beheer door de gemeentelijke rioolbeheerder 
+Farys. In het verleden werden 6 overstorten bemeten door de VMM. Begin 2023 
+startte Aquafin met de overname, modernisering en uitbreiding van het meetnet. 
+Momenteel werden reeds 14 van die overstorten voorzien van meetapparatuur 
+(meetnet 1 en 2). Daarnaast zijn er ook nog 24 overstorten geselecteerd waarbij 
+de plaatsing van meetapparatuur voorzien is in de nabije toekomst (meetnet 3).
+b) Meetnet 1 is de vernieuwing van het VMM-meetnet dat werd opgesteld in het kader 
+van de Ecologische Performantie Indicatoren (EPI).
+Meetnet 2 werd opgesteld door Aquafin voor specifiek verstoppingsgevoelige 
+locaties. 
+Meetnet 3 tenslotte is opgesteld aan de hand van een hydraulische analyse, 
+gescoord met de gevoeligheid van de ontvangende waterloop. Meerdere 
+stakeholders (VMM, provincies, lokale besturen en rioolbeheerders) hebben ook 
+suggesties kunnen formuleren.
+c) Aquafin kreeg de opdracht om, in overleg met de VMM en de gemeentelijke 
+rioolbeheerders, de uitbouw van een overstortmeetnet in Vlaanderen te 
+coördineren. Via besluit over de gemeentelijke saneringsverplichting wordt een 
+geïntegreerde en risicogebaseerde aanpak voorzien, inclusief doelen. 
+d) De geïnstalleerde ‘overstortmeters’ zijn waterpeilmeters die in de riolering ter 
+hoogte van de overstortconstructie het rioolwaterpeil meten. Een eenvoudige 
+berekening laat dan toe om te kijken wanneer en hoe lang de overstort in werking 
+treedt. Ook overstortdebieten kunnen bijgevolg benaderend berekend worden. Er 
+wordt geen waterkwaliteit gemeten.
+e) Momenteel bekijkt Aquafin de mogelijkheden hieromtrent, rekening houdend met 
+de wensen van gebruikers en stakeholders. Een realtime meetnet dat via een 
+portaalsite data kan aanbieden is daarbij een van de denkpisten.  
+f) Zie antwoord op deelvraag e. 
+2. De technische haalbaarheid van maatregelen wordt nog verder onderzocht. Enerzijds 
+blijkt uit de hydraulische modellering de overstortwerking op veel plaatsen eerder 
+beperkt. Zo heeft bijvoorbeeld de overstort Houtdok slechts 1 keer gewerkt sinds de 
+plaatsing in juli 2020. In Gent-centrum zijn er wel enkele overstorten (Kleindokkaai, 
+Keizersbrug, Stropkaai en Toemaattragel) geïdentificeerd die frequenter werken. Een 
+mogelijke oplossing bestaat in het uitbreiden van diverse pompstations, persleidingen 
+en de zuiveringsinstallatie. De technische haalbaarheid hiervan moet echter in meer 
+detail bekeken worden. Zoals ik u eerder via uw schriftelijke vraag 967 van 14 juli 
+2023 heb gemeld, vereist de sanering van overstorten zeer grote investeringen; 
+bovenlokaal, maar zeker en vast ook lokaal. Naast maatregelen op het 
+rioleringsstelsel, de pompstations en zuiveringsinstallatie betreft het ook 
+bronmaatregelen die het rioleringsnetwerk ontlasten zoals infiltreren en bufferen van 
+hemelwater. Bovendien moeten ook de bijhorende kosten zoals de (her)aanleg van 
+wegenis, fietspaden, voetpaden,… en eventueel andere delen van het openbaar 
+domein hierbij in rekening gebracht worden. Voor de verdere structurele aanpak is een 
+optimale inzet en afstemming van de gemeentelijke en bovengemeentelijke middelen 
+cruciaal. Het is ook afwachten welke voorwaarden Europa aan de lidstaten zal opleggen 
+via de Europese Richtlijn Stedelijk Afvalwater die in herziening is.
+3. Om overstortwerking te beperken, kunnen, naast het afkoppelen van verharde 
+oppervlakten, ook andere maatregelen genomen worden. Bovendien heeft een 
+afkoppeling van een welbepaalde oppervlakte op de ene locatie niet hetzelfde effect 
+als de afkoppeling van diezelfde oppervlakte op een andere locatie. Er is dus geen 
+eenduidig lineair verband waardoor we niet exact kunnen doorgeven hoeveel 
+regenwater uit het stelsel moet gehouden worden. Voor de aanpak van 
+overstortwerking in Vlaanderen in zijn geheel verwijs ik naar het besluit over de 
+gemeentelijke saneringsverplichting dat op 13 oktober 2023 een eerste keer principieel 
+werd goedgekeurd door de Vlaamse Regering, en waarin een geïntegreerde en 
+risicogebaseerde aanpak wordt voorzien.

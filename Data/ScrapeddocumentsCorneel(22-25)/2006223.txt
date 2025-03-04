@@ -1,0 +1,77 @@
+title: Zonnepanelen die niet optimaal werken door tekortschietend net - Forfaitaire compensatie
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2006223
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1769233
+SCHRIFTELIJKE VRAAG
+nr. 32
+van PETER VAN ROMPUY
+datum: 10 oktober 2023
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Zonnepanelen die niet optimaal werken door tekortschietend net  -  Forfaitaire compensatie
+Ik stel deze vraag in opvolging van schriftelijke vraag nr. 976 van 20 juli 2023 over de 
+forfaitaire compensatie voor zonnepanelen die niet optimaal werken door tekortschietend 
+net.
+1. Kan de minister een overzicht geven van de ontvangen klachten voor mei, augustus 
+en september 2023? Opdeling volgens oorzaak binneninstallatie, oorzaak 
+tekortschietend net met oplossing binnen 30 dagen, oorzaak tekortschietend net met 
+oplossing binnen 18 weken, oorzaak tekortschietend net met oplossing binnen 1 à 2 
+jaar en in analyse.
+2. Hoe evalueert de minister de cijfers ten opzichte van voorgaande jaren?
+ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD 
+op vraag nr. 32 van 10 oktober 2023 
+van PETER VAN ROMPUY
+1. De cijfers voor de maanden mei, augustus en september 2023 zijn terug te vinden in 
+onderstaande tabel.
+Aantal klachten Mei 2023 Aug 2023 Sep 2023
+TOTAAL 1.148 317 234
+Oorzaak binneninstallatie 91 40 44
+Oorzaak net 1.057 277 190
+… met oplossing binnen 30 dagen 660 160 111
+… met oplossing binnen 18 weken 180 60 30
+… met oplossing binnen 1 à 2 jaar 203 47 39
+… in analyse 14 10 10
+2. Het totale aantal klachten op jaarbasis ligt in 2023 hoger dan in de voorgaande jaren. 
+Dat blijkt uit het totale aantal klachten t.e.m. september 2023 (4.878 klachten) t.o.v. 
+het totale aantal klachten voor 2021 (2.564 klachten) en 2022 (2.991 klachten). In die 
+periode zijn er natuurlijk ook heel wat PV-installaties <10 kVA bijgekomen. Waar er in 
+2021 een totaal vermogen was van 2.695 MW (629.569 installaties), liep dit op tot 
+3.240 MW (746.076 installaties) in 2022 en 3.717 MW (845.111 installaties) eind 
+september 2023. Wanneer een bijkomende installatie in een straat wordt geplaatst die 
+het net verzadigt, kunnen ook eerder geplaatste installaties in de buurt hinder 
+ondervinden. Zo kan één bijkomende installatie tot meerdere klachten leiden.
+Een bijkomende verklaring voor het stijgende aantal klachten is mogelijks te vinden in 
+de steeds grotere bekendheid van de mogelijkheid om klacht in te dienen en een 
+compensatie aan te vragen. Deze cijfers zijn ook terug te vinden in onderstaande tabel.
+Voor de maandelijkse klachten zijn er wel verschillen tussen de verschillende jaren op 
+te merken. Het aantal klachten voor april 2023 (874 klachten), mei 2023 (1.148 
+klachten) en juni 2023 (1.470 klachten) ligt opmerkelijk hoger in vergelijking met april 
+2022 (504 klachten), mei 2022 (295 klachten) en juni 2022 (392 klachten). Het aantal 
+klachten voor augustus 2023  (317 klachten) en september 2023 (234 klachten) zit 
+ongeveer op hetzelfde niveau of zelfs lager dan het aantal klachten in augustus 2022 
+(436 klachten) en september 2022 (228 klachten). Deze cijfers zijn ook terug te vinden 
+in onderstaande grafiek.
+Gezien het groeiende aantal PV-installaties en hun vermogen de afgelopen en komende 
+jaren verwachten we dat het aantal klachten voor uitvallende omvormers de komende 
+jaren nog verder zal stijgen. Uit de cijfers blijkt dat bij ongeveer 90% van de klachten 
+het net de oorzaak is van de klachten. Het is positief dat Fluvius zegt dat de meeste 
+klachten binnen het half jaar opgelost kunnen worden. Voor 2023 stelt Fluvius dat 60% 
+van de klachten, waarbij het net de oorzaak is, binnen de 30 dagen na de klacht 
+opgelost kan worden.
+JaarAantal 
+spanningsklachten Cumulatief 
+vermogen PV in 
+MW (<= 10 kVA)Cumulatief aantal 
+PV-installaties
+2017                        626                      1.480 318.227
+2018                        865                      1.687 370.670
+2019                        984                      1.926 433.117
+2020                      1.574                      2.535 588.180
+2021                      2.564                      2.695 629.569
+2022                      2.991                      3.240 746.076
+2023 
+(t.e.m. 09/23)                     4.878                      3.717 845.111
+01002003004005006007008009001000110012001300140015001600
+Sep-21Oct-21Nov-21Dec-21 Jan-22Feb-22Mar-22Apr-22May-22Jun-22Jul-22Aug-22Sep-22Oct-22Nov-22Dec-22 Jan-23Feb-23Mar-23Apr-23May-23Jun-23Jul-23Aug-23Sep-23Uitvallende omvormers

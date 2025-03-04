@@ -1,0 +1,155 @@
+title: Inventarisatie bosoppervlakte - LULUCF
+thema: Natuur en Milieu
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2009054
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1773330
+SCHRIFTELIJKE VRAAG
+nr. 72
+van MIEKE SCHAUVLIEGE
+datum: 19 oktober 2023
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Inventarisatie bosoppervlakte  -  LULUCF
+Op mijn schriftelijke vraag nr. 2 van 21 juni 2019 aan toenmalig minister Koen Van den 
+Heuvel bleek dat de totale oppervlakte bos (IPCC-definitie ‘forest land’) in de LULUCF-
+sector varieert tussen 153.000 ha in 1990, 161.000 ha in 2009 en 158.000 ha in 2012 en 
+is gebaseerd op de best beschikbare Gis-gegevens voor 6799 meetpunten. (LULUCF: land 
+use, land use change and forestry)
+Voorts werd geduid dat "elk jaar hiervoor een tijdsreeks van België/Vlaanderen vanaf het 
+jaar 1990 tot en met het jaar X-2 wordt gerapporteerd tegen 15 maart (aan Europa) en 
+tegen 15 april (aan de Verenigde Naties)." En: "Dit jaar (2019) werd de tijdsreeks 1990-
+2017 gerapporteerd. Volgend jaar zal in het voorjaar 2020 de nieuwe tijdsreeks 1990-2018 
+gerapporteerd worden. In Vlaanderen is de Vlaamse MilieuMaatschappij (VMM) 
+verantwoordelijk voor deze rapportering."
+1. Wat zijn de laatste cijfers wat betreft de IPCC-definitie ‘forest land’? Hoe verhouden 
+die cijfers zich tot de rapportage van 158.000 hectare in 2012 en de tijdreeks 1990-
+2018?
+2. Wat is het beoogde effect op de koolstofopslag van nieuw bos en compensatiebos? 
+Graag een overzicht per provincie, per jaar opgesplitst voor nieuw bos en 
+compensatiebos.
+3. Kan de minister verduidelijken op welke wijze de koolstofverliezen van ontbossingen 
+in rekening worden gebracht, rekening houdend met het feit dat dat per definitie 
+oudere bossen zijn dan de compensatiebebossing?
+4. Is er een monitoringsplan voor de effecten op koolstofopslag en bosaanplanting en/of 
+het mislukken ervan?
+5. Op welke manier dragen bosuitbreidings- en boscompensatieprojecten bij aan de 
+implementatie van de LULUCF-wetgeving?
+6. Wat is de geschatte impact op de koolstofopslagcapaciteit van die bosuitbreidings- en 
+boscompensatieprojecten? Kan de minister ook een projectie in de tijd bezorgen?
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 72 van 19 oktober 2023
+van MIEKE SCHAUVLIEGE
+1. In onderstaande tabel worden de gerapporteerde cijfers van de bosoppervlaktes voor 
+de emissieberekeningen van de LULUCF-sector weergegeven. In deze tabel worden de 
+cijfers van de rapportering van 2019 naast de laatste rapportering gezet.
+De gegevens van landgebruik van de rapportering van 2019 zijn gebaseerd op GIS-
+gegevens voor 6.799 meetpunten, vastgesteld voor de jaren 1990, 2009 en 2012. Voor 
+de andere jaren wordt er gebruik gemaakt van inter- en extrapolatie van de 
+vastgestelde landgebruikswijzigingen. Na de rapportering van 2019 werd er voor het 
+jaar 2015 een analyse gedaan om de landgebruiken voor deze 6.799 punten te bepalen. 
+Daarnaast werd er ook een evaluatie gedaan van de andere vastgelegde jaren (1990, 
+2009 en 2012). Hierdoor zijn er ook wijzigingen aangebracht in de hele tijdreeks. 
+Het is belangrijk om te vermelden dat deze oppervlaktes worden gebruikt als 
+tussenstap voor de berekening van de broeikasgasemissies van de LULUCF-sector. Het 
+doel van deze oppervlaktes is om een inschatting te maken van de emissies en sinks 
+(koolstofopname) bij de verschillende landgebruiken en landgebruiksveranderingen; 
+niet om een perfecte inschatting van de bosoppervlakte te hebben. 
+2. In het Vlaams Energie- en Klimaatplan (VEKP) is opgenomen dat Vlaanderen als doel 
+heeft om 10.000 ha bijkomend bos te realiseren tegen 2030. In de recente update van 
+het VEKP werd een beleidsscenario doorgerekend met prognoses waarbij rekening 
+gehouden werd met het effect van bestaande en bijkomende beleidsmaatregelen, een 
+zogenaamd With Additional Measures (WAM)-scenario. Deze berekeningen zijn 
+gebaseerd op de huidige benadering van de LULUCF-broeikasgasinventaris en zijn dan 
+ook niet ruimtelijk specifiek. Een verdeling over provincies e.d. is dus niet mogelijk.
+Er wordt o.a. geraamd wat de voorziene bosuitbreiding zal opslaan. Dit valt niet in een 
+cijfer uit te drukken aangezien er ook heel wat aannames moeten gebeuren welke 
+landgebruikscategorieën in mindering moeten worden gebracht (zie vraag 6).
+Het beoogde doel van een compensatiebos is, in eerste instantie, het behoud van een 
+gelijkwaardig bosareaal (cf. artikel 90bis, §2). Dit draagt uiteraard bij aan de 
+doelstelling van het VEKP om de bestaande koolstofvoorraden te beschermen door de 
+emissies (door ontbossing) tot een minimum te beperken (zie VEKP 2.3.3.2.3 
+Verhoogde koolstofopslag in bos en natuur). Bij ontbossing gaat de in de bovengrondse 
+biomassa opgeslagen koolstof verloren, behalve dat gedeelte dat verwerkt wordt in een 
+duurzaam houtproduct. Wat de ondergronds opgeslagen koolstof betreft, hangt dit af 
+van het landgebruik na de ontbossing. Omvorming naar een (half)natuurlijk grasland 
+e.d. heeft waarschijnlijk een beperkte uitstoot (bij gelijkblijvend vochtgehalte); Forest land (managed) Final area (kha) 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999
+rapportering 15/03/2019 152,96 153,38 153,80 154,22 154,63 155,05 155,47 155,89 156,30 156,72
+rapportering 15/03/2023 150,83 151,29 151,76 152,23 152,69 153,16 153,63 154,10 154,56 155,03
+,
+Forest land (managed) Final area (kha) 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+rapportering 15/03/2019 157,14 157,56 157,98 158,39 158,81 159,23 159,65 160,06 160,48 160,90
+rapportering 15/03/2023 155,50 155,97 156,43 156,90 157,37 157,84 158,30 158,77 159,24 159,71
+Forest land (managed) Final area (kha) 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+rapportering 15/03/2019 159,90 158,91 157,92 156,92 155,93 154,93 153,94 152,94
+rapportering 15/03/2023 158,18 156,66 155,13 155,33 155,53 155,73 154,93 154,14 153,34 152,55 151,75 150,95
+afgraving, sterke bodemverstoring of drainage een grote. Hoewel de 
+compensatiefactoren hier niet op afgestemd zijn, komt de aanpak hieraan deels 
+tegemoet. Een 1-op-1-compensatie dekt, gezien het verschil in opslag afhankelijk is 
+van de boomleeftijd en de mate van bodemkoolstofverzadiging tussen ontbossing en 
+compensatie, niet helemaal de lading. Oude en soortenrijke bossen, vaak de nattere 
+met een hogere leeftijd, hebben veelal de hoogste compensatiefactoren en die komen 
+hier dus beter aan tegemoet. Ook dit is geen ruimtelijk specifiek doel, zodat ook hier 
+een verdeling over provincies e.d. niet mogelijk is.
+3. Bij de LULUCF-berekeningen wordt er gebruik gemaakt van de gemiddelde staande 
+voorraad hout in een gemiddeld Vlaams bos. Deze gegevens werden verzameld door 
+het Agentschap voor Natuur en Bos (ANB) in de eerste en tweede bosinventaris. Deze 
+informatie is opgenomen in de volgende tabel van het NIR (National Inventory Report, 
+p.245): 
+Op basis van deze gegevens wordt er een berekening gemaakt van het verlies aan CO 2 
+dat 1 ha ontbossing met zich meebrengt. Voor de berekeningen worden deze verliezen 
+volledig ingebracht in het jaar van de ontbossing. De hoeveelheid staand hout wordt 
+voor heel de tijdsreeks per jaar bepaald door inter- en extrapolatie van deze gegevens.
+Voor een nieuw bos zal er maar gerekend worden met de aangroei van een gemiddeld 
+Vlaams bos op jaarbasis. Zo zal dezelfde oppervlakte ontbossing en bebossing in een 
+jaar in het totaal in de LULUCF-berekeningen leiden tot een emissie.
+Momenteel is de derde cyclus van de bosinventaris lopende, maar hiervan zijn nog geen 
+gegevens verwerkt voor de rapportering van de LULUCF-emissies. 
+In het boscompensatiemechanisme zelf wordt op zich geen rekening gehouden met het 
+verschil in balans tussen de koolstofverliezen bij ontbossing en de opbouw van 
+koolstofvoorraad in geval van de compenserende bebossing. De doelstelling is namelijk 
+het behoud van een gelijkwaardig bosareaal (cf. artikel 90bis, §2). 
+Het VEKP heeft de doelstelling om de bestaande koolstofvoorraden te beschermen door 
+de emissies (door ontbossing) tot een minimum te beperken (zie 2.3.3.2.3) met echter 
+een duidelijke voorkeur voor het vermijden van ontbossing (zie 2.3.3.2). Een hogere 
+compensatiefactor remt enerzijds de wens tot ontbossing af en zal anderzijds de 
+snelheid bepalen waarmee de verloren koolstofvoorraden terug worden opgebouwd. De 
+nattere en oudere bossen zijn soortenrijker en hebben veelal de hoogste 
+compensatiefactoren. Bovendien houdt het ANB bij het beoordelen van het al of niet 
+toestaan van een ontheffing op het ontbossingsverbod en bij de advisering van 
+omgevingsvergunningen met ontbossingen met verschillende criteria rekening 
+waaronder ‘de bosleeftijd’ of duur van ononderbroken aanwezigheid van bos op de site 
+
+in kwestie. Op deze manier wordt vanuit het bosbeleid bijgedragen aan de 
+doelstellingen van de LULUCF-verordening.
+4. De koolstofopslag in biomassa op Vlaams niveau wordt gemonitord via de Vlaamse 
+bosinventarisatie. Deze inventaris werkt met punten in een vast geometrisch grid. Als 
+er dus op een van die punten een bos wordt aangeplant, wordt vanaf dan ook daar de 
+evolutie van de koolstofvoorraden in de biomassa mee opgemeten. 
+Voor het mislukken van een bosaanplanting is er geen specifieke monitoringsaanpak. 
+Op de verplichte aanplantingen, dus voor ontbossingscompensaties, wordt toegezien 
+door het ANB. Indien de aanplanting mislukt, moet die hersteld worden, waarna die 
+aanplant op zijn beurt kan “verschijnen” in de Vlaams bosinventarisatie. 
+De impact op de bodemkoolstof is het onderwerp van het Vlaams 
+bodemkoolstofmeetnetwerk. Daarmee wordt op een aanverwante manier de 
+gemiddelde koolstofvoorraad en de evoluties daarin van onder meer bossen opgevolgd. 
+Om specifiek in te zoomen op bepaalde landgebruiksveranderingen, worden specifieke 
+in dit geval ontbossingen over lange duur gemonitord.
+5. Het voor uw vraag relevante element van de LULUCF-verordening is de verplichting om 
+in de periode 2021-2025 geen netto uitstoot van broeikasgassen over de verschillende 
+landgebruikscategorieën heen te veroorzaken en in de periode 2026-2030 310 miljoen 
+ton CO 2￿equivalent bijkomend op te slaan als streefcijfer voor de Unie als geheel. De 
+bijdrage van België is daarbij 320 kt CO 2-eq. over de verschillende 
+landgebruikscategorieën heen. 
+Bosuitbreidingsprojecten verhogen de capaciteit van een stuk grond om meer CO 2 op 
+te slaan. Boscompensatie remt het negatieve effect van de landgebruiksverandering 
+ontbossing op de broeikasgasboekhouding af. Het eerste draagt dus direct bij aan de 
+opgelegde doelstelling, het tweede vergemakkelijkt de realisatie ervan.
+6. De geschatte impact op de koolstofopslagcapaciteit en de prognoses is een technisch 
+en gecompliceerd verhaal. Om een eenvoudig voorbeeld te geven: bij prognoses 
+omtrent bijvoorbeeld bosuitbreiding moet er dus ook bepaald worden welke 
+landgebruikscategorieën dan in mindering worden genomen in de toekomst. 
+Afhankelijk van het initiële landgebruik krijgt men dus een andere ‘winst’. Mijn 
+administratie maakte hierover een nota die als bijlage gaat.
+BIJLAGE
+Nota LULUCF-resultaat update 2023

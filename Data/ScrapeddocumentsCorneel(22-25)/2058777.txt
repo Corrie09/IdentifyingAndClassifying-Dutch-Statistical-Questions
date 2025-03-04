@@ -1,0 +1,230 @@
+title: Lokale en provinciale besturen - Audit cyberveiligheid (2)
+thema: Lokale overheden en Binnenlands bestuur
+Wetenschap en Innovatie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2058777
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1811484
+SCHRIFTELIJKE VRAAG
+nr. 164
+van BRECHT WARNEZ
+datum: 11 maart 2024
+aan GWENDOLYN RUTTEN
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BINNENLANDS BESTUUR, 
+BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN
+Lokale en provinciale besturen  -  Audit cyberveiligheid (2)
+Met het Project Cyberveilige Gemeenten wil de Vereniging van Vlaamse Steden en 
+Gemeenten (VVSG), in samenwerking met Vlaanderen, het Agentschap Binnenlands 
+Bestuur (ABB), Audit Vlaanderen en Digitaal Vlaanderen, lokale besturen voorbereiden op 
+de reële dreigingen die cybercrime meebrengt. De afgelopen jaren kregen veel gemeenten 
+in Vlaanderen te kampen met cybercriminaliteit. De ondersteuning van gemeenten die zich 
+wensen te wapenen tegen cybercriminaliteit is een van de actiepunten van de minister.
+Er werden drie sporen opgezet. Enerzijds is er de mogelijkheid tot uitvoering van een 
+basisaudit door Audit Vlaanderen, die voor twee derde door de Vlaamse overheid betaald 
+wordt. Gemeenten kunnen altijd een bijkomende audit laten uitvoeren. Daarvoor is in een 
+cofinanciering van 50 procent voorzien. Gemeenten kunnen er ook voor opteren om een 
+ethische hacker van hogeschool HOWEST het ICT-systeem (ICT: informatie- en 
+communicatietechnologie) van gemeenten te laten testen. Beide initiatieven sluiten elkaar 
+niet uit. Mede op mijn vraag werd de mogelijkheid geboden om systemen zoals camera’s 
+mee te nemen in die screenings.
+Ten tweede werd een ‘toolkit cyber security’ uitgebouwd. De box bevat leidraden en 
+sjablonen, video's en infofiches die een meerwaarde betekenen voor steden en gemeenten. 
+VVSG heeft daarom, samen met diverse partners, de info verzameld, en samengebracht 
+in één toolkit.
+Ten slotte werd ingezet op bewustmaking en kennisdeling. Er werden boeiende inspiratie- 
+en vormingssessies opgezet om besturen te informeren en te sensibiliseren rond het thema 
+cyberveiligheid.
+Het is van essentieel belang om het effect van de sporen op regelmatige basis te evalueren. 
+Een bevordering van de cyberveiligheid bij lokale besturen versterkt het vertrouwen van 
+burgers in hun overheid, aangezien het de kans op datalekken van de gevoelige gegevens 
+van die burgers minimaliseert. Daarnaast is een degelijke cyberveiligheid ook van belang 
+om de continuïteit van de dienstverlening te garanderen, iets wat een cyberaanval zou 
+kunnen verstoren, met onmiddellijke gevolgen voor de lokale gemeenschap. Tot slot 
+kunnen goede cyberbeveiligingsmaatregelen en -richtlijnen ook zogenaamde ransomware-
+aanvallen voorkomen, waarbij lokale systemen vergrendeld worden en pas tegen 
+losgeldbetaling worden vrijgegeven. De bovenvermelde redenen geven nogmaals weer hoe 
+belangrijk een goede cyberbeveiliging is voor lokale besturen.
+Dit is een opvolgvraag van mijn schriftelijke vragen nr. 46 van 20 oktober 2022 en nr. 34 
+van 19 oktober 2023.
+Gelieve alle gegevens beschikbaar te stellen in Excel.
+1. Betreffende het luik ’ethisch hacken’ en professionele ICT-veiligheidsaudits.
+a) Graag een actueel overzicht van het aanbod met vermelding van het aantal 
+intekeningen per aanbod, per provincie en gemeente per jaar voor deze legislatuur.
+b) Hoe evalueert de minister het aanbod?
+c) Hoe evalueert de minister de intekening van de lokale besturen?
+d) Hoe kijkt de minister naar de lokale besturen die niet of erg beperkt ingezet hebben 
+op dat aanbod?
+e) Blijkt uit overleg met VVSG of andere actoren een nood aan verdere uitbreiding 
+van het aanbod of het traject?
+i. Zo ja, welke noden zijn er en zal de minister dat doen?
+ii. Ziet de minister naar de toekomst toe nog nodige actiepunten op dat vlak?
+2. De minister breidde het Project Cyberveilige Gemeenten uit.
+a) Wat zijn de resultaten van die uitbreiding?
+b) Hoe evalueert de minister die uitbreiding en de intekening van de lokale besturen?
+c) Ontving de minister al opmerkingen van de lokale besturen of de betrokken 
+actoren?
+d) Blijkt uit overleg met VVSG of andere actoren een nood aan verdere uitbreiding 
+van het aanbod of het traject?
+i. Zo ja, welke noden zijn er en zal de minister dat doen?
+ii. Ziet de minister naar de toekomst toe nog nodige actiepunten op dat vlak?
+3. Betreffende de toolkit cybersecurity:
+a) Wat zijn de resultaten van de uitbouw en de consultatie?
+b) Hoe evalueert de minister de huidige samenstelling van de toolkit?
+c) Ontving de minister al opmerkingen van de lokale besturen of de betrokken 
+actoren?
+d) Blijkt uit overleg met VVSG of andere actoren een nood aan verdere uitbreiding 
+van het aanbod of het traject?
+i. Zo ja, welke noden zijn er en zal de minister dat doen?
+ii. Ziet de minister naar de toekomst toe nog nodige actiepunten op dat vlak?
+4. In zijn antwoord op schriftelijke vraag nr. 46 liet minister Somers weten dat er 
+gesprekken liepen met de Vlaamse Vereniging voor Steden en Gemeenten (VVSG) om 
+extra tools te ontwikkelen met betrekking tot de bestaande ‘toolkit cyberveiligheid’ 
+van de VVSG.
+a) Hebben die gesprekken iets opgeleverd?
+b) Heeft de VVSG of een andere actor extra tools ontwikkeld of verzameld?
+i. Hoe evalueert de minister die extra tools?
+ii. Wat is de timing en het budget voor die extra tools?
+5. In zijn antwoord op schriftelijke vraag nr. 46 liet minister Somers weten dat de VVSG 
+een lerend netwerk zou opstarten voor de inzet van camera’s in de publieke ruimte en 
+dat er richtlijnen zouden worden opgesteld voor adequaat en verantwoord 
+camerabeleid.
+a) Welke elementen zijn reeds gerealiseerd op dat punt?
+i. Wat zijn de resultaten tot op vandaag?
+ii. Hoe evalueert de minister die zaken?
+b) Plant de minister bijkomende maatregelen rond de inzet van camera’s in de 
+publieke ruimte?
+i. Zijn er al concrete voorstellen?
+ii. Graag plan van aanpak met timing en budget.
+6. Betreffende het luik ‘ewustmaking en kennisdeling’.
+a) Kan de minister een overzicht geven van de initiatieven die in deze legislatuur op 
+dat vlak genomen werden, alsook het aantal bereikte besturen bij elk initiatief?
+b) Hoe evalueert de minister die initiatieven?
+a) Van welke elementen uit die werking is de minister overtuigd dat er een vervolg 
+op dient te komen?
+GWENDOLYN RUTTEN
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BINNENLANDS BESTUUR, 
+BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN
+ANTWOORD 
+op vraag nr. 164 van 11 maart 2024
+van BRECHT WARNEZ
+1. Betreffende het luik ‘ethisch hacken’ en professionele ICT-veiligheidsaudits. 
+a) Het aanbod is tweeledig: 
+i. Het traject Ethisch Hacken was een onderdeel van het project Cyberveilige 
+Gemeenten van VVSG. Hiermee kregen steden en gemeenten de mogelijkheid 
+om hun organisatie gratis te laten doorlichten door studenten van de Howest die 
+als ethische hacker te werk gingen. 
+ii. De cofinanciering van ICT-veiligheidsaudits is een initiatief van de Vlaamse 
+overheid, in het bijzonder Audit Vlaanderen en het Agentschap Binnenlands 
+Bestuur. Hiermee krijgen de lokale besturen deels financiële steun om hun ICT-
+omgeving te laten doorlichten door professionele auditfirma’s. Op die manier 
+kunnen lokale besturen kwetsbaarheden in kaart brengen en er nadien onder 
+begeleiding mee aan de slag te gaan. 
+In bijlage 1 vindt u het overzicht van de deelnemende lokale besturen per jaar, per 
+provincie voor het traject Ethisch Hacken en de ICT-veiligheidsaudits. 
+b) Beide initiatieven hebben hun meerwaarde en zijn succesvol. Het traject Ethisch 
+Hacken is een laagdrempelig en kosteloos initiatief en is daarom toegankelijker. De 
+ICT-veiligheidsaudits zijn technischer en geven een zeer goed zicht op de 
+belangrijkste kwetsbaarheden van de lokale besturen en resulteren in concrete 
+aanbevelingen. 
+Met het beëindigen van het actieplan Cyberveilige Steden en Gemeenten eind 
+februari werd ook het traject Ethisch Hacken stopgezet. De cofinanciering van ICT-
+veiligheidsaudits wordt in 2024 verdergezet.  
+c) Het aantal aanvragen van zowel het traject Ethisch Hacken als de cofinanciering van 
+ICT-veiligheidsaudits zijn zeer hoog. In totaal namen 158 lokale besturen deel aan 
+het traject Ethisch Hacken. 176 lokale besturen lieten reeds een ICT-veiligheidsaudit 
+met cofinanciering uitvoeren. Met beide trajecten zijn dus 234 van de 300 
+gemeentebesturen bereikt. Daarnaast hebben intussen al 3 intercommunales een 
+bestelling geplaatst. 
+d) Een minderheid van de lokale besturen heeft nog geen gebruik gemaakt van het 
+aanbod. Lokale besturen kunnen ook in 2024 op financiële steun rekenen voor de 
+ICT-veiligheidsaudits. Ik moedig alle lokale besturen die het nog niet deden, aan om 
+een ICT-veiligheidsaudit met cofinanciering te laten uitvoeren. 
+e) Ja, naar aanleiding van de cyberaanval op de intercommunale Limburg.net blijkt dat 
+ook intercommunales en provincies meer inzicht nodig hebben op de belangrijkste 
+kwetsbaarheden en risico’s. Daarom heb ik beslist om vanaf maart 2024 het 
+cofinancieringsaanbod uit te breiden zodat ook intercommunales en provincies een 
+aanvraag kunnen indienen. 
+2. a) Met de verlenging van het actieplan Cyberveilige Steden en Gemeenten in 2023 zijn 
+de bestaande activiteiten verdergezet en uitgebreid. In de eerste plaats is ingezet in 
+het verder uitbreiden van de toolkit cyberveiligheid met inspirerende testimonials, 
+een draaiboek voor het organiseren van een cybercrisisoefening, een overzicht van 
+nuttige freeware en een kalender met initiatieven en vormingen. Daarnaast zijn 
+verschillende webinars georganiseerd om dieper in te gaan op de verschillende 
+instrumenten. Ook is het traject ethisch hacken in 2023 verdergezet en zijn extra 
+bewustmakingssessies georganiseerd voor lokale medewerkers.  
+b) Met de verderzetting van het project Cyberveilige Gemeenten in 2023 zijn de 
+ontwikkelde resultaten verder uitgewerkt en verspreid. Ik ben tevreden met het 
+bereik van de toolkit cyberveiligheid, het traject Ethisch Hacken en de webinars. 
+c) Ik heb geen opmerkingen ontvangen over het actieplan Cyberveilige Steden en 
+Gemeenten van lokale besturen of de betrokken actoren. 
+d) In samenspraak met VVSG is beslist om de praktische ondersteuning van lokale 
+besturen meer te centraliseren vanuit de Vlaamse overheid. Met de vele initiatieven 
+van de Vlaamse overheid, is het voor lokale besturen niet altijd duidelijk waar men 
+terecht kan voor ondersteuning. Met de oprichting van het Cyber Response Team 
+(Vo-CRT) is er nu een duidelijk centraal aanspreekpunt voor lokale besturen. Daarom 
+is – in samenspraak met VVSG – beslist om het project Cyberveilige Gemeenten niet 
+meer verder te zetten. De VVSG blijft vanzelfsprekend een belangrijke 
+gesprekspartner in de verdere ondersteuning van de lokale besturen rond de 
+thematiek cyberveiligheid. VVSG zetelt bijvoorbeeld mee in de stuurgroep van het 
+Cyber Response Team en wordt mee betrokken in de verschillende inhoudelijke 
+trajecten. 
+3. a) De toolkit cybersecurity bestaat uit 15 instrumenten, sjablonen of leidraden die de 
+lokale besturen kunnen gebruiken als handvaten bij het uitwerken van een 
+informatieveiligheidsbeleid. Deze sjablonen werden opgesteld door een taskforce, 
+bestaande uit experten van steden, gemeenten, brandweer- en politiezones, 
+intercommunales en provincies. 
+In bijlage 2 vindt u het overzicht en de consultatie van de toolkit cyberveiligheid. 
+b) Inhoudelijk zit de toolkit cyberveiligheid goed. De toolkit cyberveiligheid biedt een 
+breed gamma aan instrumenten, sjablonen of leidraden ter ondersteuning bij de 
+verschillende aspecten van informatie- en cyberveiligheidvoor lokale besturen..
+c) Ik heb zelf geen opmerkingen ontvangen over de toolkit cyberveiligheid vanuit de 
+lokale besturen of actoren.
+d) Hoewel het een zeer nuttig instrument is en al veel inspanningen zijn geleverd om 
+het kenbaar te maken, blijkt dat de toolkit cyberveiligheid voorlopig nog te weinig 
+wordt gebruikt. Het is daarom belangrijk dat de toolkit cyberveiligheid voldoende 
+onder de aandacht wordt gebracht. Het Cyber Response Team (Vo-CRT) staat 
+voortaan in voor de aanvulling, het onderhoud en de verspreiding ervan en maakt 
+hier verder werk van met onder meer een tweewekelijkse nieuwsbrief. Als er op 
+termijn nood is aan nieuwe instrumenten, zal het Cyber Response Team die 
+ontwikkelen. 
+4. a) Naar aanleiding van de mogelijke beveiligingsrisico’s van Chinese camerasystemen 
+werd beslist om een bijkomend instrument, de beveiligingsrichtlijn voor 
+camerasystemen, te ontwikkelen om steden en gemeenten te ondersteunen bij het 
+nemen van de gepaste beveiligingsmaatregelen. Deze beveiligingsrichtlijn voor 
+camerasystemen is een aanvulling op de toolkit cyberveiligheid. 
+b) De beveiligingsrichtlijn is opgesteld door EY in samenwerking met VVSG en experten 
+van lokale besturen. Het ontwikkelen van het instrument, inclusief voorbereiding, 
+bevraging van lokale besturen en validatie van het instrument duurde 4 maanden. 
+Het budget voor de ontwikkeling van de beveiligingsrichtlijnen bedroeg 35.575 euro. 
+5. a) Ik heb geen zicht op eventuele resultaten. Het opstarten van het lerend netwerk 
+kadert binnen de subsidie Smart Cities van VLAIO aan VVSG. Mijn collega bevoegd 
+voor Innovatie volgt dit verder op.
+b) Voorlopig zijn er voldoende instrumenten of handvaten op vlak van camerabeleid en 
+-beveiliging. 
+6. a) In het kader van het actieplan Cyberveilige Steden en Gemeenten zijn er door de 
+VVSG verschillende webinars georganiseerd om steden en gemeenten te 
+sensibiliseren op vlak van informatie- en cyberveiligheid. Verder heeft het Cyber 
+Response Team (Vo-CRT) ook verschillende initiatieven opgezet om lokale besturen 
+bewust te maken van de gevaren van cybercriminaliteit. Het Cyber Response Team 
+publiceert onder meer kennisartikels op haar website en verspreidt een 
+tweewekelijkse nieuwsbrief. Daarnaast hebben lokale besturen via het Cyber 
+Response Team recent kunnen intekenen op een phishing campagne. Dit kadert 
+binnen de inspanningen om het bewustzijn bij de personeelsleden van de lokale 
+besturen te vergroten. De lokale besturen konden gratis deelnemen aan de 
+campagne. 
+In bijlage 3 vindt u het overzicht en het bereik van de webinars die VVSG 
+organiseerde in het kader van het project Cyberveilige Gemeenten.  
+b) Ik ben tevreden met de opgezette initiatieven. Er zijn de voorbije jaren al heel wat 
+acties ondernomen om cyberveiligheid van lokale besturen hoger op de 
+beleidsagenda te zetten via verschillende trajecten en kanalen waarbij de focus lag 
+op verschillende doelgroepen. Het is echter ontzettend belangrijk dat lokale besturen 
+met deze beschikbare kennis en informatie verder aan de slag blijven gaan. 
+c) Ook naar de toekomst zal ik verder blijven inzetten op ondersteuning, sensibilisering 
+en bewustmaking. Het is van groot belang dat elke medewerker van een lokaal 
+bestuur alert blijft en zich bewust is van de veiligheidsrisico’s en 
+verantwoordelijkheden die ze dragen. Ik ben een grote voorstander van interactieve 
+vormen van sensibilisering, zoals de phishing-test die het Cyber Response Team 
+opgezet heeft. Op die manier wijzen we niet enkel ICT-medewerkers op de gevaren, 
+maar de hele organisatie.  
+BIJLAGEN
+1.Resultaten ICT-veiligheidsaudits en traject ethisch hacken
+2.Resultaten toolkit cyberveiligheid
+3.Resultaten webinars

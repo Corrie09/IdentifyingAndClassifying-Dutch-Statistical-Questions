@@ -1,0 +1,140 @@
+title: Woonzorgcentra (wzc's) - Leegstand
+thema: Welzijn en Gezin
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2057838
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1812145
+SCHRIFTELIJKE VRAAG
+nr. 296
+van KATRIEN SCHRYVERS
+datum: 13 maart 2024
+aan HILDE CREVITS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+Woonzorgcentra (wzc's)  -  Leegstand
+De coronacrisis had haar invloed op de bezetting in de woonzorgcentra. De voorbije periode 
+steeg de bezetting van de woonzorgcentra echter opnieuw. 
+In antwoord op schriftelijke vragen (meest recent nr. 508 van 20 maart 2023) verkreeg ik 
+cijfers over de bezettingsgraad van de woonzorgcentra.
+In antwoord op mijn schriftelijke vraag nr. 424 van 3 maart 2022 vernam ik dat in 2020 
+55.360 nieuwe opnames van bewoners in woonzorgcentra werden geregistreerd en in 2021 
+60.107. Een groot verschil met 2022 toen er 28.709 nieuwe opnames werden aangemeld 
+voor personen zonder een eerdere opname in een woonzorgcentrum.
+1. Wat was de gemiddelde bezettingsgraad in de Vlaamse woonzorgcentra in de jaren 
+2023, 2019 en 2018? Graag een opdeling per jaar en telkens een overzicht per 
+provincie en per maand.
+2. Kan de minister per provincie meedelen hoeveel woonzorgcentra in 2023 een 
+gemiddelde bezetting hadden hoger dan 95%, hoeveel hoger dan 90%, 85% 
+enzovoort?
+3. Hoeveel nieuwe opnames gebeurden er in totaal in de Vlaamse woonzorgcentra in de 
+jaren 2023, 2019 en 2018? Graag een opdeling per jaar.
+4. Hoe komt het dat het aantal nieuwe opnames in de jaren 2020 en 2021 zoveel hoger 
+lag dan in 2022?
+HILDE CREVITS 
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+ANTWOORD
+op vraag nr. 296 van 13 maart 2024
+van KATRIEN SCHRYVERS
+1. Het departement zorg beschikt niet over de precieze gemiddelde bezettingsgraad per 
+maand of per organisatievorm of per provincie voor de jaren 2018 of 2019. 
+Hieronder vindt u evenwel een raming van de gemiddelde bezettingsgraad in de 
+Vlaamse woonzorgcentra op basis van een vergelijking tussen het aantal dagen 
+waarvoor een basistegemoetkoming voor zorg werd gefactureerd en het gemiddeld 
+aantal erkende woongelegenheden. De gemiddelde bezettingsgraad in woonzorgcentra 
+erkend door de Vlaamse overheid bedraagt aldus 94,25% in 2018 en 94,71% in 2019.
+  
+Het is belangrijk te noteren dat het hier een raming betreft: Enerzijds is het aantal 
+opgenomen bewoners gebaseerd op de gegevens betreffende het aantal gefactureerde 
+ligdagen. Het werkelijk aantal opgenomen bewoners zal iets hoger liggen omdat bij 
+afwezigheid van een bewoner (bijvoorbeeld omwille van opname in het ziekenhuis) er 
+geen facturatie van de basistegemoetkoming zorg mag gebeuren. Anderzijds werd het 
+aantal erkende woongelegenheden berekend als het gemiddelde van de erkende 
+capaciteit bij het begin van de periode en de erkende capaciteit op het einde van de 
+periode.
+Erkende capaciteit 31/12/2017 80.360 (a)
+Erkende capaciteit 31/12/2018 81.708 (b)
+Raming gemiddelde erkende capaciteit 2018 81.034 (c) =(a+b)/2
+Gefactureerde dagen 1/1/2018-31/12/2018 27.877.585 (d)
+Aantal opgenomen bewoners 76.377 (e) = d/365
+Geschatte bezettingsgraad Vlaanderen 
+woonzorgcentra 201894,25% (e)/(c)
+Erkende capaciteit 31/12/2018 81.708 (a)
+Erkende capaciteit 31/12/2019 82.093 (b)
+Raming gemiddelde erkende capaciteit 2019 81.901 (c) =(a+b)/2
+Gefactureerde dagen 1/1/2019-31/12/2019 28.313.058 (d)
+Aantal opgenomen bewoners 77.570 (e) = d/365
+Geschatte bezettingsgraad Vlaanderen 
+woonzorgcentra 201994,71% (e)/(c)
+Hieronder vindt u de gemiddelde bezettingsgraad per provincie en per maand voor het 
+jaar 2023. Deze bezettingsgraad werd berekend door het aantal bewoners opgenomen 
+op de laatste dagen van de maand te vergelijken met het aantal erkende 
+woongelegenheden op de laatste dag van de maand
+Maand Antwerpen Brussel 
+Hoofd-
+stedelijk 
+GewestLimburg Oost-
+VlaanderenVlaams-
+BrabantWest-
+Vlaanderen
+ 31/01/2023 92,13% 84,56% 94,89% 95,36% 91,94% 94,59%
+ 28/02/2023 92,12% 84,88% 95,31% 94,94% 92,30% 94,85%
+ 31/03/2023 92,78% 82,53% 95,73% 95,56% 93,18% 95,18%
+ 30/04/2023 93,08% 83,46% 95,96% 96,07% 93,45% 95,30%
+ 31/05/2023 92,79% 82,03% 96,00% 96,18% 93,02% 94,92%
+ 31/07/2023 92,44% 85,59% 96,36% 96,12% 93,65% 95,62%
+ 30/06/2023 92,89% 83,74% 96,45% 95,97% 93,61% 95,46%
+ 31/08/2023 92,99% 84,00% 96,53% 96,22% 93,58% 95,46%
+ 30/09/2023 92,98% 85,73% 96,66% 96,02% 93,81% 95,47%
+ 31/10/2023 92,81% 85,83% 96,26% 96,12% 93,63% 95,20%
+ 30/11/2023 93,19% 85,24% 95,93% 96,05% 94,04% 95,33%
+ 31/12/2023 92,84% 83,54% 95,31% 95,60% 93,32% 95,42%
+2. Hieronder vindt u per provincie het aantal woonzorgcentra op 31/12/2023 met een 
+gemiddelde bezetting hoger dan 95%, 90%, 85%, ….
+Bezettings-
+graadAntwerpen Brussel 
+Hoofd-
+stedelijk 
+GewestLimburg Oost-
+VlaanderenVlaams-
+BrabantWest
+-Vlaanderen
+30% - 35% 0 0 0 0 0 1
+30% - 40% 1 0 0 0 2 0
+40% - 45% 1 0 0 0 0 0
+40% - 50% 2 0 0 0 0 1
+50% - 55% 0 0 0 1 0 0
+55% - 60% 0 1 0 0 0 0
+60% - 65% 3 0 0 1 2 1
+65% - 70% 2 0 0 1 0 0
+70% - 75% 3 2 1 1 1 0
+75% - 80% 4 0 1 2 4 3
+80% - 85% 7 0 3 3 4 5
+85% - 90% 18 2 3 8 12 9
+90% - 95% 42 3 29 38 31 18
+> 95% 121 1 6 142 82 127
+3. Er zijn geen gegevens over 2018 beschikbaar.
+We definiëren een nieuwe opname als:
+-een opname met een startdatum in het jaar in kwestie;
+-geen opname gekend in de jaren voor het jaar in kwestie;
+-hierbij kijken we naar alle Vlaams erkende WZC’s (ook deze die in Brussel gelegen 
+zijn);
+-met eerdere opnames in CVK’s of CDV’s wordt geen rekening gehouden.
+De tabel hieronder toont de gegevens eWZCfin van 13/03/2024. 
+Het verschil in aantal unieke personen voor het jaar 2022 in SV508 (28.709) en 
+onderstaande tabel (28.723) is te wijten aan het feit dat de SV508 is beantwoord op 
+basis van gegevens zoals gekend op 20/03/2023. Sinds 20/03/2023 zijn er 14 nieuwe 
+opnames aangemeld voor personen zonder een eerdere opname in een 
+woonzorgcentrum
+Jaar Aantal unieke personen met 
+nieuwe opname in een WZC
+2019 28.781
+2020 25.956
+2021 29.277
+2022 28.723
+2023 27.022
+4. De definitie van “een nieuwe opname” verschilt in de cijfers van SV424 en SV508. In 
+SV424 wordt een persoon meerdere keren geteld. In SV508 niet (nieuwe opnames 
+aangemeld voor personen zonder een eerdere opname in een woonzorgcentrum). De 
+cijfers kunnen dus niet met elkaar worden vergeleken. Uit de tabel onder punt 3 blijkt 
+dat het aantal unieke personen met een nieuwe opname in een WZC lager ligt in 2020 
+(COVID-19). Het aantal unieke personen met een nieuwe opname in een WZC ligt in 
+2021 iets hoger dan in 2019 en 2022. 

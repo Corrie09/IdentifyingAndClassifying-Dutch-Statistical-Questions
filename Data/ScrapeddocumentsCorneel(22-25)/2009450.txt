@@ -1,0 +1,135 @@
+title: VREG - Handhaving maandelijkse afrekening reëel verbruik
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2009450
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/vragen-aan-de-vreg/1776688
+VRAAG OM INFORMATIE
+nr. 1
+van ROBRECHT BOTHUYNE
+datum: 31 oktober 2023
+aan de VREG
+VLAAMSE REGULATOR VAN DE ELEKTRICITEITS- EN GASMARKT
+VREG  -  Handhaving maandelijkse afrekening reëel verbruik 
+Door de uitrol van de digitale meter kunnen klanten nu kiezen voor een maandelijkse 
+afrekening van hun reëel verbruik. Ze betalen dan geen voorschot, maar effectief wat ze 
+verbruikt hebben de voorbije maand. Dat systeem beloont en stimuleert de gezinnen om 
+te gaan besparen op energie. De inspanningen die de gezinnen geleverd hebben om te 
+besparen, zijn direct zichtbaar op hun maandelijkse factuur. Dat is niet het geval als er 
+wordt gewerkt met een voorschotfactuur.
+De maandelijkse afrekening voorkomt daarnaast dat gezinnen geconfronteerd worden met 
+hoge voorschotfacturen. Want men betaalt enkel de effectief verbruikte energie.
+In het besluit van de Vlaamse Regering tot wijziging van het Energiebesluit van 19 
+november 2010, wat betreft de sociale openbaredienstverplichtingen en REG-
+openbaredienstverplichtingen, werd o.a. artikel 2 ingevoegd: “Art. 2. Aan artikel 3.2.18, 
+eerste lid, 4 van hetzelfde besluit, ingevoegd bij besluit van de Vlaamse Regering van 15 
+juli 2016, wordt een punt c) toegevoegd, dat luidt als volgt: “c) facturering op maandbasis 
+van het gemeten maandverbruik bij eindafnemers met een digitale meter, wanneer het 
+gaat om een leverancier die meer dan 200.000 afnamepunten in het Vlaamse Gewest 
+belevert.”
+Dat betekent dat leveranciers van gas en elektriciteit met meer dan 200.000 afnamepunten 
+daarvoor in aanmerking komen.
+Artikel 66 stelt dan weer: “Art. 66. Artikel 2, 46, 48, 55, 56, 57, 58, 60, 61, en 62 treden 
+in werking op 1 april 2022.” Dat is geldig voor zowel elektriciteitsleveranciers als 
+gasleveranciers.
+Na rondvraag blijkt niet elke energieleverancier de mogelijkheid tot maandelijkse 
+effectieve afrekening aan te bieden. Het is de taak van de regulator om erop toe te zien 
+dat leveranciers de Vlaamse regelgeving correct toepassen.
+1. Op welke manier ziet de VREG toe op de correcte toepassing van de Vlaamse 
+energieregelgeving? Wat is het draaiboek daartoe? Met welke voorwaarden in het 
+achterhoofd wordt die controle gedaan? Hoeveel voltijdsequivalenten (vte’s) werken 
+daarrond?
+2. Indien er geen correcte toepassing wordt vastgesteld: op welke manier kan de VREG 
+reageren? Zijn er verschillende gradaties van handhaving te onderscheiden en zo ja, 
+welke?
+3. Indien een handhavingstraject: hoe verloopt dat van start tot einde? Welke gradaties 
+van handhaving zijn er? Op welke manier zal de energieleverancier aangesproken 
+worden op de niet-naleving van de Vlaamse energieregelgeving? Hoe verloopt de 
+opvolging van dat handhavingsdossier?
+4. In concreto: indien een energieleverancier die de maandelijkse afrekeningen zou 
+moeten toepassen dat niet doet, wat is de handhavingsstrategie van de VREG?
+5. Wat is de ervaring van de VREG inzake handhavingsdossiers? Op welk vlak zou er 
+bijgestuurd kunnen worden?
+VREG 
+VLAAMSE REGULATOR VOOR DE ELEKTRICITEITS- EN GASMARKT 
+ANTWOORD 
+op vraag nr. 1 van 31 oktober 2023
+van ROBRECHT BOTHUYNE 
+1. De VREG heeft inderdaad de decretale taak om toe te zien op de naleving van een 
+aantal specifieke titels en hoofdstukken van het Energiedecreet, en de bijhorende 
+uitvoeringsbepalingen in het Energiebesluit en de naleving van de technische 
+reglementen (art. 3.1.3, 1°, a en b van het Energiedecreet)
+Er is geen vast draaiboek voor het uitvoeren van deze controles. De na te leven 
+bepalingen zijn zeer divers en er zijn ook verschillende manieren waarop de VREG de 
+naleving ervan controleert en/of kan controleren. 
+In zijn jaarlijks ondernemingsplan lijst de VREG de controles die het dat jaar plant uit 
+te voeren.  Er zijn periodieke controleprocessen (bv. naleving quotumverplichtingen), 
+doorlopende controles (bv. opvolging financiële toestand leveranciers), maar ook ad 
+hoc controles (vb. bij de invoering van nieuwe regelgeving, zoals bv. bij de invoering 
+van de verplichting tot het aanbieden van maandfacturatie).  
+In ons jaarverslag geven we toelichting over de uitgevoerde controles en de 
+bevindingen daarvan. Voor sommige controleprocessen publiceren we een apart, meer 
+gedetailleerd rapport (bv. tweejaarlijks rapport databeheer, jaarlijks rapport 
+energiedelen, jaarlijks rapport financiële situatie leveranciers). 
+De controles worden voornamelijk uitgevoerd door de 4 VTE van het team 
+Markttoezicht (met name de controle op de naleving van de 
+openbaredienstverplichtingen en de verplichtingen opgelegd aan de leveranciers). 
+Doch ook binnen het team netexploitatie en marktfacilitatie wordt er toegezien op de 
+naleving door de netbeheerder van de in de regelgeving opgelegde vereisten inzake 
+net- en databeheer (naast hun andere taken inzake o.a. de opmaak van technische 
+regulering). 
+2. De VREG heeft appreciatiebevoegdheid bij het bepalen van zijn reactie indien de 
+regelgeving niet nagevolgd wordt. Enkel in enkele decretaal omschreven gevallen (o.a. 
+niet-naleving van de quotumverplichtingen – art.13.35.5 van het Energiedecreet) 
+heeft de VREG geen appreciatiebevoegdheid en dient hij verplicht de decretaal 
+bepaalde administratieve boete op te leggen.  
+3. Een handhavingstraject start met het ingebrekestellen van de betrokken partij met de 
+vraag om de niet-naleving stop te zetten tegen een bepaalde datum (cfr. art. 13.3.1, 
+§1 Energiedecreet). Deze ingebrekestelling bevat een beschrijving van de feiten die 
+aanleiding geven tot de opstart van het handhavingstraject en de bepalingen uit de 
+regelgeving die niet zouden worden nageleefd. Na de ingebrekestelling heeft de 
+betrokken partij recht om gehoord te worden (cfr art. 13.3.1, §2 
+Energiedecreet).   Hierna kan de VREG beslissen een administratieve geldboete op te 
+leggen, mits respect voor de procedure en de criteria opgenomen in de artikelen 13.3.1 
+tot 13.3.6 Energiedecreet. Tegen deze boetebeslissing is een beroepsmogelijkheid 
+voorzien bij de Raad van State. 
+Buiten de administratieve sanctie, zijn er decretaal nog andere reactiemogelijkheden 
+voorzien. Zo heeft de VREG de bevoegdheid om de leveringsvergunning van een 
+leverancier op te heffen en de aanwijzing als netbeheerder te beëindigen indien de 
+betrokken leverancier of netbeheerder zich niet houdt aan zijn wettelijke 
+verplichtingen (art. 3.1.4 van het Energiedecreet). Sommige inbreuken zijn ook 
+strafrechtelijk sanctioneerbaar (cfr. art. 13.2.1 van het Energiedecreet). In die 
+situaties kan de VREG klacht neerleggen bij de politie of rechtstreeks bij het parket. 
+4. Artikel 3.2.18, 4°, c), van het Energiebesluit stelt dat leveranciers die meer dan 
+200.000 afnamepunten in het Vlaamse Gewest beleveren facturering op maandbasis 
+van het gemeten maandverbruik bij afnemers met een digitale meter moeten 
+aanbieden, zowel voor elektriciteit als voor aardgas. Concreet gezien is deze 
+verplichting sinds 1 april 2022 van toepassing op de leveranciers Engie Electrabel, 
+Luminus, Eneco Belgium, TotalEnergies Power&Gas Belgium en Power Online (Mega). 
+Kort na de invoering van deze verplichting in 2022 bevroeg de VREG de betrokken 
+leveranciers en de netbeheerders rond de naleving van deze nieuwe verplichting. 
+Daarbij werd vastgesteld dat maandfacturatie voor aardgas IT-technisch niet direct 
+aangeboden werd door de netbeheerders in de marktprocessen. Dit is 
+ondertussen aangepast, onder impuls van handhavingsbeslissingen van de 
+VREG ( BESL-2022-106 t/m BESL-2022-114). De VREG stelde verder vast dat 
+energieleverancier TotalEnergies Power & Gas Belgium geen maandafrekening 
+aanbood. Daarom startte de VREG een handhavingstraject op. Uit het traject volgde 
+een administratieve boete ( BESL-2022-94).  
+ 
+Via een wijzigingsbesluit van 16 juli 2023, zal de verplichting tot maandfacturatie vanaf 
+1 januari 2024 uitgebreid worden tot alle leveranciers en alle producten waarop kan 
+ingetekend worden. De strategie die de VREG zal volgen om de naleving van de 
+uitbreiding van deze verplichting op te volgen is de volgende: 
+- Informatieverlening: we informeren de (soms kleine en buitenlandse) leveranciers 
+van deze nieuwe verplichting en we zullen de afnemers informeren over hun recht 
+op maandfacturatie, o.a. via website, nieuwsbrief, infocampagnes,...  
+- Opvragen cijfers: we vragen bij Fluvius cijfers op over het aantal afnemers met 
+maandfacturatie per leverancier. 
+- Overleg met ombudsman: er is frequent overleg met de Ombudsman voor Energie 
+om veel voorkomende klachten en problemen in de markt te bespreken, die 
+kunnen wijzen op niet-naleving van de energieregelgeving door leveranciers.   
+5. De opstart van een handhavingstraject leidt zeker niet altijd tot het opleggen van een 
+effectieve administratieve boete.  Vaak beslist de betrokken partij zich tijdens het 
+traject alsnog te conformeren aan de regelgeving. 
+Op basis van de ervaringen heeft de VREG enkele tijd geleden een aantal verbeteringen 
+gesuggereerd aan zijn sanctiemogelijkheden. Dit heeft begin 2023 geleid tot een 
+aantal wijzigingen aan de art. 13.3.1 en 13.3.2 van het Energiedecreet (o.a. voorzien 
+mogelijkheid om een dwangsom op te leggen).

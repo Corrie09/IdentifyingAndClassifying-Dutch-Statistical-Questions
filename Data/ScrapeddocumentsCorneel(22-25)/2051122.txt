@@ -1,0 +1,144 @@
+title: Werkgroep Institutionele Zaken – Uitwisseling gezondheidsgegevens tussen overheidsdiensten
+thema: Gezondheid
+Staatshervorming en Verhoudingen binnen de Belgische federale staat
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2051122
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1806563
+SCHRIFTELIJKE VRAAG
+nr. 262
+van KARL VANLOUWE
+datum: 27 februari 2024
+aan HILDE CREVITS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+Werkgroep Institutionele Zaken  –  Uitwisseling gezondheidsgegevens tussen 
+overheidsdiensten
+Het Vlaams Parlement richtte in december 2020 een Werkgroep Institutionele Zaken op 
+om een grondige reflectie op te starten over de gewenste staatsinrichting.
+De versnippering van bevoegdheden tussen met name het federale en het deelstatelijke 
+beleidsniveau kwam in de 32 hoorzittingen met 96 experts uit het werkveld herhaaldelijk 
+aan bod. De staatsstructuur is complex, waardoor bepaalde bevoegdheden niet altijd 
+efficiënt of transparant kunnen worden uitgeoefend. Nochtans heeft de burger recht op 
+een efficiënte en effectieve besteding van overheidsmiddelen.
+In de nasleep van de werkzaamheden van de werkgroep dienden de Vlaamse 
+meerderheidspartijen daarom een parlementaire conceptnota in met zogenaamde ‘quick 
+wins’: zaken die zonder staatshervorming, binnen het huidige grondwettelijk en wettelijke 
+kader - in afwachting van de nodige meer structurele oplossingen - al kunnen worden 
+aangepakt.
+Zo werd onder meer een interfederaal overleg voor de optimalisering van de 
+gegevensuitwisselingen tussen overheidsdiensten als prioriteit naar voren geschoven.
+1. Kan de minister een overzicht geven van de bestaande 
+gegevensuitwisselingsprotocollen die met de federale overheid zijn gesloten? Graag 
+ook een korte toelichting over de aard van de uitgewisselde gegevens en de datum 
+waarop het protocol werd gesloten.
+2. Welke stappen heeft de minister tijdens deze legislatuur gezet om de uitwisseling van 
+gezondheidsgegevens tussen de Vlaamse en federale overheid te verbeteren?
+3. Graag een overzicht van al de (interfederale) overlegmomenten ter zake.
+4. Hoe evalueert de minister de gegevensuitwisseling in globo en acht ze de inspanningen 
+om voor de nodige optimalisering te zorgen voldoende?
+HILDE CREVITS 
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+ANTWOORD
+op vraag nr. 262 van 27 februari 2024
+van KARL VANLOUWE
+1. Hieronder het gevraagde overzicht van de bestaande formele 
+gegevensuitwisselingsprotocollen die met de federale overheid zijn gesloten:
+a. In voorbereiding van een wettelijk samenwerkingsakkoord werd tijdens de 
+Interministeriële Conferentie eGezondheid (IMC) van 28 juni 2023 eerst een 
+protocolakkoord eGezondheid gesloten. Deze vervangt de voorgaande 
+protocolakkoorden over dit thema. Dit nieuwe akkoord legt de vernieuwde 
+afspraken vast voor het digitaliseringsbeleid in de gezondheidszorg en op basis 
+waarvan een wettelijk samenwerkingsakkoord moet worden onderhandeld teneinde 
+waar nodig de gemaakte afspraken juridisch bindend te maken. Het 
+protocolakkoord gaat uit van een noodzakelijk te realiseren paradigmashift omwille 
+van volgende evoluties:
+- een veranderende zorgvraag (veroudering, meervoudige chronische 
+pathologieën);
+- een doorgedreven digitalisering en hergebruik van data (voor 
+beleidsvoorbereiding, R&D, innovatie);
+- een sterke evolutie in de zorgverlening (geïntegreerde en multidisciplinaire zorg- 
+en welzijnsverlening, betrokken zorg met de persoon/patiënt en zijn omgeving 
+lid van het zorgteam, cross border zorg);
+- een evolutie naar doelgerichte zorg en preventie met aangepaste financiering.
+Dit traject voor het wetgevende samenwerkingsakkoord is lopende. 
+Voor meer informatie zie :
+https://beslissingenvlaamseregering.vlaanderen.be/?search=Samenwerkingsov
+ereenkomst%20over%20het%20optimaal%20elektronisch%20uitwisselen%20
+van%20informatie
+b. Samenwerkingsprotocol tussen de Vlaamse Gemeenschap, het Departement Zorg, 
+de zorgkassen, enerzijds en de FOD Financiën anderzijds met het oog op de 
+invoering van een spontane uitwisseling van inlichtingen aangaande de 
+zorgvoorzieningen die via een elektronisch netwerk factureren. Dit is ondertekend 
+in september 2023 en gepubliceerd in het Belgisch Staatsblad op 25/1/2024. Dit 
+betreft de jaarlijkse uitwisseling van elektronische facturatiegegevens over het 
+geheel van de zorgvoorzieningen die verlopen via VSB: residentiële 
+ouderenvoorzieningen, revalidatieziekenhuizen en revalidatie-overeenkomsten, en 
+psychiatrische verzorgingstehuizen.
+c. Protocolakkoord van 19 oktober 2015 tussen de Federale Regering en de in artikel 
+128, 130, 135 en 138 van de Grondwet bedoelde overheden betreffende het beheer 
+en de financiering van de applicatie (e-Cad) voor het beheren van de erkenningen 
+en de praktijkvergunningen van de gezondheidszorgbeoefenaars.
+Wat gegevensdeling betreft bevat dit protocol de volgende bepalingen:
+-De gegevens uit e-Cad voeden de “Federale databank van de beoefenaars van 
+de gezondheidszorgberoepen” (kadaster), gehost door de FOD 
+Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu.
+-De databank CoBRHA op het e-Healthplatform wordt gevoed door de voormelde 
+federale databank van de gezondheidszorgberoepen.
+d. Het samenwerkingsakkoord van 22 december 2023 tussen de Federale Staat, de 
+Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de 
+Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse 
+Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking 
+tot CoBRHA+. Dit samenwerkingsakkoord voorziet een wettelijke basis voor de 
+interbestuurlijke CoBRHA+-databank, waarin gegevens samengebracht worden 
+over de zorgaanbieders in België (CoBRHA: Common Base Registry For Healthcare 
+Actors).
+2. De focus van ons beleid ligt niet op de uitwisseling van gezondheidsgegevens tussen 
+overheden, maar wel op de burger en eenieder die zorg, hulp of ondersteuning geeft. 
+Om die gegevensdeling toe te laten, werd deze legislatuur werk gemaakt van een 
+toekomstgerichte vernieuwing van Vitalink. Vitalink is de Vlaamse gezondheidskluis 
+die zorgverleners in staat stelt om digitale gegevens van hun patiënten, afkomstig uit 
+hun elektronische patiëntendossier, op een eenvoudige en veilige manier met elkaar 
+te delen. Via verschillende patiëntenportalen hebben burgers toegang tot deze 
+gedeelde informatie. Op dit moment deelt Vitalink informatie over vaccinaties, 
+medicatieschema's, bevolkingsonderzoeken, kindrapporten en een samenvatting van 
+het (medisch) patiëntendossier van de huisarts (Sumehr). In de toekomst zal dit alle 
+mogelijke relevante gezondheidsinformatie van een burger omvatten, gestructureerd 
+en gecodeerd volgens internationale informatie standaarden. Meer informatie is te 
+vinden op de website www.vitalink.be.
+Voor een aantal specifieke dossiers waarvoor gegevensuitwisseling nodig is worden er 
+ook op andere manieren afspraken gemaakt met de federale overheid.
+Zo wordt er gewerkt aan een samenwerkingsakkoord voor de uitwisseling van BelRAI-
+gegevens tussen de Vlaamse en federale overheid, in het ruimere kader van het 
+samenwerkingsakkoord rond eHealth. Dit werd reeds principieel goedgekeurd door de 
+Vlaamse Regering op 19 januari 2024 en ligt nu voor advies voor bij de bevoegde 
+adviesorganen. Intussen werden ook op technisch niveau de nodige ontwikkelingen 
+afgerond om een gegevensstroom in beide richtingen op te zetten.
+Daarnaast gebeurt er ook uitwisseling van gegevens tussen de Vlaamse overheid en 
+de Rijksdienst voor Sociale Zekerheid, de KSZ, het rijksregister, etc. Dit wordt niet 
+steeds geregeld met protocolakkoorden, maar zit vervat in de machtigingen.
+3. Interfederaal overleg ter zake:
+Op politiek niveau hebben we de IMC Gezondheid waar eGezondheid een thema is. De 
+afstemming tussen de kabinetten van de betrokken ministers eGezondheid voor 
+eGezondheid, als een voorbereiding op het IMC, is voorzien in het IKW eGezondheid.
+Op strategisch/tactisch niveau is er een interfederaal plan eGezondheid, die zorgt voor 
+een afstemming van de verschillende initiatieven eGezondheid binnen een afgesproken 
+kader uit het IMC. De opvolging gebeurt via de Program Board eGezondheid.
+Daarnaast is een governance binnen de overlegstructuren van het eHealth-platform 
+voor de verdere uitwerking van het afsprakenkader van ons Belgische ecosysteem 
+eGezondheid. Beslissingen worden genomen in het beheerscomité van het eHealth-
+platform eGezondheid, waar Vlaanderen twee vertegenwoordigers heeft.
+De Vlaamse overheid is ook vertegenwoordigd in het beheerscomité en het 
+gebruikerscomité van de ‘Health Data Agency’, in de raad van bestuur van het IMA en 
+in het Health data overleg.
+Specifiek voor BelRAI is er een de stuurgroep BelRAI waarin alle overheden 
+vertegenwoordigd zitten. Dit is de vaste overlegstructuur voor BelRAI die werd 
+aangevuld met specifieke IKW’s en werkgroepen om het wettelijk 
+samenwerkingsakkoord tot stand te brengen. 
+Waar nodig is er ook technisch bilateraal overleg tussen de Vlaamse en federale 
+administraties dat ad hoc wordt ingepland om de ontwikkelingen verder op te volgen.
+4. Er zijn verschillende trajecten lopende om de gegevensuitwisseling tussen overheden 
+te verbeteren. Er zijn nog allerlei domeinen waar we de gegevensuitwisseling verder 
+kunnen verbeteren, waarbij ik vb. denk aan RIZIV-facturatie gegevens, de 
+planningsmodellen van de federale Planningscommissie Medisch Aanbod, enzovoort. 
+Ook het delen van data met het oog op handhavingstrajecten te ondersteunen en 
+gerichter te maken, lijkt me onmisbaar naar de toekomst toe.

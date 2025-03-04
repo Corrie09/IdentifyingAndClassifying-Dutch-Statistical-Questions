@@ -1,0 +1,171 @@
+title: Residentiële jeugdhulp - Capaciteit, wachtlijsten en verblijfsduur
+thema: Welzijn en Gezin
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2062865
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1822040
+SCHRIFTELIJKE VRAAG
+nr. 341
+van JEREMIE VANEECKHOUT
+datum: 19 april 2024
+aan HILDE CREVITS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+Residentiële jeugdhulp  -  Capaciteit, wachtlijsten en verblijfsduur
+Uit de jaarverslagen Jeugdhulp en cijfers op de website van Opgroeien blijkt dat het aantal 
+jongeren op de wachtlijst voor niet-rechtstreeks toegankelijke jeugdhulp (NRTJ) in 
+stijgende lijn is. Uit het antwoord op schriftelijke vraag nr. 187 van 24 januari 2024 bleek 
+al dat verschillende voorzieningen leefgroepen moesten sluiten wegens personeelstekort. 
+Graag had ik met deze vraag meer inzicht gekregen in de situatie in de residentiële 
+jeugdhulp (jeugdhulp met verblijf). Veel cijfermateriaal is te vinden in de geïntegreerde 
+rapporten op de website van Opgroeien, en in het cijferrapport van BINC. Met deze vragen 
+wil ik een aantal gegevens verder uitsplitsen. (BINC: Begeleiding in Cijfers)
+1. Het Jaarrapport van Opgroeien geeft aan dat op 31 december 2022 in totaal 7397 
+kinderen en jongeren op een NRTJ-wachtlijst stonden.
+a) Kan de minister een opsplitsing geven van de wachtenden per provincie en per 
+type niet-rechtstreeks toegankelijke jeugdhulp? Graag een overzicht van 2019 tot 
+heden.
+b) Hoeveel kinderen en jongeren wachten op een plaats in de residentiële jeugdhulp?
+2. Kan de minister een overzicht geven van de wachttijd (dus de tijd tussen aanmelding 
+en begin van verblijf), voor de periode 2019-heden, opgesplitst per provincie en type 
+voorziening? Graag telkens de gemiddelde wachttijd uitgedrukt in dagen, en een 
+overzicht van alle wachttijden opgesplitst in intervallen (0-1 maand, 1-2 maanden, 2-4 
+maanden, 4-6 maanden, 6 maanden-1 jaar, meer dan 1 jaar).
+3. Het BINC-rapport voor het jaar 2022 (bladzijde 22 e.v.) geeft inzicht in de 
+begeleidingsduur van kinderen en jongeren. Met deze vraag wil ik meer inzicht krijgen 
+in de verblijfsduur van jongeren specifiek in de residentiële jeugdhulp. 
+a) Daarom graag een verdere opsplitsing van de tabellen op bladzijde 22 en 24 per 
+provincie, voor de volgende modules: indien mogelijk enkel de cijfers voor 
+modules met verblijf. OVBJ, OOOC, OBC, GES+, CIG.
+b) Dit graag voor de periode 2019-heden.
+HILDE CREVITS 
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+ANTWOORD
+op vraag nr. 341 van 19 april 2024
+van JEREMIE VANEECKHOUT
+1. In de cijfers op maat van het rapport “aanvragen crisisjeugdhulp en niet-rechtstreeks 
+toegankelijke jeugdhulp” zijn deze cijfers beschikbaar onder het titeltje “aard van de 
+wachtenden bij de intersectorale toegangspoort”.
+Een overzicht per sector en functie (verblijf in vet) voor Vlaanderen en Brussel: 
+wachtenden op 31/12/xxxx (unieke mj) 2017 2018 2019 2020 2021 2022
+JHO       
+Begeleiding 691 823 917 1130 1199 1377
+Behandeling 271 273 306
+Diagnostiek 436 449 536 596 667 733
+Veilig verblijf 69
+Verblijf 2387 2511 2680 3119 3541 3746
+Subtotaal 2989 3216 3432 4108 4585 4912
+OND       
+Verblijf 61 63 104 123 130 184
+VAPH       
+Begeleiding 2064 2176 1891 2048 2480 2596
+Behandeling 1485 1595 1650 1727 2170 2315
+Dagopvang 1632 1780 1765 1910 2327 2438
+Diagnostiek 178 185 199  
+Verblijf 1518 1610 1609 1463 1863 1927
+Subtotaal 2378 2498 2234 2143 2610 2731
+Provincie Antwerpen
+wachtenden op 31/12/xxxx (unieke 
+mj) 2017 2018 2019 2020 2021 2022
+JHO       
+Begeleiding 218 269 331 391 407 509
+Behandeling 56 57 76
+Diagnostiek 115 88 140 187 152 201
+Veilig verblijf 35
+Verblijf 791 773 834 884 923 1024
+Subtotaal 958 999 1086 1234 1274 1485
+OND       
+Verblijf 10 8 9 8 9 8
+VAPH       
+Begeleiding 716 777 665 699 753 806
+Behandeling 371 421 411 445 533 605
+Dagopvang 578 665 603 614 659 701
+Diagnostiek 68 75 65  
+Verblijf 485 560 496 413 469 498
+Subtotaal 810 872 765 738 812 861
+Provincie Limburg
+wachtenden op 31/12/xxxx (unieke 
+mj) 2017 2018 2019 2020 2021 2022
+JHO       
+Begeleiding 54 51 81 80 78 110
+Behandeling 74 66 67
+Diagnostiek 31 48 55 59 98 72
+Veilig verblijf 10
+Verblijf 251 248 273 402 464 364
+Subtotaal 314 311 367 504 582 492
+OND       
+Verblijf 4 1 0 3 5 8
+VAPH       
+Begeleiding 255 265 270 306 364 313
+Behandeling 283 305 317 296 362 312
+Dagopvang 226 252 257 288 350 303
+Diagnostiek 27 21 21  
+Verblijf 264 267 272 234 296 229
+Subtotaal 343 351 356 318 385 331
+Provincie Oost-Vlaanderen
+wachtenden op 31/12/xxxx (unieke 
+mj) 2017 2018 2019 2020 2021 2022
+JHO       
+Begeleiding 228 276 288 359 403 381
+Behandeling 45 57 78
+Diagnostiek 118 161 139 160 187 184
+Veilig verblijf 1
+Verblijf 563 673 691 778 945 987
+Subtotaal 736 886 904 1070 1263 1287
+OND       
+Verblijf 11 7 12 15 12 36
+VAPH       
+Begeleiding 633 662 481 485 654 697
+Behandeling 390 410 439 464 631 678
+Dagopvang 387 411 443 466 637 684
+Diagnostiek 26 31 35  
+Verblijf 327 341 365 353 513 568
+Subtotaal 664 701 516 497 672 722
+Provincie Vlaams Brabant Brussel
+wachtenden op 31/12/xxxx (unieke 
+mj) 2017 2018 2019 2020 2021 2022
+JHO       
+Begeleiding 106 110 104 143 150 181
+Behandeling 43 38 42
+Diagnostiek 80 79 91 76 114 140
+Veilig verblijf 6
+Verblijf 248 253 279 325 444 511
+Subtotaal 371 368 388 458 589 669
+OND       
+Verblijf 1 3 1 2 1 4
+VAPH       
+Begeleiding 163 190 194 221 277 282
+Behandeling 167 180 193 191 222 229
+Dagopvang 151 178 182 213 266 268
+Diagnostiek 35 33 49  
+Verblijf 185 193 219 180 237 233
+Subtotaal 217 235 257 228 285 294
+Provincie West Vlaanderen
+wachtenden op 31/12/xxxx (unieke 
+mj) 2017 2018 2019 2020 2021 2022
+JHO       
+Begeleiding 85 117 113 157 161 196
+Behandeling 53 55 43
+Diagnostiek 92 73 111 114 116 136
+Veilig verblijf 17
+Verblijf 534 564 604 731 765 860
+Subtotaal 610 652 688 843 877 979
+OND       
+Verblijf 35 44 82 95 103 128
+VAPH       
+Begeleiding 297 281 281 337 432 498
+Behandeling 274 279 290 331 422 491
+Dagopvang 290 274 280 329 415 482
+Diagnostiek 22 25 29  
+Verblijf 257 249 257 283 348 399
+Subtotaal 344 339 340 362 456 523
+2. We beschikken niet over deze cijfers. De oorspronkelijk ontwikkelde rapporten over 
+wachttijd voldoen niet aan de kwaliteitsstandaarden op het vlak van betrouwbaarheid 
+en validiteit. 
+3. De tabellen over begeleidingsduur uit het Binc rapport zijn een weergave van de 
+totale begeleidingsduur van een Binc-dossier. Zeker wat de OVBJ-dossiers betreft, 
+gaat het hier vaak om dossiers waar geschakeld kan worden tussen verblijf, mobiele 
+begeleiding, dagbegeleiding enzovoort. In de bijlage van de Binc-rapporten is wel 
+steeds een tabel te vinden met de gemiddelde begeleidingsduur per typemodule.
+De tabel is een verdere opsplitsing van deze data (zie bijlage). 
+BIJLAGEN
+1. Bijlage 1 bij SV 341

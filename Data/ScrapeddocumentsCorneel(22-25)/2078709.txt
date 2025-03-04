@@ -1,0 +1,156 @@
+title: Fluvius - Uitbetaling forfaitaire vergoeding
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2078709
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1836152
+SCHRIFTELIJKE VRAAG
+nr. 28
+van ROBRECHT BOTHUYNE
+datum: 24 oktober 2024
+aan MELISSA DEPRAETERE
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WONEN, ENERGIE EN 
+KLIMAAT, TOERISME EN JEUGD
+Fluvius  -  Uitbetaling forfaitaire vergoeding
+Fluvius voorziet conform het Energiedecreet in een forfaitaire vergoeding bij een aantal 
+gevallen van ‘hinder’ op het distributienet. Zo heeft een gedupeerde recht op een 
+vergoeding bij laattijdige (her)aansluiting en in geval van een niet-geplande 
+stroomonderbreking met technische oorzaak van minstens vier uur. De Vlaamse Regering 
+bepaalt, na advies van de Vlaamse Regulator van de Elektriciteits- en Gasmarkt (VREG), 
+de voorwaarden en de procedure tot indiening van de aanvraag van de vergoeding. In het 
+geval van langdurige stroomonderbreking moet de netgebruiker de aanvraag voor de 
+vergoeding binnen dertig kalenderdagen zelf indienen bij de distributienetbeheerder. Het 
+gaat enkel om stroomonderbrekingen die niet op voorhand werden aangekondigd.
+De vergoeding bedraagt 35 euro voor een gezin, voor elke bijkomende periode van vier 
+uur komt daar 20 euro bij. Die bedragen worden verdubbeld als de onderbreking 
+plaatsvindt in de winterperiode (van 1 december tot 1 maart); afhankelijk van de 
+weersomstandigheden kan die periode verlengd worden.
+Voor de niet-huishoudelijke netgebruiker bedraagt de vergoeding 20% van het bedrag 
+overeenkomstig de distributiekosten voor de maand die voorafgaat aan de maand waarin 
+de onderbreking zich heeft voorgedaan, met een minimum van 35 euro. Dat bedrag wordt 
+vermeerderd met de helft van het bedrag, met een minimum van 20 euro, voor elke 
+bijkomende periode van vier uur. Ook daarbij geldt dat de genoemde bedragen jaarlijks 
+geïndexeerd worden.
+De vergoedingsplicht geldt niet in geval van een onderbreking als gevolg van een 
+noodsituatie of overmacht, zoals omschreven in de technische reglementen.
+1. Kan de minister een inschatting geven van het aantal keren dat er in Vlaanderen een 
+onaangekondigde stroomonderbreking was in 2021, 2022, 2023 en eerste zes 
+maanden van 2024? Graag totaalaantal keren per jaar en opdeling naar:
+a) provincie;
+b) gemiddelde duurtijd van de onderbreking;
+c) huishoudelijke gebruiker / niet-huishoudelijke gebruiker. 
+2. Kan de minister een inschatting geven van het aantal keren dat er in Vlaanderen een 
+laattijdige (her)aansluiting voorgevallen is in de jaren 2021, 2022, 2023 en eerste zes 
+maanden van 2024? Graag totaalaantal keren per jaar en opdeling naar:
+a) provincie;
+b) gemiddelde duurtijd / wachttijd van (her)aansluiting; 
+c) huishoudelijke gebruiker / niet-huishoudelijke gebruiker. 
+3. Kan de minister een overzicht geven van het aantal aangevraagde vergoedingen in 
+2022, 2023 en eerste zes maanden van 2024? Graag totaalbedrag per jaar en opdeling 
+naar:
+a) provincie; 
+b) ongeplande onderbreking / laattijdige (her)aansluiting; 
+c) huishoudelijke gebruiker / niet-huishoudelijke gebruiker. 
+4. Kan de minister een overzicht geven van het aantal geweigerde vergoedingen in 2022, 
+2023 en eerste zes maanden van 2024? Graag totaalbedrag per jaar en opdeling naar:
+a) provincie;
+b) ongeplande onderbreking / laattijdige (her)aansluiting; 
+c) huishoudelijke gebruiker / niet-huishoudelijke gebruiker. 
+5. Graag de top 3 van redenen van weigering van vergoeding per jaar. 
+6. Kan de minister een overzicht geven van het aantal uitgekeerde/toegekende 
+vergoedingen in 2022, 2023 en eerste zes maanden van 2024? Graag totaalbedrag 
+per jaar en opdeling naar:
+a) provincie; 
+b) huishoudelijke gebruiker / niet-huishoudelijke gebruiker;
+c) ongeplande onderbreking / laattijdige (her)aansluiting. 
+7. Welk aandeel van de aanvragen tot compensatie was gegrond? Graag per jaar. 
+8. Hoe kijkt de minister naar bovenstaande cijfers over de jaren heen en dat vanaf 2021 
+tot nu? Waar kan en zal er worden bijgestuurd? Met inzet van welke middelen? 
+9. Hoe staat de minister tegenover een automatische toekenning van de vergoeding door 
+Fluvius op basis van hun eigen gegevens over laattijdige (her)aansluitingen en 
+stroomonderbrekingen? In gevallen die niet door Fluvius worden gevat kan door de 
+getroffene daarnaast nog steeds zelf een aanvraag worden ingediend.
+MELISSA DEPRAETERE
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WONEN, ENERGIE EN 
+KLIMAAT, TOERISME EN JEUGD
+ANTWOORD
+op vraag nr. 28 van 24 oktober 2024
+van ROBRECHT BOTHUYNE
+1. In de tabellen in bijlage 1 zijn de onderbrekingscijfers per DNB op het laagspannings- 
+en middenspanningsdistributienet te vinden, zoals deze door Fluvius worden 
+gerapporteerd aan de VREG. De huishoudelijke klanten zijn vnl. aangesloten op het 
+laagspanningsnet en de niet-huishoudelijke op het middenspanningsnet.
+2. Fluvius streeft ernaar om zoveel mogelijk in overleg met de klant de gewenste datum 
+voor de (her)aansluiting vast te leggen. Daarbij houdt Fluvius rekening met een aantal 
+factoren: 
+•In dossiers waar er een onderboring, een netuitbreiding of een spanningswijziging 
+moet uitgevoerd worden, zal de doorlooptijd langer zijn. We informeren de klant 
+over de benodigde termijn om deze werken uit te voeren en spreken een 
+aansluitdatum af. Deze aanpak is conform Art. 2.2.39 uit het Technisch Reglement 
+voor de Distributie van Elektriciteit in het Vlaamse Gewest (TRDE).  
+•De klant is zelf vaak vragende partij om de aansluiting buiten de wettelijke termijn 
+te realiseren, bv. omdat de bouwwerkzaamheden niet tijdig klaar zijn. Ook in die 
+dossiers zal de doorlooptijd dus langer zijn, maar zonder probleem want in 
+samenspraak met de klant. 
+Fluvius geeft aan dat het moeilijk is om algemene cijfers rond laattijdige 
+(her)aansluitingen te bezorgen gezien deze dossiers geval per geval met de klant 
+besproken worden. De vraag daarbij is wat er als “laattijdig” kan beschouwd worden? 
+De beste inschatting van het aantal effectief laattijdige (her)aansluitingen kan volgens 
+Fluvius verkregen worden op basis van de klachten m.b.t. het niet respecteren van 
+termijnen. Deze cijfers zijn terug te vinden in de tabel in bijlage 2.  
+Voor 2024 heeft Fluvius nog geen gegevens beschikbaar. Verder is er ook geen 
+opsplitsing tussen huishoudelijk/niet-huishoudelijk.
+In 2024 bedraagt de gemiddelde doorlooptijd voor aansluitingen 23 werkdagen. De 
+mediaan is 18 werkdagen. Maar verwijzend naar bovenstaande argumentatie kunnen 
+we op basis van deze gemiddelde cijfers dus geen conclusies trekken m.b.t. de 
+laattijdigheid van de aansluitingen.  
+3. De cijfers m.b.t. het aantal aangevraagde vergoedingen zijn te vinden in de tabel in 
+bijlage 3. Er wordt een onderverdeling gemaakt tussen de vergoedingen in het kader 
+van een langdurige onderbreking en laattijdige (her)aansluiting.
+4. De cijfers m.b.t. het aantal geweigerde vergoedingen zijn te vinden in de tabel in bijlage 
+3. Er wordt een onderverdeling gemaakt tussen de vergoedingen in het kader van een 
+langdurige onderbreking en laattijdige (her)aansluiting.
+5. De top 3 van redenen voor de weigering van een vergoeding is ieder jaar dezelfde. 
+Voor langdurige onderbrekingen is dit de top 3: 
+•Onontvankelijke aanvraag; 
+•Noodsituatie of overmacht; 
+•Andere: dubbele aanvraag, geplande onderbreking, geen onderbreking op de 
+aansluiting 
+Voor laattijdige (her)aansluitingen is dit de top 3: 
+•Onontvankelijke aanvraag (geen sprake van laattijdigheid); 
+•Laattijdige indiening van de aanvraag; 
+•Andere: dubbele aanvraag, foutieve aanvraag (in geval van een schadedossier) 
+6. De cijfers m.b.t. het aantal uitgekeerde/toegekende vergoedingen zijn te vinden in de 
+tabel in bijlage 3. Er wordt een onderverdeling gemaakt tussen de vergoedingen in het 
+kader van een langdurige onderbreking en laattijdige (her)aansluiting.
+7. De cijfers over het aandeel van de aanvragen waarvoor de compensatie gegrond was 
+zijn eveneens opgenomen in bijlage 3.
+8. Uit de cijfers blijkt dat er een lichte stijging is van het aantal langdurige onderbrekingen 
+en de gemiddelde duur van deze onderbrekingen. Volgens Fluvius is deze stijging 
+gedeeltelijk te verklaren door een hoger aantal wegen- en rioleringswerken in 2023. 
+Ook de schade door derden aan de netten is toegenomen ten gevolge van wegenwerken 
+en werken voor fiberverbindingen.  
+In juni 2024 legde de VREG de tariefmethodologie voor 2025-2028 vast. Deze voorziet 
+ook in een aantal financiële incentives voor de distributienetbeheerders. Een van deze 
+incentives is de frequentie en duur van de onderbrekingen. Deze incentive zou de 
+distributienetbeheerders ertoe moeten aanzetten om de betrouwbaarheid van de 
+distributienetten op peil te houden en het aantal ongeplande onderbrekingen van de 
+stroom- of gastoevoer te beperken.
+9. Het is niet aangewezen om over te stappen naar een automatische toekenning van de 
+vergoeding bij langdurige onderbrekingen en laattijdige (her)aansluitingen. In beide 
+type dossiers is immers een geval per geval behandeling noodzakelijk. 
+In het geval van een langdurige onderbreking weet Fluvius niet altijd welke 
+netgebruikers effectief waren getroffen en of ze daadwerkelijk last hebben 
+ondervonden van de stroomonderbreking.
+In het geval van laattijdige (her)aansluiting moet Fluvius dossier per dossier nagaan of 
+de termijn al-dan-niet op vraag van de klant zelf werd verlaat, alsook nakijken welke 
+complexiteit er bij de aansluitingswerken kwam kijken. 
+Indien Fluvius beide procedures zou automatiseren, is er een risico dat heel wat 
+nutteloze betalingen uitgevoerd worden, hetgeen zal leiden tot een verhoging van de 
+kosten voor de netbeheerder. Het is daarom aangewezen dat het initiatief bij de klant 
+blijft.  
+Bovendien helpt een geval per geval behandeling om bijkomende inzichten te 
+verkrijgen in het gebeurde en stimuleert het Fluvius om gepaste maatregelen te nemen 
+om de dienstverlening te optimaliseren.
+BIJLAGEN
+1.Onderbrekingscijfers per DNB op het laagspannings- en middenspanningsdistributienet
+2.Klachten m.b.t. het niet respecteren van termijnen
+3.Aantal uitgekeerde en toegekende vergoedingen

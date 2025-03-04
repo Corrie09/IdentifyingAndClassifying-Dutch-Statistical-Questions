@@ -1,0 +1,115 @@
+title: VDAB - Digitale bereikbaarheid
+thema: Werk
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2064502
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1823508
+SCHRIFTELIJKE VRAAG
+nr. 383
+van ROBRECHT BOTHUYNE
+datum: 25 april 2024
+aan JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+VDAB  -  Digitale bereikbaarheid
+VDAB is digitaal verankerd in het werkgevers-werknemerslandschap. Hij streeft ernaar om 
+de digitale communicatievormen en -instrumenten optimaal in te zetten om sneller en 
+beter de dienstverleningsnoden van de klanten in te schatten.
+De doelstelling is en blijft om werkgevers en werknemers sneller en vaker te bereiken met 
+deze digitale dienstverlening en alleen daar waar het nodig is over te gaan tot face-to-
+face-dienstverlening.  
+Website en online sollicitatieloket (feedback of hulp vragen aan de e-coaches) nemen een 
+belangrijke plaats in. 
+1. Hoeveel mensen consulteerden de website van VDAB in 2023, zowel vdab.be als 
+werkgevers.vdab.be? Graag totaalaantal per jaar, opdeling naar website en naar:
+a) unieke bezoekers per jaar;
+b) via welke tool: smartphone, pc,… 
+2. Hoeveel mensen consulteerden het online sollicitatieloket in 2023? Graag totaalaantal 
+per jaar en opdeling naar:
+a) aantal bezoekers van de pagina;
+b) op welke manier verloopt het contact: e-mail, chat, videogesprek.
+3. Hoe verhouden bovenstaande cijfers (subvraag 1 en 2) zich tegenover voorgaande 
+jaren? 
+4. Welk budget wordt uitgetrokken in 2023 voor de digitalisering van VDAB? Graag 
+opsplitsing naar werking IT en werking DDV (Digitale Dienstverlening).
+5. VDAB schat de werkzoekende in volgens de afstand tot de arbeidsmarkt. Ook de 
+digitalisering van die werkzoekende wordt afgewogen. 
+Wat met mensen die het digitale niet zo ‘machtig’ zijn? 
+6. In 2023 liep er een VIONA-onderzoek over ‘de impact van de versnelde inzet op 
+digitalisering van bemiddeling bij VDAB’ (VIONA: Vlaams Interuniversitair 
+Onderzoeksnetwerk Arbeidsmarktrapportering). 
+Wat zijn de beleidsaanbevelingen die tot op heden in concreet werkbare punten zijn 
+omgezet? Welke punten zullen dit jaar nog aangepakt worden? 
+JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+ANTWOORD 
+op vraag nr. 383 van 25 april 2024
+van ROBRECHT BOTHUYNE
+1. a) In 2023 registreerde de website vdab.be 6.885.347 unieke bezoekers en 
+24.323.119 sessies, en de website werkgevers.vdab.be telde 336.089 unieke 
+bezoekers en 2.512.310 sessies. Beide websites onderschatten de werkelijke 
+bezoekersaantallen met 23,07%, voornamelijk vanwege de cookiebanner. Deze 
+banner registreert alleen gebruikers die instemmen met de Analytics cookies, 
+waardoor de werkelijke verkeerscijfers hoger liggen dan gerapporteerd.
+De identificatie van unieke bezoekers wordt doorgaans gerealiseerd via cookies, 
+evenals het gebruikte apparaat en de browser. Dit kan echter leiden tot een 
+overregistratie, waarbij dezelfde persoon meerdere keren als een unieke bezoeker 
+wordt geteld als deze van apparaat wisselen, cookies verwijderen of verschillende 
+browsers gebruiken.
+b) In 2023 kwam het verkeer naar de website vdab.be voornamelijk via mobiele 
+apparaten, goed voor 60,19%, gevolgd door desktops met 38,61% en tablets met 
+1,18%. Op de website werkgevers.vdab.be was het overgrote deel van het verkeer 
+afkomstig van desktops/laptops, goed voor 93,48%, terwijl mobiele apparaten 
+6,45% bijdroegen en tablets slechts 0,26%. 
+2. a) Het online sollicitatie loket werd door 12.579 bezoekers bezocht in 2023. Ook hier 
+is er een onderschatting van ongeveer 23% wegens de cookiebanner.
+b) In 2023 werden er 13.224 klantencontacten genoteerd in het Mijn Loopbaandossier, 
+ook werden er nog 705 klanten verder geholpen zonder dossier. De klanten werden 
+geholpen via de volgende kanalen: 
+●11.733 via e-mails
+●1.750 via videochats
+●446 via chats
+3. In 2021 ontving de website vdab.be 11.650.594 unieke bezoekers. Dit aantal daalde 
+in 2022 naar 6.593.817, maar klom in 2023 weer op naar 6.885.347. De afname in 
+2022 kan worden toegeschreven aan de invoering van een cookiebanner en de 
+migratie van de werkgeverswebsite. Deze veranderingen maken het moeilijk om de 
+bezoekersaantallen van deze jaren direct met elkaar te vergelijken. De migratie van 
+de werkgeverswebsite werkgevers.vdab.be vond plaats in juni 2022, waardoor 2023 
+het eerste volledige jaar is dat de nieuwe website operationeel is. Dit maakt het 
+onmogelijk om de bezoekersaantallen van 2023 rechtstreeks te vergelijken met die 
+van voorgaande jaren. 
+Het gebruik van apparaten in 2022 is vergelijkbaar met eerdere jaren voor vdab.be. 
+Werkgevers neigen weer meer naar het gebruik van desktops dan voorheen. Het is 
+echter belangrijk om rekening te houden met de recente implementatie van een 
+nieuwe versie van Google Analytics, die op een andere wijze meet. Dit zorgt ervoor 
+dat de waargenomen veranderingen minimaal zijn.
+De dalende trend in de paginaweergaven van het online sollicitatieloket, die in 
+voorgaande jaren begon, houdt aan.
+●Aantal bezoekers pagina online sollicitatieloket 2023: 12.579
+●Aantal bezoekers pagina online sollicitatieloket 2022: 13.958
+●Aantal bezoekers pagina online sollicitatieloket 2021: 28.197
+4. In 2023 werd 95,4 miljoen euro besteed aan de werkingsuitgaven voor I&T. De 
+werkingsuitgaven voor digitale dienstverlening bedroegen  7,9 miljoen euro.  
+5. De VDAB Servicelijn, meestal het eerste contactpunt voor een nieuw ingeschreven 
+werkzoekende, peilt tijdens een telefoongesprek naar de digitale vaardigheden van de 
+klant. De Servicelijn zal snel de klant doorverwijzen naar een provinciale bemiddelaar 
+voor een fysiek gesprek, als dat nodig blijkt (bv klant is niet in staat weg te vinden op 
+de website). Verder vervolledigt de Servicelijn het persoonlijk dossier en maakt een 
+inschatting van de dienstverlening die de klant nodig heeft. 
+In de provincie wordt de klant verder geholpen binnen het juiste sector team of door 
+de intensieve dienstverlening. VDAB-bemiddelaars binnen de provincie screenen de 
+digitale vaardigheden van de klant en verwijzen indien nodig door naar een gepast 
+competentieversterkend aanbod. Klanten die niet digitaal vaardig zijn, worden 
+bijvoorbeeld doorverwezen naar het partneraanbod voor een basisopleiding digitale 
+skills (meestal via partners zoals Ligo).
+Ook in de ontwikkeling van online cursussen wordt rekening gehouden met laag 
+digitaalvaardige klanten. In het project Regisseur e-leren (VV018) ontwikkelt VDAB 
+online cursussen met het extra budget vanuit VV018. De ontwikkeling komt soms tot 
+stand in samenwerking met partners (cocreatie). Projecten gericht op het verlagen 
+van digitale drempels voor deze doelgroep worden ook met deze middelen ontwikkeld.  
+VDAB is in samenwerking met partners concrete ontwikkelprojecten gestart om de 
+digitale vaardigheden van deze doelgroep te verbeteren, zoals "Aan de slag als 
+digihelper". Dit is een online cursus voor digicoaches die op lokaal niveau burgers 
+ondersteunen met basis digitale vaardigheden. Ook wordt er gewerkt aan een webapp 
+voor basis digitale vaardigheden, in samenwerking met partners zoals CVO, om een 
+breed publiek te bereiken en hen te helpen met de basisvaardigheden die nodig zijn in 
+de digitale wereld.
+6. Het onderzoeksrapport werd recent opgeleverd en zal eerstdaags worden vrijgegeven. 
+ 

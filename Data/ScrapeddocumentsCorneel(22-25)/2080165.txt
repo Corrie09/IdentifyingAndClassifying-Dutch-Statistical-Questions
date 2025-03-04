@@ -1,0 +1,110 @@
+title: Cybersecurity bij Vlaamse bedrijven - Stand van zaken
+thema: Economie
+Wetenschap en Innovatie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2080165
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1834565
+SCHRIFTELIJKE VRAAG
+nr. 8
+van STIJN DE ROO
+datum: 17 oktober 2024
+aan MATTHIAS DIEPENDAELE
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN ECONOMIE, INNOVATIE EN 
+INDUSTRIE, BUITENLANDSE ZAKEN, DIGITALISERING EN FACILITAIR MANAGEMENT
+Cybersecurity bij Vlaamse bedrijven  -  Stand van zaken
+Het verhogen van de cyberveiligheid is een belangrijke uitdaging voor de Vlaamse 
+bedrijven.
+In de vorige zittingsperiode voerde de Vlaamse Regering een onderzoek uit om de 
+cybersecuritymaturiteit van Vlaamse bedrijven in kaart te brengen (CS-barometer). In 
+2022 gebeurde dat voor de tweede keer. De studie bevroeg 2367 ondernemingen. De 
+resultaten vormen een belangrijke barometer voor het beleid rond cybersecurity. 
+1. Sinds 1 januari 2021 kunnen kmo’s een beroep doen op de subsidie ‘cybersecurity 
+verbetertrajecten’, waarbij het bedrijf advies en begeleiding krijgt van erkende 
+cybersecurity-dienstverleners. 
+Hoeveel verbetertrajecten zijn er intussen opgestart? Graag een overzicht per jaar en 
+per provincie.
+2. Is er een evaluatie gemaakt van de impact van de bestaande sensibiliseringsacties, 
+zoals hacking-demo’s, opleidingen en infosessies, op de verbetering van het 
+bewustzijn rond cybersecurity bij Vlaamse bedrijven? Graag meer uitleg.
+3. Uit de CS-barometer van 2022 bleek dat Vlaamse bedrijven vooral procedures 
+implementeren om zich te beschermen tegen cyberaanvallen en om een cyberaanval 
+te herstellen, maar minder inzetten op procedures om cyberaanvallen te detecteren 
+en er adequaat op te reageren. 
+Welke maatregelen overweegt de minister-president om dat aan te pakken?
+4. In de laatste CS-barometer voorzag slechts een derde van de Vlaamse ondernemingen 
+in opleidingen of activiteiten rond cybersecurity. 
+Zijn er plannen voor specifieke maatregelen om bedrijven te stimuleren meer in 
+opleidingen te voorzien? 
+5. De CS-barometer (2022) stelt dat Vlaamse bedrijven zich vaak beperken tot 
+basistoepassingen. Meer geavanceerde technische maatregelen zoals ICT-
+veiligheidstesten of encryptietechnieken voor data, documenten of e-mails worden 
+slechts door een minderheid gebruikt. 
+Op welke manier zal dat knelpunt worden aangepakt?
+MATTHIAS DIEPENDAELE
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN ECONOMIE, INNOVATIE EN 
+INDUSTRIE, BUITENLANDSE ZAKEN, DIGITALISERING EN FACILITAIR MANAGEMENT
+ANTWOORD 
+op vraag nr. 8 van 17 oktober 2024
+van STIJN DE ROO
+1. Sinds de start van de CS-verbetertrajecten (januari 2021) maakten 321 unieke 
+ondernemingen in Vlaanderen gebruik van de CS-verbetertrajecten. Meer dan de helft 
+van deze trajecten werden opgestart in 2024. Deze stijging is mede door toedoen van 
+enerzijds de start van 10 nieuwe dienstverleners naast de 8 nog actieve 
+dienstverleners uit de 1e raamovereenkomst en anderzijds de NIS2-regulering. 
+Rijlabels 2021 2022 2023 2024** TOTAAL
+Antwerpen 22 16 23 39 89 28%
+BRUSSEL* 1 3 4 1%
+Limburg 5 4 2 10 20 6%
+Oost-Vlaanderen 12 13 11 48 78 24%
+Vlaams-Brabant 11 13 12 27 56 17%
+West-Vlaanderen 7 3 9 59 74 23%
+Eindtotaal 57 49 58 186 321 100%
+*Hier gaat het om ondernemingen met een hoofdzetel in Brussel maar met een vestiging in het 
+Vlaamse Gewest.
+** TOTAAL komt niet overeen met de som van de jaren aangezien ondernemingen in verschillende 
+jaren kunnen terugkomen door aansluitend op het initieel aangekocht pakket over te gaan tot 
+een upgrade en/of een uitbreidingspakket.
+2. Tot op heden is er van deze verschillende acties nog geen overkoepelende evaluatie 
+gebeurd. We monitoren in eerste instantie het aantal ondernemingen dat we met de 
+diverse acties bereiken. We stellen vast dat daar waar in de beginperiode van de 
+beleidsagenda er relatief weinig interesse was voor de CS-activiteiten dit mede impuls 
+door NIS2 de laatste 2 jaren toch wel gewijzigd is.
+Aan de deelnemers aan de CS-masterclasses van het industriepartnerschap (onder 
+leiding van Sirris en Agoria) binnen het contract ondernemerschap en 
+innovatieversnelling wordt wel een impactbevraging voorgelegd. 55% van de 
+respondenten geeft hierbij aan binnen de 6 maanden na de masterclass aan actie te 
+hebben ondernomen (plan, nieuwe ontwikkeling/aanpassing of implementatie). Verder 
+zien we ook dat 33% van de ondernemingen die deelgenomen heeft aan een CS-actie 
+die plaatsgevonden heeft in het kader van het contract ondernemerschap en 
+innovatieversnelling, beroep doet op de CS-verbetertrajecten. Beide cijfers tonen aldus 
+aan dat we er toch in slagen om bedrijven via laagdrempelige acties aanzetten tot 
+verdere actie.
+3. VLAIO kijkt erop toe dat de acties die uitgevoerd worden door de verschillende partners 
+uit het VLAIO-netwerk en de erkende dienstverleners van de CS-verbetertrajecten 
+voldoende afgestemd zijn op de kenmerken van een adequaat cyberveiligheid en in 
+lijn met het Cyberfundamentals Framework van het CCB. Dit laatste wil zeggen een 
+cybersecuritybeleid dat oog heeft voor 5 kernfuncties: identificeren; beschermen; 
+detecteren; reageren en herstellen. We benadrukken dit vanuit VLAIO ook in alle 
+communicatie zoals op de website www.vlaio.be/CS 
+4. Er is al een uitgebreid opleidingsaanbod beschikbaar bij diverse 
+opleidingsverstrekkers. Zo worden er onder andere nog steeds op regelmatige basis 
+masterclasses en lerende netwerken aangeboden door de partners uit het VLAIO-
+netwerk in het kader van het contract ondernemerschap en innovatieversnelling. In 
+het verleden hebben we de ontwikkeling van basisopleidingen gesteund in 
+samenwerking met ESF en via de open oproepen ondernemersvorming. Daarnaast 
+voorzien we ook via kmo-portefeuille al een verhoogd steunpercentage voor 
+opleidingen inzake cyberveiligheid. In 2023 lanceerden we ook een overheidsopdracht 
+waardoor sectororganisaties (VOKA, UNIZO, Embuild) de mogelijkheid kregen om 
+kmo’s kennen te laten maken met geautomatiseerde phishingsimulaties bij hun 
+werknemers. 
+Naar de toekomst toe behoudt VLAIO de mogelijkheid om in functie van 
+specifieke/actuele noden bijkomend opleidingsaanbod te creëren via de open oproep 
+ondernemersvorming.
+5. VLAIO kijkt erop toe dat de acties die uitgevoerd worden door de verschillende partners 
+uit het VLAIO-netwerk en de erkende dienstverleners voor de CS-verbetertrajecten 
+voldoende afgestemd zijn op de kenmerken van een adequaat cyberveiligheid. Dit wil 
+zeggen met oog voor innovatieve en geavanceerde technische maatregelen maar ook 
+met voldoende aandacht voor procedures en personeel. Eénmalig een pentest 
+uitvoeren zorgt immers niet voor een sterk cybersecuritybeleid. Het is immers 
+enerzijds de mix van maatregelen en anderzijds de continue aandacht die de sterkte 
+van het cyberveiligheidsbeleid bepaalt.
+ 

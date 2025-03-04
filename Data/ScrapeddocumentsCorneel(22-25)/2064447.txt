@@ -1,0 +1,184 @@
+title: Toeristische sector - Terugvordering coronasteun
+thema: Economie
+Toerisme
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2064447
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1822921
+SCHRIFTELIJKE VRAAG
+nr. 376
+van CATHY COUDYSER
+datum: 24 april 2024
+aan JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+Toeristische sector  -  Terugvordering coronasteun
+Tijdens de coronapandemie ondersteunde de Vlaamse overheid bedrijven en organisaties 
+die actief zijn of waren in de toeristische sector met honderden miljoenen euro’s aan 
+subsidies. De belangrijkste steunvehikels daarbij waren de Vlaamse hinderpremies, 
+compensatiepremies en de meerdere Vlaamse beschermingsmechanismes (nummers 1 tot 
+en met 12). Daarnaast was er ook het zogenaamde coronaglobalisatiemechanisme, waar 
+onder andere de organisatie achter het festival Tomorrowland gebruik van maakte.
+Voor veel bedrijven en organisaties was dat broodnodige steun. Vlaanderen heeft er dan 
+ook vele dankzij de hierboven opgesomde steunvehikels doorheen de crisis geloodst. Er 
+waren echter ook bedrijven en organisaties die onnodig veel steun ontvingen. Het gaat 
+daarbij om dossiers waarbij niet werd voldaan aan de voorwaarden of waarbij er 
+doelbewust gefraudeerd werd.
+Daarvoor verwijs ik naar onderstaande NACE-codes (NACE: Nomenclature Générale des 
+Activités Économiques dans les Communautés Européennes), zie deze link :
+55.100 Hotels en dergelijke accommodatie
+55.201 Jeugdherbergen en jeugdverblijfcentra
+55.202 Vakantieparken
+55.203 Gites, vakantiewoningen en –appartementen
+55.204 Gastenkamers
+55.209 Vakantieverblijven en andere accommodatie voor kort verblijf
+55.300 Kampeerterreinen en kampeerauto- en caravanterreinen
+55.900 Overige accommodatie
+Accommodatie met betrekking tot tweede verblijven (enkel in de kustgemeenten):
+68.101 Diensten in verband met handel in eigen onroerend goed
+68.201 Verhuur of exploitatie van eigen of geleased goed
+68.311 Bemiddeling bij de aankoop, verkoop en verhuur van onroerend goed voor een vast 
+bedrag of op contractbasis
+68.321 Beheer van residentieel onroerend goed voor een vast bedrag of op contractbasis
+Voeding en drankverstrekkers:
+56.101 Eetgelegenheden met volledige bediening
+56.102 Eetgelegenheden met beperkte bediening
+56.290 Overige eetgelegenheden
+56.301 Cafés en bars
+56.302 Discotheken, dancings en dergelijke
+56.309 Andere drinkgelegenheden
+Personenvervoer:
+49.100 Personenvervoer per spoor, met uitzondering van personenvervoer per spoor 
+binnen steden of voorsteden
+49.310 Personenvervoer te land binnen steden of voorsteden
+49.320 Exploitatie van taxi’s
+49.390 Overig personenvervoer te land, niet elders genoemd
+50.100 Personenvervoer over zee- en kustwateren
+50.300 Personenvervoer over binnenwateren
+51.100 Personenvervoer door de lucht
+77.110 Verhuur en lease van personenauto’s en lichte bestelwagens
+Reisbureaus, reisorganisatoren, reserveringsbureaus en aanverwante activiteiten:
+79.110 Reisbureaus
+79.120 Reisorganisatoren
+79.901 Toeristische informatiediensten
+79.909 overige reserveringsactiviteiten
+Diensten voor cultuur:
+90.011 Beoefening van uitvoerende kunsten door zelfstandig werkende artiesten
+90.012 Beoefening van uitvoerende kunsten door artistieke ensembles
+90.021 Promotie en organisatie van uitvoerende kunstevenementen
+90.022 Ontwerp en bouw van podia
+90.023 Gespecialiseerde beeld-, verlichtings- en geluidstechnieken
+90.029 Overige ondersteunende activiteiten voor de uitvoerende kunsten
+90.031 Scheppende kunsten, met uitzondering van ondersteunende diensten
+90.032 Ondersteunende activiteiten voor scheppende kunsten
+90.041 Exploitatie van schouwburgen, concertzalen en dergelijke
+90.042 Exploitatie van culturele centra en multifunctionele zalen ten behoeve van culturele 
+activiteiten
+91.020 Musea
+91.030 Exploitatie van monumenten en dergelijke toeristenattracties
+91.041 Botanische tuinen en dierentuinen
+91.042 Beheer en instandhouding van natuurgebieden
+Diensten voor sport- en recreatie:
+77.210 Verhuur en lease van sport- en recreatieartikelen
+93.110 Exploitatie van sportaccommodaties
+93.110 Organisatie van sportevenementen voor professionelen of amateurs door 
+organisaties met of zonder accommodatie
+93.130 Fitnesscentra
+93.191 Activiteiten van sportbonden en –federaties
+93.199 Overige sportactiviteiten, niet elders genoemd
+93.211 Exploitatie van kermisattracties
+93.212 Exploitatie van pret- en themaparken
+93.291 Exploitatie van snooker- en biljartenzalen
+93.292 Exploitatie van recreatiedomeinen
+93.299 Overige recreatie- en ontspanningsactiviteiten, niet elders genoemd
+92.000 Loterijen en kansspelen
+Kleinhandel van landspecifieke, karakteristieke toerismegoederen:
+47.640 Detailhandel in sport- en kampeerartikelen in gespecialiseerde winkels
+47.786 Detailhandel in souvenirs en religieuze artikelen in gespecialiseerde winkels
+Niet-toerismekarakteristieke bedrijven:
+82.300 organisatie van congressen en beurzen
+Gelieve volgende gegevens aan te leveren in excel en pdf.
+Graag een overzicht opgesplitst op basis van de hierboven opgesomde NACE-codes per 
+sector met telkens de terugvorderingssommen voor:
+1. De hinderpremie. Daarbij per provincie per NACE-code een gedetailleerd overzicht:
+a) van welk bedrijf/organisatie er wordt teruggevorderd;
+b) welk bedrag wordt teruggevorderd;
+c) wat de status van de terugbetaling is;
+d) van het teruggevorderde percentage ten overstaan van de totaal uitgekeerde steun 
+in deze subsidies.
+2. De compensatiepremie. Daarbij per provincie per NACE-code een gedetailleerd 
+overzicht:
+a) van welk bedrijf/organisatie er wordt teruggevorderd;
+b) welk bedrag wordt teruggevorderd;
+c) wat de status van de terugbetaling is;
+d) van het teruggevorderde percentage ten overstaan van de totaal uitgekeerde steun 
+in deze subsidies.
+3. Telkens apart de Vlaamse beschermingsmechanismes nr. 1 tot en met 12. Daarbij per 
+provincie per NACE-code een gedetailleerd overzicht:
+a) van welk bedrijf/organisatie er wordt teruggevorderd;
+b) welk bedrag wordt teruggevorderd;
+c) wat de status van de terugbetaling is;
+d) van het teruggevorderde percentage ten overstaan van de totaal uitgekeerde steun 
+in deze subsidies.
+4. Het coronaglobalisatiemechanisme. Daarbij per provincie per NACE-code een 
+gedetailleerd overzicht:
+a) van welk bedrijf/organisatie er wordt teruggevorderd;
+b) welk bedrag wordt teruggevorderd;
+c) wat de status van de terugbetaling is;
+d) van het teruggevorderde percentage ten overstaan van de totaal uitgekeerde steun 
+in deze subsidies.
+JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+ANTWOORD 
+op vraag nr. 376 van 24 april 2024
+van CATHY COUDYSER
+Hierna een globaal overzicht van de terugvorderingen coronasteun aan de toeristische 
+sector, volgens de opgegeven NACE-codes. 
+In totaal werd over alle coronasteunmaatregelen heen aan deze sector 736.230.992,21 
+euro steun toegekend, waarvan 34.830.816,01 euro werd teruggevorderd in 4.833 
+dossiers. Het teruggevorderd bedrag bevat eveneens de administratiekost van 100 euro 
+per dossier. 
+Ingevolge een ingewilligd administratief bezwaar of beroep werd van het teruggevorderd 
+bedrag 6.652.060,07 euro geannuleerd. Van het resterend terugvorderingsbedrag ad 
+28.178.755,94 euro, zijnde 3,83 % van het toegekend steunbedrag, werd momenteel in 
+totaal 15.236.296,94 euro terugbetaald, waarvan 1.288.566,14 euro via 
+schuldcompensatie.
+Corona Steunmaatregel - toeristische 
+sectorBedrag 
+Toegekende 
+Steun in euroTeruggevorderd 
+bedrag in euroAantal 
+dossiers met 
+terugvorderingGeannuleerd 
+teruggevorderd 
+bedrag in euroTerugbetaald 
+bedrag via 
+bank in euroTerugbetaald 
+bedrag via 
+schuld
+compensatie 
+in euroTerug-
+vorderings 
+percentage
+Compensatiepremie 4.468.500,00 153.969,04 54 21.000,00 72.746,83 0,00 2,98
+Corona Globalisatie Mechanisme 34.395.715,81      0,00
+Corona Globalisatie Mechanisme 2021 6.121.255,03      0,00
+Hinderpremie inclusief dagpremie 359.782.020,00 23.475.325,27 2.042 4.773.646,34 11.254.988,52 1.129.363,64 5,20
+Nieuw Vlaams 
+Beschermingsmechanisme 46.732.282,14 1.729.457,74 398 253.371,16 531.161,29 52.670,50 3,16
+Ondersteuningspremie 9.142.000,00 522.543,98 233 68.000,00 155.300,18 14.384,99 4,97
+Vlaams Beschermingsmechanisme 13.036.834,49 867.664,33 174 179.233,43 154.189,56 32.519,80 5,28
+Vlaams Beschermingsmechanisme 10 5.379.302,13 22.600,00 1 0,00 22.600,00 0,00 0,42
+Vlaams Beschermingsmechanisme 11 2.824.363,62 64.096,17 16 0,00 60.748,95 0,00 2,27
+Vlaams Beschermingsmechanisme 12 1.458.628,47      0,00
+Vlaams Beschermingsmechanisme 3 51.583.849,31 1.529.899,20 310 203.315,74 310.756,80 45.000,00 2,57
+Vlaams Beschermingsmechanisme 4 32.471.584,92 1.175.024,67 317 246.142,19 239.011,16 2.400,00 2,86
+Vlaams Beschermingsmechanisme 5 33.446.089,11 1.066.765,84 311 206.875,07 206.211,32 0,00 2,57
+Vlaams Beschermingsmechanisme 6 34.673.893,67 1.096.163,86 291 190.102,46 218.302,07 3.475,74 2,61
+Vlaams Beschermingsmechanisme 7 53.131.741,00 1.687.422,15 278 307.182,21 335.980,02 2.930,09 2,60
+Vlaams Beschermingsmechanisme 8 32.160.341,56 829.870,33 208 134.064,31 161.189,62 2.101,88 2,16
+Vlaams Beschermingsmechanisme 9 15.422.590,95 610.013,43 200 69.127,16 224.544,48 3.719,50 3,51
+Eindtotaal 736.230.992,21 34.830.816,01 4.833 6.652.060,07 13.947.730,80 1.288.566,14 3,83
+In de bijlage gaat het detail per coronasteunmaatregel, opgedeeld naar NACE-code en 
+geografisch, op basis van de ligging van de maatschappelijke zetel van de steunvragende 
+onderneming. Deze lijst bevat geen nominatieve gegevens vermits deze ook gegevens van 
+zelfstandigen (natuurlijke personen) betreft die GDPR-gewijs niet kunnen gedeeld worden.
+BIJLAGE
+Overzicht coronasteun toegekend-teruggevorderd-terugbetaald

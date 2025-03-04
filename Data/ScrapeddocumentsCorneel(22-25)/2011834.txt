@@ -1,0 +1,177 @@
+title: Inspectie van Financiën (IF) - Beleidsdomeinoverschrijdend toezicht op subsidies
+thema: Begroting
+Financiën
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2011834
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1773569
+SCHRIFTELIJKE VRAAG
+nr. 25
+van MAURITS VANDE REYDE
+datum: 19 oktober 2023
+aan MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+Inspectie van Financiën (IF)  -  Beleidsdomeinoverschrijdend toezicht op subsidies
+De conceptnota ‘Subsidies in goede banen’ werd op 16 juli 2021 door de Vlaamse Regering 
+goedgekeurd. De nota bevatte een aantal maatregelen die moeten bijdragen tot een beter 
+beheer en striktere controle van subsidies. Onder andere zullen subsidies voortaan na vijf 
+jaar automatisch vervallen (sunset clause) om na te gaan of ze voldoende effectief en 
+efficiënt zijn en of ze nog relevant zijn. Er zal een meer eenduidig kader voor 
+subsidieregelingen komen. Verder zou ook de reservevorming van gesubsidieerde 
+entiteiten onderzocht worden. Ook zou een mandaat gegeven worden aan de Inspectie van 
+Financiën voor het uitoefenen van een “beleidsdomeinoverschrijdend toezicht op 
+subsidies”. 
+In antwoord op mijn schriftelijke vraag nr. 598 van 13 september 2023 gaf de minister 
+een overzicht van de stand van zaken in de uitvoering van de maatregelen.
+M.b.t. het beleidsdomeinoverschrijdend toezicht door IF, gaf de minister een overzicht van 
+vaststellingen die door IF in dat verband werden gedaan.
+Bij de gecontroleerde subsidies, met inbegrip van de door de Vlaamse Audit Autoriteit 
+behandelde Europese dossiers, werden door de Inspectie van Financiën de volgende 
+vaststellingen gedaan:
+-niet-correcte toepassing van wetgeving overheidsopdrachten;
+-geen (directe) link tussen ingediende kosten en project;
+-geen of onvoldoende bewijsstukken;
+-geen voorafgaandelijke afspraken inzake de verdeling van algemene kosten;
+-dubbele financiering;
+-indienen van niet-subsidiabele kosten of niet-betaalde uitgaven;
+-indienen van kosten die buiten de subsidiabele periode werden gemaakt;
+-laattijdig ingediende (of ontstentenis aan) afrekening door de subsidiebegunstigde;
+-materiële vergissingen (rekenfouten, …).
+1. M.b.t. welke subsidieregelingen werden door IF in het kader van het 
+beleidsdomeinoverschrijdend toezicht controles gedaan? Graag een overzicht per 
+beleidsdomein.
+2. M.b.t. welke subsidieregelingen werden voornoemde vaststellingen gedaan? Graag een 
+overzicht 
+a) per domein en per subsidieregeling;
+b) van timing van controle;
+c) van de aard van de begunstigde (natuurlijk persoon, vzw, onderneming, enz…);
+d) van het totale subsidiebedrag dat vertegenwoordigd wordt door de dossiers waarin 
+IF vaststellingen heeft gedaan, opgesplitst per subsidieregeling.
+3. Welk verder gevolg werd/wordt gegeven aan de gedane vaststellingen? Welke 
+procedure wordt gevolgd eens IF bepaalde vaststellingen doet (terugvordering, 
+dagvaarding, enz…)?
+4. Zijn er bepaalde subsidieregelingen die specifiek problematisch blijken inzake aantal 
+vaststellingen?
+MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+ANTWOORD
+op vraag nr. 25 van 19 oktober 2023
+van MAURITS VANDE REYDE
+1. De onderstaande tabel geeft een overzicht per beleidsdomein, van het aantal controles 
+die werden uitgevoerd door de Inspectie van Financiën, zowel in het hoedanigheid van 
+de Vlaamse Auditautoriteit voor de Europese structuurfondsen, het ATEF als voor andere 
+dossiers (VTS in de enge zin). Voor elk van de beleidsdomeinen wordt een opsplitsing 
+gemaakt naargelang het kader waarbinnen de subsidie werd verstrekt.
+Beleidsdomein KaderAantal 
+controles
+ESF 35
+AMIF 4 Werk en Sociale Economie
+RRF 1
+VLAIO EFRO 30
+RRF 3Omgeving
+VTS (enge zin) 2
+Cultuur, Jeugd, Sport en Media VTS (enge zin) 1
+RRF 1 Kanselarij, Bestuur, Buitenlandse Zaken en 
+Justitie VTS (enge zin) 1
+Mobiliteit en Openbare Werken RRF 1
+Economie, Wetenschap en Innovatie RRF 1
+EventFlanders ATEF 9
+Onderwijs en Vorming VTS (enge zin) 2
+NVT Interreg 29
+Totaal 120
+2. a) In onderstaande tabel wordt een overzicht gegeven van de gemaakte vaststellingen, 
+per domein en per subsidieregeling, waarop de volgende legende van toepassing is:
+a. niet-correcte toepassing van wetgeving overheidsopdrachten;
+b. geen (directe) link tussen ingediende kosten en project;
+c. geen of onvoldoende bewijsstukken;
+d. geen voorafgaandelijke afspraken inzake de verdeling van algemene kosten;
+e. dubbele financiering;
+f. indienen van niet-subsidiabele kosten of niet-betaalde uitgaven;
+g. indienen van kosten die buiten de subsidiabele periode werden gemaakt;
+h. laattijdig ingediende (of ontstentenis aan) afrekening door de 
+subsidiebegunstigde;
+i. materiële vergissingen (rekenfouten, …).
+Beleidsdomein Kader Vaststellingen
+ESF b, c, d, e
+AMIF d Werk en Sociale Economie
+RRF a, f
+VLAIO EFRO a, d, e, f
+Omgeving RRF a
+Kanselarij, Bestuur, Buitenlandse Zaken en Justitie RRF a
+Economie, Wetenschap en Innovatie RRF b, c, d, e
+EventFlanders ATEF a, b, c
+NVT Interreg a, b, c, e, i
+In de bovenstaande tabel werden geen controles in het kader van VTS (enge zin) 
+opgenomen, gelet op het feit dat in de controles die tot op heden werden uitgevoerd 
+geen vaststellingen werden gedaan die onder de bovenstaande categorieën vallen. 
+De controles in het kader van VTS (enge zin) waren tot op heden eerder gericht op 
+de correcte aanwending van de subsidies, analyse van de controles door de 
+administratie alsook de aanwezigheid van interne controle binnen de organisatie 
+van de begunstigde om de correcte aanwending te kunnen garanderen. 
+b) De hierboven verstrekte cijfers hebben betrekking op de volgende periodes:
+a. Voor wat betreft de Europese structuurfondsen wordt het aantal controles en 
+de daaruit volgende bevinden weergegeven voor de periode waarbij de eerste 
+audits werden opgestart in april 2022 en de laatste auditrapporten werden 
+verstuurd in januari 2023;
+b. Voor het RRF gaat het om de periode sinds de start van de controles in 
+november 2022;
+c. Voor het ATEF gaat het om controles die werden uitgevoerd sinds april 2019;
+d. Voor het VTS (enge zin) werden alle controles opgenomen die sinds de aanvang 
+in 2022 werden uitgevoerd. 
+c) In onderstaande tabel wordt een overzicht gegeven van de aard van de begunstigden 
+waarvoor vaststellingen werden gedaan, per domein en per subsidieregeling, waarop 
+de volgende legende van toepassing is:
+a. Privéondernemingen
+b. Overheid, inclusief onderwijsinstellingen
+c. VZW
+Beleidsdomein Kader Vaststellingen
+ESF a, b, c
+AMIF b Werk en Sociale Economie
+RRF b
+VLAIO EFRO a, b
+RRF bOmgeving
+VTS (enge zin) b,c
+Cultuur, Jeugd, Sport en Media VTS (enge zin) c
+RRF b Kanselarij, Bestuur, Buitenlandse Zaken en 
+Justitie VTS (enge zin) c
+Economie, Wetenschap en Innovatie RRF b
+EventFlanders ATEF b, c
+Onderwijs en Vorming VTS (enge zin) c
+NVT Interreg a, b, c
+d) In onderstaande tabel wordt een overzicht gegeven van het totale subsidiebedrag 
+dat vertegenwoordigd wordt door de dossiers waarin vaststellingen werden gedaan, 
+opgesplitst per subsidieregeling:
+Kader Totaal bedrag
+ESF  €               1.831.268,36 
+EFRO  €               8.099.919,75 
+AMIF  €                    56.993,24 
+Interreg  €               3.828.660,83 
+RRF  €           318.635.000,00 
+ATEF  €             33.920.706,00 
+VTS (enge zin)*  €             25.484.551,64 
+* Voor wat betreft het totale subsidiebedrag dat werd gecontroleerd in het kader 
+van VTS (enge zin) moet rekening gehouden worden met het feit dat tot heden de 
+controles binnen VTS (enge zin) niet steeds de gehele subsidie controleerden, maar 
+de focus werd gelegd op het toezicht door de administratie, de interne controle 
+mechanismen bij de begunstigde organisatie en/of het respecteren van de geldende 
+subsidieregelgeving. 
+3. Het verder gevolg dat wordt gegeven aan de gedane vaststellingen is in grote mate 
+afhankelijk van de subsidieregeling waarbinnen de vaststelling wordt gedaan. Zo 
+bestaan er zeer uitgebreide bepalingen in de Europese verordeningen, van toepassing 
+op de structuurfondsen, met betrekking tot de verschillende mogelijke gevolgen van 
+vastgestelde problemen. Dit is evenzeer zo voor de subsidies die worden verstrekt door 
+de Vlaamse Overheid, waarbij de procedure ook afhankelijk is van het subsidiekader 
+waarbinnen de subsidie wordt verstrekt. 
+Voor wat betreft de Europese structuurfondsen wordt, bij één of meerdere van de 
+hierboven aangehaalde vaststellingen, doorgaans overgegaan tot de terugvordering van 
+een percentage van de subsidie. Het teruggevorderde percentage is rechtstreeks 
+afhankelijk van de aard van de gedane vaststelling. 
+In het kader van de controles die door het ATEF worden uitgevoerd, zijn 
+terugvorderingen eveneens een mogelijk gevolg van een gedane vaststelling. Daarnaast 
+kan ook preventief overgegaan worden tot de inhouding van volgende subsidieschijven. 
+Gelet op de specifieke aard van het ATEF, waarbij er controle wordt uitgeoefend 
+gedurende de uitvoering van het project, bestaat ook de mogelijkheid om 
+organisatorische maatregelen te treffen. Een voorbeeld hiervan is bijvoorbeeld een 
+bijsturing van de eerstelijnscontrole binnen de organisatie van de begunstigde. 
+Het is aan de betrokken administraties om verdere stappen te zetten.
+4. Op basis van de informatie waarover we vandaag beschikken kunnen er geen 
+subsidieregelingen worden aangeduid die zouden kunnen bestempeld worden als 
+specifiek problematisch inzake het aantal vaststellingen.

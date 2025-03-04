@@ -1,0 +1,87 @@
+title: Drinkwaterbedrijven - Onderlinge leveringen
+thema: Natuur en Milieu
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2028341
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1786879
+SCHRIFTELIJKE VRAAG
+nr. 186 
+van MIEKE SCHAUVLIEGE
+datum: 11 december 2023
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Drinkwaterbedrijven  -  Onderlinge leveringen
+1. In haar antwoord op mijn schriftelijke vraag nr. 897 van 19 juni 2023 vermeldt de 
+minister de “kost voor aankoop” en de “omzet uit verkoop”. Die terminologie is 
+onduidelijk. 
+Kan de minister verduidelijken wat de exacte definitie is?
+2. In een gesloten systeem zou de aankoopkost voor A gelijk moeten zijn aan de 
+verkoopprijs van B. Op basis van het antwoord op subvraag 2, concludeer ik dat dat 
+in bijlage twee niet het geval is. 
+Wat is de verklaring voor dat lek? Is het louter en alleen terug te brengen tot de 
+verrichtingen buiten Vlaanderen (op basis van het bijgevoegde schema, zonder 
+vermelding van het jaartal, werd er 67,6 miljoen m³ water aangekocht buiten 
+Vlaanderen, tegen 7,4 miljoen m³ verkocht buiten Vlaanderen. Verklaart dat het 
+volledige verschil tussen enerzijds de aankoopkost van 85,4 miljoen euro in 2021 en 
+de omzet uit verkoop van 49,9 miljoen euro in 2021?
+3. De minister vermeldt in haar antwoord bij subvraag 5 een verhouding van 0,55 €/m³ 
+in 2021. 
+Kan zij de berekening achter die kostprijs/eenheid verduidelijken? Het is immers niet 
+duidelijk hoe zij aan die eenheidsprijs komt.
+Klopt onderstaande interpretatie?
+85,4 kost min 49,9 omzet = 35,5 miljoen euro voor 60,1 miljoen m³ aanvoersaldo 
+buiten Vlaanderen (67,6 - 7,4). Of een aankoopkost per m³ van 35,5/60,1 = 0,59 euro 
+(aankoop buiten Vlaanderen).
+Dat indien in 2021 een omzet van 49,9 miljoen euro voor verkoop aan andere 
+exploitanten (83,9 miljoen m³ binnen Vlaanderen en 7,4 miljoen m³ buiten 
+Vlaanderen, dus totaal 91,1 miljoen m³). Of transactiekost per m³: 49,9/91,1 = 0,55 
+euro.
+4. Kan de minister inzicht geven in de maximale spanning uitgedrukt in €/m³ tussen 
+enerzijds de drinkwatermaatschappij die aan het laagste tarief water levert aan een 
+andere watermaatschappij binnen Vlaanderen en anderzijds aan het hoogste tarief 
+water levert aan een andere watermaatschappij binnen Vlaanderen?
+5. Kan de minister inzicht geven in de maximale spanning uitgedrukt in €/m³ tussen 
+enerzijds de drinkwatermaatschappij die aan het laagste tarief water inkoopt van een 
+andere watermaatschappij binnen Vlaanderen en die anderzijds aan het hoogste tarief 
+water levert aan een andere watermaatschappij binnen Vlaanderen?
+6. De vaststelling blijft dat hoewel drinkwatermaatschappijen semipublieke instellingen 
+zijn de jaarrekeningen zeer rudimentair zijn. Een jaarrekening moet wettelijk 
+omvatten: balans, resultatenrekening en een toelichting bij beide.
+a) Bestaat er regelgeving die waterbedrijven verplicht om de volledige jaarrekeningen 
+publiek toegankelijk te maken?
+b) Zijn de volledige jaarrekeningen enkel consulteerbaar door de aandeelhouders en 
+de leden van de raad van bestuur van de drinkwaterbedrijven?
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 186 van 11 december 2023
+van MIEKE SCHAUVLIEGE
+1. De ‘kost voor aankoop’ en de ‘omzet uit verkoop’ die ik u bezorgde als antwoord op uw 
+schriftelijke vraag nr. 897 (2022-2023) zijn afkomstig uit de tariefplannen van de 
+waterbedrijven en stemmen overeen met de boekhoudkundige normen gehanteerd 
+door elk waterbedrijf. De ‘omzet uit verkoop’ omvat de inkomsten uit de verkoop van 
+drinkwater aan andere waterbedrijven, zowel binnen als buiten Vlaanderen. De ‘kost 
+voor aankoop’ omvat de kosten voor de aankoop van drinkwater bij andere 
+waterbedrijven, zowel binnen als buiten Vlaanderen.
+2. Een groot deel van het drinkwater dat in Vlaanderen gedistribueerd wordt door de 
+waterbedrijven wordt inderdaad aangekocht buiten Vlaanderen. In bijlage 1 werd ter 
+verduidelijking de drinkwaterbalans voor de Vlaamse waterbedrijven van 2022 
+opgenomen waarin deze volumes opgenomen zijn. Dit verklaart het verschil tussen het 
+bedrag aan ‘kost voor aankoop’ en ‘omzet uit verkoop’. 
+3. Voor 2021 is de verhouding tussen de omzet uit verkoop van water aan andere 
+waterbedrijven en de geleverde hoeveelheid aan waterbedrijven, zoals gerapporteerd 
+in de tariefplannen, 0,55 €/m³ (= 49,91 miljoen euro/90,94 miljoen m³). 
+Ik begrijp uit uw interpretatie dat u inzicht wenst in het verschil tussen aankoopprijs 
+en verkoopprijs. De hierboven aangegeven verhouding van 0,55 €/m³ is een ruwe 
+proxy voor de verkoopprijs tussen de waterbedrijven. De verhouding tussen de kost 
+voor aankoop van drinkwater en de aangekochte hoeveelheid is een ruwe proxy voor 
+de aankoopprijs en bedraagt in 2021 0,57 €/m³. Dit is evenwel een zeer ruwe 
+vergelijking. Er is geen standaardprijs voor onderlinge aankoop of verkoop. Prijzen 
+variëren per waterbedrijf en ook binnen een waterbedrijf afhankelijk van de situatie 
+(hoeveelheden, tijdstip, ...). 
+4. De Waterregulator meldt mij dat ze niet beschikt over de specifieke (prijs)afspraken 
+van de onderlinge waterlevering tussen de Vlaamse waterbedrijven noch over de 
+(prijs)afspraken voor aan- en verkoop buiten Vlaanderen.
+5. Ik verwijs naar mijn antwoord op vraag 4.
+6. De volledige jaarrekeningen van de waterbedrijven zijn openbaar en raadpleegbaar via 
+de balanscentrale van de Nationale Bank van België (NBB).
+BIJLAGE
+Drinkwaterbalans van 2022 voor de Vlaamse waterbedrijven in miljoen m³

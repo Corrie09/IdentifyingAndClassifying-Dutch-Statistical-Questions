@@ -1,0 +1,141 @@
+title: E-facturatie - Lokale besturen
+thema: Financiën
+Lokale overheden en Binnenlands bestuur
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2043710
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1800220
+SCHRIFTELIJKE VRAAG
+nr. 133
+van BRECHT WARNEZ
+datum: 1 februari 2024
+aan GWENDOLYN RUTTEN
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BINNENLANDS BESTUUR, 
+BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN
+E-facturatie  -  Lokale besturen
+Elektronisch factureren via ‘e-facturen’ heeft tal van voordelen. De doorlooptijden zijn 
+gemiddeld tien dagen korter, er is minder risico op fouten door meer gestandaardiseerde 
+informatie, er wordt sneller betaald … Vlaanderen zet daarom al jaren in op het 
+ondersteunen van de uitrol van e-facturen. Sinds 1 april 2019 is men verplicht om 
+elektronische facturen, die aan de Europese norm beantwoorden, als dusdanig te 
+ontvangen en te verwerken.
+Gelieve de gevraagde gegevens in een Excel-bestand weer te geven.
+Dit is een update op mijn eerdere schriftelijke vraag nr. 185 van 9 februari 2023.
+1. Beschikt de minister over het aantal inkomende facturaties die gebeuren via e-facturen 
+bij de lokale besturen? 
+a) Graag een oplijsting per gemeente en per provincie voor de inkomende e-facturen 
+in 2023.
+b) Kan de minister deze aantallen zetten tegenover het totale aantal facturen?
+2. Beschikt de minister momenteel al over het aantal uitgaande facturaties die gebeuren 
+via e-facturen bij de lokale besturen? Graag voor 2023 een oplijsting per gemeente en 
+per provincie.
+3. Kansen en bedreigingen.
+a) Wat zijn volgens de minister op vandaag de succesfactoren bij het Vlaamse e-
+invoicingproject?
+b) Hoe evalueert de minister de effecten van het KB van 9 maart 2022 waardoor e-
+facturatie veralgemeend gebruikt wordt bij alle lokale overheden?
+c) Welke kansen kunnen meer benut worden? Wat zijn de hinderpalen die een 
+ruimere toepassing beletten?
+4. Hoe evalueert de minister het federale e-invoicingportaal Mercurius?
+5. Is de minister van plan nieuwe initiatieven te nemen op dit vlak? Zo ja, welke 
+initiatieven is de minister voornemens te nemen?
+6. Hoe evalueert de minister het gebruik van e-facturen bij de lokale besturen? Zal de 
+minister initiatieven nemen om die nog meer aan te moedigen? Zo ja, welke 
+initiatieven is de minister voornemens te nemen?
+Deze vraag werd gesteld aan de ministers Gwendolyn Rutten (133), Matthias Diependaele 
+(171).
+GWENDOLYN RUTTEN
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BINNENLANDS BESTUUR, 
+BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN
+GECOÖRDINEERD ANTWOORD 
+op vraag nr. 133 van 1 februari 2024
+van BRECHT WARNEZ
+Het Vlaams e-invoicingproject, dat behoorde tot de bevoegdheid van minister-president 
+Jambon, is eind 2021 afgerond. Het streefdoel van 80% e-facturen binnen de Vlaamse 
+overheid werd behaald, wat aantoont dat e-invoicing ingebed is in de operationele 
+processen. Hierdoor kon de projectwerking worden afgerond en maakt e-facturatie deel uit 
+van de ‘business as usual’.
+De diensten van de minister-president Jambon en minister Diependaele bezorgden 
+informatie om een antwoord te geven op de gestelde vragen.
+1. Als bijlage een lijst met op MAGDA e-invoicing aangesloten lokale overheden in 
+Vlaanderen. Per provincie en per gemeente wordt de trafiek weergegeven. Deze trafiek 
+betreft de inkomende e-facturen. In- en uitgaande facturen bij e-facturatie verwijzen 
+immers naar erg verschillende processen en vragen een aparte projectaanpak.
+Onze diensten beschikken niet over het totaal aantal facturen van lokale besturen. Het 
+is dus niet mogelijk om het aantal inkomende e-facturen uit te zetten tegenover het 
+totaal aantal facturen.
+2. Zoals we in het antwoord op uw vorige vraag reeds aangaven, is er bij MAGDA geen 
+informatie bekend over alle uitgaande e-facturen van de lokale besturen. Het gebruik 
+van dienstverleners in de markt betekent immers dat deze dienstverleners hun eigen 
+kanalen (access punten e-invoicing) kunnen gebruiken. Informatie van deze private 
+dienstverleners is niet beschikbaar.
+3. a) Het Vlaamse e-invoicingproject werd afgerond in 2021, bijgevolg zijn de 
+succesfactoren niet gewijzigd ten opzichte van uw vorige vraag: 
+•De beslissing van de Vlaamse Regering van 16 december 2016 om e-facturatie 
+naar de Vlaamse overheid te verplichten vanaf 1 januari 2017 was de 
+belangrijkste succesfactor voor het Vlaamse project,
+•De centrale aansturing van het project over de verschillende financiële systemen 
+heen was een tweede succesfactor,
+•De derde succesfactor was zonder twijfel de samenwerking van de (Vlaamse) 
+overheid met de private markt van boekhoud- en softwarepakketten,
+•De vierde succesfactor is de ondersteuning van de Vlaamse instellingen door 
+het agentschap Digitaal Vlaanderen (MAGDA-team) in nauwe samenwerking 
+met het federale niveau (FOD BOSA Mercuriusteam).
+b) Binnen de Vlaamse overheid gold de verplichting voor bedrijven om e-facturen te 
+versturen reeds vanaf 1 januari 2017, zoals in het antwoord hierboven vermeld. Met 
+het KB van 9 maart 2022 heeft de federale wetgever uitvoering gegeven aan de 
+bepalingen rond elektronische facturering die waren opgenomen in de wet van 7 april 
+2019. Het KB verplicht ondernemers om hun facturen elektronisch te versturen naar 
+alle aanbesteders en voorziet in een gespreide inwerkingtreding. Het KB legt dus op 
+een gefaseerde wijze e-facturatie op aan de ondernemingen:
+• vanaf 1 november 2022 voor de overheidsopdrachten boven de Europese 
+publicatiedrempel,
+• vanaf 1 mei 2023 voor de opdrachten met een geraamde waarde boven de 
+30.000€,
+• tot slot vanaf 1 maart 2024 voor de opdrachten boven de 3.000€ (zoals 
+gewijzigd door het KB van 4 september 2023)
+Het KB heeft tot gevolg dat de verplichting die door de Vlaamse Regering reeds in 
+2017 werd ingevoerd nu ook wordt opgelegd aan de leveranciers van alle andere 
+aanbesteders. Dit zorgt ervoor dat de voordelen van e-facturatie wijder verspreid 
+worden en leidt tot een grotere uniformiteit in het facturatieproces wat een positieve 
+zaak is. Het aantal inkomende facturen van de bij MAGDA e-invoicing aangesloten 
+lokale overheden in 2023 (930.251 inkomende facturen) toont alvast een forse 
+stijging ten opzichte van 2022 (562.770 inkomende facturen).
+c) Alle lokale besturen hebben technisch de mogelijkheid om e-facturen te ontvangen: 
+• Via een actieve connectie op MAGDA-e-invoicing.
+• Indien het lokaal bestuur niet over een actieve connectie beschikt, is een back 
+up van de e-facturen beschikbaar via het Mercuriusplatform. 
+Het implementeren van e-invoicing is een arbeidsintensief proces: het financieel 
+systeem moet e-facturen kunnen ontvangen, de interne aankoop- en 
+facturatieprocessen moeten worden geoptimaliseerd, en de leveranciers moeten 
+worden geïnformeerd, gesensibiliseerd en begeleid. De Vlaamse overheid heeft lokale 
+besturen reeds ondersteund door in overleg te gaan met de eigenaars van de 
+financiële systemen die door de lokale besturen worden gebruikt. Daarnaast werden 
+de lokale besturen geïnformeerd en gesensibiliseerd door middel van 
+informatiesessies en opleidingen. U vindt de informatie, webinars en 
+opleidingssessies terug op de website van de Vlaamse overheid.
+4. Mercurius is de federale digitale postkamer van in- en uitgaande facturen van 
+overheidsinstellingen. De meeste Vlaamse instellingen zijn verbonden via Digitaal 
+Vlaanderen (het MAGDA-platform) met Mercurius. Er is een zeer goede samenwerking 
+met het Mercuriusteam van de FOD BOSA. Vlaamse instellingen kunnen ingeval van 
+technische problemen steeds terecht bij het MAGDA- of Mercuriusteam. Het 
+Mercuriusteam houdt Digitaal Vlaanderen voortdurend op de hoogte van nieuwe 
+evoluties, zowel technisch als juridisch. 
+Het Mercurius platform laat ondernemers die zelf nog niet klaar zijn om hun facturen 
+elektronisch te versturen toe om deze manueel in te geven. Dit is uiteraard een 
+basisoplossing en het is dan ook aanbevolen om een e-facturatietoepassing die aansluit 
+op het Peppol-model te gebruiken. Er zijn intussen tal van facturatiepakketten op de 
+markt beschikbaar, ook voor bedrijven met kleine factuurvolumes.
+5-6.Het Vlaamse e-invoicingsproject werd afgerond in 2021, maar alle informatie over het 
+juridische kader, de oplossingen voor e-facturatie in functie van het type boekhouding 
+van een leverancier, ‘wie wanneer te contacteren waarvoor’, en bijzondere informatie 
+voor lokale overheden staat nog steeds vermeld op de website van de Vlaamse 
+overheid. 
+Op technisch vlak zijn alle lokale overheden klaar om e-facturen te ontvangen en te 
+verzenden. 
+Het regelgevend kader voor e-invoicing heeft met het KB van 9 maart 2022 zijn 
+volledige uitvoering gekregen. De inwerkingtreding van de verplichting voor 
+opdrachten boven de 3.000€ op 1 maart 2024 zorgt voor een veralgemeende 
+toepassing. Het komt toe aan elk lokaal bestuur om de naleving van deze verplichting 
+door hun leveranciers op te volgen. 
+Vanuit onze bevoegdheden zijn geen bijkomende initiatieven gepland.
+BIJLAGE
+VBS lokale besturen 2023

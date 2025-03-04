@@ -1,0 +1,105 @@
+title: VDAB Brussel - Werkzoekenden die een opleiding volgden
+thema: Werk
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2018882
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1782419
+SCHRIFTELIJKE VRAAG
+nr. 77
+van AXEL RONSE
+datum: 24 november 2023
+aan JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+VDAB Brussel  -  Werkzoekenden die een opleiding volgden
+In Brussel kunnen werkzoekenden beroepsopleidingen volgen via Bruxelles Formation en 
+VDAB Brussel. 
+Graag ontvang ik het  overzicht voor VDAB Brussel, in tabelvorm met cijfers per jaar, vanaf 
+het jaar 2013 met volgende gegevens per jaar tot de meest recent beschikbare cijfers. 
+1. Het aantal niet-werkende werkzoekenden dat een opleiding volgde, met een 
+onderverdeling:
+a) per leeftijdscategorie;
+b) per type opleiding die gevolgd werd.
+2. Het aantal langdurig werkzoekenden (= twee jaar of langer zonder job) dat een 
+opleiding volgde.
+3. Het aantal niet-werkende werkzoekenden dat meer dan één opleiding volgde, meer 
+dan twee, meer dan drie, meer dan vier en meer dan vijf.
+4. Het aantal opleidingen dat gevolgd werd in samenwerking met een werkgever en dus 
+in functie van een bestaande vacature.
+5. Het aantal voltooide opleidingen.
+6. Het gemiddeld aantal uren opleiding dat de werkzoekende volgde.
+7. De uitstroomgraad naar werk (UGW), m.a.w. het percentage werkzoekenden dat in de 
+12 maanden na het einde van hun opleiding uitstroomt naar een tewerkstelling van 
+minstens één maand. 
+JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+ANTWOORD 
+op vraag nr. 77 van 24 november 2023
+van AXEL RONSE
+1. Onderstaande tabellen geven het aantal Brusselse werkzoekenden met minstens één 
+beëindigde opleiding bij VDAB of partner per eindjaar weer, 2019 - juni 2023. VDAB 
+kan enkel de cijfers vanaf 2019 rapporteren.
+a) naar leeftijd
+Leeftijd 2019 2020 2021 20222023 (tem 
+juni)
+(01) -25 jaar 229 186 173 136 103
+(02) 25 tot en met 59 jaar 1.349 1.159 1.098 1.047 662
+(03) 60 jaar en + 5 8 9 10 12
+Totaal 1.578 1.347 1.275 1.188 775
+b) per type opleiding
+Module Opleiding 2019 2020 2021 20222023 (tem 
+juni)
+module 2: oriënterende 
+opleiding 74 69 162 133 78
+module 4a: beroepsgerichte 
+doorstroomopleiding 47 50 52 86 32
+module 4b: beroepsgerichte 
+opleiding 654 636 617 590 294
+module 5a: algemene 
+arbeidsmarktcompetenties (kleine aantallen: n < 5)
+module 5n: Nederlands voor 
+anderstaligen 927 715 608 526 423
+Totaal 1.578 1.347 1.275 1.188 775
+2. VDAB houdt geen informatie bij over de werkloosheidsduur van de Brusselse 
+werkzoekenden. Deze informatie is enkel beschikbaar in het werkzoekendendossier bij 
+Actiris.
+3. Onderstaande tabel geeft de verhouding tussen het aantal beëindigde opleidingen en 
+Brusselse werkzoekenden met minstens één beëindigde opleiding weer per eindjaar, 
+2019 - juni 2023. In 2023 ligt de verhouding op gemiddeld 1,7 opleidingen per cursist. 
+2019 2020 2021 2022 2023 (tem juni)
+Opleidingen 2.705 2.537 2.301 2.021 1.279
+Cursisten 1.578 1.347 1.275 1.188 775
+Verhouding 1,71 1,88 1,80 1,70 1,65
+4. Onderstaande tabel geeft het aantal beëindigde beroepsgerichte 
+(doorstroom)opleidingen met een opleidingsstage door Brusselse werkzoekenden bij 
+VDAB of partner weer per eindjaar, 2019 - juni 2023.
+Opleiding met 
+opleidingsstage? 2019 2020 2021 2022 2023 (tem juni)
+ja 330 275 321 347 125
+nee 529 557 557 503 282
+Totaal 859 832 878 850 407
+5. Onderstaande tabel geeft het aantal beëindigde opleidingen door Brusselse 
+werkzoekenden bij VDAB of partner weer per eindjaar en resultaat, 2019 - juni 2023. 
+In 2023 (tem juni) haalde 72% van de Brusselse werkzoekenden een positief resultaat 
+(= geslaagd of vroegtijdig stopgezet wegens tewerkstelling). 
+Resultaat 2019 2020 2021 2022 2023 (tem juni)
+(1) Positief 
+resultaat 1.975 1.816 1.734 1.508 916
+(2) Negatief 
+resultaat 440 414 303 262 179
+(3) Vroegtijdig 
+stopgezet 290 307 264 251 184
+Totaal 2.705 2.537 2.301 2.021 1.279
+Betekenis ‘positief’ = geslaagd of vroegtijdig stopgezet wegens tewerkstelling, ‘negatief’ = 
+niet geslaagd, ‘vroegtijdig stopgezet’ = stopzetting wegens andere redenen dan 
+tewerkstelling. 
+6. Deze informatie is niet beschikbaar. De ‘uren opleiding’ worden niet gerapporteerd op 
+niveau van de klant.
+7. Onderstaande tabel geeft het aandeel Brusselse werkzoekenden weer die 3 maanden 
+na het beëindigen van een opleidingscluster (= een opeenvolging van verschillende 
+acties competentieversterking) uitgestroomd zijn naar werk, per uitstroomjaar 
+(clusters beëindigd tem juni 2023). 
+% uitstroom naar werk na 3 
+maanden 
+2019 44,0%
+2020 35,0%
+2021 45,4%
+2022 49,5%
+2023 40,1%

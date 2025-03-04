@@ -1,0 +1,230 @@
+title: Sociale woningen - Duurzame energie
+thema: Energie
+Wonen
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2029457
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1789359
+SCHRIFTELIJKE VRAAG
+nr. 96
+van ALLESSIA CLAES
+datum: 15 december 2023
+aan MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+Sociale woningen  -  Duurzame energie
+Duurzame energie-installaties zoals zonnepanelen, zonneboilers en warmtepompen 
+worden de laatste jaren in Vlaanderen populairder. Zulke installaties zijn goed voor het 
+klimaat, maar zorgen ook voor een lagere energiefactuur voor de woning. Het is een ‘triple 
+win’-situatie met voordelen voor huurder, verhuurder en het klimaat.
+1. Hoeveel sociale woningen beschikken over een zonnepaneleninstallatie? Graag de 
+cijfers van 2023.
+a) Hoeveel woningen zijn met een slimme meter uitgerust?
+b) Hoeveel woningen zijn met een terugdraaiende meter uitgerust?
+c) Wat waren de gemiddelde investeringskosten?
+2. Hoeveel sociale woningen beschikken over een zonneboiler?
+a) Graag de cijfers van 2023.
+b) Wat waren de gemiddelde investeringskosten?
+3. Hoeveel sociale woningen beschikken over een warmtepomp?
+a) Graag de cijfers van 2023.
+b) Wat waren de gemiddelde investeringskosten?
+4. Hoeveel sociale huisvestingsmaatschappijen (SHM’s) beschikken over woningen met 
+zonnepanelen/zonneboiler/warmtepomp?
+a) Graag de cijfers van 2023.
+b) Graag een opsplitsing per provincie.
+c) Hoeveel SHM’s beschikken over sociale woningen met een slimme meter?
+d) Hoeveel SHM’s beschikken over sociale woningen met een terugdraaiende meter?
+5. Hoeveel SHM’s plannen nog woningen met zonnepanelen/zonneboiler/warmtepomp? 
+Graag een opsplitsing per provincie.
+6. Wat is de impact van zonnepanelen op de energiekosten van de sociale huurder? Graag 
+een gemiddelde en een opdeling beschermde/niet-beschermde afnemers.
+7. Welke incentives zijn er voor SHM’s om te voorzien in hernieuwbare energie-
+installaties?
+a) Graag een overzicht van die incentives.
+b) Welke middelen staan er tegenover die incentives?
+c) Graag een jaarlijks overzicht over de benutting van de middelen die gereserveerd 
+werden voor deze incentives.
+8. Hoe evalueert de minister die cijfers? Zal hij in 2024 nog bijkomende initiatieven 
+nemen daaromtrent?
+MATTHIAS DIEPENDAELE
+MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+ANTWOORD 
+op vraag nr. 96 van 15 december 2023
+van ALLESSIA CLAES
+1. Wonen in Vlaanderen beschikt niet over precieze gegevens omtrent het type meter. Men 
+mag er echter van uit gaan dat een deel van de in 2021 opgeleverde en alle in 2022 en 
+2023 opgeleverde installaties werden uitgerust met een digitale meter. Momenteel 
+beschikken 5.814 woningen over een PV-installatie (gegevens zoals ingegeven in het 
+portaal Woningkenmerken dd. 1/12/2023).
+Wonen in Vlaanderen houdt geen systematische prijsstatistieken bij van alle PV-
+installaties uit de offertes. 
+2. In 2023 werden nog slechts 31 woningen met een zonneboiler opgeleverd. Momenteel 
+telt het patrimonium in totaal 9.885 woningen met zonneboiler. Onderstaande tabel 
+geeft het aantal opgeleverde woningen met een zonneboiler per jaar volgens 
+opleveringsdatum. Er is een duidelijke shift van de plaatsing van zonneboilers naar het 
+voorzien van PV-installaties, wellicht te verklaren door een beperktere onderhoudslast 
+voor de woonmaatschappij.
+Wonen in Vlaanderen houdt geen systematische prijsstatistieken bij van alle 
+zonneboilers-installaties uit de offertes. 
+3. Onderstaande tabel geeft een overzicht van de aantallen en types warmtepompen per 
+provincie.Bouwjaar A'PEN VL-BR W-VL O-VL LIMB VL-GW % PATR #WON PATR
+< 2018 270 7 547 733 340 1.897 1,3% 150.222
+2018 33 57 20 28 9 147 5,3% 2.797
+2019 63 75 159 145 72 514 13,9% 3.705
+2020 128 110 138 266 90 732 22,3% 3.287
+2021 105 247 198 160 123 833 34,3% 2.431
+2022 342 72 220 256 78 968 33,5% 2.889
+2023 126 100 173 178 146 723 45,4% 1.593
+Eindtotaal 1.067 668 1.455 1.766 858 5.814 3,5% 166.924Aantal woningen voorzien van PV-installatie volgens bouwjaar woning op 1/12/2023
+Let wel: het bouwjaar van de woning komt niet ndz overeen met de plaatsing van de PV-installatie (bv. ASTER-project op bestaande woningen)
+JaarVO A'PEN VL-BR W-VL O-VL LIMB VL-GW
+< 2018 2.240 455 877 690 466 4.928
+2018 607 220 136 187 122 1.272
+2019 361 61 243 325 147 1.137
+2020 577 255 236 171 95 1.334
+2021 315 135 204 148 7 809
+2022 180 18 34 109 33 374
+2023 16 15 31
+Eindtotaal 4.280 1.144 1.746 1.645 870 9.885Aantal woningen met zonneboiler - opleveringen per jaar op 1/12/2023
+Bron: Woningkenmerken aantal verhuurde woningen op 1/12/2023
+Momenteel zijn 1.514 verhuurde woningen uitgerust met een warmtepomp. Het aantal 
+woningen met een warmtepomp zit duidelijk in de lift. Deze warmtepompen werden bij 
+nieuwbouwwoningen als volgt gespreid in de tijd geplaatst: 27 in 2018, 32 in 2019, 103 
+in 2020, 173 in 2021, 289 in 2022 en 382 in 2023. De resterende 500 warmtepompen 
+komen voor in woningen met een bouwjaar voor 2018.
+Voor de opleveringen in 2023 betreft het 24% van de woningen, waar dit tot voor 2019 
+minder dan 1% was. Verwacht wordt dan ook dat dit aandeel de komende jaren verder 
+zal toenemen. Ook het aantal VKF-subsidies voor het installeren van een warmtepomp 
+bij renovatie of vervangingsbouw van sociale woningen neemt systematisch toe (zie 
+vraag 7).
+Wonen in Vlaanderen houdt geen systematische prijsstatistieken bij van alle warmte-
+pompen uit de offertes. 
+4. Het aantal sociale huisvestingsmaatschappijen kan door de vorming van nieuwe 
+woonmaatschappijen niet langer vergeleken worden met de situatie in 2022. 
+Daarom wordt gekeken naar de ligging van de woningen (gemeente) en het toekomstig 
+werkingsgebied. Door de fusies en samenvoeging van patrimonium zullen alle 41 nieuwe 
+woonmaatschappijen nu over minstens een aantal zonneboilers beschikken in hun 
+patrimonium. Slechts twee nieuwe woonmaatschappijen beschikken momenteel nog 
+niet over PV-installaties. Voor warmtepompen hebben 23 van de 41 
+woonmaatschappijen woningen met warmtepompinstallaties.
+Zoals gesteld in het antwoord op vraag 1 beschikt Wonen in Vlaanderen niet over 
+precieze gegevens omtrent het type meter.
+5. Er kunnen momenteel geen geactualiseerde detaildata worden opgegeven voor 
+projecten die in voorbereiding zijn. In de loop van 2022 vond een migratie plaats van 
+de simulatietabellen naar een nieuwe projectsimulator. De detailrapportering tot op 
+niveau van het plaatsen van zonnepanelen/zonneboilers/warmtepompen hieruit moet 
+nog verder op punt gezet worden.
+6. Sociale huurders met zonnepanelen op hun individuele elektriciteitsmeters kunnen 
+gebruik maken van de stroom die deze installatie opbrengt. Ingevolge de uitspraak van 
+het Grondwettelijk Hof inzake de terugdraaiende teller diende de berekeningsmethodiek 
+voor het PV-forfait aangepast te worden. 
+Voor terugdraaiende tellers blijft het oorspronkelijke kader van kracht. De huurder 
+betaalt een vergoeding voor de opbrengst van de installatie die afgestemd is op het 
+normatief verbruik volgens de gezinsgrootte van de huurder. Deze vergoeding bedraagt 
+Hernieuwbaar A'PEN VL-BR W-VL O-VL LIMB VL-GW
+Zonneboilers 11 7 11 11 1 41
+PV-Installaties 11 5 11 11 1 39
+Warmtepompen 5 3 7 7 1 23Aantal nieuwe Woonmaatschappijen die beschikken over hernieuwbare energie
+80% van het normatief verbruik aan sociaal tarief of de kosten gemaakt voor de 
+installatie indien deze lager ligt dan de 80%-vergoeding. Huurders met een normaal 
+tarief voor elektriciteit besparen hiermee het verschil tussen sociaal en normaal tarief. 
+Zij betalen wel nog het prosumententarief. Huurders met sociaal tarief besparen 
+minstens 20% en betalen geen prosumententarief.
+Voor huurders met een digitale meter is de regelgeving aangepast. Het uitgangspunt 
+van de nieuwe berekeningswijze is dat de verhuurder nog steeds een vergoeding 
+aanrekent, maar dat de hoogte van de vergoeding wordt bepaald door het aandeel van 
+de geproduceerde stroom die de huurder effectief heeft verbruikt (het zelfverbruik van 
+energie). Hierbij wordt het onderscheid gemaakt tussen beschermde en niet-
+beschermde afnemers. Voor beide categorieën afnemers wordt een tarief bepaald dat 
+een financieel voordeel garandeert per kWh stroom die de huurder afneemt van de PV-
+installatie i.p.v. het net. De sociale huurder zal dus enkel betalen voor wat hij effectief 
+heeft verbruikt, aan een tarief dat lager ligt dan het tarief dat hij normaal zou moeten 
+betalen om eenzelfde aandeel stroom van het net te halen. 
+Binnen het nieuwe kader zullen alle PV-installaties met een digitale meter moeten 
+uitgerust worden met een productiemeter voor de zonnestroom. Het verschil van de 
+opgewekte stroom met de geïnjecteerde stroom is dan de werkelijk verbruikte stroom 
+uit de opbrengst van de PV-installatie. De injectievergoeding gaat naar de eigenaar van 
+de panelen of de verhuurder.
+7. a) Er zijn in incentives voorzien in de simulatietabel FS3 en via verschillende VKF-
+premies. Verder is er ook een specifieke projectoproep die o.a. het gebruik van 
+hernieuwbare energie bevordert.
+Simulatietabel FS3 versie 2022
+Binnen het reguliere kader kunnen woonmaatschappijen voor het plaatsen van 
+hernieuwbare energiesystemen bij de bouw en renovatie van sociale woningen, voor 
+zover het project moet voldoen aan de EPB-verplichting van een minimaal aandeel 
+hernieuwbare energie, beroep doen op specifieke forfaits binnen de berekening van 
+het maximaal subsidiabel bedrag voor FS3-leningen. De bedragen kunnen onderling 
+gecumuleerd worden. In 2022 kwam er een nieuwe versie van de simulatietabel. Er 
+wordt rekening gehouden met de ABEX van november 2021. De toe te passen 
+indexcoëfficiënt voor januari 2024 bedraagt reeds 1,139. De toeslagen bedragen per 
+maatregel: 
+•Forfait voor een PV-installatie: 1.600 euro per kilowattpiek met een maximum van 
+6.400 euro per eengezinswoning of niet-gestapelde kamerwoning of 4.250 euro 
+per appartement of gestapelde kamerwoning
+•Forfait voor een zonneboiler: 4.900 euro per eengezinswoning of niet-gestapelde 
+kamerwoning of 3.700 euro per appartement of gestapelde kamerwoning
+•Forfait voor een warmtepomp: 
+oLucht/water: 3.200 euro per eengezinswoning of 2.700 euro per appartement 
+oBodem/water en water/water: 4.800 euro per eengezinswoning of 3.200 euro 
+per appartement Randvoorwaarde: de warmtepomp is het hoofdsysteem voor 
+verwarming. 
+Deze forfaits kunnen bovendien worden gecombineerd met het forfait voor het BEN-
+niveau (5.000 euro/eengezinswoning of 3.200 euro/appartement) of voor bijzondere 
+collectieve verwarmingsinstallaties (1.500 euro/woning) indien voldaan wordt aan de 
+specifieke voorwaarden hiervoor.
+VKF-Premies
+Naast het ontlenen van de investeringskosten voor de installaties van hernieuwbare 
+energie, kan ook een VKF-subsidie (Vlaams Klimaatfonds) worden verkregen voor 
+elke renovatie of vervangingsbouw van woningen voor zover deze na de werken ERP-
+conform zijn of een minimum EPC-label halen. Deze subsidies worden in mindering 
+gebracht van het FS3 te ontlenen bedrag. Recent werd het nieuwe VKF3 budget 
+beschikbaar gesteld, met naast de reeds bestaande premies een aantal aanvullende 
+premies, zoals o.a. voor warmtepompboilers en aansluiting op een warmtenet.
+Een actueel overzicht van alle huidig beschikbare premies vindt u online op: 
+www.vlaanderen.be/sociaal-
+woonbeleid/financiering/projectfinanciering/mogelijkheden-op-
+jaarbudget/energiepremies-voor-sociale-woonactoren-vkf-subsidies/vkf-individuele-
+premies-voor-renovatie
+Open oproep Innovatieve projecten
+Naast deze incentives werd in het najaar van 2023 een tweede open oproep afgerond 
+voor innovatieve projecten waarin de toepassing van hernieuwbare energie ook aan 
+bod komt via de pijler innovatieve technieken/energieconcepten. Voor de eerste twee 
+edities in 2022 en 2023 werd telkens 10 miljoen euro aan extra subsidies 
+vrijgemaakt.
+b) Er is geen beperking opgelegd voor een specifiek aandeel van de gesubsidieerde 
+maatregelen t.o.v. het globale VKF-budget. Het budget voor de open oproep 
+innovatieve projecten bedraagt 10 miljoen euro.
+c) De benutting van de middelen uit het Vlaams Klimaatfonds voor de periode 2015- 
+2023 voor warmtepompen en zonneboilers zijn samengevat in onderstaande tabel. 
+In de bijlage 1 worden de jaarlijkse toegewezen subsidiebedragen vermeld. 
+8. Zoals blijkt uit de verschillende cijfers, tekent zich er verschuiving af binnen de 
+toepassing van hernieuwbare energie. Het plaatsen van zonneboilers bouwt af, maar 
+wordt ingenomen door het plaatsen van zonnepanelen. Ook voor warmtepompen is er 
+een sterke groei in het aantal geplaatste installaties. Voor beide toepassingen is het dan 
+ook te verwachten dat het aandeel nieuwbouwwoningen met een warmtepomp en/of 
+PV-installatie verder zal toenemen. Om deze aangroei verder te ondersteunen en de 
+deur te openen naar een veralgemeende toepassing binnen het bestaande 
+woningenbestand, worden de lopende initiatieven verdergezet en gericht uitgebreid.
+Vooreerst blijven er de subsidies voor energiebesparende maatregelen bij renovatie en 
+vervangingsbouw van sociale woningen. Dat stelsel werd recent hervormd om hierbij in 
+te zetten op totaalrenovatie, maar laat het toepassen van aparte maatregelen ook nog 
+toe op voorwaarde dat een minimaal EPC-label wordt behaald. Bijkomend zijn er, zoals 
+vermeld, een aantal extra maatregelen zoals warmtepompboilers (sanitair warm water) 
+en de aansluiting op warmtenetten voorzien.
+Om verdere innovatie te stimuleren, zal ook in 2024 een derde oproep voor innovatieve 
+projecten gelanceerd worden. Het succes van de twee vorige oproepen geeft immers 
+aan dat er draagvlak is binnen de sector. Een deel van de 10 miljoen euro extra subsidies 
+gaat daarbij naar nieuwe technieken inzake hernieuwbare energie.
+Verder zijn er ook een aantal specifieke procedures lopende waarvan de 
+woonmaatschappijen gebruik kunnen maken om versneld het patrimonium bijkomend 
+te isoleren. Zo werd het eerste Design & Insulate (D&I) raamcontract voor dakisolatie 
+verlengd. Daarnaast werd recent een tweede D&I raamcontract gegund voor de na-PROVINCIE
+2015-2023 #WON PREMIES #WONPREMIES#WON PREMIES #WONPREMIES#WON PREMIES #WON PREMIES
+Warmtepompen 658 € 934.700 472 € 540.500 666 € 883.300 227 € 428.100 391 € 609.480 2414 € 3.396.080
+Zonneboilers indiv 217 € 325.500 102 € 153.000 178 € 267.000 51 € 76.500 13 € 19.500 561 € 841.500
+2015-2023 m2 PREMIES m2 PREMIES m2 PREMIES m2 PREMIES m2 PREMIES m2 PREMIES
+Zonneboilers coll1592 € 450.390 227 € 58.167 749 € 191.633 621 € 161.338 65 € 19.285 3253 € 880.812
+Eindtotaal € 1.710.590 € 751.667 € 1.341.933 € 665.938 € 648.265 € 5.118.391A'PEN VL-BR W-VL O-VL LIMB VL-GW
+isolatie van spouwmuren. In 2024 zal Wonen in Vlaanderen een nieuwe procedure 
+ontwikkelen voor de volledige aanpak van de gebouwschil met blijvende bewoning onder 
+de vorm van een zogenaamde Design & Renovate. Voorbeeld hiervoor vormt het project 
+“de Sociale Energiesprong” zoals recent uitgevoerd bij SHM Cordium.
+BIJLAGE
+Overzicht VKF-subsidiebedragen warmtepompen en zonneboilers

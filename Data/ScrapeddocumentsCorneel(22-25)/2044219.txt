@@ -1,0 +1,87 @@
+title: Albertkanaal - Luchtvervuiling
+thema: Mobiliteit en Verkeer
+Natuur en Milieu
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2044219
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1798878
+SCHRIFTELIJKE VRAAG
+nr. 281
+van ORRY VAN DE WAUWER
+datum: 26 januari 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Albertkanaal  -  Luchtvervuiling
+Het Albertkanaal is de waterweg met de hoogste uitstoot van emissies in heel Vlaanderen. 
+Dat ligt in de lijn der verwachtingen, aangezien het Albertkanaal ook de drukste vaarweg 
+is van Vlaanderen en een slagader is van de Antwerpse haven en de Belgische economie. 
+De voorbije twintig jaar schommelde het aandeel van het Albertkanaal in de totale emissie 
+van stikstofoxide van de binnenvaart steeds rond de 40%. Een aandeel van 40% in de 
+totale NOx-emissies van alle Vlaamse waterwegen en havens blijft enorm hoog, dat is zelfs 
+een pak hoger dan het emissie-aandeel van de Antwerpse haven. Met het afronden van de 
+verhoging van de bruggen zullen in de nabije toekomst binnenschepen met een extra laag 
+containers op het Albertkanaal kunnen varen. Het zwaarder laden van de schepen 
+impliceert ook een impact op de emissie van de schepen. Een verdere specifieke aanpak 
+van de uitstoot op het Albertkanaal blijft dus aan de orde. 
+1. Wat zijn de actuele cijfers van de uitstoot op het Albertkanaal? Is er een dalende 
+tendens te merken? Graag een totaaloverzicht van de verschillende emissies (NOx, 
+CO2, zwaveloxide, …) voor de jaren van deze legislatuur.
+2. Is het Albertkanaal nog steeds de waterweg/gewestelijke infrastructuur met de 
+hoogste uitstoot van emissies in heel Vlaanderen?
+3. Welke maatregelen werden er getroffen om de uitstoot op het Albertkanaal verder te 
+verminderen? Op welke manier wordt ingezet om de uitstoot op het Albertkanaal ook 
+in de komende jaren verder te verminderen?
+4. Met betrekking tot het verhogen van de bruggen over het Albertkanaal, welke extra 
+uitstoot wordt verwacht doordat binnenschepen een extra laag containers of meer 
+goederen zullen kunnen verschepen? Zijn daar berekeningen rond gemaakt, en rond 
+de impact qua emissies die de extra capaciteit met zich mee kan brengen?
+5. Welke ambitie wordt gehanteerd voor de emissies op het Albertkanaal in het licht van 
+de grotere trafiek? Is daar een kader of normering voor uitgewerkt?
+6. In mijn vorige schriftelijke vraag ter zake gaf de minister aan dat er een studieopdracht 
+werd uitgevoerd door VITO in opdracht van de VMM ter ontwikkeling van een nieuwe 
+emissierekentool binnenvaart. Dit nieuwe model moet toelaten vergroening van de 
+binnenvaart mee in rekening te nemen. 
+Kan van die studieopdracht en bijhorende tool een update gegeven worden?
+Deze vraag werd gesteld aan de ministers Zuhal Demir (281), Lydia Peeters (567)
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+GECOÖRDINEERD ANTWOORD
+op vraag nr. 281 van 26 januari 2024
+van ORRY VAN DE WAUWER
+1. De uitstoot door de binnenvaart op het Albertkanaal is de voorbije jaren vrij constant 
+gebleven. Data voor 2022 zullen beschikbaar komen vanaf de definitieve rapportering 
+op 15 maart 2024. Data voor 2023 zijn nog niet beschikbaar. Er moet bij de data 
+opgemerkt worden dat er maar beperkt rekening gehouden werd met inbouw van 
+nieuwe motoren en er nog geen rekening gehouden werd met uitrol van walstroom of 
+andere maatregelen. 
+ CO PM2.5 SO2 NOx(NO 2)
+ ton % ton % ton % ton %
+2018 204 100 31 100 0,58 100 1126 100
+2019 191 94 29 93 0,55 95 1055 94
+2020 190 93 28 91 0,55 96 1043 93
+2021 196 96 28 92 0,59 102 1074 95
+ NH3 NMVOS CO2 CH4
+ ton % ton % ton % ton %
+2018 0,288 100 35 100 88451 100 1,44 100
+2019 0,275 95 32 92 84369 95 1,33 92
+2020 0,277 96 31 90 85001 96 1,29 90
+2021 0,293 102 32 92 89926 102 1,33 92
+2. Het Albertkanaal is de waterweg met de hoogste emissies in Vlaanderen.
+3. Maatregelen ter vergroening van de binnenvaart richten zich niet specifiek op één 
+locatie of as. Voor een overzicht van de algemene maatregelen en steunmaatregelen 
+ter vergroening van de binnenvaart in het algemeen verwijs ik naar het antwoord op 
+uw schriftelijke vraag nr. 127 van 20 oktober 2022 aan minister Peeters en ook naar 
+mijn antwoord op uw schriftelijke vraag nr. 280 van 26 januari 2024. Zoals u daar kan 
+lezen, wenst De Vlaamse Waterweg (DVW) op korte termijn extra walstroomkasten, 
+waaronder ook op het Albertkanaal, te plaatsen. Het precieze aantal is afhankelijk van 
+de investeringskostprijs en de beschikbare middelen.
+4. Hiervoor verwijs ik naar de antwoorden op deelvragen 5 en 6 van uw schriftelijke vraag 
+nr. 128 van 20 oktober 2022 aan minister Peeters.
+5. Voor de emissies op het Albertkanaal is er geen specifiek kader uitgewerkt en geldt de 
+algemene ambitie voor de vergroening van de binnenvaart.
+6. Het eindrapport van de studie is nog niet definitief opgeleverd. Een definitieve 
+oplevering van het model wordt in het voorjaar 2024 verwacht. 
+Het meenemen van vergroening van de binnenvaart in het emissierekenmodel is 
+afhankelijk van de beschikbaarheid van inputdata. Momenteel kan het inzetten van 
+milieuvriendelijkere scheepsmotoren nog niet meegenomen worden in de berekeningen 
+omdat de basisinfo van DVW hierover nog geen informatie bevat.
+De emissieresultaten van de nieuwe binnenvaart emissierekentool zullen voor het eerst 
+gebruikt worden voor de internationale rapportering van 15/03/2025 aan Europa.

@@ -1,0 +1,138 @@
+title: Vlaams opleidingsverlof - Stand van zaken
+thema: Onderwijs en Vorming
+Werk
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2048712
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1805461
+SCHRIFTELIJKE VRAAG
+nr. 284
+van BART SOMERS
+datum: 22 februari 2024
+aan JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+Vlaams opleidingsverlof  -  Stand van zaken
+Via het Vlaams opleidingsverlof kunnen werknemers, die minstens 50% in loondienst 
+werken in het Vlaamse Gewest, een opleiding volgen en daarvoor met behoud van loon 
+afwezig blijven van het werk. Een van de voorwaarden is dat het moet gaan om een 
+opleiding die geregistreerd is in de opleidingsdatabank Vlaamse opleidingsincentives.
+1. Hoeveel werknemers volgden een opleiding in 2019/2020-2021/2022-2023/2024?
+Graag het totale aantal per jaar en opdeling naar:
+a) gender;
+b) leeftijd;
+c) welke opleiding werd gevolgd.
+2. Hoeveel van de werknemers die een opleiding volgden in 2019/2020-2021/2022-
+2023/2024 vroegen een terugbetaling aan? Graag het totale aantal per jaar en opdeling 
+naar:
+a) gender;
+b) leeftijd;
+c) provincie;
+d) type opleiding.
+3. Welke budgettaire impact had dit in 2020-2021-2022-2023?
+4. Werd er bij het opstellen van het aanbod van opleidingen specifiek gekeken naar 
+knelpuntberoepen en aansluitend opleidingen?
+JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+ANTWOORD 
+op vraag nr. 284 van 22 februari 2024
+van BART SOMERS
+Voorafgaande opmerking: De gegevens zijn per schooljaar, niet per kalenderjaar.
+Jaarlijks wordt er een rapport voorgelegd aan het Vlaams Parlement en ook gepubliceerd 
+over de Vlaamse opleidingsincentives, waar oa al de gevraagde gegevens (en veel meer) 
+in kaart worden gebracht. Het volgende jaarrapport m.b.t. de Vlaamse 
+Opleidingsincentives staat gepland in april 2024.
+1. Er zijn geen cijfers beschikbaar over het aantal werknemers dat een opleiding volgt. 
+Enquêtecijfers over de (Vlaamse) opleidingsdeelname kunnen evenwel teruggevonden 
+worden op de recent gelanceerde nieuwe website rond levenslang leren van het 
+departement Werk en Sociale Economie (https://www.vlaanderen.be/levenslang-
+leren/waarom-levenslang-leren/feiten-en-cijfers).
+2. We hebben gegevens over het aantal VOV-dossiers waarvoor een werkgever een 
+terugbetaling aanvroeg en aan alle voorwaarden werd voldaan (=goedgekeurde 
+dossiers). Op het opendataportaal van het departement werk en sociale economie zijn 
+de basisgegevens opgenomen van VOV per schooljaar. 
+Tabel: leeftijdsklasse unieke werknemers met minstens 1 goedgekeurd VOV-dossier
+ Schooljaar startdatum
+2019 2020 2021 2022
+<25 5.574 7.426 8.847 7.967
+25-34 14.934 18.263 20.629 19.453
+35-44 11.000 12.385 13.710 13.614
+45-54 9.713 9.872 10.007 10.271
+55+ 4.310 4.294 4.547 4.945
+totaal 45.314 51.894 57.432 55.889
+Tabel: Geslacht unieke werknemers met minstens 1 goedgekeurd VOV-dossier
+2019 2020 2021 2022
+Man 28.392 32.611 35.663 34.870
+Vrouw 16.922 19.283 21.769 21.019
+totaal 45.314 51.894 57.432 55.889
+Tabel: unieke werknemers met minstens 1 goedgekeurd VOV-dossier naar provincie
+2019 2022
+ Ongekend 4.021 2.441
+Brussels H. Gewest 939 1.253
+Provincie Antwerpen 9.688 13.036
+Provincie Henegouwen 668 806
+Provincie Limburg 6.912 8.367
+Provincie Luik 173 394
+Provincie Luxemburg 8 33
+Provincie Namen 61 123
+Provincie Oost-Vlaanderen 11.077 15.400
+Provincie Vlaams-Brabant 4.582 5.157
+Provincie Waals-Brabant 121 198
+Provincie West-Vlaanderen 7.135 9.159
+totaal 45.314 55.889
+In schooljaar 2020-2021 en 2021-2022 was er geen machtiging om de woonplaats van 
+de werknemer op te vragen bij Rijksregister.
+Tabel met de opleidingen die met VOV worden gevolgd per schooljaar (een werknemer 
+kan meerdere opleidingen volgen)
+Rijlabels 2019 2020 2021 2022
+andere 16.009 1.755 245 6.362
+algemene arbeidsmarktcompetenties 3.984 6.624 9.678 9.809
+bewakingstechnieken 6.321 10.807 10.284 9.463
+boekhouden/fiscaliteit 581 780 1.155 1.086
+bouwtechnieken 3.416 4.042 4.613 4.325
+commerciële technieken 6.201 5.489 5.827 502
+Digitale basisvaardigheden 3.266 3.676 3.697 3.444
+diverse 2.155 2.584 2.799 2.521
+geletterdheid 552 535 375 436
+horeca 430 395 718 556
+houttechnieken 2.086 1.968 2.303 2.233
+HR 1.341 2.167 1.832 3.615
+interne bedrijfsvoertuigen 1.501 2.282 3.991 3.479
+IT 1.011 1.067 1.147 1.143
+land- en tuinbouwtechnieken 1.463 1.990 1.428 2.135
+leidinggeven 1.281 1.690 2.387 3.346
+logistiek 2.884 4.605 6.606 995
+management 1.202 1.571 2.057 1.976
+metaaltechnieken 1.096 1.142 1.592 1.600
+Nederlands 3.334 2.476 3.821 5.002
+onderwijs 665 757 704 580
+operator 1.177 2.024 3.212 2.455
+sociaal overleg 894 9.684 7.997 5.477
+STEM 242 288 427 597
+talen 3.093 2.285 2.223 1.991
+technicus 1.740 2.055 2.281 2.271
+textieltechnieken 683 813 859 766
+veiligheid 928 1.142 1.148 990
+verpleegkunde 634 1.078 1.210 1.237
+vrachtwagenchauffeur 5.280 5.833 3.283 4.053
+zorg 4.668 5.593 6.523 6.427
+Eindtotaal 80.118 89.197 96.422 90.872
+
+3. Het Vlaams opleidingsverlof is een hervorming van het betaald educatief verlof, dat 
+van start ging in schooljaar 2019-2020. Er was een overgangsmaatregel voor 
+werknemers die bezig waren met een meerjarige opleiding in het kader van het betaald 
+educatief verlof tot eind 2022. Aangezien het VOV in het kalenderjaar na het schooljaar 
+betaald wordt en alle andere monitoring per schooljaar is, geven we niet de 
+begrotingscijfers, maar de uitgaven voor een schooljaar. De betaling van schooljaar 
+2022-2023 is nog niet afgerond.
+Tabel Uitgaven per schooljaar VOV+BEV
+Schooljaar startdatum uitgave VOV uitgave BEV BEV+VOV
+2019-2020 VOV + 
+BEV€ 45.778.458,77 € 6.445.170,00€ 52.223.628,77
+2020-2021 VOV + 
+BEV€ 57.714.385,14 € 1.504.191,00€ 59.218.576,14
+2021-2022 VOV +BEV € 66.200.759,34 € 54.693,00 € 66.255.452,34
+4. Er is een beoordelingssysteem voor de arbeidsmarktgerichtheid van opleidingen die in 
+aanmerking komen voor Vlaams opleidingsverlof. Hier vindt u de volledige informatie: 
+https://www.vlaanderen.be/als-opleidingsverstrekker-een-opleiding-aanbieden-voor-
+vlaamse-opleidingsincentives/vlaams-opleidingsverlof-voorwaarden-van-de-
+opleiding#nav-3-criteria-van-arbeidsmarktgerichtheid .
+Alle opleidingen die leiden naar een knelpuntberoep komen in aanmerking voor 
+registratie.

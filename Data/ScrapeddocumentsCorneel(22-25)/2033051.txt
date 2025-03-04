@@ -1,0 +1,277 @@
+title: Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (VDAB) - Klanttevredenheid
+thema: Werk
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2033051
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1794495
+SCHRIFTELIJKE VRAAG
+nr. 191 
+van BRECHT WARNEZ
+datum: 15 januari 2024
+aan JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (VDAB)  -  Klanttevredenheid
+Burgers, ondernemingen en overheden verwachten een sterke, toegankelijke en 
+klantgerichte dienstverlening en werking van de Vlaamse overheid. Het is belangrijk te 
+waken over de kwaliteit van dienstverlening, ook bij de Vlaamse Dienst voor 
+Arbeidsbemiddeling en Beroepsopleiding (VDAB.)
+Een belangrijk instrument daarbij is het voeren van een klanttevredenheidsonderzoek. 
+Dankzij klanttevredenheidsonderzoeken of -metingen verwerft een overheid 
+verbeterinformatie en wordt de band met de klanten versterkt. Bovendien stimuleert dit 
+het klantgericht denken binnen de organisatie. Een klanttevredenheidsonderzoek 
+bevordert de evolutie van een aanbodgestuurde naar een meer vraaggestuurde 
+dienstverlening en werking waarbij burgers, ondernemingen en overheden steeds centraal 
+staan.
+Graag alle data in Excel ter beschikking stellen.
+1. Wanneer werd de laatste klanttevredenheidsmeting uitgevoerd wat de werking en de 
+dienstverlening van VDAB betreft? 
+2. Om de hoeveel tijd is er een meting van de klanttevredenheid? 
+3. Gebruikt VDAB andere methodes dan een bevraging alleen om klanttevredenheid te 
+meten? Zo ja, welke methodes?
+4. Op basis van welke criteria worden de tevredenheidsmetingen gehouden? 
+a) Wat zijn de doelstellingen?
+b) Hoeveel respondenten werden er bevraagd?
+c) Hoe zorgt men ervoor dat de steekproef representatief is voor de klant van VDAB?
+d) Is er een minimumresponsgraad?
+e) Gaat het om een gestratificeerde steekproef, een willekeurige steekproef of wordt 
+er gewerkt via zelfselectie?
+f) Wordt na een klantencontact standaard een bevraging gedaan?
+g) Hoe wordt bepaald welke aspecten van de dienstverlening al dan niet bevraagd 
+worden?
+h) Worden de resultaten gestandaardiseerd?
+5. Verloopt het klanttevredenheidsonderzoek digitaal of fysiek?
+6. Worden de klanttevredenheidsmetingen volledig uitgevoerd door de eigen diensten of 
+wordt er daartoe ook samengewerkt/uitbesteed met/aan gespecialiseerde 
+adviesbureaus?
+a) In het laatste geval, hoeveel bedroeg de kostprijs voor die 
+klanttevredenheidsmeting per jaar?
+b) Vanwaar de keuze voor deze manier van aanpak?
+7. Wat waren de belangrijkste resultaten van de laatste klanttevredenheidsmeting?
+a) Wat is de algemene tevredenheid(sscore)?
+b) Wat zijn de (voornaamste) verbeterpunten?
+c) Werd er specifiek ook gepeild naar de tevredenheid over digitale dienstverlening?
+Zo ja, wat waren de resultaten hieromtrent?
+Zo niet, waarom niet?
+Zo niet, wordt er overwogen om daar in de toekomst naar te vragen?
+8. Hoe verhouden zich de resultaten van de laatste klanttevredenheidsmeting ten 
+opzichte van de voorlaatste? 
+a) Wat was de algemene tevredenheid(sscore) van de voorlaatste 
+klanttevredenheidsmeting en wanneer werd die uitgevoerd?
+b) Is er een positieve of negatieve evolutie?
+9. Op welke wijze werd gevolg gegeven aan de laatste klanttevredenheidsmeting? 
+a) Hoe zullen de resultaten in de werking van VDAB geïmplementeerd worden?
+b) Heeft de minister daartoe specifieke instructies gegeven?
+c) Op welke manier volgt de minister de doorvoering van mogelijke verbeterpunten 
+op?
+10. Communiceert VDAB na het klanttevredenheidsonderzoek nog naar de respondent 
+over wat men doet met de resultanten van het onderzoek?
+11. Is er op korte termijn een nieuwe klanttevredenheidsmeting gepland? Zo ja, wanneer 
+worden de resultaten verwacht?
+12. Hoe evalueert de minister de laatste klanttevredenheidsmeting van VDAB?
+JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+ANTWOORD 
+op vraag nr. 191 van 15 januari 2024
+van BRECHT WARNEZ
+1. VDAB voerde in januari 2024 een tevredenheidsmeting uit naar de werking en 
+dienstverlening van VDAB.
+2. VDAB voert op een continue basis tevredenheidsmetingen uit. 
+3. De tevredenheidsmetingen worden gecoördineerd vanuit het team Kwaliteit, Efficiëntie 
+en Effectiviteit. Hiervoor gebruikt VDAB de tool Hello Customer. 
+Er wordt 1 score-vraag gesteld (vb. ‘Hoe tevreden ben je over …’) en 1 waarom-vraag: 
+waarom geef je deze score. In een open tekstveld kan de klant feedback noteren. Het 
+feedback platform kan via AI grote volumes aan open feedback verwerken en zal op 
+basis van woordherkenning de feedback rubriceren in hoofd- en subcategorieën. 
+Daarnaast kan deze feedback nog verder geanalyseerd worden door gebruik van 
+metadata. Deze sentimentanalyse is in real time beschikbaar.
+De metingen zijn geënt op de customer journey en lopen of continue of tot het gewenst
+aantal respondenten behaald is. Ze hebben tot doel de klantentevredenheid te meten 
+in
+functie van voortdurend verbeteren. Naast de score biedt de woordelijke feedback
+waardevolle informatie over onze dienstverlening.
+De bevragingen gebeuren kort na een klantencontact met VDAB en genereren daardoor 
+een hogere respons; via een minimale tijdsinvestering levert het een maximale 
+kwalitatieve output op en de kwalitatieve feedback is dankzij AI efficiënt te analyseren.
+Daarnaast organiseren provincies thematische cursistenraden. Deze worden zowel op 
+centraal niveau als provinciaal georganiseerd. Hierbij worden cursisten in groep 
+bevraagd over een of meerdere vormen van werkplekleren na of tijdens 
+competentieversterking. 
+In 2023 werden cursistenraden georganiseerd over werkplekleren, het project 
+greenpower.
+Voor 2024 staat een cursistenraad over de opleiding dispatcher op de planning.
+4. VDAB maakt gebruik van triggers, dit zijn gekozen sleutelmomenten/acties waarna de 
+meting naar de klant vertrekt.
+a) VDAB heeft vooropgestelde KPI’s voor bevragingen naar werkgevers, 
+werkzoekenden, werknemers en burgers. Voor werkgevers is dit 80%, voor 
+werkzoekenden 85%, voor werknemers 80%, voor burgers 80% en interne en 
+externe klanten 80%.
+b) VDAB bevraagt alle klanten die gebruikmaken van een dienstverlening.
+c) Aangezien alle klanten die gebruikmaken van een dienstverlening van VDAB worden 
+bevraagd, is dit niet van toepassing.  
+d) Aangezien alle klanten die gebruikmaken van een dienstverlening van VDAB worden 
+bevraagd, is dit niet van toepassing.  
+e) Aangezien alle klanten die gebruikmaken van een dienstverlening van VDAB worden 
+bevraagd, is dit niet van toepassing.  
+f) VDAB bevraagt burgers standaard na een klantencontact, mits het in acht nemen 
+van een quarantaineperiode van 3 maanden per bevraging. Op deze manier 
+vermijdt VDAB dat burgers overbevraagd worden.
+g) VDAB heeft de keuze gemaakt om de dienstverlening zoals voorgesteld in vraag 7 
+te bevragen.
+h) VDAB standaardiseert de resultaten niet.
+5. VDAB organiseert de tevredenheidsmetingen digitaal.  
+6. VDAB voert de klantentevredenheidsmetingen zelf uit via de tool Hello Customer. 
+7.
+WERKGEVERS                                                                        
+TEVREDENHEID dec 2023
+Publicatie vacature alternerend 83,43%
+WG over vacatures in eigen en gedeeld 
+beheer 80,65%
+WG over IBO 91,67%
+WERKZOEKENDEN                                                                      
+TEVREDENHEID dec 2023
+E-learning 86,67%
+WZ over NCS 91,92%
+ WZ over gemaakte afspraken alternerend 86,90%
+WZ over IBO 71,05%
+WZ over opleiding in CC 85,67%
+WZ over instroom opleidingen 77,51%
+WZ over algemene oriëntering 68,57%
+BURGER                                                                   
+TEVREDENHEID dec 2023
+ Burger over workshops 
+86,05%
+INTERNE EN EXTERNE KLANTEN                                                                  
+TEVREDENHEID dec
+2023
+Interne en externe klanten over backoffice 91,06%
+a) De algemene tevredenheidsscore is opgenomen in onderstaande tabel
+WERKGEVERS                                                                        De indicator voor elke dienstverlening 
+of product is 80% (KPI).
+D.w.z. dat we prioritair inzetten op de 
+laagste scores om bij te benen tot het 
+niveau van de andere indicatoren. 
+TEVREDENHEID 2022 2023
+WG - NPS
+22 31
+WG over online tools
+Publicatie vacature 85,26% 85,33%
+WG over vacatures in eigen 
+en gedeeld beheer
+(*) Op dit moment liep de 
+meting enkel over gedeeld 
+beheer 75,99% 79,19%
+WG over IBO 83,23% 87,23%
+WERKZOEKENDEN                                                                      De indicator voor elke dienstverlening 
+of product is 85% (KPI).
+D.w.z. dat we prioritair inzetten op de 
+laagste scores om bij te benen tot het 
+niveau van de andere indicatoren. 
+TEVREDENHEID 2022 2023
+WZ - NPS
+26 30
+WZ over online tools
+Inschrijving (wizard) 
+alternerend 87,86% 87,21%
+E-learning 85,75% 88,20%
+WZ over NCS 92,41% 91,91%
+WZ over contact bemiddelaar 
+alternerend 88,22% 88,47%
+WZ over gemaakte afspraken 
+alternerend 87,20% 86,85%
+WZ over IBO 68,1% 76,55%
+WZ over opleiding in CC 85,7% 84,22%
+WZ over instroom opleidingen 76,2% 77,56%
+WZ over algemene 
+oriëntering 81,25% 82,01%
+WERKNEMERS                                                                       De indicator voor elke dienstverlening 
+of product is 80% (KPI).
+D.w.z. dat we prioritair inzetten op de 
+laagste scores om bij te benen tot het 
+niveau van de andere indicatoren. 
+TEVREDENHEID 2022 2023
+WN - NPS
+32 34
+BURGER                                                                   De indicator voor elke dienstverlening 
+of product is 80% (KPI).
+D.w.z. dat we prioritair inzetten op de 
+laagste scores om bij te benen tot het 
+niveau van de andere indicatoren. 
+TEVREDENHEID 2022 2023
+ Burger over workshops 86,05% 87,57%
+INTERNE EN EXTERNE 
+KLANTEN                                                                  De indicator voor elke dienstverlening 
+of product is 80% (KPI).
+D.w.z. dat we prioritair inzetten op de 
+laagste scores om bij te benen tot het 
+niveau van de andere indicatoren. 
+TEVREDENHEID 2022 2023
+Interne en externe klanten 
+over backoffice (gestart als 
+piloot in oktober 2020) 92,68% 91,87%
+Website 69,20% 67,90%
+b) VDAB heeft per doelgroep KPI’s vastgelegd. Voor werkgevers is dit 80%, voor 
+werkzoekenden 85%, voor werknemers 80%, voor burgers 80% en interne en 
+externe klanten 80%. De diensten gaan aan de slag met de kwalitatieve input en 
+zetten verbeterpunten op. VDAB heeft op een aantal metingen een Close the loop 
+opgezet. VDAB contacteert bij een negatieve waardering burgers die aangegeven 
+hebben dat zij gecontacteerd mogen worden.
+c) VDAB peilt zowel bij werkgevers als werkzoekenden naar tevredenheid over het 
+gebruik van online tools (zie tabel)
+8. De verhouding van de resultaten van de laatste klantentevredenheidsmeting ten 
+opzichte van de voorlaatste is opgenomen in onderstaande tabel. 
+WERKGEVERS                                                                        
+TEVREDENHEID nov
+2023dec 2023
+WG - NPS
+30 nvt
+Publicatie vacature alternerend 85,2% 83,43%
+WG over vacatures in eigen en gedeeld 
+beheer
+82,48% 80,65%
+WG over IBO 91,67% 91,67%
+Arbeidsmarktinfo en inzichten WG 
+57,32% nvt
+WERKZOEKENDEN                                                                      
+TEVREDENHEID nov 2023 dec 2023
+WZ - NPS 31 nvt
+Inschrijving (wizard) alternerend nvt nvt
+Website nvt nvt
+E-learning 89,02% 86,67%
+WZ over NCS 91,9% 91,92%
+WZ over contact bemiddelaar alternerend nvt nvt
+WZ over gemaakte afspraken alternerend 86,78% 86,90%
+WZ over IBO 75% 71,05%
+WZ over opleiding in CC 79,44% 85,67%
+WZ over instroom opleidingen 79,12% 77,51%
+WZ over algemene oriëntering 81,48% 68,57%
+WERKNEMERS                                                                       
+TEVREDENHEID nov 2023 dec
+2023
+WN - NPS
+34 nvt
+BURGER                                                                   
+TEVREDENHEID nov 2023 dec 2023
+ Burger over workshops 
+82,5% 86,05%
+INTERNE EN EXTERNE KLANTEN                                                                  
+TEVREDENHEID nov 2023 dec
+2023
+Interne en externe klanten over 
+backoffice 86,57% 91,06%
+a) Cijfers over de klantentevredenheid van november 2023 zijn opgenomen in tabel 
+zie vraag 8. 
+b) VDAB stelt vast dat de resultaten stabiel zijn.
+9. a) De gedelegeerd bestuurder buigt zich maandelijks over de tevredenheidsresultaten. 
+De cijfers komen ook voor in de indicatorenboeken van VDAB. Teamleiders en 
+managers capteren resultaten en gaan hiermee aan de slag. 
+b) De minister is tevreden over de manier waarop VDAB tevredenheidsmetingen 
+aanpakt. 
+c) De tevredenheidsmeting is een onderdeel in het jaarverslag van VDAB.
+10.VDAB communiceert naar de respondent niet over de resultaten na de 
+tevredenheidsmeting. Op individueel niveau kan VDAB in het kader van Close the loop 
+communiceren over het resultaat met de betrokken burger. VDAB contacteert bij een 
+negatieve waardering burgers die aangegeven hebben dat zij gecontacteerd mogen 
+worden. Dit geeft VDAB de kans om een oplossing te bespreken met de burger en/of 
+de relatie met de burger te herstellen.
+11.VDAB voert op een continue basis tevredenheidsmetingen uit en de resultaten zijn 
+meteen zichtbaar. 
+12.De minister is tevreden over de inspanningen die VDAB levert. De minister stelt vast 
+dat de positieve resultaten van VDAB van 2022 bevestigd werden in 2023.

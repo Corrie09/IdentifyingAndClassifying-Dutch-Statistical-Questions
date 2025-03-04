@@ -1,0 +1,82 @@
+title: Binnenvaart - Invoering 'trackpilot'-systeem
+thema: Mobiliteit en Verkeer
+Openbare werken
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2027077
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1787643
+SCHRIFTELIJKE VRAAG
+nr. 387
+van MAARTEN DE VEUSTER
+datum: 13 december 2023
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Binnenvaart  -  Invoering ‘trackpilot'-systeem
+Het Nederlandse binnenvaartmedium Schuttevaer meldt dat bijna 8% van de Nederlandse 
+binnenvaartschepen is uitgerust met een trackpilot, een stuurondersteuning vergelijkbaar 
+met de ‘lane assist’ in auto’s. Dat zou bijdragen aan de veiligheid (minder 
+concentratieverlies bij de schipper) en ook leiden tot brandstofbesparing.
+1. Hoe ziet de minister die evolutie? Is het een stap naar autonoom varen? Draagt het 
+trackpilot-systeem effectief bij tot veiliger scheepvaartverkeer?
+2. Heeft de minister zicht op het gebruik van het trackpilot-systeem in de Vlaamse 
+binnenvaart?
+3. Blijkbaar wordt er al gewerkt aan passende regelgeving in de Central Commission for 
+the Navigation on the Rhine (CCR). 
+Is Vlaanderen daarmee bezig? Wat moet er nog veranderen in de Vlaamse regelgeving 
+en wat zijn de knelpunten?
+4. Komt de trackpilot al aan bod in de Vlaamse binnenvaartopleidingen?
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD
+op vraag nr. 387 van 13 december 2023
+Van MAARTEN DE VEUSTER
+1. Een TGAIN (‘Track Guidance Assistent for Inland Navigation’) of trackpilot zal het 
+vaartuig navigeren volgens een vooraf ingegeven lijn of track. De meeste trackpilots 
+volgen niet alleen deze track, maar gaan ook na of er obstakels op deze lijn liggen en 
+waarschuwen de schipper aan boord (‘collision awareness’). Dit wil zeggen dat een 
+trackpilot een apparaat is van niveau 1 of 2 volgens de 'levels of automation' zoals 
+bepaald door de CCR.
+ 
+Binnen deze niveaus blijft de schipper steeds verantwoordelijk en is er een menselijke 
+interactie nodig bij het navigeren.
+Momenteel onderzoeken de producenten van deze systemen of ze ook een 
+betrouwbare ‘collision avoidance’ kunnen toevoegen. Hierdoor is er geen 
+(onmiddellijke) menselijke interactie meer nodig en gaat een trackpilot over naar 
+niveau 3. Dit is een verdere stap naar geautomatiseerd/autonoom varen.
+Van zodra deze systemen ook hun te volgen weg (tracks) met elkaar zullen delen, 
+verhogen zij ook de veiligheid op de waterwegen. Schippers zullen hierdoor 
+geïnformeerd de intenties kennen van de andere vaartuigen en kunnen hier beter op 
+ageren.
+ 
+2. In Europa werden tot hiertoe ongeveer 1000 schepen (8%) uitgerust met een 
+trackpilot systeem van de vier producenten. Ongeveer 110 trackpilots werden op 
+'Vlaamse vaartuigen' door Tresco Engineering geïnstalleerd. Het is echter moeilijk om 
+exacte cijfers te geven voor Vlaanderen, omdat vele installaties in het buitenland 
+gebeuren.
+ 
+3. Het Europese Comité voor de Standaardisatie van de binnenvaart (CESNI) heeft de 
+opdracht gegeven aan de werkgroepen (CESNI/PT, CESNI/TI, CESNI/QP) om 
+vereisten uit te werken voor de TGAIN. Het gaat hier om de technische vereisten, 
+vereisten in het kader van de visualisatie in een Inland ECDIS en de vereisten in het 
+kader van kwalificaties.  
+ 
+De CCR heeft tot nu toe nog geen regelgeving uitgewerkt voor het gebruik van TGAIN 
+aan boord van binnenvaartuigen.
+Aangezien de trackpilot geen ‘collision avoidance system’ is, blijft de schipper aan 
+boord steeds verantwoordelijk voor de navigatie. Hierdoor is er momenteel geen 
+regelgeving nodig voor het gebruik van de TGAIN. Van zodra de vereisten in 
+standaarden vastgelegd zijn, kan er vanuit de regelgeving wel opgelegd worden dat 
+een type goedkeuring voor een TGAIN noodzakelijk is. 
+4. Momenteel zijn nog geen competenties met betrekking tot trackpilot opgenomen in 
+de goedgekeurde opleidingsprogramma's in Vlaanderen. 
+De inhoud van de bestaande goedgekeurde opleidingsprogramma's is gebaseerd op 
+de ES-QIN-standaarden die door CESNI (Europees comité voor opstelling van 
+standaarden in de binnenvaart) werden opgesteld en door de Europese Commissie 
+werden geïntegreerd in de richtlijn voor beroepskwalificaties die van kracht werd op 
+18/1/2022.   
+Op CESNI-niveau werken we mee aan de actualisering van de standaarden voor 
+leidinggevend niveau met de bedoeling om TGAIN (‘track guidance assistant for inland 
+navigation’)-gerelateerde competenties te integreren. Deze zullen verplicht worden in 
+de opleidingsprogramma's zodra de Europese Commissie deze heeft omgezet in een 
+gedelegeerde handeling.   
+Vanuit MOW zullen we ijveren bij de opleidingsinstellingen om hun 
+opleidingsprogramma's te actualiseren met trackpilotcompetenties zodra deze werden 
+aangenomen op CESNI-niveau.

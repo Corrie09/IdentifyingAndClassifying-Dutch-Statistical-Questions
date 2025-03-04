@@ -1,0 +1,87 @@
+title: Ventilus - Permanent monitoringsysteem
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2013987
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1778108
+SCHRIFTELIJKE VRAAG
+nr. 105
+van CARMEN RYHEUL
+datum: 8 november 2023
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Ventilus  -  Permanent monitoringsysteem
+De Vlaamse overheid ontwikkelt momenteel een eigen monitoringsysteem om de 
+blootstelling aan magnetische velden op te volgen. Die belofte staat beschreven in het 
+‘Afsprakenkader voor netbeheerders’ (VR 2023 3103 DOC.0327/2BIS). Dat systeem zou 
+bestaan uit sensoren die zowel rond 100 µT, als rond 0,4 µT kunnen meten, en zullen het 
+magnetisch veld meten in microtesla (µT). Die resultaten zullen worden gepubliceerd op 
+de website van het Departement Omgeving. Bijkomend zal de netbeheerder op regelmatige 
+basis de belastingcijfers van de hoogspanningsverbindingen aan het Departement 
+Omgeving bezorgen. 
+In haar antwoord op mijn schriftelijke vraag nr. 762 van 17 mei 2023 stelde de Vlaamse 
+minister van Omgeving bovendien expliciet dat het permanent monitoringnetwerk een 
+noodzakelijk onderdeel van het Ventilusdossier vormt, alsook dat over de voortgang van 
+de ontwikkeling van dat monitoringnetwerk een laatste keer aan de Vlaamse Regering 
+gerapporteerd werd op 16 december 2022. De uitrol ervan zou gebeuren na afloop van het 
+proefproject. 
+Naar aanleiding van de beslissing van de Vlaamse Regering van 9 september 2022 werden 
+op het moment van voormeld antwoord een aantal prototypes van de ontwikkelde sensoren 
+gebouwd. In het proefproject zouden een aantal van die sensoren geplaatst worden bij al 
+bestaande hoogspanningsverbindingen met als doel de ontwikkelde sensoren te testen en 
+de technologie verder te verfijnen. De meetlocaties voor het proefproject waren op het 
+moment van de vraagstelling nog niet exact bepaald.
+Vandaag is er nog steeds geen duidelijkheid over het meetprotocol, en evenmin over hoe 
+de resultaten ervan raadpleegbaar zullen zijn.
+1. Werd de voortgang van de ontwikkeling van het monitoringnetwerk sinds 16 december 
+2022 nog gerapporteerd aan de Vlaamse Regering? Zo ja, wanneer was dat en wat 
+zijn de bevindingen? Zo niet, waarom niet?
+2. Kan de minister een update geven over het proefproject? Wanneer zal het afgelopen 
+zijn en wanneer kan een evaluatie volgen? Zijn de meetlocaties ervan ondertussen 
+bepaald? Zo niet, waarom niet? Zo ja, waar bevinden die meetlocaties zich? 
+3. Is er meer duidelijkheid over de publicatiefrequentie van de meetresultaten? Komt er 
+met andere woorden zoals beloofd een realtime monitoringsysteem zodat de 
+omwonenden dat online kunnen volgen (zie punt 3.4 en 3.6 van de maatregelen van 
+de Vlaamse Regering in de beslissing van 31 maart 2023)?
+4. Hoe ver staat de minister wat betreft het convenant met de netbeheerder met 
+betrekking tot de maatregelen bij overschrijding van de 0,4 µT? Hoe bindend is dat 
+convenant; welke rechtsgevolgen vloeien eruit voort voor respectievelijk de Vlaamse 
+overheid, de netbeheerder, en belanghebbende natuurlijke en rechtspersonen? Wat 
+zal er effectief gebeuren als blijkt dat die bewuste 0,5 µT overschreden wordt eens 
+Ventilus er is of bij een bestaande lijn nu er een bindend afsprakenkader werd beloofd?
+5. Wat is de stand van zaken in de uitrol van het monitoringsysteem? Wanneer zal het 
+monitoringnetwerk effectief uitgerold worden?
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 105 van 8 november 2023
+van CARMEN RYHEUL
+1. Op de Vlaamse Regering van 7 juli 2023 werd het bindend afsprakenkader van de 
+Vlaamse overheid en het convenant tussen de netbeheerders en Vlaamse Regering 
+over maatregelen bij hoogspanningsverbindingen goedgekeurd. Op diezelfde Vlaamse 
+Regering werd ook het besluit over het oprichten van een monitoringsnetwerk voor 
+het meten van de blootstelling aan magnetische velden van 
+hoogspanningsverbindingen een eerste keer goedgekeurd. Beide documenten geven 
+aan hoe het monitoringsnetwerk in de praktijk zal gebracht worden.  
+2. In het proefproject wordt momenteel ingezet op lange termijn testen en optimaliseren 
+van de hardware, software en data-overdracht van de sensoren. Die lange termijn 
+testen worden uitgevoerd in de omgeving van een aantal bestaande 
+hoogspanningsverbindingen zoals het traject Van Maerlandt–Horta (380 kV-
+verbinding). Doel van de lange termijn testen is het wetenschappelijk valideren en 
+waar nodig optimaliseren van het softwaresysteem en/of de sensoren. Volgens de 
+planning kan een eerste rapportering van voorlopige resultaten van het proefproject 
+na een periode van 6 maanden testen gebeuren. De geïntegreerde rapportering (zowel 
+acute als chronische waarden) kan pas gebeuren wanneer het piloot 
+monitoringsysteem met de testsensoren volledig wetenschappelijk gevalideerd is. 
+Deze validatie gebeurt in nauwe samenwerking met IMEC. 
+3. De real time publicatie van de meetresultaten maakt onderdeel uit van de testen die 
+momenteel worden uitgevoerd binnen het proefproject.   
+4. Het convenant met Elia werd reeds ondertekend en is publiek beschikbaar op de 
+website van het Departement Omgeving. Doel van het convenant is om de langdurige 
+blootstelling aan meer dan 0,4 µT zoveel als mogelijk te vermijden. Deze aanpak is 
+vastgelegd in het afsprakenkader en is gebaseerd op het voorzorgsprincipe in lijn met 
+de aanbevelingen van de klankbordgroep van gezondheidsexperten, opgericht in het 
+kader van het GRUP Ventilus. Bij het niet-naleven van de bepalingen uit het convenant 
+zijn er boeteclausules van toepassing.  
+ 
+5. Het proefproject is momenteel lopende. De uitrol van het monitoringsnetwerk is 
+gepland na afloop van het proefproject. In het voorjaar van 2024 verwachten we de 
+eerste resultaten.

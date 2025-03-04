@@ -1,0 +1,112 @@
+title: Vastgoedinformatieplatform (VIP) - Stand van zaken
+thema: Wonen
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2063896
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1825829
+SCHRIFTELIJKE VRAAG
+nr. 205
+van GUY D'HAESELEER
+datum: 3 mei 2024
+aan JAN JAMBON
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN, CULTUUR, 
+DIGITALISERING EN FACILITAIR MANAGEMENT
+Vastgoedinformatieplatform (VIP)  -  Stand van zaken
+In het voorjaar van 2021 gaf de Vlaamse overheid het startschot voor de bouw van een 
+Vlaams Vastgoedinformatieplatform (VIP). Dat platform zou dankzij de digitalisering en 
+centralisering van de informatiestromen de doorlooptijd bij een vastgoedtransactie 
+versnellen en het proces kwalitatiever en eenvoudiger maken.
+Het project wordt gedragen door de vijf belangrijkste stakeholders in deze processen, meer 
+bepaald door CIB Vlaanderen, Fednot, de Vereniging van Vlaamse Steden en Gemeenten 
+(VVSG), het Departement Omgeving en Digitaal Vlaanderen. Het VIP zou de unieke poort 
+vormen voor alle vastgoedinformatie in Vlaanderen. Het gebruik zou in de toekomst 
+decretaal verplicht worden.
+Op 3 oktober 2022 ging het Vastgoedinformatieplatform van start voor de notarissen en 
+vastgoedmakelaars in de eerste aangesloten gemeenten. Normaal zouden een 30-tal 
+gemeenten als pilootgemeente dienen voor het project. Tot 2024 zullen steeds meer 
+steden en gemeenten aanvragen behandelen via het nieuwe systeem. Op 1 januari 2024 
+zullen diverse aanvragers van dossiers vastgoedinformatie kunnen opvragen in alle 
+Vlaamse steden en gemeenten.
+1. Zijn alle gemeenten in Vlaanderen nu aangesloten?
+2. Wordt het vastgoedinformatieplatform ondertussen voldoende gebruikt? Wie zijn de 
+voornaamste aanvragers? Kan de minister in cijfers aangeven wie er gebruik van 
+maakt?
+3. Zijn er al tekenen dat de doorlooptijd van vastgoedtransacties versneld wordt? Kan de 
+minister aangeven waaruit dat blijkt?
+4. Wat zijn de bevindingen van de reeds aangesloten gemeenten, notarissen en 
+vastgoedmakelaars? Zijn er pijnpunten blootgelegd? Zo ja, welke, en hoe zullen die 
+worden verholpen?
+5. Wat zijn de conclusies van de minister over die toepassing?
+JAN JAMBON
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN,  
+CULTUUR, DIGITALISERING EN FACILITAIR MANAGEMENT
+ANTWOORD 
+op vraag nr. 205 van 3 mei 2024
+van GUY D'HAESELEER
+1. Alle lokale besturen, met uitzondering van Sint-Genesius-Rode, zijn aangesloten op 14 
+mei 2024. De aansluiting van Sint-Genesius-Rode is uitgesteld wegens technische en 
+organisatorische redenen. Ik plan de in productiestelling voor 7 juni, in samenwerking 
+met de gemeentelijke dienstenintegrator. Hierdoor is het Vastgoedinformatieplatform 
+volledig uitgerold en dekt het heel Vlaanderen.
+2. Het Vastgoedinformatieplatform wordt actief gebruikt door notarissen, 
+vastgoedmakelaars en instrumenterende ambtenaren binnen de overheid voor 
+vastgoedtransacties waarbij onroerend goed in het Vlaamse Gewest aan een nieuwe 
+eigenaar wordt overgedragen. Van 1 januari 2024 tot en met 8 mei 2024 zijn er al 
+75.960 aanvragen via het platform verwerkt. Hiervan zijn 80% van de aanvragen door 
+notarissen ingediend, 15% door vastgoedmakelaars en 5% door overheden. Ook 
+vastgoedbezitters kunnen via Mijn Burgerprofiel een aanvraag voor vastgoedinformatie 
+indienen.
+3. Sinds de aansluiting van de lokale besturen op het Vastgoedinformatieplatform en 
+vergeleken met de benchmark die voorafgaand aan de aansluiting per lokaal bestuur 
+werd genomen, constateren we een reductie van de gemiddelde doorlooptijd bij 195 
+lokale besturen, op 5 mei 2024. Bij 72 lokale besturen is de gemiddelde doorlooptijd 
+licht gestegen, en bij 33 lokale besturen is deze hetzelfde gebleven. De cijfers zijn te 
+raadplegen op de documentatiepagina van het Vlaams Vastgoedinformatieplatform1.
+4. Ik verwijs naar de eerste bevindingen die werden gedeeld in deelvraag 4 van het 
+antwoord op de schriftelijke vraag 288 dd. 22 mei 2023 van Stijn De Roo.
+Er zijn verschillende positieve bevindingen te melden:
+•Al 50% van de vastgoedinlichtingen die nodig zijn in het vastgoedproces worden 
+automatisch door het platform opgehaald en binnen enkele minuten aan de lokale 
+besturen beschikbaar gesteld.
+•De aangeleverde informatie is uniform voor alle gemeenten.
+•De webservices van het Vastgoedinformatieplatform zijn performant en zijn 
+geïntegreerd door alle gemeentelijke dienstenintegratoren (voor 
+vastgoedinformatie), FedNot en CIB.
+•De webinterface voor aanvragers en gemeenten is gebruiksvriendelijk en volledig 
+in de huisstijl van de Vlaamse overheid.
+Er werden enkele verbeterpunten in kaart gebracht:
+•De standaardisering, digitaliseringsgraad en (geometrische) kwaliteit van enkele 
+cruciale achterliggende informatiebronnen zijn nog onvoldoende. 
+•Er moet worden ingezet op een versnelde digitalisering van deze informatiebronnen 
+om het handmatig werk bij lokale besturen snel te verminderen en de voordelen 
+van het Vastgoedinformatieplatform voor de aanvragers ten volle te benutten. 
+1 https://vlaamseoverheid.atlassian.net/wiki/spaces/DV/pages/6691192833/Doorlooptijden+lokale+besturen 
+•Facturatie is momenteel handmatig werk voor de gemeenten. Het 
+Vastgoedinformatieplatform zal dit proces voor 1 januari 2024 automatiseren.
+Het decreet over het Vastgoedinformatieplatform van 22 december 2023 is inmiddels in 
+werking getreden, waarbij Athumi de facturatie van de lokale besturen heeft 
+overgenomen, wat een aanzienlijke tijdswinst voor hen betekent. Daarnaast heb ik op 
+19 april 2024 een dossier bij de Ministerraad ingediend om de tweede fase van het 
+Vastgoedinformatieplatform te starten. Deze fase omvat investeringen in essentiële 
+functionaliteiten op platformniveau en initiatieven bij gegevensbronnen, zodat de 
+volledige voordelen van het platform zoals gepland kunnen worden gerealiseerd, zoals 
+bijvoorbeeld de koppeling met het Vlaams Handhavingsplatform, het inrichten van 
+bidirectionele gegevensstromen tussen overheid en privé, alsook de mogelijkheid om 
+de vastgoedinformatie ter beschikking te stellen van professionele dienstverleners met 
+toestemming van de burgers. 
+5. Het Vastgoedinformatieplatform is een gegevensdelingsplatform dat vastgoedinformatie 
+uniform, veilig, snel en met hoge kwaliteit laat stromen. Hierdoor kan de vastgoedsector 
+zijn bedrijfsprocessen efficiënt inrichten en potentiële kopers van vastgoed van 
+maximale informatie voorzien.
+Ik beschouw fase 1 van het VIP-platform als een groot succes. Deze fase heeft 
+aangetoond dat het platform in staat is om de distributie van vastgoedinformatie 
+effectief te centraliseren en een uitgebreide koppeling van databronnen te realiseren, 
+met een bereik naar 300 lokale besturen en alle notarissen en vastgoedmakelaars.
+Het VIP draagt bij aan verbeterde transparantie en efficiëntie in het vastgoedproces. 
+Het biedt een gestroomlijnde en uniforme uitwisseling van informatie, wat de 
+doorlooptijd van vastgoedtransacties verkort en de kwaliteit van de dienstverlening 
+verhoogt.
+De eerste fase heeft ook duidelijk gemaakt dat er een versnelling nodig is bij de opzet 
+of optimalisatie van de gebruikte digitale bronnen. Dit is cruciaal om ervoor te zorgen 
+dat alle benodigde informatie snel en accuraat beschikbaar is via het platform.
+Ik voorzie op korte termijn extra datastromen die via het VIP-platform zullen verlopen, 
+zoals bodemattesten, waardoor de vastgoedsector via het Vastgoedinformatieplatform 
+ook andere noodzakelijke informatie kan verkrijgen.

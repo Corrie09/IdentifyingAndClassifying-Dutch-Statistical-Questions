@@ -1,0 +1,179 @@
+title: Vlaamse overheidsopdrachten - Aandeel kmo's
+thema: Economie
+Vlaamse administratie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2036141
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1795218
+SCHRIFTELIJKE VRAAG
+nr. 105
+van PETER VAN ROMPUY
+datum: 17 januari 2024
+aan JAN JAMBON
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN, CULTUUR, 
+DIGITALISERING EN FACILITAIR MANAGEMENT
+Vlaamse overheidsopdrachten  -  Aandeel kmo’s
+Ik verwijs naar mijn schriftelijke vraag nr. 132 van 17 januari 2023 over het aandeel kmo’s 
+binnen de Vlaamse overheidsopdrachten. Via rapporteringsmodule e-delta heeft de 
+Vlaamse overheid zicht op het aandeel kmo’s binnen de Vlaamse overheidsopdrachten. 
+Daarom volgende vragen, graag cijfers op perceelniveau:
+1. Hoeveel kmo’s schreven in voor Vlaamse overheidsopdrachten vanaf 1 januari 2018 
+en voor welk gunningsbedrag? Graag cijfers per kwartaal en per beleidsdomein.
+2. Hoeveel kmo’s schreven procentueel in voor Vlaamse overheidsopdrachten vanaf 1 
+januari 2018? Graag cijfers per kwartaal en per beleidsdomein.
+3. Hoeveel keer werd de opdracht effectief gegund aan een ingeschreven kmo en voor 
+welk gunningsbedrag? Graag cijfers per kwartaal en per beleidsdomein.
+4. Hoe evalueert de minister-president die cijfers?
+5. Welke maatregelen zal de minister-president nemen om de kmo-reflex en de kansen 
+voor kmo’s bij Vlaamse en lokale overheidsopdrachten verder te bevorderen?
+JAN JAMBON
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN,  
+CULTUUR, DIGITALISERING EN FACILITAIR MANAGEMENT
+ANTWOORD 
+op vraag nr. 105 van 17 januari 2024
+van PETER VAN ROMPUY
+Sinds 2017 is werk gemaakt van een rapporteringsmodule in eDelta (eDelta 
+Vereenvoudigde Registratie) die in 2018 in gebruik werd genomen. De entiteiten van de 
+Vlaamse overheid (die behoren tot de Vlaamse administratie) werden verzocht om hierin 
+vanaf 1 januari 2018 hun overheidsopdrachten te registreren. Deze gegevens worden 
+verwerkt met het oog op standaard en ad hocrapporteringen. Onderstaand antwoord werd 
+opgesteld op basis van de data die in eDelta beschikbaar waren op 9 februari 2024.
+1-2.Van 1/1/2018 t.e.m. 31/12/2023 (afgebakend op gunningsdatum) waren er van de 
+23.382 ingediende offertes 13.244 (56,6%) afkomstig van kmo’s. In bijlage kan de 
+opsplitsing per beleidsdomein en kwartaal gevonden worden. Een deel van de offertes 
+waarvoor geen grootte bepaald kon worden (‘Gegevens niet beschikbaar of fout’) 
+bevatten ook hoogstwaarschijnlijk offertes van kmo’s afkomstig, net als de categorie 
+‘Andere’ (waaronder ook de natuurlijke personen vallen).
+Hieronder vindt u de gegevens per jaar. Een onderverdeling per kwartaal en 
+beleidsdomein zijn in bijlage aan dit antwoord toegevoegd. 
+Som van Aantal 
+offertes
+RijlabelsGegevens niet 
+beschikbaar/
+andereGrote 
+ondernemingKMO Buitenlandse 
+entiteitEindtotaal
+2018 707 537 1434 61 2739
+2019 753 762 2441 60 4016
+2020 918 911 2880 89 4798
+2021 1001 859 2570 101 4531
+2022 1255 723 2095 95 4168
+2023 538 694 1824 74 3130
+Eindtotaal 5172 4486 13244 480 23382
+Procentueel:
+Aantal offertes
+RijlabelsGegevens niet 
+beschikbaar/ 
+andereGrote 
+ondernemingKMO Buitenlandse 
+entiteitEindtotaal
+2018 25,8% 19,6% 52,4% 2,2% 100,0%
+2019 18,8% 19,0% 60,8% 1,5% 100,0%
+2020 19,1% 19,0% 60,0% 1,9% 100,0%
+2021 22,1% 19,0% 56,7% 2,2% 100,0%
+2022 30,1% 17,3% 50,3% 2,3% 100,0%
+2023 17,2% 22,2% 58,3% 2,4% 100,0%
+Eindtotaal 22,1% 19,2% 56,6% 2,1% 100,0%
+Het ‘gunningsbedrag’ is moeilijk uit eDelta – het registratiesysteem voor 
+overheidsopdrachten van de Vlaamse overheid – te halen gezien hier geen éénduidige 
+definitie voor is. Men zou hiervoor het offertebedrag excl. BTW van de winnende offerte 
+kunnen nemen maar deze bedragen staan niet altijd in verhouding met de raming; zo 
+kan bijvoorbeeld het formeel geregistreerde offertebedrag bestaan uit een deelafname 
+op een overheidsopdracht bv. een mensdag bij consultancy of de raming voor bepaalde 
+types bestellingen op raamovereenkomsten). Soms worden meerdere offertes gegund 
+per perceel (bv. bij aankoop met minicompetitie of cascade) waardoor deze 
+offertebedragen niet eenvoudigweg opgeteld kunnen worden. 
+Voor vraag 1 is het dan ook niet mogelijk om een representatief ‘gunningsbedrag’ mee 
+te geven. In vraag 3 wordt de geraamde waarde excl. BTW gebruikt om tot een 
+gunningsbedrag bij benadering te komen. 
+3. Van 1/1/2018 t.e.m. 31/12/2023 (afgebakend op gunningsdatum) was er voor 5.781 
+van de 8.324 percelen (69%) minimum 1 offerte afkomstig van een kmo. Voor 4.418 
+van deze percelen (76%) werd de offerte gegund aan een kmo. In bijlage kan de 
+opsplitsing per beleidsdomein en kwartaal gevonden worden. Een deel van de offertes 
+waarvoor geen grootte bepaald kon worden (‘Gegevens niet beschikbaar/andere’) 
+bevatten ook hoogstwaarschijnlijk offertes van kmo’s afkomstig (hieronder vallen ook 
+de natuurlijke personen).
+Bedragen
+Wat het gunningsbedrag betreft wordt voor deze vraag de volgende definitie 
+gehanteerd: de geraamde waarde (excl. BTW) van een perceel dat aan één of meerdere 
+opdrachtnemers werd gegund, gedeeld door het aantal opdrachtnemers voor die 
+opdracht. Dit is een benadering gezien dit bv. bij een opdracht met minicompetitie geen 
+rekening houdt met de verdeling aan bestellingen onder de opdrachtnemers, maar geeft 
+een goed beeld van de relatieve verdeling van het budget binnen een bepaald 
+beleidsdomein volgens ondernemingsgrootte. 
+
+Hieronder vind u de gegevens per jaar. Een onderverdeling per kwartaal en 
+beleidsdomein zijn in bijlage aan dit antwoord toegevoegd. 
+Geraamde waardes absoluut (excl. BTW): 
+Som van 
+Geraamd 
+bedrag 
+(excl. 
+BTW)
+RijlabelsGegevens niet 
+beschikbaar/ 
+andereGrote 
+ondernemingKMO Buitenlandse 
+entiteitEindtotaal
+2018 € 227.952.354 € 368.825.655 € 383.548.854 € 10.176.399 € 990.503.263
+2019 € 366.268.976 € 238.483.749 € 368.846.472 € 10.619.355 € 984.218.552
+2020 € 1.023.145.023 € 402.138.893 € 428.725.276 € 21.187.797 € 1.875.196.989 
+2021 € 621.381.943 € 2.897.564.133 € 651.183.060 € 38.256.225 € 4.208.385.361 
+2022 € 368.033.277 € 609.061.036 € 1.380.492.925 € 22.091.151 € 2.379.678.390 
+2023 € 458.459.580 € 391.177.438 € 430.837.524 € 33.772.849 € 1.314.247.391 
+Eindtotaal € 3.065.241.154 € 4.907.250.904 € 3.643.634.111 € 136.103.776 € 11.752.229.945
+Geraamde waardes procentueel:
+Som van 
+Geraamd 
+bedrag (excl. 
+BTW) 
+RijlabelsGegevens niet 
+beschikbaar/ 
+andereGrote 
+ondernemingKMO Buitenlandse 
+entiteitEindtotaal
+2018 23,0% 37,2% 38,7% 1,0% 100,0%
+2019 37,2% 24,2% 37,5% 1,1% 100,0%
+2020 54,6% 21,4% 22,9% 1,1% 100,0%
+2021 14,8% 68,9% 15,5% 0,9% 100,0%
+2022 15,5% 25,6% 58,0% 0,9% 100,0%
+2023 34,9% 29,8% 32,8% 2,6% 100,0%
+Eindtotaal 26,1% 41,8% 31,0% 1,2% 100,0%
+4. De cijfers geven een duidelijk beeld over de participatie van kmo’s aan de 
+overheidsopdrachten van de Vlaamse administratie. De vaststelling is ook dat deze 
+cijfers over de verschillende jaren vergelijkbaar zijn en er geen duidelijke evoluties 
+kunnen worden afgeleid. Met jaarlijks gemiddeld 56,6 % van alle ingediende offertes 
+afkomstig van kmo’s zet de Vlaamse administratie een gemiddeld resultaat neer en is 
+er allicht nog verdere verbetering mogelijk op het vlak van kmo-participatie. Aansluitend 
+op de sensibiliserende en wetgevende initiatieven hieronder vermeld zal ook in 2024 
+verder worden ingezet op de bewustmaking van de aankopers van de Vlaamse overheid, 
+zowel via de website als door de organisatie van kennisnetwerksessies. De 
+eerstvolgende sessie in maart handelt over de marktconsultatie en zal vanuit die optiek 
+ook aandacht besteden aan het belang van kmo-participatie.
+5. In 2021 en 2022 heeft de Vlaamse overheid in het kader van het project ‘kmo-
+participatie aan overheidsopdrachten’ enerzijds de eigen aankopers gesensibiliseerd om 
+meer in te zetten op kmo-participatie én anderzijds de kmo’s overtuigd om mee te 
+dingen bij overheidsopdrachten. Er werden evenementen en een kmo-beurs 
+georganiseerd onder het motto ‘Welkom KMO’. Alle informatie hierover is beschikbaar 
+op de website.
+In 2023 werd voor aansluiting gezorgd bij de diverse nieuwe wetgevende initiatieven 
+die als doel hebben om de deelname van kmo’s aan overheidsopdrachten te vergroten. 
+Hierbij werden belangrijke wijzigingen aan de regelgeving overheidsopdrachten 
+doorgevoerd. Met de wet van 22 december 2023 werd de mogelijkheid om voorschotten 
+toe te kennen aanzienlijk versoepeld en in bepaalde hypotheses verplicht, onder meer 
+wanneer de opdracht aan een kmo wordt gegund. Dezelfde wet introduceerde voor 
+bepaalde procedures ook een verplichte biedvergoeding wanneer offertes vergezeld 
+moeten gaan van onder meer maquettes en grafische ontwerpen. Eerder had het KB 
+van 4 september 2023 al de regels rond het eisen van een borgtocht aanzienlijk 
+versoepeld. Deze wijzigingen zorgen ervoor dat de drempels voor kmo’s om deel te 
+nemen aan overheidsopdrachten worden weggenomen. Bovendien heeft de wet van 8 
+februari 2023 het gebruik van e-procurement ook verplicht gesteld voor 
+onderhandelingsprocedures zonder voorafgaande bekendmaking en dit vanaf 1 
+september 2023. Dezelfde wet introduceert een aantal bijkomende 
+transparantieverplichtingen met de bedoeling om ook op een meer gestructureerde 
+wijze gegevens te kunnen verzamelen en tot een meer volledige rapportering te komen. 
+Het is belangrijk om ervoor te zorgen dat alle aankopers op de hoogte zijn van dergelijke 
+ingrijpende wijzigingen aan de wetgeving. Mijn diensten hebben hierover uitgebreid 
+gecommuniceerd via hun website en door de organisatie van een informatiesessie in 
+januari 2024. Ook de komende maanden zal verder worden ingezet op de sensibilisering 
+van de aankopers van de Vlaamse overheid. 
+BIJLAGE
+Gegevens per kwartaal en per beleidsdomein (vragen 1-2 en 3)

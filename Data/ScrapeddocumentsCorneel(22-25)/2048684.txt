@@ -1,0 +1,339 @@
+title: Opleidingsaanbod VDAB - Impact technologische trends
+thema: Werk
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2048684
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1804257
+SCHRIFTELIJKE VRAAG
+nr. 279
+van KOEN VAN DEN HEUVEL
+datum: 21 februari 2024
+aan JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+Opleidingsaanbod VDAB  -  Impact technologische trends
+Deze vraag geldt in opvolging van mijn schriftelijke vraag nr. 568 van 8 mei 2017 aan 
+toenmalig minister Philippe Muyters.
+Het Wereld Economisch Forum (WEF) heeft in 2020 geconcludeerd dat artificiële 
+intelligentie (AI) wereldwijd ruim 85 miljoen jobs zou kosten maar tegelijk ook 97 miljoen 
+nieuwe jobs zou creëren. De nieuwe jobs bevinden zich voornamelijk in de domeinen big 
+data, digitale marketing en informatiebeveiliging. 
+Het staat vast dat de komst van AI en andere technologische nieuwigheden een impact 
+zullen hebben op onze economie en arbeidsmarkt. Het zal uitdagingen met zich 
+meebrengen maar tegelijk ook heel wat opportuniteiten. VDAB biedt meer dan 1000 
+opleidingen en workshops aan voor werkzoekenden, werknemers en werkgevers. 
+Ongetwijfeld heeft de technologische vooruitgang ook een impact op de opleidingen die 
+VDAB aanbiedt. 
+1. Wordt er binnen VDAB strategisch nagedacht over de impact van nieuwe 
+technologische trends zoals automatisering, robotisering, zelfrijdende voertuigen, AI, 
+… op het beleid en aanbod van VDAB? 
+Zo ja, kan de minister de strategische analyses bezorgen die daarover bestaan? Wat 
+zijn de voornaamste concrete conclusies? 
+Zo niet, waarom gebeurt het niet? 
+2. Zijn er VDAB-opleidingen die de voorbije vijf jaar niet meer zijn aangeboden? Zijn er 
+opleidingen die de komende jaren dreigen te verdwijnen omwille van de technologische 
+trends? 
+3. Zijn er de voorbije vijf jaar nieuwe VDAB-opleidingen in het leven geroepen om 
+tegemoet te komen aan de technologische vooruitgang? Zijn er plannen om de 
+komende periode nieuwe opleidingen toe te voegen? 
+4. Zijn er al bestaande opleidingen aangepast om tegemoet te komen aan de technische 
+nieuwigheden? Zo ja, welke opleidingen, en in welk opzicht werden die opleidingen 
+aangepast? 
+JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+ANTWOORD 
+op vraag nr. 279 van 21 februari 2024
+van KOEN VAN DEN HEUVEL
+1. VDAB is een voorbeeld voor wat betreft de inzet van AI. Ze volgen daarenboven op 
+strategisch en tactisch-operationeel niveau de impact van technologische evoluties op 
+de arbeidsmarkt en de daarop gevraagde profielen op via:
+a) AI Center of Excellence
+In 2016 heeft VDAB een innovatielabo opgericht met als doel te experimenteren 
+met nieuwe technologische trends en dit om VDAB en haar dienstverlening te 
+verbeteren en te versterken. De focus lag hierbij voornamelijk op het benutten van 
+data en het extraheren van inzichten uit deze data door middel van Artificiële 
+Intelligentie.
+Dit innovatielabo is uitgegroeid tot een matuur AI Center of Excellence van meer 
+dan 30 experten (data scientists, data engineers, MLOps engineers, architecten, AI 
+translators en business experten). Dit Center of Excellence heeft reeds verschillende 
+AI oplossingen in productie geplaatst en dit ter verbetering en versterking van de 
+drie kerntaken van VDAB, namelijk het ondersteunen van de burger bij het 
+optimaliseren van zijn/haar carrière, het ondersteunen van de werkgever bij het 
+invullen van zijn vacatures en het ondersteunen van burger en bemiddelaar in het 
+kader van opleidingen. 
+Daarnaast zet VDAB ook heel sterk in op het ondersteunen van de bemiddelaar in 
+zijn/haar dagdagelijkse taken. Dit door 
+●Extraheren van inzichten uit data 
+●(Semi-)automatisatie van bepaalde taken zodat de bemiddelaar zich kan 
+concentreren op zijn/haar kerntaken, namelijk het ondersteunen van 
+zijn/haar klanten
+Ook is VDAB volop bezig met het experimenteren rond de mogelijkheden van 
+generatieve AI en het onderzoeken hoe deze technologie VDAB en de medewerkers 
+van VDAB kan versterken. Binnen dit kader wordt er momenteel een “GenAI 
+Efficiency Factory” opgericht met als doel bestaande generatieve AI toepassingen 
+op een veilige manier binnen de processen van VDAB te integreren. Dit om de 
+efficiëntie van de organisatie en haar klanten te verhogen.
+Omdat aan het gebruik van data en Artificiële Intelligentie ook risico’s verbonden 
+zijn, heeft VDAB in 2022 een Ethische Raad opgericht om VDAB te adviseren met 
+betrekking tot het gebruik van data en AI en dit vanuit een ethisch perspectief. 
+Deze Ethische Raad is een onafhankelijk adviesorgaan met betrekking tot het 
+gebruik van Artificiële Intelligentie, profilering en automatische besluitvorming. De 
+Ethische Raad bestaat vandaag uit 3 interne experten en 5 externe experten. De 
+interne experten zijn aanwezig om inzichten te geven in de missie, ambitie en 
+uitdagingen van VDAB. Voor de externe experten is er gekozen om verschillende 
+expertisedomeinen op te nemen, namelijk academische, juridische, filosofische, 
+operationele en meer transversale expertise. Op deze manier hoopt VDAB dat de 
+discussies die plaatsvinden gebalanceerd zijn en dat verschillende invalshoeken in 
+rekening genomen worden.
+b) Team Digitalisering
+In 2017 is binnen VDAB het team digitalisering opgericht. Dit team zet in op het 
+creëren van awareness rond het thema digitalisering, zowel intern bij VDAB als 
+extern bij werkzoekenden en partners. Daarnaast werkt het team rond het 
+versterken van digitale vaardigheden van werkzoekenden in functie van hun 
+jobdoelwit via een uitgebreid aanbod aan workshops (Privacy & Data, GDPR in de 
+IT,..) en webcursussen (AI, Cyberveiligheid, Internet of Things,...) . 
+Intern ondersteunt het team de verschillende beroepenclusters om digitalisering op 
+een geïntegreerde manier aan te bieden in de beroepsopleidingen. Daarnaast werkt 
+het team ook samen met partners van VDAB zoals Het Beroepenhuis, Stad Gent, 
+Mediawijs, Cevora,... rond het topic digitalisering. Gezien de snelheid waarmee het 
+specialisatiegebied digitalisering evolueert, worden deze workshops zeer frequent 
+geüpdatet. Een deel van het workshopaanbod wordt ook via een uitbesteding 
+georganiseerd.
+Concrete toepassingen van nieuwe technologische evoluties (AI, VR,...) worden 
+enerzijds verwerkt in het bestaande workshopaanbod, of er worden nieuwe 
+workshops of webcursussen voor gemaakt. Zo wordt dit jaar bijvoorbeeld de 
+herwerking van de cursus AI opgeleverd en is het team een cursus cyberveiligheid 
+aan het ontwikkelen met partners als Febelfin, Agoria en de Cyber Security 
+Coalition. 
+c) Meewerken, leveren van input en deelname aan studies/events/beurzen
+VDAB volgt studies over de impact van nieuwe trends van nabij op, maar draagt 
+vanuit haar expertise ook bij aan studies waarvoor bijvoorbeeld departement WSE, 
+de sectoren of andere relevante partners het voortouw nemen. Concrete 
+voorbeelden daarvan zijn de competentieprognoses van verschillende sectoren, 
+waaronder architect en landmeter, BIM Modelleur of prefab betonindustrie.
+VDAB werkte daarnaast ook mee aan Be The Change van Agoria. Deze publicaties 
+schetsen de grote uitdagingen en kansen die zich aandienen op de Belgische 
+arbeidsmarkt per regio, sector en functie. 
+VDAB is ook partner van DigiSkills Belgium Dit is een webplatform dat een 
+ecosysteem van initiatieven en opleidingen wil creëren voor alle Belgische burgers 
+die de stap willen zetten naar de digitale maatschappij van vandaag en morgen. 
+Aangedreven door de Belgische Nationale Coalitie voor Digitale Vaardigheden & 
+Jobs, is het doel van DigiSkills Belgium.be de digitale vaardigheidskloof op nationaal 
+niveau verkleinen.
+Bijkomend nemen experten van VDAB deel aan events, beurzen,... om zo de 
+evoluties in de verschillende sectoren van nabij te kunnen opvolgen. Deze input 
+wordt verwerkt in de sectorale ondernemingsplannen.
+d) Sectorale ondernemingsplannen
+De dienstverlening van VDAB krijgt vorm vanuit de verschillende beroepenclusters. 
+In die cluster onderzoeken experten het domein: ze kijken naar de evoluties binnen 
+het domein, analyseren de arbeidsmarkt en de gevraagde vacatures en sturen 
+vanuit die domeinanalyses inhoudelijk het dienstverleningsaanbod voor de 
+beroepen bij. Er is een nauwe samenwerking met de sectororganisaties, zodat ook 
+hun input steeds wordt meegenomen. 
+Op die manier zorgt de dienst ervoor dat de opleidingen up to date zijn en mee 
+evolueren met de snel evoluerende gevraagde competenties op de arbeidsmarkt.
+2. VDAB schrapt opleidingen pas als ze niets meer bijdragen tot een beroep of als er een 
+voldoende grote arbeidsmarktreserve is. In de evolutie van de arbeidsmarkt gaat het 
+veel meer om de verandering van taakinhouden en de daaraan gelinkte competenties 
+dan om het werkelijk volledig verdwijnen van beroepen. 
+Hieronder volgt een overzicht per beroepencluster:
+Beroepencluster Bouw & Hout
+De opleiding ‘Ambachtelijk houtbewerker’ werd stopgezet en herfocust naar ‘machinaal 
+houtbewerker. Verder zijn er binnen de sector bouw & hout geen opleidingen die 
+verdwenen zijn omwille van technologische trends.
+Beroepencluster Business Support, Retail & ICT
+Omwille van de evoluties inzake generative AI en de integratie hiervan in programma’s 
+als Microsoft Office, wordt bekeken of webcursussen als ‘communiceren via e-mail’ nog 
+relevant zijn.
+Verder zijn er de voorbije vijf jaar geen opleidingen verdwenen door de technische 
+trends, enkel door de evoluties op de arbeidsmarkt (bijvoorbeeld geen aparte front-
+end of back-end ontwikkelaars meer binnen ICT, enkel nog full stack). Met de huidige 
+evoluties schat de sector in dat er in de komende jaren ook geen opleidingen dreigen 
+te verdwijnen. We blijven inzetten op wat de noden zijn op de arbeidsmarkt en passen 
+de bestaande opleidingen aan om tegemoet te blijven komen aan de vraag.
+Beroepencluster Diensten aan Personen en Bedrijven 
+Voor de jobdomeinen ‘Horeca’ en ‘Schoonmaak’ binnen deze sector, worden geen 
+opleidingen geschrapt omwille van technologische trends, maar zorgt men voor een 
+flexibel, modulair en wendbaar opleidingsaanbod dat inhoudelijk aangepast wordt 
+naargelang de evoluties van de beroepsinhouden. 
+Voor de andere jobdomeinen binnen deze sector (land- en tuinbouw, creatieve 
+sectoren, bewaking, toerisme,...), werkt VDAB intensief samen met partners zoals de 
+betrokken sectoren, werkgeversorganisaties, bedrijven, vormingsfondsen en andere 
+opleiders. Hier geldt ook dat er geen opleidingen geschrapt werden omwille van 
+technologische trends, maar zorgt de partner voor de actualisering van de 
+opleidingsinhouden. 
+Beroepencluster Industrie
+Technische beroepen binnen de industrie verdwijnen niet, maar wijzigen, waardoor de 
+opleidingen steeds aangepast worden. Dit omvat onder andere het integreren van 21e-
+eeuwse vaardigheden zoals basis ICT-vaardigheden en data-analyse in het 
+opleidingsaanbod. Naast het inhoudelijke, verschuiven onze lesmethoden van 
+traditionele, klassikale sessies naar online leren, face-to-face interactie en een hybride 
+combinatie van beide.
+Beroepencluster Transport & Logistiek
+Geen geschrapte opleidingen of opleidingen die geschrapt gaan worden.
+Beroepencluster Zorg & Onderwijs
+VDAB heeft hier geen opleidingen in eigen beheer, maar erkent wel opleidingen bij 
+partners (hogescholen,...). 
+3. Zoals eerder aangegeven, volgt VDAB de evoluties op de arbeidsmarkt, wat vooral 
+resulteert in het actualiseren van bestaande opleidingen eerder dan het creëren van 
+nieuwe opleidingen. Bij het aanpassen van de opleidingen aan de nieuwigheden voor 
+de sector wordt de trend van de digitalisering uiteraard gevolgd. 
+VDAB weegt in functie van vraag en aanbod af of bijkomende opleidingen moeten 
+worden geprogrammeerd. Indien er een constante of stijgende vraag is voor een 
+bepaald beroep wordt bekeken of de markt dit kan aanbieden, of VDAB dit zelf moet 
+aanbieden, of dat een samenwerking tussen VDAB en partners mogelijk is. 
+Hieronder volgt een overzicht per beroepencluster:
+Beroepencluster Bouw & Hout
+Binnen de sector licht VDAB de technologische trends (komst van drones, LCA-
+tools,...) toe binnen de bestaande opleidingen. 
+Naar de toekomst toe wordt ‘BIM-expert’ wel als nieuw profiel toegevoegd aan de 
+competentiedatabank van VDAB. Ook de toekomstgerichte opleiding ‘Built 
+Environment’ wordt door VDAB erkend.
+Ten slotte ligt de focus ook op circulair bouwen. Hier zijn veel (niet noodzakelijk 
+technische) vernieuwingen rond. Zo zet VDAB sterk in op duurzaamheidsattitudes om 
+het nadenken over duurzaam handelen te stimuleren. 
+Beroepencluster Business Support, Retail & ICT
+Voor het onderdeel ‘Business Support’, wordt sterk ingezet op nieuwe workshops en 
+online leermodules. Zo wordt dit jaar bijvoorbeeld de cursus datageletterdheid 
+opgeleverd, waarin nieuwe technologieën belicht worden samen met ook hun impact 
+op jobs.
+Daarnaast wordt ook veel geïnvesteerd in het aanpassen van opleidingen rond 
+wijzigingsgevoelige thema's zoals bijvoorbeeld Office. Hier kwamen tal van nieuwe 
+producten bij: Teams, Planner, Sharepoint,... Zaken die ook hun plek op de 
+arbeidsmarkt hebben én die VDAB dus ook covert. Momenteel ligt de focus zeer sterk 
+op de mogelijkheden van de AI-toepassingen van Microsoft (Copilot).
+Binnen Accountancy werkt VDAB op dit moment ook aan een workshop waar cursisten 
+zullen leren hoe AI toegepast wordt in de boekhouding (verschuiving van input naar 
+controle is hier belangrijk). Niet enkel theoretisch, ze gaan er zelf mee aan de slag.
+De afgelopen 5 jaar hebben veel bestaande opleidingen ook een belangrijk digitaal 
+aspect gekregen (digitaal presenteren, digitaal netwerken,...). 
+Voor het onderdeel ‘Retail’ zijn er geen nieuwe opleidingen, maar nieuwe modules in 
+de opleidingen die de cursisten versterken om met digitale tools in de winkel te kunnen 
+werken. Bestellen op een webshop, zelfscankassa's, klanten die assertiever zijn omdat 
+ze door internet en social media beter geïnformeerd zijn over producten die ze gaan 
+aankopen,...
+Voor het vakgebied ICT zijn er een aantal opleidingen in het leven geroepen door de 
+technologische vooruitgang. Zo zijn bijvoorbeeld opleidingen omtrent AI ontwikkeling, 
+data scientist en cyber security gecreëerd. Andere technologische trends zoals 
+bijvoorbeeld LowCode worden ook opgevolgd zodat VDAB hier snel in kan schakelen 
+wanneer de vraag op de arbeidsmarkt toeneemt.
+Beroepencluster Diensten aan Personen en Bedrijven 
+Geen nieuwe opleidingen of plannen toe te voegen vanwege technologische evoluties. 
+Ook hier kijkt VDAB naar het actualiseren van bestaande opleidingen op basis van de 
+evoluerende jobinhoud.  
+Beroepenclusterr Industrie
+Binnen de bestaande beroepsopleidingen van VDAB worden, waar relevant, 
+verschillende nieuwe online leermodules (industrie 4.0, 21e-eeuwse vaardigheden,...) 
+en workshops (Introductie tot het 3D-printen, additive manufacturing, Collaborative 
+Robot,...) geïntegreerd.
+Een nieuwe opleiding die in ontwikkeling is, is ECOL (European Crane Operators 
+Licence).
+VDAB organiseert ook STEM-workshops verspreid over Vlaanderen voor de burger.
+Beroepencluster Transport & Logistiek
+De sector blijft inzetten op laagdrempelige digitale tools (videotutorials, online 
+leermodules, introductie van i-pads met daarop nuttige educatieve apps…). Via 
+geïntegreerde opleidingen of opleidingen van partners (vb. Basis ICT bij Ligo) wordt 
+gewerkt aan de digitale geletterdheid van werkzoekenden. 
+  
+Daarnaast blijft ook ingezet worden op op werkplekleren, verplaatsen van delen van 
+opleidingen naar on-the-job training zodat opleiding gericht gebeurt en de nieuwste 
+infrastructuur/tools waar werkgevers gebruik van maken, aangeleerd kunnen worden 
+(bijvoorbeeld IBO kilometerheffing).
+Voor logistiek werd er de laatste 4 jaar ook aan 2 innovatieve projecten van VIL 
+deelgenomen. Het gaat hier over een project waarin AR en VR kan gebruikt worden 
+voor veiligheids- en pickingtraining. Momenteel zit VDAB ook in een project rond 
+gamification waarin nieuwe technieken/methodologieën worden ingezet om lage 
+profielen veiligheidstraining te geven.
+Beroepencluster Zorg & Onderwijs
+VDAB heeft hier geen opleidingen in eigen beheer. Cursisten worden wel doorverwezen 
+naar de (uitbestede) workshops van het team digitalisering. 
+Er wordt ook steeds gekeken naar de vraag van de arbeidsmarkt en geanalyseerd 
+welke mogelijke opleidingen erkend kunnen worden. Zo heeft VDAB de opleiding 
+‘Zorgtechnoloog’ in 2020-2021 erkend. 
+4. Elke sector volgt nauwgezet de (digitale) evoluties en technologische trends op de 
+arbeidsmarkt op en vertaalt deze continu naar het opleidingsaanbod. Hieronder enkele 
+voorbeelden per sector:
+Beroepencluster Bouw & Hout
+●Bediener CNC houtbewerkingsmachines: wordt in 2024 geïntegreerd in alle 
+basisopleidingen hout. Tot 2023 bestond dit als aparte houtopleiding.
+●Elektrotechnisch installateur: werd uitgebreid met een module laadpalen en 
+batterijen om de trend hierin te volgen.
+●Monteur CV sanitair: hierin leggen we extra aandacht op Hybride 
+verwarmingsinstallaties alsook montage van warmtepompen en 
+warmtepompboiler
+●Technicus verwarming: hier kijken we om een basisopleiding koeltechnieken te 
+implementeren om zo aan de vraag naar koeltechnici specifiek voor 
+warmtepompen te kunnen voldoen.
+●Bouwplaatsmachinist: hier wordt sterker de focus gelegd op GPS-sturing omdat 
+dit hedendaags als basiscompetentie beschouwd wordt.
+Beroepencluster Business Support, Retail & ICT
+●Cursus ‘Kennismaking met ERP’: remake van een bestaande cursus waarbij stil 
+wordt gestaan bij de impact van ERP en nieuwe technologieën op de jobs van 
+medewerkers en belichten wordt welke nieuwe trends en ontwikkelingen we nog 
+mogen verwachten.
+●Leerbedrijf: hier zoekt VDAB het evenwicht tussen volop meegaan in 
+automatisering en AI enerzijds, en het bewust opdelen van processen en 
+bepaalde acties enerzijds omwille van didactische redenen. Uiteraard worden de 
+ontwikkelingen op de werkvloer (vooral impact van AI) zeer nauw opgevolgd 
+om elementen hiervan mee te nemen in het leerbedrijf. 
+●Accountancy: tijdens de opleidingen sensibiliseren we de cursisten rond de 
+impact die AI zal hebben voor boekhouders: repetitieve taken zullen door de 
+computer overgenomen worden, er zal een verschuiving komen naar meer 
+analytisch werk: interpretatie van data.
+●Alle ICT-opleidingen: hier blijft VDAB zeker op de hoogte van de technologische 
+trends en worden ze ook geïntegreerd in de opleidingen wanneer ze een 
+meerwaarde kunnen zijn binnen die opleiding. Zo is er bijvoorbeeld binnen alle 
+ICT-opleidingen reeds aandacht voor cyber security. Aangezien AI-tools ook niet 
+meer weg te denken zijn in het werkveld, wordt er in elke opleiding ook 
+aandacht besteed om deze AI-tools op een correcte en ethische manier te 
+kunnen gebruiken om het werk te vergemakkelijken. Specifiek binnen het 
+segment van netwerken en systemen kan ook steeds meer geautomatiseerd 
+worden aan de hand van zelf- en op maat geschreven scripts. Ook dit heeft een 
+plaats gekregen binnen alle relevante opleidingen.
+Beroepencluster Diensten aan Personen en Bedrijven 
+●Professionele schoonmaak en particuliere schoonmaak: digitalisering is 
+geïntegreerd in deze opleidingen en gaat van eenvoudige tools 
+(wegbeschrijvingen, hoe gebruik ik een smartphone,...) tot werkplanning op de 
+werkvloer, rapportering tijdens/na de job etc. Om de cursisten hierin te kunnen 
+ondersteunen, hebben de instructeurs zelf verschillende opleidingen gevolgd 
+binnen het interne opleidingsinitiatief ‘Digiwijs’. 
+Beroepencluster Industrie
+●Verspaning: digitaliseren verspaningsmachines
+●Oriëntatie: Integratie CAD en 3D-printing
+●Lassen: operator lasrobot, orbitaal lassen, manueel laserlassen
+●Operator: operator guidance system (Augmented Reality), cobots, VR-training 
+smartpacker
+●Industriële onderhoudstechnieken: Smart Glasses, 3D-printing, lasersnijden en 
+-graveren
+Beroepencluster Transport & Logistiek
+●Magazijnopleidingen: deze zijn bijgestuurd door nieuwe technologieën. Zo werd 
+er scanning en ERP toegevoegd omdat dit in moderne magazijnen ook gebruikt 
+wordt.
+●Transport: de elektrificatie van het goederenvervoer zit in een 
+stroomversnelling. Daarom wordt deze evolutie ook meegenomen in onze 
+opleidingen om de toekomstige vrachtwagenchauffeurs voor te bereiden op de 
+nieuwe competenties die ze nodig hebben (inzicht krijgen in de belangrijkste 
+onderdelen van een elektrische truck, opladen, dagelijks onderhoud en 
+basisgebruik, optimalisatie van de actieradius van de truck,...). Vanaf 7 juli 2024 
+gelden vanwege de bijgewerkte General Safety Regulation (GSR, Verordening 
+2019/2144 (EU)) nieuwe normen voor veiligheidsassistentiesystemen in de hele 
+EU om de algemene veiligheid in het wegverkeer te verhogen. De werking van 
+deze systemen dient dan ook aangeleerd te worden. Met deze vernieuwingen 
+zal VDAB niet alleen toonaangevend zijn maar ook innovatief en als voorbeeld 
+dienen voor andere opleidingsinstituten.
+●Transport: VDAB heeft een mobiele tankunit die kan ingezet worden op 
+verschillende oefenterreinen van VDAB en FOREM. Het grote voordeel van de 
+mobiele unit is dat cursisten zich niet langer moeten verplaatsen. Hierdoor 
+hopen we meer geïnteresseerden te kunnen bereiken: de sector zal immers 
+meer zichtbaarheid en betrokkenheid creëren in de verschillende 
+opleidingscentra. Buiten de opleiding zal de installatie ook ingezet worden om 
+de sector te promoten op beurzen en tijdens infosessies.
+●Transport: dit jaar nog voorziet VDAB een volledige update van de 4 
+simulatoren, deze worden ingezet tijdens de opleiding om cursisten bepaalde 
+situaties te laten inoefenen die omwille van de verkeersveiligheid niet op de 
+openbare weg kunnen ingeoefend worden. De simulatoren worden niet enkel 
+ingezet om technische vaardigheden aan te leren maar ook worden ze ingezet 
+om de Nederlandse taal te versterken, we hebben verschillende NT2 modules 
+waarin anderstalige cursisten leren hoe ze instructies moeten interpreteren ifv 
+de praktijkopleiding
+Beroepencluster Zorg & Onderwijs
+VDAB heeft hier geen opleidingen in eigen beheer. Binnen de opleidingen die VDAB 
+erkent is het belang van digitalisering (bv. digitale didactiek, werken met smartboards, 
+etc.) wel sterk toegenomen.

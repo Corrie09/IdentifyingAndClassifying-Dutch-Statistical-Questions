@@ -1,0 +1,147 @@
+title: Ruimtebeslag - Evolutie
+thema: Ruimtelijke ordening
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2078833
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1834795
+SCHRIFTELIJKE VRAAG
+nr. 28
+van SANNE VAN LOOY
+datum: 18 oktober 2024
+aan JO BROUNS
+VLAAMS MINISTER VAN OMGEVING EN LANDBOUW
+Ruimtebeslag  -  Evolutie
+“Zowat de helft van de nieuwe gebouwen die er sinds 2019 in Vlaanderen zijn bijgekomen, 
+werd opgetrokken buiten de gemeente- en dorpskernen. De toename van lintbebouwing 
+botst met de bouwshift en zet de discussie over ruimtelijke ordening verder op scherp.” 
+(De Tijd). 
+In het regeerakkoord staat de doelstelling om meer dan ooit tevoren in te zetten op het 
+verder terugdringen van het bijkomende ruimtebeslag naar 0 hectare/dag in 2040. Maar 
+we lezen in De Tijd dat ondanks het feit dat het tempo daalt waarin de open ruimte wordt 
+aangesneden, het realiseren van de bouwshift op het terrein moeilijk wordt. Het tempo is 
+gedaald van gemiddeld 5 hectare per dag tussen 2013 en 2019 naar nog gemiddeld 3,8 
+hectare per dag in de periode 2019-2022. Helaas nam het aantal gebouwen in de kernen 
+maar met 1,7 procent toe, terwijl de linten en versplinterde nieuwbouw groeipercentages 
+van respectievelijk 2,8 en 5,2 procent laten optekenen.
+1. a) Hoeveel hectare werd in 2023 en in de eerste 9 maanden van 2024 gemiddeld per 
+dag aangesneden?
+b) Hoe kijkt de minister naar die evolutie?
+2. a) Kan de minister cijfers bezorgen over de groei aan nieuwbouw in de dorpskernen 
+en over de groei van nieuwbouw buiten de kernen? Graag de cijfers voor de 
+afgelopen 5 jaar en opgedeeld per provincie.
+b) Hoe definieert men ‘kern’ bij de berekening van de cijfers?
+c) Hoe kijkt de minister naar de cijfers?  
+JO BROUNS
+VLAAMS MINISTER VAN OMGEVING EN LANDBOUW
+ANTWOORD
+op vraag nr. 28 van 18 oktober 2024
+van SANNE VAN LOOY
+1. a) Zoals ook vermeld wordt in de recent gepubliceerde Themarapport Bouwshift (pag 
+49) wordt het gemiddeld bijkomend ruimtebeslag per dag berekend op basis van 
+data van de verschillende klassen van landgebruik in de Landgebruikskaart.
+De geografische datalaag ‘ruimtebeslag’, waarmee de oppervlakte- en 
+evolutiecijfers berekend worden, is een afgeleid product van deze 
+Landgebruikskaart. Volgens de huidige methodologie worden de Landgebruikskaart 
+en de afgeleide Ruimtebeslagkaart om de 3 jaar samengesteld, zodat momenteel 
+toestanden 2013, 2016, 2019 en 2022 beschikbaar zijn. De opmaak van deze 
+geografische datalagen staat in detail  beschreven in een technisch rapport). Het is 
+dus met de huidige methodologie  niet mogelijk om het bijkomende ruimtebeslag 
+met een hogere frequentie dan 3-jaarlijks te berekenen.
+b) De 3-jaarlijkse cijfers over het ruimtebeslag in Vlaanderen zijn op 7 november 2023 
+al besproken geweest in Commissie voor Leefmilieu, Natuur, Ruimtelijke Ordening 
+en Energie. Het nemen van een termijn van 3 jaar om de evolutie van ruimtebeslag 
+te berekenen is ingegeven door technische overwegingen zoals hierboven gesteld, 
+de termijn biedt daarbij een goed inzicht in de grote evoluties en lange termijn 
+beleid. 
+2. a) Verleende omgevingsvergunningen voor nieuwbouwwoningen of verbouwingen 
+kunnen beschouwd worden als een betrouwbare voorspeller van toekomstig 
+bijkomend ruimtebeslag of voor verschuivingen binnen het bestaande ruimtebeslag, 
+toch zeker voor de landgebruikscategorie ‘huizen en tuinen’. Vermoedelijk is de 
+impact op het terrein evenredig aan het aantal verleende vergunningen. Het 
+Omgevingsloket bevat alle vergunningsaanvragen sinds het in werking treden van 
+het omgevingsvergunningendecreet.
+Uit het Omgevingsloket kunnen sinds 2019 eenduidige en vergelijkbare 
+vergunningsdata geëxporteerd worden. De gerapporteerde cijfers betreffen het 
+aantal vergunde wooneenheden. Wooneenheden kunnen zowel eengezins- als 
+meergezinswoningen zijn. In de cijfers wordt hier geen onderscheid naar gemaakt.
+De tabellen hieronder geven per jaar (van Projectbesluit) en per provincie 
+respectievelijk de absolute aantallen en de procentuele verhouding weer van de in 
+het Vlaams gewest vergunde nieuwbouwwoningen (aantal wooneenheden) binnen 
+en buiten de kernen tussen 2019 en 2023 op basis van het Omgevingsloket. 
+Jaar Project 
+Besluit Kerntype Antwerpen LimburgOost-
+VlaanderenVlaams-
+BrabantWest-
+Vlaanderen Vlaanderen*
+10.288 5.530 9.414 5.730 9.618 40.579
+Buiten kern1.752 1.677 2.094 1.833 1.416 8.771
+2019 Binnen kern8.536 3.853 7.320 3.897 8.202 31.808
+11.092 5.951 8.218 5.616 9.146 40.019
+Buiten kern1.751 1.661 1.984 1.355 1.192 7.940
+2020 Binnen kern9.341 4.290 6.234 4.261 7.954 32.079
+10.300 5.956 8.783 5.558 9.485 40.074
+Buiten kern1.967 2.125 2.482 1.768 1.383 9.717
+2021 Binnen kern8.333 3.831 6.301 3.790 8.102 30.357
+9.476 5.171 8.639 4.804 8.333 36.416
+Buiten kern2.090 1.658 2.231 1.511 1.350 8.834
+2022 Binnen kern7.386 3.513 6.408 3.293 6.983 27.582
+8.775 4.659 7.754 4.535 7.446 33.167
+Buiten kern1.859 1.612 1.986 1.272 1.151 7.878
+2023 Binnen kern6.916 3.047 5.768 3.263 6.295 25.289
+54.767 30.490 47.549 29.950 48.626 211.357
+Buiten kern10.419 9.617 11.947 8.902 7.184 48.047
+2019 - 2023 Binnen kern44.348 20.873 35.602 21.048 41.442 163.310
+Jaar Project 
+Besluit Kerntype Antwerpen LimburgOost-
+VlaanderenVlaams-
+BrabantWest-
+Vlaanderen Vlaanderen*
+Buiten kern17,0% 30,3% 22,2% 32,0% 14,7% 21,6%
+2019 Binnen kern83,0% 69,7% 77,8% 68,0% 85,3% 78,4%
+Buiten kern15,8% 27,9% 24,1% 24,1% 13,0% 19,8%
+2020 Binnen kern84,2% 72,1% 75,9% 75,9% 87,0% 80,2%
+Buiten kern19,1% 35,7% 28,3% 31,8% 14,6% 24,2%
+2021 Binnen kern80,9% 64,3% 71,7% 68,2% 85,4% 75,8%
+Buiten kern22,1% 32,1% 25,8% 31,5% 16,2% 24,3%
+2022 Binnen kern77,9% 67,9% 74,2% 68,5% 83,8% 75,7%
+Buiten kern21,2% 34,6% 25,6% 28,0% 15,5% 23,8%
+2023 Binnen kern78,8% 65,4% 74,4% 72,0% 84,5% 76,2%
+Buiten kern19,0% 31,5% 25,1% 29,7% 14,8% 22,7%
+2019 - 2023 Binnen kern81,0% 68,5% 74,9% 70,3% 85,2% 77,3%
+(*) De totalen voor Vlaanderen zijn berekend voor de unieke aanvragen, enkele aanvragen worden door 
+schaalverschillen en geometrieverschillen aan 2 provincies toegewezen, en komen dan ook in de tabel bij iedere 
+provincie voor. Het optellen van de aantallen van alle provincies geeft daarom een licht ander aantal.
+b) Bij deze opdeling worden ‘kernen’ gedefinieerd zoals in het Ruimterapport 2021. 
+• een voldoende hoge dichtheid aan gebouwen (> 30 gebouwen binnen een straal 
+van 100 m)
+• een voldoende hoge oppervlakte aan gebouwen (> 9500m2 binnen een straal 
+van 100 m) of
+• een voldoende hoge dichtheid aan huishoudens (> 60 huishoudens binnen een 
+straal van 100 m)
+• bewoond door minimaal 20 huishoudens 
+• een minimale oppervlakte van 5 ha
+Het gaat hier dus om een morfologische afbakening van bewoonde kernen. Dit 
+gebeurt met behulp van een GIS-algoritme dat over heel Vlaanderen op dezelfde 
+manier werkt (voor het opmaakproces, zie technisch rapport). Het 
+voorzieningenniveau van de woonkern speelt geen rol. Het begrip ‘kern’ hangt hier 
+evenmin af van administratieve grenzen. Een kern kan zich over meerdere 
+gemeenten uitstrekken, en een gemeente kan meerdere kernen bevatten.
+c) Vlaanderen beschikt over zeer veel gegevens die het beleid toelaten om de toestand 
+van de bouwshift nauwgezet op te volgen en zo nodig gepaste maatregelen te 
+nemen. De door de vraagsteller gevraagde cijfers geven slechts een facet uit het 
+bredere inzicht dat geboden wordt in het Themarapport Bouwshift van het 
+departement Omgeving. Dit bredere inzicht gaat ook bijvoorbeeld in op het soort 
+vergunningen, het type woning, de ligging van vergunningen binnen of buiten het 
+ruimtebeslag, de geschiktheid van de locatie enzovoort. Dit wil zeggen dat een 
+oordeel over één puzzelstukje uit de veel ruimere bouwshiftpuzzel, zou omkaderd 
+moeten worden met tal van kanttekeningen. 
+Alleszins mag uit de gegeven procentuele cijfers niet afgeleid worden dat er steeds 
+meer nieuwe woningen buiten de kernen gebouwd worden. De absolute cijfers 
+tonen dat de nieuwbouw buiten de kernen stabiel of licht afnemend is buiten de 
+kernen. De procentuele verhouding verandert vooral ten gevolge van 
+verminderende nieuwbouwactiviteit in de kernen.
+De provinciaal opgedeelde cijfers, weerspiegelen vooral de eigenheid van iedere 
+provincie. Sommige provincies hebben een veel grotere oppervlakte aan kernen, of 
+hebben een kleiner juridisch aanbod bouwkavels buiten de kernen. Ook de 
+verhoudingen tussen verstedelijkte kernen, regionale kernen en kleine dorpskernen 
+verschillen tussen de provincies, waardoor ook de verschillen tussen nieuwbouw en 
+verbouwingen tussen die kerntypes doorwerken naar de provinciaal opgedeelde 
+cijfers. 

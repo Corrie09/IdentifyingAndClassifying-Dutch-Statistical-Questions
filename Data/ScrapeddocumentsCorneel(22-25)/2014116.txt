@@ -1,0 +1,155 @@
+title: Cybersecurity - Middelen
+thema: Vlaamse administratie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2014116
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1780592
+SCHRIFTELIJKE VRAAG
+nr. 68
+van THIJS VERBEURGT
+datum: 17 november 2023
+aan JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+Cybersecurity  -  Middelen
+De samenleving wordt steeds digitaler. Bedrijven en organisaties investeren dan ook 
+steeds meer in de ontwikkeling van digitalisering. Investeren in digitale innovatie is 
+noodzakelijk om mee te zijn in de uitdagingen van de veranderende markt. Uiteraard 
+brengt digitalisering ook risico’s mee: phishing, malware of diefstal van gegevens… 
+Cybersecurity wordt daardoor steeds belangrijker in de bedrijfsvoering.
+Daarom heeft de vorige Vlaamse Regering op 22 maart 2019 een Vlaams beleidsplan 
+Cybersecurity (CS) goedgekeurd. Het beleidsplan had als doelstelling een bijkomende 
+impuls te geven aan de digitalisering van het Vlaamse bedrijfsleven en in het bijzonder aan 
+de adoptie van cybersecuritytechnologie. Er werd daarvoor 20 miljoen euro 
+uitgetrokken.  Het plan bestaat uit drie delen:
+1. versterken top CS-onderzoek in Vlaanderen;
+2. implementatie in het Vlaamse bedrijfsleven; 
+3. flankerend beleid gericht op bewustmaking, opleiding en ethische omkadering.
+Graag een jaarlijks overzicht van de verdeling én besteding van de middelen in het kader 
+van het Cybersecurityplan, tot heden. 
+JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+ANTWOORD 
+op vraag nr. 68 van 17 november 2023
+van THIJS VERBEURGT
+Van de 20 miljoen euro die jaarlijks begroot wordt voor het Vlaams Beleidsplan 
+Cybersecurity, wordt deze als volgt verdeeld:
+•Onderzoeksprogramma Cybersecurity: 8 miljoen euro
+•Implementatieluik: 9 miljoen euro
+•Flankerend Beleid: 3 miljoen euro (waarvan 1,5 miljoen euro onder EWI-beheer, 
+en 1,5 miljoen euro onder VLAIO-beheer).
+Zoals uit onderstaande gegevens afgeleid kan worden, zijn de jaarlijkse subsidies soms 
+voor een deel of voor een langere periode aangewend. Dit komt vanwege een combinatie 
+van factoren, zoals de coronacrisis waardoor evenementen en opleidingen niet konden 
+worden georganiseerd, alsook de opstart van de programma’s die gelanceerd moesten 
+worden.
+a) Onderzoeksprogramma
+Voor het Onderzoeksprogramma ontvangt de KUL een deel van de subsidie dat, gezien 
+bovenvermelde elementen, initieel niet kon worden benut. Daartoe werd beslist het 
+overschot aan te wenden voor een verlenging van werkjaar 3 (16 i.p.v. 12 maanden). 
+De prognose voor dit werkjaar, werkjaar 4, is een volledige benutting van de subsidie 
+nu de sterke basis is gelegd.
+Onderzoeksprogramma jaarlijkse verdeling van de middelen:
+KUL: 6.452.430
+UGent : 421.200
+VUB : 562.730
+Imec : 560.000
+Totale begroting: 7.996.360
+Onderzoeksprogramma werkjaar 1 – 01/09/2019 – 31/08/2020
+  (vastlegging t.b.v. 7.996.360 euro)
+KUL: 3.714.795
+UGent: 237.694
+VUB: 562.156
+Imec: 387.400
+Totale besteding: 4.902.045
+Zo’n 1,6 miljoen euro werd overgedragen naar Werkjaar 2-3, zo’n 1,5 miljoen euro 
+bleef onderbenut.
+Onderzoeksprogramma werkjaar 2 – 01/09/2020 – 31/08/2021
+  (vastlegging t.b.v. 7.996.360 euro)
+KUL: 4.336.232
+UGent: 375.242
+VUB: 562.164
+Imec: 569.160
+Totale besteding: 5.842.799
+Zo’n 3,77 miljoen euro werd overgedragen naar Werkjaar 3 – geen onderbenutting.
+Onderzoeksprogramma werkjaar 3 – 01/09/2021 – 31/12/2022
+  (vastlegging t.b.v. 6.892 keuro)
+KUL: 6.920.621
+UGent: 518.491
+VUB: 750.311
+Imec: 746.667
+Totale besteding: 8.936.089. 
+Zo’n 1.726 keuro werd overgedragen naar Werkjaar 4.
+Onderzoeksprogramma werkjaar 4 – 01/01/2023 – 31/12/2023
+  (vastlegging t.b.v. 6.270.434 euro)
+Huidig lopend werkjaar: inhoudelijke en financiële eindrapportering wordt pas verwacht 
+in januari/februari 2024. We verwachten een volledige besteding van de resterende 
+saldi, i.e. zo’n 7.996 keuro. Er zullen geen saldi worden overgedragen.
+b) Flankerend Beleid (EWI-beheer)
+Op het flankerende beleid is er de voorbije jaren (op jaarbasis) een onderbesteding 
+geweest. Dit nemen we mee in een herziening van de beleidsplannen, waarmee ik in 
+2024 naar de Regering wil gaan.
+Flankerend Beleid Werkjaar 1 (EWI-beheer) – 01/12/2020 – 30/09/2022
+Opleidingsprogramma 
+(DOSOP 4512)Begroot 
+bedragWerkelijke 
+uitgaven
+KUL 314.200 314.200 
+HOWEST 25.800 23.029
+Open Oproepen 395.000 386.472 
+Outreach en 
+communicatieprogramma 
+(DOSOP 4513)Begroot 
+bedragWerkelijke 
+uitgaven
+KUL 210.800 210.519
+HOWEST 54.000 54.000
+Open Oproepen 126.000 95.996
+Flankerend Beleid Werkjaar 2 (EWI-beheer) – 01/10/2022 – 31/12/2023
+Huidig lopend werkjaar, inhoudelijke en financiële eindrapportering wordt pas verwacht 
+in januari/februari 2024.
+Indien gewenst kunnen de financiële eindrapporten steeds aan de Vlaamse 
+volksvertegenwoordigers bezorgd worden.
+c) Implementatieluik en flankerend beheer onder VLAIO-beheer
+Een zeer belangrijke doelstelling van het beleidsplan is dat de Vlaamse bedrijven hun 
+CS-maturiteit verhogen en hiervoor gebruik maken van innovatieve CS-technologieën. 
+VLAIO fungeert hierbij als trekker. 
+Om deze doelstelling bij de bedrijven te bereiken, hanteert VLAIO zijn gebruikelijke 
+trechtermodel. Met deze aanpak worden ondernemingen via door het inspireren, 
+sensibiliseren, informeren en opleiden over het belang van cyberveiligheid er toe 
+aangezet om verdere actie te ondernemen in hun eigen onderneming. Deze 
+vervolgactie kan afhankelijk van de onderneming de vorm aannemen van een 
+coaching- of begeleidingstraject, deelname aan een collectief traject, het opstarten van 
+een implementatietraject, of het opstarten van een onderzoeks- of 
+ontwikkelingsproject.
+  2019 2020 2021 2022
+Bestemd Bestemd Bestemd BestemdInstrument VLAIO Luik 
+in EUR in EUR in EUR in EUR 
+Oproep CS-ICON Implementatie - 4.817.867 4.531.379 -
+Overheidsopdracht 
+CS-
+verbetertrajectenImplementatie - 4.000.000 - 500.000
+Clusterprojecten Implementatie 2.850.535 - - -
+Kmo-portefeuille Implementatie - - - 142.217
+Proeftuin 
+Innovatieve 
+CyberveiligheidImplementatie - - - 498.432
+vzw Team 
+BedrijfstrajectenImplementatie 132.500 132.500 132.500 132.500
+CS binnen contract 
+ondernemerschapImplementatie 
++ flankerend2.000.000 2.000.000 2.000.000 2.000.000
+ESF oproep CS-
+opleidingenFlankerend 314.256 199.555 559.323 -
+Oproepen 
+ondernemersvormin
+gFlankerend - - - 158.485
+Secundair onderwijs Flankerend 403.092 660.000 450.000 780.000
+Outreach, website Flankerend 164.013 100.000 100.000 100.000
+Totaal 5.864.396 11.909.922 7.773.202 4.311.634
+*Naast de projecten die gesteund worden met specifieke acties op middelen van de 
+beleidsagenda, ondersteunde VLAIO tijdens de volledige op de reguliere budgetten van 
+de VLAIO-innovatiesteun ook projecten die bijdragen aan de doelstellingen van de CS-
+beleidsagenda. We kijken hierbij zowel naar projecten binnen de collectieve 
+projecttypes (TETRA, COOCK) als de directe O&O-bedrijfssteun (inclusief 
+clusterprojecten, ICON-oproepen Flanders Make en IMEC) en de steun aan mandaten 
+(innovatiemandaten en Baekeland) en strategisch basisonderzoek (beperkt tot 
+speerpuntclusters). Deze bedragen worden hier niet opgenomen. Hiermee worden de 
+voorziene budgetten voor de beleidsagenda ruimschoots benut.

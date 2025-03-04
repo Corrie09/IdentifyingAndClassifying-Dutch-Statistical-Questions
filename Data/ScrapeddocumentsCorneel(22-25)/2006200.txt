@@ -1,0 +1,184 @@
+title: Landbouwareaal - Stand van zaken
+thema: Landbouw
+Visserij
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2006200
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1769711
+SCHRIFTELIJKE VRAAG
+nr. 15
+van CHRIS STEENWEGEN
+datum: 11 oktober 2023
+aan JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+Landbouwareaal  -  Stand van zaken
+Onlangs ontstond tijdens een commissievergadering over de rekeningen 2022 een 
+discussie over het juiste landbouwareaal en hoe dat evolueert. Op basis van dat debat en 
+de info die nadien door het kabinet werd bezorgd, is er al wat uitgeklaard maar toch blijf 
+ik met een aantal vragen ter verduidelijking zitten.
+Er zijn blijkbaar drie verschillende ‘databronnen’ wanneer we spreken over 
+landbouwareaal.
+1. Data die op de slide stonden
+Dat zijn de data van het Belgische statistiekbureau (Statbel) die doorgegeven worden 
+voor de Europese dataverzameling.
+De bron daarvoor is de verzamelaanvraag, maar alle gebruikers zonder 
+landbouwactiviteit (=verkoop van landbouwproducten) worden daar, volgens het 
+kabinet van de minister, uitgefilterd.
+a) Wie zijn die gebruikers zonder landbouwactiviteit? Hoeveel zijn dat er? Welke 
+categorieën kunnen hierin worden onderscheiden? Gaat het enkel over zij die 
+‘landbouwproducten verkopen’? Of zijn er nog andere categorieën die hier niet 
+worden meegeteld?
+b) Wat de verschillende categorieën betreft:
+I. Hebben die geen gronden in bezit/gebruik (en dan verdwijnen er ook geen 
+ha in de data als we die niet meetellen)?
+
+II. Hebben die wel gronden in bezit/gebruik (maar zonder 
+'landbouwactiviteit’)? Dat zou betekenen dat ze hun gronden toch ter 
+beschikking stellen van landbouwers die ze dan gebruiken. Worden die 
+gronden dan niet meegeteld? Waarom niet?
+2. Data verzamelaanvraag
+Dat is de verzameling van alle percelen die onder landbouwgebruik vallen, en als 
+dusdanig een aangifte kennen. De gegevensbron is dus dezelfde (de 
+verzamelaanvraag), maar hier zijn geen gronden uitgefilterd.
+Dit areaal is stelselmatig afgenomen gedurende de laatste jaren. Maar het totaal ligt 
+hier 50-60.000 ha hoger dan wat Statbel doorgeeft aan Europa. De vraag is dus waar 
+dat enorme verschil vandaan komt. De bron hier is eveneens (en begrijpelijk want 
+voor Europa de enige betrouwbare bron) de verzamelaanvraag.
+Graag verduidelijking over die extra 55-60.000ha:
+a) Onder welke categorieën worden deze gronden in het betaalorgaan genoteerd 
+zodat ze daarna uit de cijfers kunnen gefilterd worden richting Statbel?
+b) Wat is het aandeel van elke categorie in het geheel, m.a.w. hoeveel ha zit in elke 
+categorie?
+c) Wie is eigenaar van deze gronden? Welk aandeel van deze gronden?
+d) Wie gebruikt die gronden?
+e) Wordt voor het totaal van deze 674.000ha hectaresteun toegekend? Waarom wel, 
+waarom niet?
+f) De afname van ca 25.000 ha tussen 2008 en 2022 is bijna uitsluitend te wijten 
+aan akkerbouw (- 10.000ha) en ‘overig aangegeven areaal’ (-15.000ha):
+I. Welke gronden vallen onder ‘overig aangegeven areaal’?
+II. Waarvoor wordt dit ‘overig aangegeven areaal’ ingezet? Graag per 
+categorie van gebruik? 
+III. Wie gebruikt deze gronden?
+IV. Komen die gronden ook voor in de cijfers op de slide van de presentatie? 
+Allemaal? Deels? Welk deel wel en welk deel niet?
+3. Cijfers omgeving
+Ten slotte is er ook nog alles wat ruimteboekhouding betreft:
+
+Dit lijkt de duidelijkste categorie, die echter niets weergeeft over het effectieve gebruik 
+voor landbouw of niet. Die cijfers zijn dus niet bruikbaar voor het debat over welke 
+gronden in landbouwgebruik zijn.
+
+JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+ANTWOORD
+op vraag nr. 15 van 11 oktober 2023
+van CHRIS STEENWEGEN
+1. a) Het verschil tussen de data van de verzamelaanvraag en de landbouwenquête 
+Statbel wordt uitgelegd in de methodologische toelichting op volgende webpagina 
+van de cijferwebsite van het departement: 
+https://landbouwcijfers.vlaanderen.be/verzamelaanvraag-en-landbouwenquete-
+twee-bronnen-met-verschillende-eigenschappen-en-doelen).
+De data van de slide zijn gebaseerd op de cijfers van de landbouwenquête van 
+Statbel (Algemene Directie Statistiek-Statistics Belgium). Statbel maakt deze cijfers 
+op aan de hand van administratieve gegevens, aangevuld met enquêtes. De data 
+van de verzamelaanvraag is één van de databronnen van Statbel. Alle bedrijven die 
+steun vragen in het kader van het gemeenschappelijk landbouwbeleid (GLB) en 
+iedereen die perceelsaangifteplichtig is voor de Mestbank of die specifieke teelten 
+teelt, zaaizaad vermeerdert of paspoortplichtige planten teelt, dient een 
+verzamelaanvraag in.
+Het Departement Landbouw en Visserij bezorgt de data van alle bedrijven die een 
+verzamelaanvraag hebben ingediend aan Statbel. Statbel maakt een selectie van 
+deze bedrijven, waarbij het de Europese definitie van een landbouwbedrijf hanteert. 
+Eén van de voorwaarden is dat het bedrijf landbouwproducten voortbrengt voor de 
+verkoop. Statbel gebruikt het bezit van een ondernemingsnummer en een NACE-
+code voor landbouw als criterium. Niet iedereen die een verzamelaanvraag indient, 
+heeft echter een NACE-code voor landbouw.
+Het Departement Landbouw en Visserij heeft geen exact beeld van de bedrijven die 
+al dan niet door Statbel als een landbouwbedrijf worden beschouwd en al dan niet 
+meegenomen worden door Statbel. Hierdoor kan geen inschatting gemaakt worden 
+van het aantal bedrijven en de categorieën die al dan niet meegenomen worden 
+door Statbel.
+b)
+I. Het Departement Landbouw en Visserij beschikt niet over de lijst van 
+bedrijven die Statbel al dan niet meeneemt in de landbouwenquête. Het 
+departement heeft geen zicht op de gronden die in eigendom zijn van 
+bedrijven die niet opgenomen zijn in de landbouwenquête.
+II. De oppervlakte aangegeven in de verzamelaanvraag door aangevers die 
+Statbel niet beschouwt als landbouwbedrijf, wordt niet opgenomen in de 
+resultaten van de landbouwenquête. Deze bedrijven en hun oppervlakte 
+worden niet meegenomen omdat ze niet voldoen aan de voorwaarden van de 
+definitie. Het departement heeft echter geen zicht op het gebruik van hun 
+gronden. Vermoedelijk worden deze gronden in de meeste gevallen wel door 
+de aangever zelf gebruikt (bv. weiden paarden).
+2. a) Het verschil in oppervlakte tussen de data van Statbel en de verzamelaanvraag kan 
+enerzijds worden verklaard door de oppervlakte van bedrijven die Statbel niet als 
+landbouwbedrijf (Europese definitie) beschouwt, terwijl ze wel in de data van de 
+verzamelaanvraag zitten (bijvoorbeeld alle mestbankaangifteplichtigen).
+Anderzijds worden de oppervlaktes van bepaalde teelten (op landbouwbedrijven) 
+niet als landbouwteelt gezien door Statbel. Het gaat hier bijvoorbeeld over bossen, 
+kerstbomen, heide in natuurbeheer, … Ook wordt door Statbel enkel de oppervlakte 
+cultuurgrond weergegeven, terwijl in de verzamelaanvraag ook niet-landbouwgrond 
+(gebouwen, …) aangegeven moet worden.
+b) Omdat we niet exact weten welke oppervlaktes door Statbel meegenomen worden 
+in de resultaten van de landbouwenquête kunnen we geen exact aandeel binnen de 
+categorieën bepalen. Als we echter de totale oppervlaktes van Statbel vergelijken 
+met deze uit de verzamelaanvraag, merken we vooral een verschil bij de 
+voedergewassen en meer bepaald het areaal grasland. Ook bij het overig 
+aangegeven areaal is er een groot verschil omdat de oppervlakte van gebouwen 
+niet meegenomen wordt door Statbel.
+c) We hebben geen gegevens over de eigendom van de aangegeven gronden in de 
+verzamelaanvraag.
+d) Aangezien we niet weten welke gronden Statbel niet meeneemt in zijn statistieken, 
+kunnen we geen uitspraak doen over de gebruikers van deze gronden.
+e) Er wordt niet voor de volledige 674.000 ha hectaresteun toegekend. Voor bepaalde 
+oppervlaktes wordt geen steun aangevraagd. Niet elke teelt is subsidiabel. 
+Ongeveer de helft van de aangevers in de verzamelaanvraag heeft het statuut van 
+actieve landbouwer. Ongeveer de helft van alle aangifteplichtigen krijgt dus 
+hectaresteun.
+f)
+I-II.In bijlage 1 wordt de categorie ‘overig aangegeven areaal’ voor 2022 verder 
+uitgesplitst. 
+De sterke daling bij deze categorie is onder andere te wijten aan de 
+veranderde methodiek in de verzamelaanvraag. Zo werd beslist dat vanaf 
+2021 niet meer de ‘percelen met de gebouwen’ ingetekend moesten worden 
+maar enkel de gebouwen zelf, wat een grote daling van het areaal bebouwing 
+veroorzaakte.
+III. Deze gronden worden in principe gebruikt door de aangever van de teelt in de 
+verzamelaanvraag. In de statistieken op de website van het Departement 
+Landbouw en Visserij kijken we naar de peildatum. Sinds 2021 is de aangever 
+ook de gebruiker op de indieningsdatum van de verzamelaanvraag en moet 
+dit ook de gebruiker van de hoofdteelt zijn. Elke aangifteplichtige moet ook 
+minstens 1 gebouw (de zetel) aangeven.
+IV. We hebben geen zicht op welke gronden opgenomen zijn in de 
+landbouwenquête van Statbel, omdat we niet beschikken over de lijst van 
+bedrijven die Statbel niet meeneemt in de landbouwenquête.
+3. Deze vraag kan niet worden beantwoord, aangezien er geen vraag wordt gesteld. Mocht 
+u over de ruimteboekhouding een vraag hebben, verwijs ik naar de bevoegde minister, 
+collega Demir.
+BIJLAGE
+Uitsplitsing van de oppervlakte ‘overig aangegeven areaal’ zoals bedoeld in vraag 2 f) I.) 
+voor 2022 (in ha)
+Bijlage 1. Uitsplitsing van de oppervlakte ‘overig aangegeven areaal’ zoals 
+bedoeld in vraag 2 f) I.) voor 2022 (in ha)
+Jaar 2022
+Agrarische bebouwing 5862
+Andere groenbedekker 39
+Andere teelten 117
+Bebossing 248
+Bladrijke groenbedekker 605
+Bloemenmengsel 697
+Bomen in groep 53
+Bomenrijen 7
+Bos 4
+Braak 443
+Faunamengsel 1850
+Grasachtige groenbedekker 182
+Heide 3661
+Houtkanten en -wallen 196
+Niet-ingezaaide akker 34
+Niet-landbouwgrond 5208
+Onbekende teelt 2463
+Permacultuur 36
+Poelen 82
+Vlinderbloemige groenbedekker 7
+Wijmenaanplantingen 20
+totaal overig aangegeven areaal 21814
+Bron: Departement Landbouw en Visserij

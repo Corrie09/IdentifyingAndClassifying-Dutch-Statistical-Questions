@@ -1,0 +1,292 @@
+title: Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens (VTC) - Dossiers
+thema: Vlaamse administratie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2038194
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1796480
+SCHRIFTELIJKE VRAAG
+nr. 119
+van PETER VAN ROMPUY
+datum: 22 januari 2024
+aan JAN JAMBON
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN, CULTUUR, 
+DIGITALISERING EN FACILITAIR MANAGEMENT
+Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens (VTC)  -  Dossiers
+Ik stel deze vraag in opvolging van schriftelijke vraag nr. 142 van 24 januari 2023. 
+De Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens werd opgericht 
+via het AVG-decreet (AVG: algemene verordening gegevensbescherming). Zij vervangt de 
+Vlaamse Toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer, die werd 
+opgericht door het E-gov-decreet, en die operationeel was sinds 2010. De VTC heeft haar 
+bevoegdheden als toezichthoudende entiteit gekregen in maart 2019, waardoor ze pas dan 
+is kunnen starten met de formele dossierbehandeling. 
+De VTC is als gegevensbeschermingsautoriteit bevoegd voor Vlaamse 
+overheden/instanties. 
+1. Hoeveel klachten ontving de VTC in 2023? 
+a) Cijfers per maand. 
+b) Type instelling waarover de klacht handelt. 
+c) Onderwerp van de klacht. 
+d) Overzicht van opgestarte en afgewerkte dossiers. 
+e) Resultaat van de afgewerkte dossiers. 
+2. Hoeveel meldingen van inbreuken ontving de VTC in 2023? 
+a) Cijfers per maand. 
+b) Type instelling waarover de melding van inbreuk handelt. 
+c) Onderwerp van inbreuk. 
+d) Overzicht van opgestarte en afgewerkte dossiers. 
+e) Resultaat van de afgewerkte dossiers. 
+3. Hoeveel onderzoeken uit eigen initiatief heeft de VTC in 2023 opgestart?
+a) Cijfers per maand. 
+b) Type instelling waarover het onderzoek handelt. 
+c) Onderwerp van het onderzoek. 
+d) Overzicht van opgestarte en afgewerkte dossiers. 
+e) Resultaat van de afgewerkte dossiers. 
+4. Hoeveel vragen tot advies ontving de VTC in 2023? 
+a) Cijfers per maand. 
+b) Type van adviesvragende instelling. 
+c) Onderwerp van het advies. 
+d) Overzicht van opgestarte en afgewerkte dossiers. 
+e) Resultaat van de afgewerkte dossiers. 
+5. Wat kunnen de gevolgen zijn van een gegronde melding, klacht of onderzoek voor de 
+betrokken organisaties? 
+6. Hoe beoordeelt de minister die cijfers met het oog op handhaving van de algemene 
+verordening gegevensbescherming? 
+JAN JAMBON
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN,  
+CULTUUR, DIGITALISERING EN FACILITAIR MANAGEMENT
+ANTWOORD 
+op vraag nr. 119 van 22 januari 2024
+van PETER VAN ROMPUY
+1. a) De VTC heeft in 2023 elf klachten ontvangen.
+januari 2juli          4
+februari 2augustus 1
+maart 0september 0
+april 0oktober 1
+mei 0november 1
+juni 0december 0
+b) Type instelling waarover de klacht handelt:
+1. Een stad/gemeente
+2. Een stad/gemeente
+3. Een stad/gemeente
+4. Een stad/gemeente
+5. Een OCMW
+6. Een stad/gemeente
+7. Een onderwijsinstelling
+8. Een onderwijsinstelling
+9. Een dienst van de Vlaamse Regering
+10. Een stad/gemeente
+11. Een onderwijsinstelling
+c) De onderwerpen van de klachten waren:
+1. doorgeven van persoonsgegevens;
+2. doorgeven van persoonsgegevens;
+3. doorgeven van persoonsgegevens;
+4. onrechtmatige verwerking persoonsgegevens;
+5. doorgeven van persoonsgegevens;
+6. verwerking voor een ander doeleinde dan het oorspronkelijke;
+7. ongewild bijhouden van persoonsgegevens;
+8. doorgeven van persoonsgegevens;
+9. verwerking onjuiste persoonsgegevens;
+10. onrechtmatige verwerking van persoonsgegevens;
+11. doorgeven van persoonsgegevens;
+d) In 2023 werden 8 klachten afgewerkt waarvan een onontvankelijk verklaard werd en 
+drie klachten ingetrokken werden. Drie klachten zijn nog lopende*.
+e) Van de 4 ontvankelijke en afgewerkte dossiers werden er 1 gegrond verklaard, 2 
+deels gegrond en 1 ongegrond.
+2. a) In 2023 werden er 151 meldingen ontvangen.
+januari 15juli          5
+februari 17augustus 3
+maart 17september 10
+april 13oktober 14
+mei 11november 11
+juni 12december 23
+b) Type instelling waarover de melding van inbreuk handelt:
+De entiteiten die maatregelen werden opgelegd, waren overwegend onderwijs-
+instellingen (GO!, katholiek onderwijs, hoger onderwijs) en lokale besturen (steden 
+en gemeenten, OCMW, zorgbedrijven, intergemeentelijke samenwerkingsverbanden, 
+gemeentebedrijven, provincies…), maar ook zorginstellingen en enkele diensten van 
+de Vlaamse Regering.
+c) De onderwerpen van de meldingen van inbreuken waren:
+•kwaad opzet externen (hacking, diefstal, …);
+•bewust onterechte toegang tot persoonsgegevens;
+•publiceren op sociale media;
+•op basis van onvoldoende kennis van regels doorgeven van persoonsgegevens;
+•onbeveiligde doorgifte;
+•ongewilde publicatie op het internet;
+•ongewild doorgeven van persoonsgegevens door een fout in een toepassing;
+•ongewild doorgeven van persoonsgegevens door onachtzaamheid;
+•ongewild doorgeven door niet-actuele contactgegevens;
+•verlies van apparaat.
+d) Van de 151 ontvangen inbreuken op de beveiliging werden 55 nog niet afgewerkt*. 
+Van de afgewerkte dossiers betroffen 5 dossiers geen inbreuk op de beveiliging.
+e) In bijna alle 91 afgewerkte dossiers werden er maatregelen opgelegd, met name 
+berispingen zoals bedoeld in artikel 58, 2, b), AVG en daarbij in enkele dossiers extra 
+beschermingsmaatregelen of rapportering. Een berisping is een standaardmaatregel 
+die de VTC in principe oplegt zodra er sprake is van een inbreuk zoals bedoeld in 
+artikel 4, 12°, AVG. In enkele gevallen van eenmalige menselijke fout met beperkte 
+impact werd beslist om geen maatregel op te leggen als het incident al geremedieerd 
+was.
+3. a) In 2023 werden 7 onderzoeken opgestart op basis van persberichten en informele 
+meldingen.
+januari 1juli 1
+februari 0augustus 1
+maart 0september 1
+april 1oktober 0
+mei 0november 0
+juni 1december 1
+b) Type instelling waarover het onderzoek handelt.
+De entiteiten die werden onderzocht waren vooral lokale overheden, onderwijs-
+instellingen en intercommunales.
+c) De onderwerpen die onderzocht werden waren:
+a. Google Workspace for education, Chrome books en Chrome browser voor 
+onderwijsinstellingen;
+b. opvolging voorwaarden adviezen wetgeving (o.a. uitvoeren DPIA’s);
+c. DPIA’s parkeerbeleid lokale besturen;
+d. EU-US Data Privacy Framework;
+e. gemeentelijke websites beheerd door een intercommunale;
+f. DPO-werking bij een intercommunale;
+g. AI-ChatGPT.
+d) In 2023 werden 7 onderzoeken opgestart. 2 dossiers werden afgehandeld en 5 
+dossiers zijn nog lopende*.
+e) Resultaat van de afgewerkte dossiers: het ging tweemaal over mogelijke inbreuken; 
+de VTC was van oordeel dat er onvoldoende elementen waren om een inbreuk vast 
+te stellen en maatregelen op te leggen.
+4. a) Cijfers per maand:
+Adviezen wetgeving:
+De VTC heeft in 2023 149 adviesvragen over ontwerpwetgeving ontvangen. Er 
+werden gemiddeld 13 dossiers per zitting behandeld. Dit is een stijging van 29 
+adviezen ten opzichte van 2022 waarmee de stijgende lijn verder werd verlengd (een 
+mogelijke reden van de (verdere) stijging is het feit dat het om een pre-
+verkiezingsjaar gaat). De gevraagde timing kon dan ook niet altijd gerespecteerd 
+worden.
+januari 16juli 13
+februari 10augustus 0
+maart 13september 32
+april 8oktober 7
+mei 10november 12
+juni 16december 12
+(Waarvan 8 hoogdringende adviesvragen)
+Adviezen divers:
+De VTC heeft in 2023 elf diverse adviesvragen ontvangen.
+januari 1juli 0
+februari 3augustus 0
+maart 3september 0
+april 0oktober 0
+mei 0november 2
+juni 1december 1
+Adviezen protocol:
+De VTC heeft in 2023 drie adviezen protocol ontvangen.
+januari 0juli 2
+februari 0augustus 0
+maart 0september 0
+april 1oktober 0
+mei 0november 0
+juni 0december 0
+b) Type van adviesvragende instelling:
+Adviezen wetgeving:
+Er werden adviezen gevraagd door kabinetten van ministers van de Vlaamse 
+Regering, het Vlaams Parlement en diensten van de Vlaamse Regering.
+Adviezen divers:
+Er werden adviezen gevraagd door diensten van de Vlaamse Regering, 
+steden/gemeenten en het Vlaams Parlement.
+Adviezen protocol:
+Er werden adviezen gevraagd door diensten van de Vlaamse Regering.
+c) De onderwerpen van de gevraagde adviezen waren:
+Adviezen wetgeving:
+De adviezen wetgeving betroffen voorstellen van decreet, ontwerpen van decreet, 
+ontwerpen van besluiten van de Vlaamse Regering, ontwerpen van ministeriële 
+besluiten, instemmingsdecreten van samenwerkingsakkoorden en uitvoerende 
+samenwerkingsakkoorden. Dit over bijna alle beleidsdomeinen heen.
+Adviezen divers:
+1. Documentenbeheersysteem lokaal bestuur met cloudproblematiek;
+2. Nieuwe platformdienst van de Vlaamse Regering;
+3. Gebruik door lokale besturen van camera’s die in VSA verboden zijn;
+4. Internetportaal met zoekfunctie van dienst van de Vlaamse Regering;
+5. Verschillende projecten van een lokaal bestuur met DPIA;
+6. Documentenplatform van een lokaal bestuur met cloudproblematiek en DPIA;
+7. Nieuw financieel systeem van de Vlaamse Regering;
+8. Monitoren sociale media piloot door een lokaal bestuur;
+9. Leveranciers van lokale besturen;
+10.Aanbieden van een platform voor een sector door dienst van de Vlaamse Regering 
+met cloudproblematiek en DPIA;
+11.Verzoekschriftenprocedure Vlaams Parlement.
+Adviezen protocol:
+De onderwerpen van de adviezen protocol hadden betrekking op mededelingen door 
+onderwijsinstanties.
+d) Overzicht van opgestarte en afgewerkte dossiers:
+Adviezen wetgeving:
+In 2023 werden 149 dossiers adviezen wetgeving opgestart. 149 dossiers werden 
+afgehandeld (waarvan 4 in 2024).
+Adviezen divers:
+In 2023 werden 11 adviezen opgestart. 9 dossiers werden (voorlopig) afgehandeld 
+en 2 dossiers zijn nog lopende*.
+Adviezen protocol:
+In 2023 werden 3 adviezen protocol opgestart. 3 dossiers werden afgehandeld.
+e) Resultaat van de afgewerkte dossiers
+Adviezen wetgeving:
+Bij de 149 adviezen wetgeving gaf de VTC een individueel advies.
+Alhoewel de VTC geen systematische controle doet, lijken de adviezen grotendeels 
+gevolgd te worden, soms is er een (poging tot) weerlegging, soms wordt het advies 
+niet gevolgd.
+Adviezen divers:
+1. Documentenbeheersysteem lokaal bestuur met cloudproblematiek: informeel 
+overleg met feedback van VTC en Q&A;
+2. Nieuw platformdienst van de Vlaamse Regering: informeel overleg met feedback 
+van VTC en Q&A;
+3. Gebruik door lokale besturen van camera’s die in VSA verboden zijn: antwoord 
+van de VTC;
+4. Internetportaal met zoekfunctie van dienst van de Vlaamse Regering: informeel 
+en formeel overleg en navolgend juridische toelichting VTC over publiek maken 
+van persoonsgegevens;
+5. Verschillende projecten van een lokaal bestuur met DPIA: informeel overleg;
+6. Documentenplatform van een lokaal bestuur met cloudproblematiek en DPIA: 
+ontwerpbeslissing;
+7. (Nieuw financieel systeem van de Vlaamse Regering: overleg gepland;)
+8. Monitoren sociale media piloot door een lokaal bestuur: informeel overleg;
+9. (Leveranciers van lokale besturen: nog in behandeling;)
+10.Aanbieden van een platform voor een sector door dienst van de Vlaamse 
+Regering met cloudproblematiek en DPIA: formeel overleg;
+11.Verzoekschriftenprocedure Vlaams Parlement: advies verleend.
+Adviezen protocol:
+Bij de 3 adviezen protocol gaf de VTC een individueel advies.
+Het protocol wordt meestal aangepast.
+* Opmerking: Dat bepaalde dossiers nog niet afgehandeld en lopende zijn, is te wijten 
+aan het nog niet beschikken over voldoende informatie en aan de tijdsbesteding die 
+nodig is voor het verwerken van andere prioritaire dossiers. De werklast van de VTC 
+wordt voornamelijk bepaald door de adviesvragen in verband met wet- en regelgeving 
+(al dan niet hoogdringend) en in beperktere mate door andere adviesvragen en het 
+opstellen van richtlijnen en aanbevelingen.
+5. De maatregelen die de VTC kan opleggen zijn vermeld in artikel 58, 2 van de AVG: 
+waarschuwen, berispen, gelasten de verzoeken van de betrokkene tot uitoefening van 
+zijn rechten in te willigen, gelasten de verwerking in overeenstemming te brengen met 
+de AVG, gelasten de inbreuk aan de betrokkenen mee te delen, een tijdelijke of 
+definitieve verwerkingsbeperking opleggen, een tijdelijk of definitief verbod opleggen, 
+gelasten de persoonsgegevens te rectificeren of te wissen en gelasten de verwerking te 
+beperken.
+De VTC heeft de meeste van de deze maatregelen al opgelegd naar aanleiding van een 
+klacht of onderzoek uit eigen beweging. Bij datalekken blijft de maatregel meestal 
+beperkt tot een berisping (zie hiervoor).
+Artikel 83, lid 7, van de AVG bepaalt dat onverminderd de bevoegdheden tot het nemen 
+van corrigerende maatregelen overeenkomstig artikel 58, lid 2, elke lidstaat regels kan 
+vaststellen betreffende de vraag of en in hoeverre administratieve geldboeten kunnen 
+worden opgelegd aan in die lidstaat gevestigde overheidsinstanties en overheids-
+organen. Zowel op federaal als Vlaams niveau is bepaald dat er geen administratieve 
+geldboeten door de toezichthoudende autoriteiten aan overheidsinstanties kunnen 
+worden opgelegd. 
+6. Uit de cijfers blijkt dat in 2023 het aantal klachten gedaald is (11 klachten, 18 in 2022, 
+19 in 2021). Het aantal inbreuken die door de verwerkingsverantwoordelijken aan de 
+VTC zijn gemeld, is in 2023 gedaald (151 gemelde inbreuken, 194 in 2022, 233 in 2021). 
+De maatregelen die door de VTC naar aanleiding daarvan werden opgelegd, betroffen 
+ook in 2023 overwegend onderwijsinstellingen en lokale besturen, in mindere mate 
+zorginstellingen en diensten van de Vlaamse Regering. Ingevolge de meldingen die een 
+inbreuk betroffen, kregen de betrokken instanties zoals 2023 meestal een berisping als 
+maatregel.
+Wat betreft het aantal onderzoeken die uit eigen initiatief door de VTC werden gevoerd, 
+deze zijn gedaald (7 onderzoeken, 18 in 2022, 8 in 2021). Overwegend lokale overheden 
+en diensten van de Vlaamse Regering, maar ook enkele onderwijs- en zorginstellingen 
+werden geconfronteerd met een onderzoek van de VTC.
+De leden van de juridische werkgroep, ressorterend onder het Stuurorgaan Vlaams 
+Informatie- en ICT-beleid en samengesteld uit juristen en de functionarissen voor 
+gegevensbescherming (DPO’s) uit de diverse beleidsdomeinen van de Vlaamse overheid 
+alsook vanuit de lokale besturen, worden regelmatig gewezen op de mogelijke 
+inbreuken die zich kunnen voordoen.
+De VTC functioneert als een onafhankelijke toezichthoudende autoriteit en handelt volle-
+dig onafhankelijk in de vervulling van haar taken en de uitoefening van haar bevoegd-
+heden die haar toegewezen werden onder de AVG, inclusief de handhaving ervan. Dit 
+sluit echter een constructieve samenwerking tussen de VTC en de Vlaamse instanties 
+niet uit, met als doel het aantal klachten en inbreuken zo laag mogelijk te houden.

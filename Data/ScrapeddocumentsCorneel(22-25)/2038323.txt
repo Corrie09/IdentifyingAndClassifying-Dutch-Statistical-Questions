@@ -1,0 +1,109 @@
+title: Financiering hulpverleningszones - Dotaties lokale besturen
+thema: Lokale overheden en Binnenlands bestuur
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2038323
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1793481
+SCHRIFTELIJKE VRAAG
+nr. 99
+van BRECHT WARNEZ
+datum: 11 januari 2024
+aan GWENDOLYN RUTTEN
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BINNENLANDS BESTUUR, 
+BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN
+Financiering hulpverleningszones  -  Dotaties lokale besturen
+Sinds 2015 zijn er vijf financieringsbronnen voor onze twintig Vlaamse 
+hulpverleningszones: dotaties van de betrokken lokale besturen, federale dotaties, 
+eventuele provinciale dotaties, opdrachtspecifieke vergoedingen en diverse bronnen.
+De federale dotaties worden bepaald op basis van criteria zoals het inwonersaantal en de 
+totale oppervlakte van een bepaalde hulpverleningszones. Op die manier ontvangt een 
+zone een dotatie die in verhouding staat tot het aantal verwachte interventies.
+De grootte van de dotaties, ontvangen door de betrokken lokale besturen, wordt bepaald 
+door de plaatselijke gemeenteraden. De uitgaven aan de hulpverleningszones maken dus 
+rechtstreeks deel uit van de gemeentebegroting en worden vastgelegd in het 
+meerjarenplan.
+Om een beter inzicht te krijgen in verschillen in financiering van onze hulpverleningszones, 
+is een analyse van de cijfers noodzakelijk. Graag alle cijfers in Excel.
+1. Kan de minister, in aanvulling op mijn eerdere vraag, per gemeente een overzicht 
+geven sinds 2019 van het exacte bedrag dat vanuit de desbetreffende gemeente naar 
+de hulpverleningszone doorstroomt? Graag een opsplitsing per provincie, per 
+hulpverleningszone gevolgd door het totale bedrag dat de hulpverleningszone 
+ontvangt aan gemeentedotaties.
+2. Kan de minister per gemeente een overzicht geven sinds 2019 met daarin de 
+verhouding tussen de dotatie aan de hulpverleningszone en het totale bedrag van 
+uitgaven in de gemeentebegroting? Graag een opsplitsing per provincie, per 
+hulpverleningszone en een gemiddelde over alle hulpverleningszones heen.
+3. Kan de minister per gemeente een overzicht geven sinds 2019 met daarin de 
+verhouding tussen de gemeentedotatie aan de hulpverleningszone en het totale 
+bedrag van inkomsten in de gemeentebegroting? Graag een opsplitsing per provincie, 
+per hulpverleningszone en een gemiddelde over alle hulpverleningszones heen.
+4. Kan de minister gesorteerd per provincie, per gemeente een overzicht geven sinds 
+2019 met daarin de verhouding tussen de gemeentedotatie aan de hulpverleningszone 
+en het inwonersaantal? Graag een opsplitsing per provincie, per hulpverleningszone 
+en een gemiddelde over alle hulpverleningszones heen.
+5. Zijn er gemeenten die zowel in verhouding tot hun uitgaven/inkomsten in de begroting 
+als in verhouding tot hun inwonersaantal significant minder bijdragen dan het 
+gemiddelde over alle hulpverleningszones heen? Zo ja, graag een oplijsting van die 
+gemeenten. Welke verklaring ziet de minister daarvoor?
+6. Kan de minister per hulpverleningszone een overzicht geven sinds 2019 dat het 
+aandeel van de ontvangen dotaties vanuit de lokale besturen weergeeft in vergelijking 
+met het inwonersaantal van de desbetreffende zone? Zijn er hulpverleningszones die 
+hier relatief gezien veel meer ontvangen vanuit de lokale besturen? Zo ja, ziet de 
+minister daar een verklaring voor?
+GWENDOLYN RUTTEN
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BINNENLANDS BESTUUR, 
+BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN
+ANTWOORD 
+op vraag nr. 99 van 11 januari 2024
+van BRECHT WARNEZ
+De gevraagde data kunnen bekomen worden via de BBC-analysetool die op de website van 
+ABB staat. De instructiefilmpjes die bij de analysetool staan, leggen op een eenvoudige 
+manier uit hoe de tool gebruikt kan worden.
+De cijfers komen uit de jaarrekeningen van 2019 tot 2022 van de gemeenten die ze via 
+hun digitale rapportering aan het Agentschap Binnenlands Bestuur bezorgd hebben. De 
+data werden getrokken op 17 januari 2024.
+De filters die voor de gevraagde data gebruikt werden, zijn:
+Ontvangsten: dotatie aan hulpverleningszones
+Type bestuur: gemeenten en OCMW
+Rechtspersoon: gemeente
+Boekjaar: 2019 tot en met 2022
+Type rapport: jaarrekening
+Meest recente rapport
+Bij het berekenen van de gevraagde cijfers werden zowel de dotaties voor de werking als 
+die voor investering die gekoppeld zijn aan het beleidsveld “brandweer” en “dienst 100” 
+beschouwd als de totale dotatie aan de hulpverleningszones. Sommige besturen splitsten 
+het uit in de boekhouding, andere boeken alles onder dotaties voor werking.
+Bij de beoordeling van de cijfers moet er rekening mee gehouden worden dat:
+er gedurende de laatste jaren verschillende wijzigingen in samenstelling van de 
+hulpverleningszones gebeurd zijn. Om een correcte vergelijking mogelijk te maken, 
+worden de cijfers weergegeven volgens de huidige indeling in hulpverleningszones 
+over de hele periode 2019-2022;
+er vaak afspraken gemaakt worden tussen de gemeente(n) en de 
+hulpverleningszone over de toegekende dotatie. Daardoor zijn er besturen waarbij 
+de dotatie gedurende enkele jaren niet fluctueert of die pas na een periode moeten 
+bijdragen.
+1. Zie bijlage 1.
+2. Zie bijlage 2.
+3. Zie bijlage 3.
+4. Zie bijlage 1.
+5. In de betreffende bijlagen zijn de bedragen die lager zijn dan het gemiddelde in 
+Vlaanderen in het oranje aangeduid. Aangezien de bepaling van de werkingsmiddelen 
+aan de hulpverleningszones een federale bevoegdheid is, kan ik hierover geen 
+uitspraken doen.
+6. In bijlage 4 zijn de bedragen die hoger zijn dan het gemiddelde in Vlaanderen in het 
+groen aangeduid. Aangezien de bepaling van de werkingsmiddelen aan de 
+hulpverleningszones een federale bevoegdheid is, kan ik hierover geen uitspraken doen.
+BIJLAGEN
+1.Tabel met de absolute bedragen en bedragen per inwoner van de toegekende subsidies 
+van de gemeenten aan de hulpverleningszones per provincie, hulpverleningszone en 
+gemeente, alsook een gemiddelde van die bedragen in Vlaanderen voor de periode 
+2019-2022.
+2.Tabel met de absolute bedragen van de toegekende subsidies aan de 
+hulpverleningszones, de totale uitgaven van de gemeenten en de verhouding 
+toegekende subsidie ten opzichte van de totale uitgaven van de gemeenten, alsook een 
+gemiddelde van die bedragen in Vlaanderen voor de periode 2019-2022.
+3.Tabel met de met de absolute bedragen van de toegekende subsidies aan de 
+hulpverleningszones, de totale ontvangsten van de gemeenten en de verhouding 
+toegekende subsidie ten opzichte van de totale ontvangsten van de gemeenten, alsook 
+een gemiddelde van die bedragen in Vlaanderen voor de periode 2019-2022.
+4.Tabel met de absolute bedragen en bedragen per inwoner van de toegekende subsidies 
+van de gemeenten aan de hulpverleningszones per provincie en hulpverleningszone, 
+alsook een gemiddelde van die bedragen in Vlaanderen voor de periode 2019-2022.

@@ -1,0 +1,113 @@
+title: Energiedelen - Door energieleveranciers aangerekende kosten
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2033110
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1792063
+SCHRIFTELIJKE VRAAG
+nr. 217
+van WILLEM-FREDERIK SCHILTZ
+datum: 8 januari 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Energiedelen  -  Door energieleveranciers aangerekende kosten 
+In Vlaanderen is het sinds 2022 mogelijk om aan verschillende vormen van energiedelen 
+te doen. Zo kunnen één of meerdere personen het overschot aan geproduceerde stroom 
+aan één andere actieve afnemer verkopen of wegschenken (persoon-aan-
+persoonverkoop), kan men energiedelen met zichzelf (bv. tweede verblijven) of 
+energiedelen - al dan niet kosteloos - in een appartementsgebouw.
+We merken dat sinds de inwerkingtreding heel wat energieleveranciers steeds hogere 
+kosten zijn beginnen aanrekenen om energiedelen te faciliteren. Ze doen dat naar eigen 
+zeggen omwille van de hoge administratieve kosten die ermee gepaard gaan. Daardoor 
+wordt het wel nog maar weinig interessant om in de praktijk aan energiedelen te doen.
+Volgens de Vlaamse Regulator van de Energie- en Gasmarkt (VREG) is het aanrekenen van 
+kosten toegelaten want het behoort tot hun “tarifaire vrijheid” maar ze moeten wel de 
+algemene regels over marktpraktijken en consumentenbescherming respecteren. De VREG 
+heeft ondertussen in zijn dashboard opgenomen wanneer leveranciers kosten voor 
+energiedelen aanrekenen.
+1. Hoeveel particulieren doen vandaag aan een vorm van energiedelen in Vlaanderen?
+Graag een overzicht voor 2022-2023, opgedeeld per provincie, de betrokken 
+leverancier(s) en de vorm van energiedelen (P2P, met zichzelf, appartement…).
+2. Welke kosten rekenen de verschillende leveranciers, actief op de Vlaamse markt, 
+vandaag voor energiedelen op jaarbasis aan?
+Graag een evolutie van die kosten per leverancier sinds de inwerkingtreding.
+3. a) Welke acties heeft de VREG ondernomen nadat er kritiek werd geformuleerd op 
+de hoogte van die aangerekende kosten?
+b) Op welke manier zijn de aangerekende kosten volgens de VREG en de minister 
+voldoende te verantwoorden en in lijn met algemene regels over marktpraktijken 
+en consumentenbescherming?
+4. a) In welke mate vindt de minister de aanduiding dat er extra kosten zijn op het 
+dashboard van de V-Test, voldoende?
+b) Is het aangewezen om de volledige jaarkosten meteen in het dashboard te tonen?
+5. Welke stappen zal en kan de minister ondernemen om ervoor te zorgen dat 
+energiedelen een rendabel verhaal blijft of wordt?
+ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD 
+op vraag nr. 237 van 8 januari 2024  
+van WILLEM-FREDERIK SCHILTZ
+1. Het aantal deelnemers aan energiedelen wordt door Fluvius maandelijks gerapporteerd 
+aan de VREG (telkens voor de maand M-3). De cijfers zijn online terug te vinden via 
+deze link: https://dashboard.vreg.be/report/DMR_Elektriciteit_Energiedelen.html.
+Op het dashboard is de evolutie per maand en per vorm van energiedelen te vinden, 
+alsook de opdeling residentieel versus niet-residentieel (op basis van het onderliggende 
+energiecontract).
+Bijkomend is hieronder een status te vinden per provincie en per leverancier: 
+Tabel 1: Status per provincie (focus op residentieel, over alle vormen van energiedelen 
+heen) op 31 oktober 2023
+% deelnemende toegangspunten met residentieel energiecontract per 
+provincie op totaal aantal toegangspunten met residentieel energiecontract 
+voor energiedelen (alle vormen)
+Antwerpen 24%
+Limburg 9%
+Oost-Vlaanderen 29%
+Vlaams-Brabant 15%
+West-Vlaanderen 23%
+Tabel 2: Status per leverancier (focus op residentieel, over alle vormen van 
+energiedelen heen) op 31 oktober 2023 
+% top 10 energieleveranciers (deelnemende toegangspunten (met 
+residentieel energiecontract) per leverancier op totaal aantal 
+toegangspunten voor energiedelen (alle vormen))
+Engie-Electrabel 55,5%
+Eneco 10,2%
+Luminus 7,7%
+Lampiris 7,4%
+Vlaams Energiebedrijf 5,0%
+Energie.be 3,4%
+Elindus 2,9%
+Power Online 2,0%
+OCTA+ 1,2%
+Bolt 1,1%
+2. De V-Test en het Dashboard van de VREG geven een overzicht van de kosten en 
+voorwaarden van energieleveranciers.
+•Weblink naar V-Test VREG: https://vtest.vreg.be/ 
+•Weblink naar Dashboard VREG: 
+https://dashboard.vreg.be/report/DMR_Elektriciteit_Energiedelen.html 
+3. De vragen voor de VREG kunnen het best gesteld worden aan de VREG zelf. De 
+procedure hiervoor is beschreven via volgende weblink: 
+https://www.vlaamsparlement.be/nl/over-ons/extra/begrippenlijst/vraag-aan-de-vreg
+Het Vlaams Energie- en Klimaatagentschap (VEKA) gaat er van uit dat de federale 
+overheid bevoegd is voor het prijsbeleid van energieleveranciers, en voor de 
+consumentenbescherming. 
+Energieleveranciers worden geconfronteerd met bijkomende taken en risico’s door het 
+energiedelen. Er blijken bijna geen leveranciers te zijn die geen kosten doorrekenen 
+aan hun klanten voor energiedelen en de aangerekende kost kent een grote variëteit. 
+Dat vormt een aanzienlijke drempel, vooral omdat de administratieve kosten voor 
+kleinere volumes de financiële voordelen beperkt of zelfs onbestaand maken.
+4. De aanduiding van de administratieve kosten van energieleveranciers bij energiedelen 
+staat voldoende duidelijk vermeld op zowel de V-Test als het dashboard van de VREG. 
+Ze verstrekken een overzicht van de jaarlijkse administratieve kosten en de 
+voorwaarden van energieleveranciers. De beide tools dragen bij tot meer transparantie. 
+5. De doelstellingen met betrekking tot energiedelen zijn gericht op het creëren van 
+draagvlak voor hernieuwbare energie. Energiedelen biedt daarbij een extra 
+mogelijkheid om zelf geproduceerde stroom efficiënt te benutten. Anders gesteld, 
+energiedelen op zichzelf is geen doel, maar een middel.
+Om de impact voor de energieleverancier te verminderen en zo ook de administratieve 
+kosten te doen dalen of zonder voorwerp te maken, worden er verdere maatregelen 
+gepland. Zo werkt Fluvius aan het verder integreren van energiedelen in de bestaande 
+marktprocessen, wat zorgt voor een vereenvoudigde verrekening van gedeelde 
+volumes bij de energieleveranciers. 
+Voor wat betreft eventuele verdere aanpassingen aan de wetgeving is het belangrijk 
+om rekening te houden met het recente politieke akkoord rond de herziene Europese 
+Elektriciteitsrichtlijn. Die zal implicaties hebben voor het Vlaamse regelgevende kader 
+rond energiedelen. Het is wenselijk om een aanpassing van de bestaande Vlaamse 
+regelgeving conform en gelijktijdig door te voeren met de omzetting van de herziene 
+Elektriciteitsrichtlijn.

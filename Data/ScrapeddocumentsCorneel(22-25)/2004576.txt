@@ -1,0 +1,89 @@
+title: Imec - Rol in Europese Chips Act
+thema: Economie
+Wetenschap en Innovatie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2004576
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1773461
+SCHRIFTELIJKE VRAAG
+nr. 39
+van MAURITS VANDE REYDE
+datum: 19 oktober 2023
+aan JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+Imec  -  Rol in Europese Chips Act 
+De Europese Commissie formuleerde eerder de ambitie om een Europese halfgeleider- en 
+chipindustrie uit te bouwen. Die moet de strategische afhankelijkheid van Europa op het 
+vlak van halfgeleiders verminderen. 
+Imec was en is betrokken bij de uitwerking van de European Chips Act en er zou ook een 
+belangrijke rol weggelegd zijn voor imec als Europees onderzoekscentrum in het kader van 
+de Chips Act. Dat is uiteraard een internationale erkenning van imec, dat sinds de 
+oprichting in 1984 uitgroeide tot het grootste Europese onderzoekscentrum op het gebied 
+van o.a. nano-elektronica en chip- en nanotechnologie. Het is een internationaal 
+expertisecentrum, waar onderzoekers uit de hele wereld en uit verschillende sectoren 
+samenwerken aan de ontwikkelingen van nieuwe technologieën op basis van halfgeleiders.
+In de vergadering van de Commissie voor Economie, Werk, Sociale Economie, Wetenschap 
+en Innovatie op 17 februari 2022 gaf toenmalig bevoegd minister Crevits toelichting bij de 
+stand van zaken over de besprekingen. De minister gaf aan dat de besprekingen nog bezig 
+waren en dat het bewaken van de onafhankelijkheid van imec daarbij een cruciaal 
+aandachtspunt is. Er waren immers signalen over ongerustheid dat een Europese rol voor 
+imec de autonomie van de instelling zou beperken. Volgens minister Crevits was er geen 
+enkele indicatie dat die ongerustheid gegrond was/is.
+De European Chips Act gaat gepaard met aanzienlijke extra onderzoeksbudgetten en 
+Europese middelen voor het opzetten van pilootlijnen. Met een centrale rol voor imec zou 
+imec zijn financiering kunnen versterken, wat zou inspelen op de nood aan extra 
+financiering om de internationale leiderschapspositie als onderzoekscentrum te kunnen 
+behouden. Vlaanderen kan die financiering wellicht niet alleen dragen.
+In antwoord op mijn schriftelijke vragen nr. 88 van 20 oktober 2022, nr. 319 van 25 januari 
+2023 en nr. 631 van 23 mei 2023 gaf de minister een stand van zaken, waarbij hij verwees 
+naar de nog lopende onderhandelingen.
+Inmiddels werd een akkoord bereikt over de European Chips Act, waarvoor 43 miljard euro 
+budget zou worden samengebracht.
+In zijn laatste schriftelijk antwoord gaf de minister aan dat op het einde van kwartaal 3 
+van dit jaar er wellicht meer duidelijkheid zou zijn over de financiering en verdere 
+betrokkenheid van imec.
+1. Wat is thans de stand van zaken? Is er inmiddels bijkomende duidelijkheid over de 
+verdere rol van imec en de financiering (Europees, Vlaams, ander)?
+2. In welke verdere stappen en timing is voorzien?
+JO BROUNS 
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+ANTWOORD
+op vraag nr. 39 van 19 oktober 2023
+van MAURITS VANDE REYDE
+1. Zoals aangegeven in de parlementaire vraag nr. 631, liggen er voor imec vooral 
+kansen binnen de eerste pijler van de Chips Act. Die voorziet in stimulansen om de 
+Europese onderzoeks- en innovatiecapaciteit in de halfgeleidersector te bevorderen, 
+en doet dit via de werking van de Gemeenschappelijke Onderneming Chips (de Chips 
+Joint Undertaking of ‘Chips-JU’). Die Chips JU schrijft oproepen uit via een 
+werkprogramma, waaraan organisaties zoals imec aan kunnen deelnemen. Indien 
+geselecteerd, krijgen ze recht op financiering om zo de onderzoeks- en 
+innovatieprojecten uit te voeren. Die projecten nemen de vorm aan van pilootlijnen 
+die bedoeld zijn om innovaties te ontwikkelen, uit te testen, en op kleine schaal te 
+demonstreren. Drie voorlopige pilootlijnen van strategisch belang voor Europa zijn 
+reeds geïdentificeerd:
+-Het ontwikkelen van sub-2nm GAA procestechnologie
+-FD-SOI technologie van 10nm en kleiner
+-Heterogene integratie
+Ook over onderwerpen zoals vermogenselektronica (SiC/GaN), photonica en 
+quantumtechnologie worden gesprekken gevoerd met diverse lidstaten. Voor deze 
+voorstellen is het echter minder duidelijk wat op dit moment de maturiteitsgraad is.
+In het kader van de ondersteuning van de strategische chipsector in Europa en de 
+centrale rol van imec hierin, heeft de Vlaamse Regering zich geëngageerd om voor 
+elke euro Europese subsidies die imec ontvangt, de vereiste gelijke cofinanciering te 
+voorzien. Hiertoe ondertekende de Vlaamse Regering op 7 juli 2023 ook een 
+intentieverklaring, met een engagement van maximaal 750 miljoen euro.1
+2. De tijdlijn die werd meegedeeld in het antwoord op de vraag nr. 631 liep vertraging 
+op. Waar de Chips Act normaal gezien al eind juni in werking moest treden, is dit nu 
+pas op 21 september gebeurd. Daarom kon de Chips JU pas later zijn officiële 
+werkzaamheden van 2023 wijzigen, teneinde ook de aangekondigde pilootlijnen te 
+omvatten. Tegen einde november 2023 wordt verwacht dat het aangepaste 
+werkprogramma vastgelegd wordt met de opening van de “call for expression of 
+interest” voor de drie geïdentificeerde pilootlijnen. De exacte bedragen die 
+uitgetrokken worden voor elke pilootlijn, zijn momenteel nog volop het voorwerp van 
+besprekingen. 
+Indien het werkprogramma eind november effectief vastgelegd is, kan Imec dan een 
+projectvoorstel indienen om aanspraak te maken op de financiering voor de uitbouw 
+van een pilootlijn. In principe zou dan vanaf 2024 de financiering in gang treden, en 
+gaat de uitbouw van de pilootlijn van start. Het project voorziet in jaarlijkse 
+werkplannen tot en met 2028, maar het is niet uitgesloten dat de financiering 
+doorloopt tot 2030.
+1 Zie https://www.ewi-vlaanderen.be/nieuws/vlaamse-overheid-en-imec-ondertekenen-letter-intent-voor-de-
+uitbouw-van-imecs-cleanroom

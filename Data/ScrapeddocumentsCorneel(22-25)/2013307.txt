@@ -1,0 +1,91 @@
+title: Antwerps tramnet - Doorstroming
+thema: Mobiliteit en Verkeer
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2013307
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1776375
+SCHRIFTELIJKE VRAAG
+nr. 163
+van ORRY VAN DE WAUWER
+datum: 27 oktober 2023
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Antwerps tramnet  -  Doorstroming
+De doorstroming van het openbaar vervoer is een belangrijk aandachtspunt om dat 
+openbaar vervoer meer performant te maken. In de beleidsnota Mobiliteit en Openbare 
+Werken wordt ook sterk gefocust op de verbetering van de doorstroming. Om de 
+doorstroming te verbeteren werd al enkele jaren geleden een proefproject uitgerold waarbij 
+verkeerslichten sneller groen licht geven aan trams (KAR-proefproject). Met die korte-
+afstandsradiotechnologie wordt een verbinding tot stand gebracht tussen de trams van De 
+Lijn en de verkeerslichteninfrastructuur, zodat de trams sneller groen licht hebben. Dit 
+proefproject werd uitgerold op de kusttram en op een pilootcorridor in Gent, en werd 
+positief geëvalueerd. 
+Evenwel werd in het antwoord van de minister op mijn vorige vraag over dit thema 
+(schriftelijke vraag nr. 1341 van 9 juni 2023) gesteld dat er gekozen werd om de inzet van 
+de KAR-technologie te beperken en te opteren voor de digitale C-ITS-technologie, die 
+eerder op enkele buslijnen werd getest. De uitrol van een betere methode is enkel goed 
+nieuws, maar het is nu vooral zaak om te zorgen dat de trams niet langer zoveel tijd 
+verliezen voor verkeerslichten. Uit de laatste doorstromingscijfers die ik opvroeg, blijken 
+we momenteel op een commerciële snelheid van 16,4km/u te zitten. Dat is ver van het 
+doel van 25km/u.
+1. Kan er meer informatie gegeven worden over de keuze voor het C-ITS-project? Welke 
+troeven en meerwaarde biedt die technologie ten opzichte van het KAR-proefproject? 
+2. Op welke tramlijnen werden de verkeerslichten al aangepast binnen het C-ITS-project? 
+3. Kan een overzicht gegeven worden van de verdere uitrol van het C-ITS-project en 
+wanneer dat in werking zal zijn? Graag een overzicht per tramlijn met concrete 
+aanpassingswerken en timing.
+4. Wanneer wordt verwacht dat de betere doorstroming van trams op het Antwerpse 
+premetronet door de C-ITS-technologie in werking kan treden? Wanneer kan verwacht 
+worden dat dit impact zal hebben op de commerciële snelheid van trams?
+5. Wat is momenteel de gemiddelde commerciële snelheid van trams op het Antwerpse 
+net? Op welke manier zal het doel van 25 km/u behaald worden?
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD 
+op vraag nr. 163 van 27 oktober 2023
+van ORRY VAN DE WAUWER
+1. Wat betreft het aanmelden van bussen en trams is er geen groot verkeerskundig 
+verschil tussen KAR en C-ITS. In beide systemen kan een hoogfrequente communicatie 
+tussen de voertuigen en het kruispunt opgezet worden, waarin telkens o.a. de tijd tot 
+de stopstreep (ETA of ‘Estimated Time of Arrival’) meegegeven wordt.
+Een voorwaarde bij KAR is dat de voertuigen uitgerust zijn met een radiozender en de 
+verkeerslichten met een radio-ontvanger. 
+De troeven van het C-ITS Systeem zijn de volgende:
+•C-ITS werkt via de mobiele netwerken (4G, 5G) zodat er bij deze technologie 
+behoudens een hoge frequentie locatiedeling, geen hardware – en bijbehorende 
+installatie- en onderhoudskost – nodig is in de voertuigen. 
+•Een andere troef is dat er tegelijk meer toepassingen mogelijk zijn met die 
+geconnecteerde verkeersregeling of iVRI. De connectie maakt namelijk niet enkel 
+mogelijk dat een OV-voertuig zich automatisch aanmeldt bij een verkeerslicht, 
+maar ook dat er informatie en waarschuwingen aan het voertuig/de chauffeur 
+gestuurd kunnen worden. Denk aan de tijd tot groen, de geldende statische en 
+dynamische snelheidsbeperkingen, of een waarschuwing van een naderend 
+hulpdienstvoertuig. 
+•Doordat de detectie vanop een langere afstand gebeurt, kan de 
+verkeerslichtenregeling bovendien beter anticiperen op de actuele verkeerssituatie 
+en de doorstroming van het openbaar vervoer realiseren op een manier waarop de 
+impact op de andere verkeersdeelnemers beperkt wordt. 
+2. De Lijn werkt mee aan het Fast Forward project van de stad Antwerpen, waarin 
+aanmelding via C-ITS getest wordt. Naast dergelijke proefproject werden de 
+verkeerslichten in Antwerpen al aangepast tot intelligente of geconnecteerde 
+verkeerslichten (iVRI’s) en zijn daarmee C-ITS klaar op de volgende kruispunten:
+•Zwijndrecht, N70 - Hof ter Rijen
+•Zwijndrecht, N70 - Adrien van Roeyenstraat
+•Zwijndrecht, N70 - thv Polderstraat
+•Zwijndrecht, N70 - Suikerdijkstraat/Burchtsestraat
+•Zwijndrecht, N70 - Dwarslaan
+3. Voor de uitrol van C-ITS zijn er in grote lijnen twee elementen nodig. De voertuigen 
+van De Lijn moeten zich op die manier aanmelden, maar de verkeerslichten (zowel die 
+in beheer van het Agentschap Wegen en Verkeer als van de stad Antwerpen) moeten 
+ook uitgerust zijn als iVRI.
+ 
+De planning voor de verdere uitrol van C-ITS aan de voertuigzijde is in opmaak.
+Het kruispunt in Antwerpen waar actueel aanpassingen richting C-ITS worden 
+gerealiseerd is het kruispunt N12 - R11 – Turnhoutsebaan te Wijnegem (Q2/2024).
+4. Op dit moment is het nog niet mogelijk om een timing te geven. C-ITS is nog maar in 
+opstartfase.
+5. De commerciële snelheid op het gehele Antwerpse tramnet bedroeg in het voorjaar 
+van 2023 tijdens de spits op schooldagen 16,5 km/uur. In het Routeplan 2030 voor 
+het Antwerpse tramnet staat de ambitie van 23,5 km/uur genoteerd. Het verhogen 
+van de commerciële snelheid kan enkel bekomen worden door een combinatie van 
+maatregelen: accurate aanmelding van trams aan verkeerslichten, de instellingen van 
+de lichtenregelingen zelf, infrastructuuraanpassingen, spoorvernieuwingen, en 
+beleidskeuzes in het algemene mobiliteitsbeleid.

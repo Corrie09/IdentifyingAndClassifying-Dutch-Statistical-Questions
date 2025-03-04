@@ -1,0 +1,146 @@
+title: Mantelzorgers - Registraties
+thema: Welzijn en Gezin
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2051127
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1808437
+SCHRIFTELIJKE VRAAG
+nr. 268
+van KATRIEN SCHRYVERS
+datum: 29 februari 2024
+aan HILDE CREVITS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+Mantelzorgers  -  Registraties
+Veel chronisch zieken, gehandicapten en zorgbehoevenden kunnen thuis in de eigen 
+omgeving blijven wonen dankzij de toegewijde inzet van mantelzorgers. 
+In het kader van de Vlaamse sociale bescherming (VSB) wordt jaarlijks het aantal unieke 
+mantelzorgers en het aantal unieke zorgbehoevenden die hulp krijgen van een 
+mantelzorger, geregistreerd. Als er verschillende mantelzorgers voor één zorgbehoevende 
+zijn, dan moet per mantelzorger één record worden aangemaakt. Een persoon kan ook 
+mantelzorger zijn van verschillende zorgbehoevenden. Per relatie zorgbehoevende-
+mantelzorger moet een record worden aangemaakt. Ook de relatie zorgbehoevende-
+mantelzorger wordt geregistreerd. 
+In antwoord op eerdere schriftelijke vragen van mij (meest recent nr. 481 van 9 maart 
+2023) verkreeg ik cijfers met betrekking tot het aantal mantelzorgers in Vlaanderen.
+Kan de minister de gegevens vrijgeven voor 2023 die voortvloeien uit de registratie van 
+mantelzorgers? Graag daarbij: 
+a) het aantal unieke mantelzorgers en het aantal unieke zorgbehoevenden, opgedeeld 
+per provincie; 
+b) het aantal mantelzorgers en hun relatie tot de zorgbehoevende, opgedeeld per 
+provincie; 
+c) het aantal mantelzorgers per zorgbehoevende, opgedeeld per provincie; 
+d) het aantal zorgbehoevenden per mantelzorger, opgedeeld per provincie; 
+e) de leeftijden van de in 2023 geregistreerde mantelzorgers, opgedeeld per provincie; 
+f) de leeftijden van de in 2023 geregistreerde unieke zorgbehoevenden die een 
+mantelzorger ter beschikking hadden, opgedeeld per provincie.
+HILDE CREVITS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN  
+ANTWOORD
+op vraag nr. 268 van 29 februari 2024 
+van KATRIEN SCHRYVERS
+a) In de onderstaande tabel vindt u het aantal unieke mantelzorgers en het aantal unieke 
+zorgbehoevenden voor het jaar 2023. Een unieke mantelzorger kan voor 1 of meerdere 
+zorgbehoevenden mantelzorger zijn. Een unieke zorgbehoevende is een 
+zorgbehoevende met minstens 1 geregistreerde mantelzorger.
+Provincie aantal unieke MZ aantal unieke ZBH
+Antwerpen 37.862 31.804 
+Brussel-Hoofdstad 821 1.195 
+Limburg 33.386 30.162 
+Oost-Vlaanderen 35.808 31.586 
+Vlaams-Brabant 23.387 20.149 
+West-Vlaanderen 37.356 35.105 
+andere 2.269 293 
+170.889 150.294 
+b) In de onderstaande tabel vindt u het aantal mantelzorgers per relatie tot de 
+zorgbehoevende. Het aantal verschilt hier van de vorige tabel, omdat één unieke 
+mantelzorger voor meerdere zorgbehoevenden kan zorgen. Hier is dus het aantal 
+relaties geteld. Bijvoorbeeld: als eenzelfde persoon mantelzorger is voor zowel haar 
+moeder als voor haar echtgenoot, dan wordt dit in deze tabel als twee afzonderlijke 
+relaties mantelzorger-zorgbehoevende geteld.
+echtgeno(o)t(e) partner (schoon)vader (schoon)moeder
+Antwerpen 10.480 898 1.164 2.481 
+Brussel-Hoofdstad 113 15 161 309 
+Limburg 9.844 780 950 2.088 
+Oost-Vlaanderen 10.336 922 976 2.141 
+Vlaams-Brabant 6.383 455 652 1.436 
+West-Vlaanderen 12.488 1.161 976 2.301 
+andere 169 49 124 376 
+TOTAAL 49.813 4.280 5.003 11.132
+(schoon)dochter (schoon)zoon (schoon)zus (schoon)broer
+Antwerpen 11.288 5.465 898 447 
+Brussel-Hoofdstad 85 76 13 7 
+Limburg 10.984 5.340 956 436 
+Oost-Vlaanderen 10.663 5.316 849 409 
+Vlaams-Brabant 7.216 3.774 551 279 
+West-Vlaanderen 10.531 4.998 943 468 
+andere 654 372 61 35 
+TOTAAL 51.421 25.341 4.271 2.081
+buur andere onbekend
+Antwerpen 356 2.535 4.538 
+Brussel-Hoofdstad 3 36 38 
+Limburg 272 2.360 3.322 
+Oost-Vlaanderen 347 2.678 3.682 
+Vlaams-Brabant 240 1.881 2.495 
+West-Vlaanderen 420 2.754 3.105 
+andere 21 346 151 
+TOTAAL 1.659 12.590 17.331 
+c) In de onderstaande tabel vindt u het aantal mantelzorgers per zorgbehoevende.
+1 2 3 4 5 >5
+Antwerpen 22.754 7.109 1.539 290 69 43
+Brussel-Hoofdstad 956 219 18 2 0
+Limburg 22.620 5.620 1.250 412 118 142
+Oost-Vlaanderen 23.954 6.287 1.047 219 46 33
+Vlaams-Brabant 14.683 4.305 912 183 32 34
+West-Vlaanderen 28.387 5.540 832 248 44 54
+andere 241 40 9 1 0 2
+TOTAAL 113.595 29.120 5.607 1.355 309 308
+d) In de onderstaande tabel vindt u het aantal zorgbehoevenden per unieke mantelzorger.
+1 2 3 4 5>5
+Antwerpen 35.426 2.282 122 22 2 8
+Brussel-Hoofdstad 789 30 1 1
+Limburg 29.790 3.303 248 37 6 2
+Oost-Vlaanderen 33.501 2.157 122 18 5 5
+Vlaams-Brabant 21.597 1.668 95 14 6 7
+West-Vlaanderen 34.865 2.298 149 32 6 6
+andere 2.184 81 4 
+TOTAAL 158.152 11.819 741 124 25 28
+e) In de onderstaande tabel vindt u de leeftijden van de in 2023 geregistreerde unieke 
+mantelzorgers.
+0-18 19-25 26-44 45-64 65-69 70-74 75-79
+Antwerpen 1 80 3.119 16.500 5.289 3.793 3.385
+Brussel-Hoofdstad 3 187 422 56 40 46
+Limburg 4 58 2.465 15.792 4.449 3.233 2.733
+Oost-Vlaanderen 1 67 2.830 16.040 4.681 3.372 3.202
+Vlaams-Brabant 1 41 1.771 10.288 3.330 2.322 1.992
+West-Vlaanderen 4 57 2.468 15.606 5.163 3.771 3.646
+andere 2 160 498 139 61 35
+Totaal 11 308 13.000 75.146 23.107 16.592 15.039
+80-84 85-89 90-94 95-99 >=100 onbekend
+Antwerpen 2.711 2.150 756 75 3
+Brussel-Hoofdstad 30 21 15 1
+Limburg 2.176 1.822 594 58 2
+Oost-Vlaanderen 2.637 2.124 757 93 4
+Vlaams-Brabant 1.646 1.377 551 65 3
+West-Vlaanderen 3.130 2.444 932 130 5
+andere 26 15 12 1.321
+Totaal 12.356 9.953 3.617 422 17 1.321
+f) In de onderstaande tabel vindt u de leeftijden van de in 2023 geregistreerde unieke 
+zorgbehoevenden die een mantelzorger ter beschikking hadden.
+0-18 19-25 26-44 45-64 65-69 70-74 75-79
+Antwerpen 792 492 1.988 3.845 1.775 2.358 3.413
+Brussel-Hoofdstad 366 154 253 70 31 26 40
+Limburg 565 329 1.398 3.601 1.774 2.376 3.163
+Oost-Vlaanderen 629 380 1.539 3.811 1.754 2.321 3.489
+Vlaams-Brabant 396 272 997 2.201 1.063 1.519 2.123
+West-Vlaanderen 607 406 1.610 4.159 1.992 2.563 3.843
+andere 9 4 21 55 16 18 28
+TOTAAL 3.364 2.037 7.806 17.742 8.405 11.181 16.099
+80-84 85-89 90-94 95-99 >=100 onbekend
+Antwerpen 4.268 6.107 4.771 1.640 355
+Brussel-Hoofdstad 42 86 85 33 9
+Limburg 4.216 6.006 4.621 1.732 381
+Oost-Vlaanderen 4.375 6.234 4.849 1.791 414
+Vlaams-Brabant 2.711 4.126 3.244 1.176 321
+West-Vlaanderen 4.982 6.892 5.496 2.070 485
+andere 19 53 41 19 7 3
+TOTAAL 20.613 29.504 23.107 8.461 1.972 3

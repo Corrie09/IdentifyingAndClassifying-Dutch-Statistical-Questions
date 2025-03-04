@@ -1,0 +1,162 @@
+title: Tramnetwerk Antwerpen - Vervanging en automatisering wissels
+thema: Mobiliteit en Verkeer
+Openbare werken
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2011323
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1771531
+SCHRIFTELIJKE VRAAG
+nr. 89
+van ORRY VAN DE WAUWER
+datum: 13 oktober 2023
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Tramnetwerk Antwerpen  -  Vervanging en automatisering wissels
+Op het Antwerpse tramnet moeten tramchauffeurs op kruispunten nog uitstappen om 
+handmatig spoorwissels om te draaien. Eind 2019 vroeg ik al een overzicht op van de 
+geautomatiseerde wissels op het Antwerpse tramnetwerk en wat de infrastructurele 
+toestand van die wissels is. De minister antwoordde dat defecte wissels onmiddellijk 
+worden hersteld en daarvoor in een 24/7 technische wachtdienst voorzien is. Daarnaast is 
+er een programma opgemaakt voor het prioritair vervangen van wissels. 
+Eind juni 2020 werd een presentatie gegeven bij De Lijn over de werken aan de Antwerpse 
+traminfrastructuur. Daaruit bleek dat van de 141 wissels op het Antwerpse tramnet er 39 
+zijn met een verouderde gronduitrusting, 7 met verouderde sturing en 13 die een volledige 
+vervanging moeten ondergaan. Vier jaar later blijken chauffeurs nog altijd wissels 
+handmatig te moeten omdraaien. 
+1. Is de minister, net als ik, van mening dat niet-automatische wissels, waarvoor 
+tramchauffeurs uit hun voertuig moeten stappen en de wissel handmatig omleggen, 
+veeleer thuishoren in een trammuseum dan op het dienstdoende tramnetwerk? Kan 
+meer duiding worden gegeven welke stappen gezet worden om dergelijke situaties 
+weg te werken?
+2. Kan er een update gegeven worden van de wissels op het Antwerpse tramnet? Hoeveel 
+automatische wissels zijn er en hoeveel niet-automatische wissels zijn er? Hoeveel 
+niet-automatische wissels werden deze legislatuur vervangen door automatische 
+wissels? Graag een jaarlijks overzicht.
+3. Op welke kruispunten liggen dergelijke niet-geautomatiseerde wissels? Wordt er 
+verder werk gemaakt om die verouderde wissels versneld weg te werken/te 
+automatiseren? Graag meer duiding over het plan van aanpak, timing en budgettering.
+4. Kan een overzicht gegeven worden van de defecte wissels op het Antwerpse tramnet 
+per jaar van deze legislatuur? Is het kapotgaan van de wissels nog altijd een probleem, 
+of konden de afgelopen jaren structurele verbeteringen worden geboekt? Indien 
+beschikbaar, graag ook meer duiding over het jaarprogramma ter vervanging van 
+defecte wissels.
+5. In welke modaliteiten werd voorzien in het raamcontract om wissels te onderhouden 
+en te herstellen? Hoe vaak moet het technische team belast met het onderhoud en 
+herstelling aan de wissels, ingezet worden?
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD
+op vraag nr.89 van 13 oktober 2023
+van ORRY VAN DE WAUWER
+1. Alle tramwissels in exploitatie op het Antwerpse tramnet waarbij het spoor zich splitst 
+(dus niet waarbij twee sporen samenkomen, in dat geval is geen sturing nodig) zijn 
+uitgerust met een elektrisch sturingssysteem. De trambestuurder kan de wissel 
+daarmee verleggen vanuit de stuurcabine, zonder te stoppen. 
+Het scenario dat een trambestuurder tijdens een reizigersrit moet uitstappen om de 
+wissel manueel te verleggen, komt enkel voor bij een defect of tijdens werken aan de 
+elektrische sturingssystemen. Die situatie probeert De Lijn zo veel mogelijk te 
+vermijden door preventief onderhoud van de wissels en het vernieuwen van 
+verouderde wissels die meer kans hebben op defecten. 
+2-3.Zoals aangegeven in het antwoord op deelvraag 1 zijn alle relevante wissels al 
+elektrisch aangestuurd. Dat zijn er 144. Om defecten te beperken, wordt er wel werk 
+gemaakt van vernieuwing van wissels. In onderstaande tabel vindt u een overzicht 
+van de vernieuwingen en grote herstellingen die in de huidige legislatuur gebeurd 
+zijn of gepland staan. 
+Belangrijk hierbij is dat de wissels die hieronder voor 2024 vermeld zijn, effectief 
+defect zijn, maar zonder grote impact op het tramverkeer, omdat ze maar in één 
+richting bereden worden door regulier tramverkeer. Enkel bij omleidingen of 
+inrukkende voertuigen moeten ze manueel verlegd worden. Defecte wissels die 
+regelmatig manueel verlegd moeten worden tussen reguliere passages zijn er op het 
+moment van schrijven (23/11/2023) niet. Deze situaties worden natuurlijk ook altijd 
+met extra prioriteit behandeld.
+Toestand TimingOpmerking
+Wissel Loc. Adres
+1 5 117 Marnixplaats (van De Vrièrestraat) Niet in operationeel tramnetwerk heraanleg ifv noodzaak
+2 26 104 Antwerpesteenweg (van Sint-Bernardsesteenweg) Volledig vernieuwd 2020
+3 31 118 Belgiëlei (van Harmonie) Volledig vernieuwd 2021
+4 32 104 Jan van de Wouwerstraat Volledig vernieuwd 2020
+5 42 104 Antwerpesteenweg (van Lelieplaats) Volledig vernieuwd 2020
+6 49 129 Schijnpoortweg (van Singel) Geen tramverkeer ikv Oosterweel, volledig verwijderd volledig te vernieuwen
+7 55 603 Jan van de Wouwerstraat (van Stelplaats Hoboken) Niet in operationeel tramnetwerk heraanleg ifv noodzaak
+8 56 118 Lange Leemstraat (van Berchem station) Volledig venrieuwd 2023
+9 69 128 De Gryspeerstraat Volledig venrieuwd 2021
+10 73 129 Van der Delftstraat Geen tramverkeer ikv Oosterweel, volledig verwijderd volledig te vernieuwen
+11 74 129 Schijnpoortweg (van Singel) Geen tramverkeer ikv Oosterweel, volledig verwijderd volledig te vernieuwen
+12 75 129 Bisschoppenhoflaan Geen tramverkeer ikv Oosterweel, volledig verwijderd volledig te vernieuwen
+Wissel Loc. Adres
+1 10 141 Eindpunt Linkeroever Volledig vernieuwd 2022
+2 11 115 Eindpunt Busbuffer Zuid - perron lijn 1, 4 en 10 (Van Brederodestraat/Brusselstraat) Hersteld 2020
+3 12 115 Eindpunt Busbuffer Zuid - perron lijn 1, 4 en 10 (Van Brederodestraat/Brusselstraat) Hersteld 2020
+4 14 136 Koningin Astridplein (van kant Carnotstraat) Hersteld 2023
+5 15 124 Carnotstraat (van Astridplein) Hersteld 2023
+6 16 122 Eindpunt Eksterlaar - perron lijn 4 en 9 (Van Boekenberglei) Keerlus+ wissel permanent uit dienst -
+7 17 120 Borsbeeksebrug Volledige vernieuwing 2024/2025operationeel, zonder klachten
+8 19 116 Amerikalei (van Bolivarplaats) Te herstellen 2024
+9 21 105 Sint-Bernardesteenweg (van Kiel) Volledige vernieuwing 2024
+10 22 105 Antwerpsesteenweg (van Lelieplaats) Hersteld 2023
+11 33 112 Mechelsesteenweg (van Leopoldplaats) Hersteld 2019
+12 34 112 Bourlastraat Hersteld 2019
+13 35 112 Halte Nationale Bank - perron lijn 4 en 7 (van Frankrijklei) Volledige vernieuwing 2024
+14 37 121 Borsbeeksebrug Volledig vernieuwd 2021
+15 39 105 Sint-Bernardsesteenweg (van Singel) Volledige vernieuwing 2024
+16 40 105 Sint-Bernardsesteenweg (van Schoonselhof) Te herstellen 2024
+17 41 136 Gemeentestraat Volledig vernieuwd 2021
+18 46 160 Sint-Pietersvliet Hersteld 2019
+19 47 113 Nationalestraat Te herstellen 2024 wordt slechts in één richting bereden, geen impact op chauffeurs
+20 48 119 Stanleystraat Volledig vernieuwd 2022
+21 50 103 Bolivarplaats (van Singel) Hersteld 2020
+22 51 103 Halte Bolivarplaats - perrons lijn 1 en 4 (van 103W057/E. Banningsstraat) Hersteld 2020
+23 52 115 Montignystraat (van Singel) Hersteld 2021
+24 53 116 Amerikalei (van Nationale bank) Hersteld 2022
+25 57 103 Bolivarplaats (van Busbuffer Zuid/Amerikalei) Hersteld 2020
+26 59 112 Britselei Hersteld 2020
+27 60 112 Leopoldplaats (van maneuverspoor) Hersteld 2020
+28 61 112 Leopoldplaats (van exploitatiespoor) Hersteld 2020
+29 62 105 Voetbalstraat Volledige vernieuwing 2023
+30 65 136 Van Wezenbeekstraat Te herstellen 2024
+31 66 136 Koningin Astridplein (van kant Gemeentestraat) Hersteld 2023
+32 67 110 Antwerpestraat Volledige vernieuwing 2020
+33 71 131 Bredabaan Hersteld 2022
+34 81 133 Eindpunt Merksem - keerlus Volledige vernieuwing 2022
+35 86 141 Eindpunt Linkeroever - perrons lijn 3, 5, 9 en 15 (van Zwijndrecht/Halewijnlaan) Hersteld 2023
+36 91 146 Dascottelei Hersteld 2019
+37 94 144 Eindpunt Silsburg - keerlus Hersteld 2020
+38 96 125 Engelselei Hersteld 2020
+39 97 125 Stenenbrug (van Singel) Hersteld 2020
+Wissel Loc. Adres
+1 5 117 Marnixplaats (van De Vrièrestraat) Niet in operationeel tramnetwerk heraanleg ifv noodzaak
+2 32 104 Jan van de Wouwerstraat Volledig vervangen 2020
+3 42 104 Antwerpesteenweg (van Lelieplaats) Volledig vervangen 2020
+4 49 129 Schijnpoortweg (van Singel) Geen tramverkeer ikv Oosterweel, volledig verwijderd volledig te vernieuwen
+5 55 603 Jan van de Wouwerstraat (van Stelplaats Hoboken) Niet in operationeel tramnetwerk heraanleg ifv noodzaak
+6 73 129 Van der Delftstraat Geen tramverkeer ikv Oosterweel, volledig verwijderd volledig te vernieuwen
+7 74 129 Schijnpoortweg (van Singel) Geen tramverkeer ikv Oosterweel, volledig verwijderd volledig te vernieuwengronduitrustingVerouderde wisselsturingen 
+Volledig te vervangen
+4. Alle wissels die deel uitmaken van de reguliere tramroutes zijn elektrisch 
+aangestuurd, waarbij de bediening vanuit het tramvoertuig gebeurt. 
+In onderstaande grafiek wordt weergegeven hoeveel procent van de elektrisch 
+aangestuurde wissels die invloed hebben op de dagelijkse exploitatie in werking 
+is. Het cijfer wordt wekelijks op dinsdag geteld. De beschikbaarheidsgraad is de 
+laatste periode stabiel op 98% of hoger. Deze cijfers worden pas bijgehouden 
+sinds begin dit jaar. We hebben dus geen cijfers ter beschikking voor de hele 
+legislatuur.
+5. Met uitzondering van de defecten onder garantie biedt de constructeur een 
+onderhouds- en servicevoorstel aan voor de duurtijd van het contract, inclusief 
+verlengingen +2 jaar. 
+Gedurende de garantieperiode staat de constructeur in voor alle defecten aan de 
+geleverde hardware en software. De vervanging van alle defecte elementen uit 
+het raamcontract, tijdens de garantieperiode, zijn ten laste van de constructeur, 
+net als de levering en de plaatsing. Enkel defecten en vervangingen die te wijten 
+zijn aan niet door de leverancier voorgeschreven handelingen uitgevoerd door De 
+Lijn, vallen niet onder de toepassing van bovenstaande. De foute handeling dient 
+in dat geval uitdrukkelijk aangetoond te worden door de leverancier.
+Alle elektrische wissels krijgen naast een wekelijkse reiniging van het tongenbed 
+het jaarlijks voorgeschreven onderhoud van de fabrikant.
+Tot op heden heeft De Lijn geen statistieken betreffende het aantal interventies 
+dat ze uitvoert. In globo kunnen we wel meegeven dat er dagelijks gemiddeld 
+twee à drie interventies gebeuren op elektrisch aangestuurde wissels, waarbij de 
+chauffeur moet uitstappen tijdens zijn normale reisweg. Dat kan gaan van een 
+eenvoudige reset of het afregelen van de detectielussen, tot de vervanging van 
+componenten in de sturing.
+Om deze defecten op te vangen, beschikt De Lijn over een 24/7 bezetting die 
+eerstelijnsinterventie uitvoert. Daarnaast is er ook 24/7 een wachtdienst 
+oproepbaar voor complexere problemen.80%82%84%86%88%90%92%94%96%98%100%
+Jan W1 Jan W3 Feb W1 Feb W3 Maa W1 Maa W3 Maa W5 Apr W2 Apr W4 Mei W2 Mei W4 Jun W2 Jun W4 Jul W2 Jul W4Aug W2 Aug W4 Sept W1 Sept W3 Okt W1 Okt W3 Nov W1Elektrische wissels exploitatie gevoelig in werking 2023

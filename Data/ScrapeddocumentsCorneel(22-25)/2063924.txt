@@ -1,0 +1,103 @@
+title: Stikstofakkoord - AEA-lijst en PAS-technieken
+thema: Landbouw
+Natuur en Milieu
+Visserij
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2063924
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1821460
+SCHRIFTELIJKE VRAAG
+nr. 522
+van CHRIS STEENWEGEN
+datum: 18 april 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Stikstofakkoord  -  AEA-lijst en PAS-technieken
+De AEA-lijst (AEA: ammoniakemissiearm) bestaat reeds sinds 2004. In het kader van het 
+stikstofakkoord wordt de lijst nu opnieuw decretaal verankerd samen met bijkomende PAS-
+technieken (PAS: Programmatische Aanpak Stikstof).
+1. Wat waren de oorspronkelijk opgenomen technieken? Voor welke diersoorten?
+2. Welke technieken werden nadien aan de lijst toegevoegd? Voor welke diersoorten?
+3. Welke erkende technieken werden sindsdien op praktijkniveau/bedrijfsniveau 
+gemonitord op het resultaat in de praktijk? Met andere woorden, voor welke technieken 
+werd onderzocht wat de reële emissiereducties waren?
+4. Voor welke technieken werden de oorspronkelijk vooropgestelde emissiereducties, op 
+basis van de praktijkcijfers en/of voortschrijvend wetenschappelijk onderzoek, 
+aangepast in de AEA-lijst?
+5. Zijn er technieken die op basis van praktijkervaring geschrapt werden uit de lijst?
+Deze vraag werd gesteld aan de ministers Zuhal Demir (522), Jo Brouns (370)
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+GECOÖRDINEERD ANTWOORD
+op vraag nr. 522 van 18 april 2024
+van CHRIS STEENWEGEN
+1. Tabel 1 (bijlage 1) bevat een overzicht van alle stalsystemen op de AEA-lijst zoals 
+opgenomen in het ministerieel besluit van 19 maart 20041. Het gaat overeenkomstig 
+de regelgeving over staltechnieken voor varkens en pluimvee.
+2. Tabel 2 (bijlage 2) bevat alle technieken die sinds de eerste publicatie van de AEA-
+lijst in het Belgisch Staatsblad werden toegevoegd in de periode van 2004 tot en met 
+2019. Voor elke techniek is in de tabel een link naar het corresponderende MB 
+opgenomen. In 2011 werd er een grondige revisie van de gehele lijst doorgevoerd. 
+Ook hier werden enkel maatregelen voor varkens en pluimvee erkend.
+Door het MB van 14 maart 2023 is het mogelijk om ook maatregelen voor alle 
+diersubcategorieën van rundvee of alle andere diercategorieën op de AEA-lijst te 
+erkennen.
+3. Er zijn verschillende manieren om de performantie van emissiereducerende 
+technieken bij praktijkstallen te monitoren. Dit kan gebeuren (1) door cruciale 
+parameters die invloed hebben op de emissiereductie op te volgen of (2) door de 
+ammoniakemissie zelf continu te meten. Het monitoren van cruciale parameters 
+(optie 1) is praktisch mogelijk bij luchtreinigingstechnieken en is al wettelijk verplicht. 
+Het continu meten van de ammoniakemissie (optie 2) is op dit ogenblik veel minder 
+evident. Hierrond loopt momenteel een haalbaarheidsonderzoek bij het Instituut voor 
+Landbouw-, Visserij- en Voedingsonderzoek (ILVO) in kader van haar referentietaken 
+voor het beleidsdomein Omgeving. Het ILVO onderzoekt of het technisch haalbaar is 
+om varkens- en kippenstallen uit te rusten met continu werkende ammoniaksensoren 
+en om het ventilatiedebiet continu op te meten. Beide componenten zijn namelijk 
+noodzakelijk om de ammoniakemissie van een stal continue te bepalen. De resultaten 
+van dit onderzoek worden begin 2025 verwacht.
+Het ILVO heeft in opdracht van het beleidsdomein Omgeving verschillende 
+meetcampagnes uitgevoerd om de performantie van emissiereducerende systemen 
+opnieuw vast te stellen. In 2018 werd het eindrapport voorgesteld van de ILVO-
+meetcampagne rond luchtwassers en biobedden. Deze meetcampagne richtte zich op 
+het bepalen van het verwijderingsrendement voor ammoniak en geur van 
+gecombineerde luchtwassers en biobedden aan vleesvarkensstallen in Vlaanderen. 
+Hieruit bleek een ammoniakverwijderingsrendement van >70% haalbaar te zijn bij 
+biobedden en luchtwassers (zowel biologische, chemische als de gecombineerde 
+luchtwassers).
+In januari 2020 werd het eindrapport voorgesteld van de ILVO-meetcampagne rond 
+luchtemissies bij ammoniak-emissiearme stalsystemen van het type P-6.4 
+(warmtewisselaar en luchtmengsysteem voor droging strooisellaag). Hoofddoel van 
+die meetcampagne was een emissiefactor te bepalen voor ammoniak en geur voor dit 
+stalsysteem. Daarnaast werden ook richtinggevende fijn stof- (en in mindere mate 
+broeikasgas-) metingen uitgevoerd. De emissiefactor voor ammoniak berekend uit de 
+1 gepubliceerd in het Belgisch Staatsblad op 14/10/2004
+resultaten van deze meetcampagne benaderde de huidige emissiefactor zoals 
+opgenomen in het MER Richtlijnenboek. 
+4. In kader van haar referentietaken ten behoeve van het beleidsdomein Omgeving 
+voert het ILVO op regelmatige basis wetenschappelijk onderzoek uit over de 
+emissiefactoren voor ammoniak, geur en fijn stof die zijn opgenomen in de bijlage 
+van het MER Richtlijnenboek Landbouwdieren. Dit onderzoek heeft tot doel om na te 
+gaan of de huidig gehanteerde emissiefactoren dienen te worden aangepast op basis 
+van nieuwe wetenschappelijke inzichten. Aangezien de bijlage van het MER 
+Richtlijnen-boek ook de ammoniakemissiearme systemen voor varkens en pluimvee 
+en de luchtreinigingstechnieken omvat, werd in deze onderzoeken ook gezocht naar 
+wetenschappelijke publicaties die aanleiding zouden kunnen geven tot aanpassing 
+van emissiefactoren. De eerste en tweede ILVO-studie, respectievelijk uitgevoerd in 
+2014 en 2018, hebben geen aanleiding gegeven tot aanpassingen van de 
+ammoniakemissiefactoren van emissiereducerende systemen opgenomen in het MER 
+richtlijnenboek. De studie van 2018 heeft wel aanleiding gegeven tot de actualisatie 
+van de emissiefactoren van de verschillende rundvee(sub)categorieën. Dit betreft 
+geen emissiereducerende systemen, maar de emissiefactoren voor de gangbare 
+stalsystemen zonder toepassing van emissiereducerende maatregelen of technieken.
+Vorig jaar werd een gelijkaardige studie opgeleverd door het ILVO voor de 
+diercategorie slachtkuikens. Het administratief team luchtemissies veeteelt (AT) heeft 
+op basis van deze studie een wetenschappelijk advies gevraagd aan het WeComV 
+(Dossier 2023.18 Werkagenda Minister Actualisatie EF slachtkuikens). Op dit moment 
+zijn er binnen WeComV, naast Dossier 2023.18 ook nog een aantal andere dossiers 
+lopende waarin de aanvankelijk voorgestelde emissiereducties (Werkagenda Minister 
+rundvee beweiden 2023.12, Werkagenda Minister R1 Vloertechnieken 2023.1) of 
+emissiefactoren (Herevaluatie emissiefactor warmwaterbuizen bij slachtkuikens 
+2023.15) worden geëvalueerd. 
+5. In het MB van 31 mei 2011 werd AEA-stalsystemen V-1.1 (mestkanaal met schuine 
+wand, mestverdunning en mestafvoersysteem) geschrapt van de lijst naar aanleiding 
+van de bespreking van de AEA-lijst door de sub-stuurgroep varkens in het kader van 
+BREF Veeteelt op 8 februari 2010. Binnen deze stuurgroep werd besloten dat het 
+geen relevant systeem was en niet werd toegepast in Vlaanderen.

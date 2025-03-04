@@ -1,0 +1,126 @@
+title: Kleinschalige waterzuiveringsinstallaties (KWZI's) - Registratie, beheer en controle
+thema: Natuur en Milieu
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2007147
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1770171
+SCHRIFTELIJKE VRAAG
+nr. 39
+van BART DOCHY
+datum: 11 oktober 2023
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Kleinschalige waterzuiveringsinstallaties (KWZI's)  -  Registratie, beheer en controle
+Voordat afvalwater gezuiverd kan worden, moet het via leidingen ingezameld en 
+getransporteerd worden naar de zuiveringsinstallaties. Dat is een taak van de 
+gemeentelijke rioolbeheerder, die verantwoordelijk is voor de (her)aanleg en het 
+onderhoud van de gemeentelijke rioleringen. Daarnaast kan de rioolbeheerder ook instaan 
+voor de aanleg en het onderhoud van kleinschalige waterzuiveringsinstallaties.
+1.Hoeveel KWZI’s zijn er geregistreerd?
+2.Hoe en door wie worden die beheerd?
+a) Hoeveel via collectief beheer?
+b) Hoeveel in eigen beheer?
+c) Hoeveel daarvan zijn industrieel?
+3.Hoe worden ze gecontroleerd?
+Wat zijn de gevolgen gekoppeld aan het niet voldoen?
+4.Hoeveel controles werden uitgevoerd in 2020, 2021, 2022 en 2023?
+a) Hoeveel voldeden er?
+b) Hoeveel voldeden er niet? Waarom niet?
+c) Welke parameters worden gecontroleerd?
+5. Hoe evolueren de nieuwe technologieën? Welke innovaties zitten er aan te komen? 
+Aan welke controleregels moeten die voldoen? Hoe evolueren ze versus het traditionele 
+systeem?
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 39 van 11 oktober 2023
+van BART DOCHY
+1. Op basis van de aan de Vlaamse Milieumaatschappij (VMM) gerapporteerde informatie 
+zijn in oktober 2022 in totaal 131 kleinschalige waterzuiveringsinstallaties (KWZI’s = 
+tot 2000 IE) operationeel.
+Aantal installaties
+KWZI Aquafin  en < 2000 IE 101 
+KWZI Gemeente of rioolbeheerder en  < 
+2000 IE14
+KWZI Provincie en  < 2000 IE 3
+KWZI Anderen en  < 2000 IE 13
+Totaal aantal KWZI’s 131
+2. De VMM beschikt uit de rapportering niet over informatie of een KWZI collectief of in 
+eigen beheer wordt uitgebaat. De VMM heeft geen overzicht van KWZI’s voor uitsluitend 
+huishoudelijk afvalwater bij bedrijven.
+3. KWZI’s zijn ingedeeld onder de Vlarem-rubriek 3.6.4
+•Rubriek 3.6.4.2: van meer dan 20 tot 500 IE (klasse 2)
+•Rubriek 3.6.4.3: van meer dan 500 IE tot 100 000 IE (klasse 1)
+en zijn dus vergunningsplichtig.
+KWZI’s tussen 500 IE en 2000 IE zijn ingedeeld als klasse 1 waarbij de Deputatie de 
+omgevingsvergunning verleent.
+KWZI’s tussen 20 IE en 500 IE zijn ingedeeld als klasse 2 waarbij het College van 
+burgemeester en schepenen de vergunningverlener is. 
+Controles op de naleving van de omgevingsvergunning worden uitgevoerd door de 
+toezichthouder van de afdeling Handhaving van het Departement Omgeving voor wat 
+betreft de klasse 1 inrichtingen of de toezichthouder van het lokaal bestuur voor wat 
+betreft de klasse 2 inrichtingen.
+4. a) Wat betreft het aantal uitgevoerde controles op KWZI’s per jaartal kan er verwezen 
+worden naar de toezichthouders: afdeling Handhaving van het Departement 
+Omgeving of de toezichthouder van het lokaal bestuur.
+ 
+Het zelfcontroleprogramma is de verantwoordelijkheid van de exploitant. 
+Wat de Aquafin-installaties betreft: 
+•In 2020 en 2021 werd het controleprogramma op effluenten van KWZI’s 
+(van Aquafin) door de VMM georganiseerd, sinds 2022 door Aquafin i.k.v. 
+een zelfcontroleprogramma.
+•Voor de meeste Aquafin-KWZI’s wordt 4 keer per jaar een schepstaal 
+genomen van het effluent. Om de 5 jaar – of frequenter indien bepaalde 
+effluentwaarden niet goed blijken – worden 12 stalen genomen van het 
+influent en effluent met een monsternametoestel (24u tijdgebonden 
+staalname in de regel).  
+•Voor 2023 zijn er nog geen volledige cijfers beschikbaar. 
+•In 2020, 2021 en 2022 voldeden de KWZI’s van Aquafin aan de 
+vergunningsvoorwaarden.
+b) Er zijn enkel structurele problemen op de oude rietvelden van Latem en Deurle, 
+beiden sinds 1990 operationeel. De doorvoer naar een andere RWZI is reeds lang 
+gepland maar om allerlei redenen vertraagd.
+c) Conform Vlarem (art. 5.3.1.3 §2) moeten lozingen van agglomeraties met minder 
+dan 2000 IE en meer dan 500 IE voldoen aan de voorwaarden opgenomen in bijlage 
+5.3.1.c. Lozingen van agglomeraties met minder dan 500 IE en meer dan 20 IE 
+moeten a.d.h.v. een ‘toereikende behandeling’ aan dezelfde normen voldoen, 
+uitgezonderd wanneer de temperatuur lager is dan 5 °C en de zuivering gebeurt 
+door middel van plantensystemen.
+Voorwaarden bijlage 5.3.1.c zijn:
+Parameter eenheid emissiegrenswaarde minimumvermindering 
+t.o.v. influent-belasting in 
+% (1)
+Biochemisch 
+zuurstofverbruik in 5 
+dagen bij 20 °C 
+(BZV520) (2)mg/l 25 90
+Chemisch 
+zuurstofverbruik (CZV)mg/l 125 75
+Totale hoeveelheid 
+zwevende stoffen (ZS) mg/l 35 voor agglomeraties 
+tussen 500 en 2000 IE
+60 voor agglomeraties 
+van minder dan 500 IE70
+Een minimale vorm van debietsmeting en monstername is noodzakelijk, niet in het 
+minst om een optimale bedrijfsvoering van de KWZI te garanderen.
+5. Qua technologie hebben de low-tech oplossingen (biorotoren, IBA’s met nageschakeld 
+rietveld,…) die Aquafin hanteert hun waarde indien de ontvangende waterloop minder 
+gevoelig is en verwijdering van de organische vervuiling kan volstaan. Indien ook 
+verwijdering van stikstof en/of fosfor nodig is o.b.v. een ecologische evaluatie, dan 
+werd in een aantal cases voor MBR (membraanbioreactor) gekozen als technologie. 
+Recent werd ook een proefproject gebouwd met compacte actief slib technologie en 
+nageschakeld rietveld (Zandvoorde) voor een toepassing met nutriëntverwijdering.
+Momenteel loopt de herziening van de Europese Richtlijn Stedelijk Afvalwater. Mogelijk 
+is het nodig om in de toekomst ook de regelgeving rond KWZI’s daarop af te stemmen 
+in Vlarem.
+In verband met het beheer verwijs ik ook graag naar het ontwerpbesluit over de 
+invulling van de gemeentelijke saneringsverplichting dat op 13 oktober 2023 een eerste 
+keer principieel werd goedgekeurd door de Vlaamse Regering en waarin de taakstelling 
+rond de gemeentelijke saneringstaak is opgenomen.
+Verder heb ik de Coördinatiecommissie Integraal Waterbeleid (CIW) de opdracht 
+gegeven om mij in kader van decentrale zuivering nog voor einde van het jaar enkele 
+concrete beleidsaanbevelingen te bezorgen inzake innovatie, monitoring, normering en 
+toezicht voor decentrale toepassingen. Tevens verwijs ik naar de projectoproep 
+subsidies voor riolering en KWZI waarin ik sinds dit jaar een specifieke categorie voor 
+decentrale projecten opnam voor een versnelde sanering van het buitengebied en 
+innovaties. Zoals u weet ondersteun ik decentrale projecten ook op het terrein, onder 
+meer via Blue Deal-proefprojecten in het verleden en sinds dit jaar ook specifiek en 
+structureel via de subsidieoproep voor rioleringen en KWZI’s.

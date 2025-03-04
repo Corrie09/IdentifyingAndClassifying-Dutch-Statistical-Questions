@@ -1,0 +1,88 @@
+title: Energiedistributie - Geblokkeerde EAN-nummers
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2011296
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1774986
+SCHRIFTELIJKE VRAAG
+nr. 87
+van PETER VAN ROMPUY
+datum: 25 oktober 2023
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Energiedistributie  -  Geblokkeerde EAN-nummers
+Wisselen van energieleverancier kan een groot budgetverschil maken voor Vlaamse 
+gezinnen en ondernemingen, zeker in de huidige volatiele tijden. In de media werd evenwel 
+melding gemaakt van geblokkeerde EAN-nummers, waardoor een overstap niet mogelijk 
+is. Door geblokkeerde EAN-nummers kan men ook geen (tussentijdse) facturen ontvangen, 
+waardoor er ook geen zicht is op het saldo. 
+Omdat de impact van die geblokkeerde EAN-nummers groot is, graag volgende vragen.
+1. Hoeveel EAN-nummers zijn vandaag geblokkeerd? 
+2. Wat is de evolutie van de geblokkeerde EAN-nummers de afgelopen tien jaar? Graag 
+cijfers per maand. 
+3. Wat is de reden van geblokkeerde EAN-nummers? 
+4. Wat is de procedure om een geblokkeerd EAN-nummer te deblokkeren? Wat is de 
+gemiddelde doorlooptijd van die procedure? 
+5. Voorziet Fluvius in een compensatie voor geblokkeerde EAN-nummers? Waarom 
+wel/niet? Hoeveel bedraagt die? 
+ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD 
+op vraag nr. 87 van 25 oktober 2023  
+van PETER VAN ROMPUY
+1. Op dit moment zijn er bij Atrias en in de Fluvius back-end ongeveer 4.500 EAN-
+nummers langdurig geblokkeerd. Bij de leveranciers zouden er volgens de cijfers van 
+FEBEG ook tienduizenden klanten zijn waar geen of geen correcte facturen kunnen 
+gemaakt worden.
+2. De snel evoluerende energiemarkt en bijhorende impact op de systemen (o.a. 
+invoering van het CMS (Central Market System) met bijhorend MIG6-protocol eind 
+2021, faillissementen van energieleveranciers eind 2021-begin 2022, de toenemende 
+volumes van digitale meters, de invoering van het capaciteitstarief, de invoering 
+energiedelen, enz.) laat Fluvius niet toe om op een consistente wijze de evolutie van 
+de geblokkeerde EAN-nummers bij te houden. Door de gezamenlijke inspanningen van 
+alle betrokken marktpartijen is de situatie de afgelopen maanden al heel wat 
+verbeterd, maar nog niet alle problemen zijn opgelost. Vandaag zijn er nog ongeveer 
+4.500 EAN-nummers langdurig geblokkeerd bij Fluvius en Atrias, naast de 
+tienduizenden klanten van de leveranciers (zie ook vraag 1). 
+3. De steeds sneller evoluerende energiemarkt zorgt voor vele nieuwe systeem- en 
+procesontwikkelingen die elkaar snel opvolgen. De invoering van het CMS eind 2021 
+heeft gezorgd voor een intra-Belgisch IT-platform waar alle distributienetbeheerders 
+en energieleveranciers op aansluiten. Samen met dit platform zijn ook de 
+marktprocessen geëvolueerd volgens het nieuwe MIG6-protocol, waardoor ook nieuwe 
+services voor klanten mogelijk zijn, zoals de mogelijkheid tot maandfacturatie, 
+meetregime 3 (kwartierwaarden in de markt), vermarkting van injectie enz. Deze 
+nieuwe ontwikkelingen, in combinatie met de onverwachte noodleveranciersregeling 
+die voor een aantal leveranciers moest opgestart worden, maar ook snel daarop 
+volgende bijkomende ontwikkelingen in het kader van het capaciteitstarief, het 
+energiedelen, de informatieve maandvolumes, de versnelde toename van PV-
+installaties, de federale maatregelen naar aanleiding van de Oekraïne-oorlog enz. 
+hebben voor een opeenstapeling van systeem- en procesimplementaties gezorgd. 
+Door de vele (soms ook onverwachte) procesinteracties zijn op bepaalde stappen in 
+de procesverwerking een aantal EAN-nummers geblokkeerd geraakt binnen of tussen 
+de systemen, zowel aan de kant van Fluvius back-end systemen, bij Atrias (CMS), 
+alsook aan de kant van de leveranciers.
+4. Achter de geblokkeerde EAN-nummers zitten veel verschillende oorzaken, waardoor 
+de deblokkering van de EAN-nummers eerst een grondige analyse vraagt. In grote 
+lijnen is er een aanpak op 2 fronten: 
+- enerzijds de structurele oplossingen, waarmee het ontstaan van nieuwe 
+geblokkeerde EAN-nummers voorkomen moet worden (nieuwe ICT-
+ontwikkelingen);
+- anderzijds de cleanings, waarbij hetzij individueel hetzij in bulk de back-log aan 
+geblokkeerde EAN-nummers zoveel mogelijk opgelost wordt.
+De ‘bulk’ oplossingen zijn steeds minder van toepassing en voor een aantal EAN-
+nummers in complexe (vaak ook oude) situaties zal moeten worden overgegaan tot 
+meer invasieve cleanings. Voor al deze activiteiten van cleanings en structurele 
+oplossingen is er een nauwe samenwerking tussen de distributienetbeheerders, Atrias 
+en energieleveranciers. 
+De doorlooptijd om voor elke specifieke EAN tot een oplossing te komen, is daarom 
+moeilijk te bepalen en varieert van casus tot casus. Dit kan oplopen tot meerdere 
+maanden. Klanten kunnen zelf ook via de website van Fluvius opvolgen of een EAN-
+nummer ge(de-)blokkeerd is bij Fluvius: Vertraging energiefactuur | Fluvius. 
+5. In 99,9% van de gevallen waarbij Fluvius direct betrokken is, wordt de situatie volledig 
+geregulariseerd en met terugwerkende kracht rechtgezet. De data zijn immers niet 
+verloren. 
+Fluvius geeft aan dat zij slechts in zeer uitzonderlijke gevallen niet alles kunnen 
+reconstrueren. In dat geval kan de effectief geleden schade vergoed worden (niet-
+forfaitair). Hieraan zijn een aantal voorwaarden verbonden:
+- Er is bewezen schade bij de klant;
+- De fout is de verantwoordelijkheid van de distributienetbeheerder;
+- De situatie kan niet meer rechtgezet worden.
+Deze informatie wordt ook via een ‘FAQ’ op de website van Fluvius meegegeven.

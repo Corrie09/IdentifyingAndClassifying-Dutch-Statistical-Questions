@@ -1,0 +1,200 @@
+title: Winwinlening - Stand van zaken
+thema: Economie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2051153
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1811176
+SCHRIFTELIJKE VRAAG
+nr. 335
+van ROBRECHT BOTHUYNE
+datum: 7 maart 2024
+aan JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+Winwinlening  -  Stand van zaken
+Met de Winwinlening van Participatiemaatschappij Vlaanderen (PMV) moedigt de Vlaamse 
+overheid particulieren aan om een achtergestelde lening te verstrekken aan kleine en 
+middelgrote ondernemingen (kmo’s). Een particulier kan tot 75.000 euro lenen aan een 
+Vlaamse kmo gedurende een looptijd van 5 tot 10 jaar. De kredietgever krijgt daarvoor 
+een jaarlijks belastingkrediet van 2,5 procent op het openstaande kapitaal van de 
+Winwinlening. Als de kredietnemer niet kan terugbetalen, kan de kredietgever daarnaast 
+30 procent van het verschuldigde bedrag terugkrijgen via een eenmalig 
+belastingkrediet. Een kmo kan tot een bedrag van 300.000 euro Winwinleningen aangaan, 
+met een maximum van 75.000 euro per kredietgever. Ook vzw's met een economische 
+activiteit komen in aanmerking.
+1. Hoeveel leningen werden in 2023 geregistreerd bij PMV? Graag totaalaantal en 
+opdeling pe:
+a) provincie waar de kmo gelegen is;
+b) type kredietnemer;
+c) gevraagd krediet;
+d) verleend krediet.
+2. Graag opgave van de verdeling van de Winwinlening naar vennootschapsvorm - type 
+kredietnemer rechtspersonen voor 2023.
+3. Wat was het profiel van de kredietgever of de relatie tot de kredietnemer (ouders, 
+andere familie, vrienden, ….) in 2023? Ziet de minister daar een evolutie in?
+4. Hoeveel middelen vloeiden er naar de Winwinlening in 2023? Graag belastingkrediet 
+voor 2023. Hoe evolueert dat cijfer?
+5. Hoeveel bedroeg het gemiddelde bedrag per Winwinlening in 2023?
+6. Hoeveel unieke kredietnemers werden er genoteerd in 2023?
+7. Hoeveel euro haalde elke kredietnemer gemiddeld op in 2023?
+8. De opeenvolgende crisissen (covid, Oekraïne, Brexit, …) hadden een impact op de 
+Winwinlening.
+Wat is de huidige stand van zaken?
+JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+ANTWOORD 
+op vraag nr. 335 van 7 maart 2024
+van ROBRECHT BOTHUYNE
+1. In 2023 werden er 6.095 Winwinleningen geregistreerd voor een totaal kredietbedrag 
+van 136 miljoen euro (135.978.428,43 euro).
+a) Opdeling productie 2023 per provincie
+Provincie Bedrag Aantal
+Antwerpen 30.375.043,08 1401
+Limburg 12.910.634,68 844
+Oost-Vlaanderen 37.550.772,21 1609
+Vlaams-Brabant 19.017.014,54 657
+West-Vlaanderen 36.124.963,92 1584
+Totaal 135.978.428,43 6095
+b) Opdeling productie 2023 per type kredietnemer (starters versus niet-starters)
+Type KN Bedrag Aantal
+Niet-Starters 72.615.042,99 3822
+Starters 63.363.385,44 2273
+Totaal 135.978.428,43 6095
+c) Gevraagd krediet
+PMV-Standaardwaarborgen nv staat enkel in voor de registratie en beheer van de 
+Winwinleningen en fungeert niet als tussenpersoon, marktplaats of matchmaker 
+tussen de kredietgever en de kredietnemers. Hierdoor heeft PMV-
+Standaardwaarborgen geen zicht op de “gevraagde” kredietbedragen door de 
+kredietnemers. PMV-standaardwaarborgen nv heeft enkel zicht op het effectief 
+verleende bedrag aan Winwinleningen dat werd aangeboden ter registratie. 
+d) Verleend krediet
+Het verleende bedrag aan Winwinleningen in 2023 bedroeg 135.978.428,43 euro.
+2. In 2023 werden er 4.923 Winwinleningen aan rechtspersonen toegestaan voor een 
+totaal kredietbedrag van 106.057.840,48 euro. De belangrijkste 
+vennootschapsvormen zijn de BV/BVBA, de commanditaire vennootschap/CV en de 
+NV. 
+3.
+2023     
+Vennootschapsvorm Bedrag %Bedrag Aantal %Aantal
+BV/BVBA 87.308.863,19 82,32% 3642 73,98%
+Comm. V/Comm. VA 8.567.955,24 8,08% 260 5,28%
+CV/CVBA 1.202.604,00 1,13% 77 1,56%
+Feitelijke vereniging 90.000,00 0,08% 4 0,08%
+NV 3.713.908,15 3,50% 652 13,24%
+VOF 3.627.500,00 3,42% 127 2,58%
+VZW 1.227.500,00 1,16% 149 3,03%
+Andere 319.510,00 0,30% 12 0,24%
+Totaal 106.057.840,58 100,00% 4923 100,00%
+4. Ook in 2023 zijn het de ouders en schoonouders van de kredietnemers die in 
+belangrijke mate optreden als verschaffer van de Winwinlening. Daarnaast fungeren 
+ook vaak kennissen van de ondernemers als kredietgevers. T.o.v. de totale productie 
+(2006-2023) zien we dat het belang van de ‘pure’ investeerders (kredietverschaffers 
+zonder familiale of vriendschapsband), zeker voor wat betreft het aantal 
+Winwinleningen (o.w.v. crowdlending initiatieven), wel is toegenomen. Dit is een trend 
+die zich de laatste jaren doorzet.
+2023     
+Relatie KN - KG Bedrag %Bedrag Aantal %Aantal
+Vader 36.083.370,74 26,54% 1067 17,51%
+Moeder 29.710.202,64 21,85% 862 14,14%
+Kennis 23.198.284,73 17,06% 1002 16,44%
+Schoonfamilie 16.393.614,21 12,06% 480 7,88%
+Investeerders 11.964.716,67 8,80% 2076 34,06%
+Broer of zus 7.265.418,00 5,34% 224 3,68%
+Oom of tante 4.177.180,00 3,07% 138 2,26%
+Dochter of zoon 2.063.500,00 1,52% 69 1,13%
+Samenwonende vriend(in) 
+zonder samenlevingscontract 2.771.791,44 2,04% 83 1,36%
+Grootouder 1.218.150,00 0,90% 50 0,82%
+Neef of nicht 1.082.200,00 0,80% 43 0,71%
+Kleindochter of kleinzoon 50.000,00 0,04% 1 0,02%
+ 135.978.428,43 100,00% 6095 100,00%
+Totaal     
+Relatie KN - KG Bedrag %Bedrag Aantal %Aantal
+Vader 282.026.216,69 28,65% 9454 21,93%
+Moeder 216.304.784,14 21,97% 7179 16,65%
+Kennis 168.892.139,86 17,15% 8028 18,62%
+Schoonfamilie 121.107.524,07 12,30% 4131 9,58%
+Investeerders 54.890.676,27 5,58% 9185 21,30%
+Broer of zus 52.622.541,12 5,35% 1831 4,25%
+Oom of tante 30.580.870,88 3,11% 1131 2,62%
+Dochter of zoon 20.391.052,00 2,07% 723 1,68%
+Samenwonende vriend(in) 
+zonder samenlevingscontract 19.613.913,94 1,99% 733 1,70%
+Grootouder 10.767.256,84 1,09% 462 1,07%
+Neef of nicht 6.931.575,00 0,70% 249 0,58%
+Kleindochter of kleinzoon 387.000,00 0,04% 13 0,03%
+Niet gekend 2.654.473,00 0,27% 115 0,27%
+ 984.515.550,81 100,00% 43119 100,00%
+5. Het jaarlijkse belastingkrediet bedraag 2,5% van het rekenkundige gemiddelde van 
+het nog openstaande saldo van de Winwinlening op 1 januari en 31 december van het 
+belastbare tijdperk. Het jaarlijkse belastingkrediet wordt toegestaan vanaf het 
+aanslagjaar dat verbonden is aan het belastbare tijdperk waarin de Winwinlening werd 
+gesloten. Pas twee jaar na het sluiten van een Winwinlening genereert deze dus een 
+impact op de begroting in het kader van de jaarlijkse vergoeding. De gegevens in 
+onderstaande tabel voor 2023 zijn een raming op basis van de door PMV-
+Standaardwaarborgen nv geregistreerde Winwinleningen tot 31 december 2023. PMV-
+Standaardwaarborgen nv heeft geen toegang tot de data van de FOD Financiën, die 
+als enige instantie over de werkelijke bedragen beschikt via de aangifte 
+Personenbelasting.
+6.
+ Productie 2023 - Begroting 2025
+Jaarlijks belastingkrediet  17.207.296,91 euro
+Indien een Winwinlening vervroegd opeisbaar wordt gesteld1, kan de kredietgever 
+momenteel een eenmalig belastingkrediet ten belope van 30%2 van het nog 
+openstaande saldo3 van deze Winwinlening bekomen. Het eenmalige belastingkrediet 
+wordt toegekend voor het aanslagjaar dat verbonden is met het belastbare tijdperk 
+waarin vaststaat dat een gedeelte of het geheel van de hoofdsom van de Winwinlening 
+definitief verloren is. Twee jaar na de opeisbaarstelling van de Winwinlening genereert 
+deze m.a.w. een impact op de begroting in het kader van de eenmalige vergoeding.
+De gegevens in onderstaande tabel zijn berekend op basis van de door PMV-
+Standaardwaarborgen nv uitgereikte schrappingsbrieven voor Winwinleningen, 
+waarbij de kredietgever aan PMV-Standaardwaarborgen nv te kennen gegeven heeft 
+beroep te zullen doen op het eenmalige belastingkrediet.
+Het dient wel opgemerkt te worden dat niet alle opgezegde of afgesloten 
+Winwinleningen ook effectief via de belastingaangifte zullen worden aangegeven. PMV-
+Standaardwaarborgen nv heeft echter geen toegang tot de data van de FOD Financiën, 
+die als enige instantie over de werkelijke bedragen beschikt via de aangifte 
+Personenbelasting.
+ Schrappingen 2023 - Begroting 2025
+Eénmalig belastingkrediet  496.241,13 euro
+7. Het gemiddelde bedrag per Winwinlening bedroeg in 2023 22.309,83 euro. Dat is iets 
+lager dan in 2022, waar het gemiddelde bedrag per Winwinlening net geen 23.000 
+euro bedroeg, en is eveneens iets lager dan het gemiddelde bedrag per Winwinlening 
+voor het totaal van de portefeuille (22.833,19 euro). Het iets lagere gemiddelde bedrag 
+per Winwinlening in 2023 kan verklaard worden door het feit dat er meer ‘pure’ 
+investeerders (zonder familiale of vriendschapsband met de ondernemer) een 
+Winwinlening hebben verschaft in 2023 t.a.v. 2022. Het bedrag dat door dit type 
+kredietgevers aan de onderneming verstrekt wordt, is doorgaans een stuk lager dan 
+wanneer er wel een (familiale) band is met de onderneming. Dit heeft te maken met 
+het feit dat veel van dergelijke investeerders via crowdlendingplatformen leningen 
+toekennen, waarbij de bedragen per lening veel kleiner zijn. De rentevoet van de 
+Winwinleningen was in 2022 tijdelijk minder aantrekkelijk voor investeerders, gezien 
+de inflatie en stijgende rentes elders. In 2023 aligneerde de rentevoet zich opnieuw 
+aan de economische situatie.
+8. In 2023 werden er 2.773 unieke kredietnemers genoteerd. 
+9. Elke unieke kredietnemer haalde gemiddeld ongeveer 49.000 euro (49.036,58 euro) 
+op in 2023 via Winwinleningen.
+10. De opeenvolgende crisissen hebben een serieuze impact op het Vlaamse economische 
+weefsel. N.a.v. de covid19-crisis werden de modaliteiten van de Winwinlening 
+verruimd met het oog op de ondersteuning van de solvabiliteit en liquiditeit van de 
+Vlaamse ondernemers, via de achtergestelde Winwinleningen. Bepaalde 
+1 In geval van faling, kennelijk onvermogen of vrijwillige gedwongen ontbinding of vereffening van de 
+kredietnemer.
+2 Voor Winwinleningen gesloten tussen 16/03/2020 t.e.m. 31/12/2021 was dit 40%.
+3 Het openstaande saldo houdt rekening met de eventueel voorzien afbouw in de delgingsschema’s en de aan 
+PMV-Standaardwaarborgen nv gemelde en bevestigde stopgezette of opgezegde Winwinleningen.
+versoepelingen (zoals de variabele looptijd tussen 5 en 10 jaar i.p.v. een vaste looptijd 
+van 8 jaar) zijn nog steeds van toepassing. De verruiming van de modaliteiten van de 
+Winwinlening heeft een belangrijke impact gehad op de gerealiseerde productie.
+Heel wat particuliere (spaar-)gelden werden op die manier gemobiliseerd. 
+Ondernemers beschikten hierdoor over meer liquiditeiten zodat de solvabiliteit van de 
+Vlaamse ondernemers, gelet op het achtergestelde karakter van de Winwinlening, 
+ondersteund werd. In 2022 kon een zekere voorzichtigheid, die mogelijks te wijten 
+was aan de hogere energieprijzen, inflatie en minder interessante rentevoet4 dan 
+elders, bij de kredietgevers vastgesteld worden. Dit was zeker het geval voor de 
+kredietgevers die geen familiale of vriendschapsband hadden met de onderneming. 
+Bovendien verviel eind 2021 de tijdelijke verhoging van het eenmalige belastingkrediet 
+tot 40%5, wat mogelijks een impact had op de gerealiseerde productie in 2022. In 
+2023 aligneerde de rentevoet zich aan de economische omstandigheden6 en steeg 
+sterk t.o.v. 2022. Hierdoor noteerden we in 2023 het op één na hoogste bedrag en 
+aantal gerealiseerde Winwinleningen.
+4 In 2022 bedroeg de maximale rentevoet 1,5% en de minimale rentevoet 0,75%.
+5 Tijdelijke versoepeling covid-19.
+6 In 2023 bedroeg de maximale rentevoet 5,25% en de minimale rentevoet 2,375%

@@ -1,0 +1,70 @@
+title: Vlaamse overheid en ontwikkelaars van verkeersapps - Samenwerking
+thema: Mobiliteit en Verkeer
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2082753
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1836386
+SCHRIFTELIJKE VRAAG
+nr. 49
+van TOMAS ROGGEMAN
+datum: 25 oktober 2024
+aan ANNICK DE RIDDER
+VLAAMS MINISTER VAN MOBILITEIT, OPENBARE WERKEN, HAVENS EN SPORT
+Vlaamse overheid en ontwikkelaars van verkeersapps  -  Samenwerking
+Dat het gebruik van verkeersapps in ons land in de lift zit, bewijzen de cijfers van het 
+aantal Waze-gebruikers. De bekende verkeersapp registreerde in 2020 maandelijks 1,6 
+miljoen gebruikers. Naast Waze zijn er uiteraard nog andere ontwikkelaars en bedrijven 
+die mee aan de kar trekken van slimme verkeerstechnologie. 
+Ook het Agentschap Wegen en Verkeer (AWV) ziet daarvan de noodzaak in en werkt al 
+samen met ontwikkelaars van verkeersapps. Onder andere door het beschikbaar stellen 
+van gegevens via het Generiek Informatieplatform Openbaar Domein (GIPOD) helpt het 
+agentschap bij de ontwikkeling van de verkeersapps. Omgekeerd helpen de ontwikkelaars 
+ook het agentschap door eveneens gegevens over onder andere ongevallen ter beschikking 
+te stellen. Op die manier kan er adequater opgetreden worden waar nodig. 
+Ook lokale besturen hebben een impact op die verkeersapps door beslissingen rond 
+wegencategorisering of het straatmeubilair. Diezelfde lokale besturen maken zich echter, 
+in vele gevallen terecht, zorgen over sluipverkeer dat door de verkeersapps wordt 
+aangemoedigd.
+1. Hoe staat de minister tegenover de samenwerking met de ontwikkelaars van 
+verkeersapps voor het bereiken van de doelstelling voor slimmere verkeerstechnologie 
+en het monitoren van de verkeersstromen? 
+2. Hoeveel keer maakten ontwikkelaars van verkeersapps de afgelopen jaren gebruik van 
+de gegevens in het GIPOD? Kan de minister een jaarlijks overzicht verschaffen? 
+3. Ziet de minister mogelijkheden om nog meer overheidsdata ter beschikking te stellen 
+voor ontwikkelaars van die verkeersapps? 
+4. Meent de minister dat de registratie van lokaal gevaarlijke situaties (gemeld door 
+lokale besturen) voldoende wordt opgenomen in dergelijke apps? Is overleg daarover 
+met de sector noodzakelijk?
+ANNICK DE RIDDER
+VLAAMS MINISTER VAN MOBILITEIT, OPENBARE WERKEN, HAVENS EN SPORT
+ANTWOORD
+op vraag nr. 49 van 28 oktober 2024
+van TOMAS ROGGEMAN
+1. Samenwerking met ontwikkelaars van verkeersapps kan helpen in het bereiken van de 
+doelstelling van een veiliger, vlotter en duurzamer verkeer. Daarom is het belangrijk 
+om de samenwerking met hen aan te gaan.
+Door structurele samenwerkingen op te zetten, kunnen onze wederzijdse sterktes 
+elkaar aanvullen waardoor we doelstellingen beter en efficiënter kunnen bereiken en 
+tegelijk onze maatschappelijke belangen borgen. 
+Waze is intussen aangesloten  als partner bij het Mobilidata programma. Waze maakt 
+dus desgewenst ook gebruik van de informatie die via de Mobilidata interchange 
+doorstroomt. Vanuit het Mobilidata programma gaan we diverse gesprekken aan met 
+stakeholders, zoals verkeersapps om zich aan te sluiten aan het Mobilidata ecosysteem. 
+Het is overigens ook de ambitie om eveneens data van deze verkeersapps terug te 
+laten stromen in het Mobilidata programma. 
+2. Deze data wordt door de overheid als open data ter beschikking gesteld, dit in lijn met 
+het algemene beleid van de Vlaamse Overheid. Hierdoor is deze data voor elke partij 
+vrij en laagdrempelig te gebruiken. Dit brengt echter ook met zich mee dat er geen 
+zicht is over welke partijen nu precies wat gebruiken en hoe vaak. Bovendien zullen 
+onze bronnen vaak gecombineerd worden met andere info zodat ook daaruit niet 
+eenduidig op te maken valt hoeveel precies van welke bron gebruikt wordt.
+Met Mobilidata ( www.mobilidata.be) zetten we hier op in. De via dit 
+innovatieprogramma gerealiseerde functionaliteiten en informatiestromen bieden nog 
+heel wat opportuniteiten in dit opzicht, en tegelijk biedt het platform alle mogelijkheden 
+om gericht verder uit te breiden. Meer informatie over welke data precies beschikbaar 
+is, is terug te vinden op datapagina van het Verkeerscentrum, op Datavindplaats en 
+ook op het Belgische National Access Point NAP.
+Via het open data portaal van de Vlaamse overheid worden de datasets betreffende 
+mobiliteit beschikbaar gesteld voor hergebruik. Alle mobiliteitsgerelateerde 
+overheidsdata wordt via deze weg ter beschikking gesteld.
+3. De meldingen voor risico en gevaar in het Mobilidata programma worden meegegeven 
+over heel Vlaanderen, dus ook de lokale wegen indien een dergelijke situatie zich daar 
+voordoet.

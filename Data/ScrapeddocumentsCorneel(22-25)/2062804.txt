@@ -1,0 +1,89 @@
+title: Gezinnen met budgetmeter en zonnepanelen - Terugleververgoeding
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2062804
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1818051
+SCHRIFTELIJKE VRAAG
+nr. 500
+van ROBRECHT BOTHUYNE
+datum: 4 april 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Gezinnen met budgetmeter en zonnepanelen  -  Terugleververgoeding
+Sinds begin 2021 kunnen in Vlaanderen twee grote groepen PV-eigenaars (vermogen <10 
+kVA) worden onderscheiden: de ene groep heeft een analoge meter die werkt volgens het 
+principe van de terugdraaiende teller, de andere groep heeft een digitale meter en kan een 
+teruglevercontract afsluiten om de op het net geïnjecteerde stroom te valoriseren. De 
+huidige historisch hoge energieprijzen kunnen bij die laatste groep deels worden 
+gecompenseerd door de injectievergoeding, die mee is gestegen met de energieprijzen. 
+Een derde, weliswaar kleine, maar kwetsbare groep zijn de gezinnen met een budgetmeter 
+én zonnepanelen. Die klanten zouden door Fluvius niet vergoed worden voor de stroom die 
+ze op het net injecteren.
+1. Hoeveel gezinnen hadden er in 2023 een budgetmeter voor elektriciteit? Graag 
+totaalaantal en opdeling naar digitale of klassieke budgetmeter.
+2. Wat was in 2023 de mediane (energie-gerelateerde) schuld van die gezinnen (zowel 
+bij de netbeheerder als bij de commerciële energieleverancier)? 
+3. Hoeveel van de gezinnen uit deelvraag 1 woonden in 2023 in een woning met 
+zonnepanelen? Graag totaalaantal en opdeling naar:
+a) provincie;
+b) digitale of klassieke budgetmeter.
+4. Hoeveel stroom injecteerden die gezinnen in 2023 op het distributienet (totaal en de 
+mediane waarde per gezin)?
+5. Met welke monetaire waarde komt die stroom overeen (uitgaande van het mediaan 
+injectietarief in 2023)?
+6. Hoe evalueert de minister bovenstaande cijfers? 
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 500 van 4 april 2024
+van ROBRECHT BOTHUYNE
+1. Consultatie van de cijfers op het publiek toegankelijke dashboard ‘Sociale statistieken’ 
+van de VREG ( https://dashboard.vreg.be/report/DMR_SODV%20DNB.html) leert dat 
+er eind 2023 in Vlaanderen 59.696 actieve budgetmeters voor elektriciteit waren. De 
+opdeling per provincie is niet opgenomen in de rapportaering van Fluvius. Zoals al 
+aangegeven zijn er sinds 1 januari 2023 geen analoge budgetmeters meer in gebruik 
+in Vlaanderen.
+2. Voor de energiegerelateerde schuld bij de commerciële leveranciers verwijs ik naar het  
+dashboard van de VREG waar men de maandelijkse evolutie van deze parameter in 
+2023 kan terugvinden. Medio juni publiceert de VREG ook het sociaal rapport waarin 
+ook de mediane (energiegerelateerde) schuld van gezinnen bij commerciële 
+leveranciers opgenomen is. Op dit moment is de analyse van de aangeleverde 
+statistieken volop bezig. Bij de netbeheerders was in 2023 de gemiddelde uitstaande 
+schuld voor elektriciteit 1.024 euro en voor aardgas 958 euro.
+3. In 2023 waren er 1.930 gezinnen met een digitale budgetmeter en zonnepanelen. De 
+opsplitsing tussen een digitale en klassieke budgetmeter is sinds januari 2023 niet meer 
+relevant aangezien de klassieke meters intussen allemaal vervangen werden door 
+digitale meters met prepaidfunctie. De meters zijn als volgt verdeeld over de 
+provincies:
+Provincie Aantal gezinnen met budgetmeter en PV
+Antwerpen 396
+Limburg 289
+Oost-Vlaanderen 561
+Vlaams-Brabant 259
+West-Vlaanderen 425
+TOTAAL 1930
+4. In 2023 bedroeg de totaal geïnjecteerde stroom 3.125.591 kWh, ofwel gemiddeld 1.619 
+kWh per gezin.
+5. Gerekend met een gemiddeld injectietarief van 0,07 euro/kWh in 2023 komt de 
+hoeveelheid geïnjecteerde stroom overeen met een monetaire waarde van 113,33 euro 
+per gezin.
+6. Het aandeel van de 1.930 gezinnen met een actieve budgetmeter en zonnepanelen 
+bedraagt ongeveer 0,06% van de Vlaamse huishoudelijke afnemers. Het klopt dat er 
+enkel op de commerciële markt een aanbod van terugleveringscontracten is voor 
+klanten met zonnepanelen en een digitale meter. Dat kan met een leverancier naar 
+keuze. Als een afnemer geen terugleveringscontract afsluit, dan wordt de geïnjecteerde 
+elektriciteit toegewezen aan de distributienetbeheerder. De regelgeving bepaalt dat die 
+daarvoor geen vergoeding toekent.
+De sociale openbaredienstverplichtingen van hun kant bepalen dat gedropte klanten 
+die worden beleverd door de netbeheerder terug kunnen keren naar de commerciële 
+markt vanaf het moment dat ze schuldenvrij zijn bij de netbeheerder. Uiteraard geldt 
+dit ook voor afnemers met een digitale budgetmeter en zonnepanelen. Sinds juli 2022 
+kunnen elektriciteitsklanten wiens contract wegens wanbetaling wordt opgezegd enkel 
+nog via voorafbetaling elektriciteit afnemen bij Fluvius. Bijgevolg worden daar ook geen 
+schulden meer opgebouwd, wat een snelle terugkeer naar een voordeliger contract op 
+de markt sterk faciliteert. Naast een voordeliger tarief voor afname kunnen deze 
+klanten daar dan bijkomend genieten van de terugleveringsvergoeding. Het voordeel 
+van een switch naar een commercieel contract kan op jaarbasis momenteel tot 280 
+euro bedragen; zo leert de V-test voor een elektriciteitsgebruik van 3500 kWh en 
+injectie van 1619 kWh (niet-beschermde afnemer, V-test dd. 19 april 2024). Het is 
+voor mij alleszins erg belangrijk dat we afnemers niet langer dan nodig laten beleveren 
+door Fluvius als sociale leverancier.

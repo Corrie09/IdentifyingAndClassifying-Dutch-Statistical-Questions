@@ -1,0 +1,95 @@
+title: Zonnepanelen - Recyclage
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2051271
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1809120
+SCHRIFTELIJKE VRAAG
+nr. 405
+van ROBRECHT BOTHUYNE
+datum: 1 maart 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Zonnepanelen  -  Recyclage
+Zonnepanelen zijn robuuste elementen die bestaan uit roestvrij staal, isolatie, silicium en 
+plexiglas. De levensduur van de panelen varieert, maar een minimum zou rond de 25 jaar 
+moeten liggen. Daarom is het recycleren van zonnepanelen bijzonder belangrijk. Niet 
+alleen om de grondstoffen te recupereren, maar ook om het afval op een zo goed mogelijke 
+manier te beheren. 
+Afgedankte elektrische apparaten vallen onder een Europese richtlijn die eindigt in de 
+aanvaardingsplicht van die apparaten. De beroepsfederaties hebben daartoe, in mei 2016, 
+PV Cycle Belgium opgericht. Via een milieubijdrage per zonnepaneel kan de inzameling en 
+verwerking van zonnepanelen gebeuren. 
+1. Hoeveel zonnepaneleninstallaties waren er in 2023? Graag totaalaantal en opdeling 
+naar provincie en opgewekte elektriciteit. 
+2. Hoeveel ton zonnepaneleninstallaties (schatting) waren er in 2023 (geschat tonnage)? 
+3. Hoeveel bijkomend vermogen/gewicht werd er in 2023 geïnstalleerd en dat bij kennis 
+van het Vlaams Energie- en Klimaatagentschap (VEKA)? 
+4. Hoe ziet de minister de evolutie van bovenstaande cijfers? 
+5. Hoeveel ton (schatting) aan (afgedankte) zonnepaneleninstallaties werden er in 2023 
+door PV Cycle ingezameld? Graag totaalaantal (ton) en opdeling naar opgewekte 
+elektriciteit. 
+6. Hoe ziet de minister de evolutie van bovenstaande cijfers? 
+7. Hoeveel inzamelpunten zijn er in Vlaanderen in het jaar 2023? Graag totaalaantal 
+inzamelpunten en opdeling naar provincie.
+8. Welke incentives geeft de minister aan PV Cycle Belgium om voldoende inzamelpunten 
+per provincie te hebben? Waar zullen er nog bijkomen? Hoeveel zijn dat er? 
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 405 van 1 maart 2024
+van ROBRECHT BOTHUYNE
+1. Een overzicht van het geïnstalleerd vermogen en het aantal PV-installaties is 
+raadpleegbaar op de website van het Vlaams Energie- en Klimaatagentschap (VEKA) 
+en bedraagt momenteel (cijfers op 31/01/2024):
+Locatie Aantal 
+installatiesVermogen (in 
+MW)
+Antwerpen 215.324 1.434
+Limburg 145.387 1.119
+Oost-Vlaanderen 223.240 1.444
+Vlaams-Brabant 145.939 831
+West-Vlaanderen 191.011 1.339
+Vlaanderen 920.901 6.167
+2. Het totale tonnage dat geïnstalleerd werd in Vlaanderen is moeilijk te berekenen. Het 
+gemiddelde gewicht van de panelen is de afgelopen decennia sterk gedaald en de 
+opbrengst per paneel is enorm toegenomen. Schattingen variëren tussen de 450.000 
+en 650.000 ton.
+3. Volgens het VEKA werd in 2023 een bijkomend vermogen geïnstalleerd van 1.087 MW 
+vermogen. PV Cycle schat dat in 2023 een tonnage van 93.000 ton geplaatst werd in 
+Vlaanderen (4,2 miljoen stuks).
+4. Het geactualiseerde Klimaatplan van het VEKA gaat uit van een jaarlijks bijkomend 
+vermogen van 500 MW, zodat in 2030 een capaciteit van 8,9 GW in Vlaanderen bereikt 
+wordt. Op kortere termijn zijn de trends moeilijker te voorspellen. 2023 was een 
+recordjaar op het vlak van aangiften van zonnepanelen bij PV Cycle. De 
+zonnepanelenmarkt is evenwel erg volatiel. De eerste signalen wijzen op een sterke 
+terugval in 2024.
+5. In 2023 werd in België 717 ton ingezameld. Dat komt naar schatting overeen met een 
+vermogen van 11 kW. In Vlaanderen werd 624 ton ingezameld.
+6. Het aantal afgedankte zonnepanelen blijft voorlopig laag, maar stijgt jaarlijks. Het 
+massaal plaatsen van zonnepanelen is begonnen in 2004 en piekte in 2011 en 2020. 
+De verwachte levensduur is 25 jaar. PV Cycle verwacht daarom dat de inzameling de 
+komende 15 jaar gestaag zal stijgen en rond 2037 zal pieken op ongeveer 30.000 
+ton/jaar.
+7. Het aantal inzamelpunten wordt in volgende tabel weergegeven:
+Locatie Aantal 
+inzamelpunten
+Antwerpen 10
+Limburg 12
+Oost-Vlaanderen 10
+Vlaams-Brabant 5
+West-Vlaanderen 16
+Vlaanderen 53
+8. Het beheersorganisme zorgt voor de opstelling van voldoende inzamelpunten die op 
+evenwichtige wijze verdeeld zijn over het Vlaamse Gewest, zodat een voldoende 
+dekkingsgraad van het grondgebied gegarandeerd wordt. Hierover werden afspraken 
+gemaakt in het aanvaardingsplichtconvenant. In 2022 heeft PV Cycle al haar bestaande 
+inzamelpunten bezocht. Daarnaast heeft het beheersorganisme op basis van het 
+overzicht van het geïnstalleerd vermogen in het Vlaamse Gewest een beter inzicht 
+verworven van waar best nog bijkomende inzamelpunten voorzien worden. Immers, 
+niet in elke provincie zijn er hetzelfde aantal PV-installaties. Op basis hiervan werkt PV 
+Cycle voortdurend aan een verdere en betere uitbouw van haar inzamelnetwerk. 
+De vergoedingen voor de inzamelpunten worden op dit ogenblik geëvalueerd door PV 
+Cycle. Wellicht komt er op korte termijn een verhoging van de vergoeding, maar de 
+respons op het terrein is nu reeds goed.
+Naast de inzameling via inzamelpunten zorgt PV Cycle op aanvraag ook voor de gratis 
+ophaling van zonnepanelen op elke plaats in België, voor zover er minimaal 40 panelen 
+vrijkomen.

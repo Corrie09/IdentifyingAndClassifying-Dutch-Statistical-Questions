@@ -1,0 +1,54 @@
+title: Verkeersveiligheid - Dataverwerving
+thema: Mobiliteit en Verkeer
+Openbare werken
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2082865
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1836509
+SCHRIFTELIJKE VRAAG
+nr. 52
+van ANDY PIETERS
+datum: 30 oktober 2024
+aan ANNICK DE RIDDER
+VLAAMS MINISTER VAN MOBILITEIT, OPENBARE WERKEN, HAVENS EN SPORT
+Verkeersveiligheid  -  Dataverwerving
+In het verleden werden in samenwerking met Waze mogelijkheden onderzocht voor 
+gegevensuitwisseling om zo verkeersveiligheidswinsten te boeken. Daarnaast werden met 
+FEBIAC (Fédération belge de l’Industrie de l’Automobile et du Cycle) gesprekken gevoerd 
+over de mogelijkheden om de gegevens uit rijveiligheidssystemen en remsystemen te 
+gebruiken, via de IBM SMAS-tool (SMAS: Smarter Mobility Analytics Studio), om zicht te 
+krijgen op zogenaamde grijze punten.
+Het beperken van zwaar verkeer in stedelijke gebieden is ook een belangrijk aandachtspunt 
+in verband met verkeersveiligheid. De vorige minister van Mobiliteit en Openbare Werken, 
+Lydia Peeters, had in dat kader vlak na haar aantreden al aangekondigd om 
+technologiebedrijven zoals Waze en Google te benaderen met als doel hun routeplanners 
+aan te passen, zodat zwaar verkeer niet langer door onze stadskernen en 
+schoolomgevingen wordt gestuurd.
+Het is van belang dat gevaarlijke zones geïdentificeerd worden zodat beschikbare middelen 
+efficiënt ingezet kunnen worden om die situaties te verbeteren. We moeten ons dan ook 
+blijven engageren om de vinger aan de pols te houden en het gebruik van data in het 
+verkeer maximaal te benutten ten voordele van de verkeersveiligheid.
+1. Is de minister van plan om dat beleid voort te zetten en overweegt zij daarbij 
+bijkomende initiatieven?
+2. Plant de minister nog bijkomende gesprekken in het kader van datagebruik in het 
+verkeer? Zo ja, welke?
+3. Hoe staat het met de maturiteit van het IBM SMAS-platform?
+ANNICK DE RIDDER
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN, HAVENS EN SPORT
+ANTWOORD
+op vraag nr. 52 van 30 oktober 2024
+van ANDY PIETERS
+1. Samenwerking met ontwikkelaars van verkeersapps kan helpen in het bereiken van 
+de doelstelling van een veiliger, vlotter en duurzamer verkeer. Ik sta dan ook positief 
+tegenover het verderzetten van deze samenwerking. In het kader van het Mobilidata 
+programma werken we zo bijvoorbeeld samen met app ontwikkelaars voor het 
+doorgeven van verkeersinformatie op maat van de weggebruiker.    
+Momenteel wordt er ook een Europees project ‘Tisgrade’ opgezet dat overheden en 
+kaart- en navigatie dienstverleners samenbrengt om problemen uit te klaren, 
+afspraken en standaarden op te maken en te implementeren. Vlaanderen zal hierin 
+ook participeren.  
+2. Zelf heb ik op dit ogenblik geen concrete gesprekken gepland met dergelijke partijen. 
+Een Europese aanpak is hier aangewezen aangezien de problematiek van het beter 
+afstemmen van de routering door navigatiediensten op beleidsdoelstellingen ook in 
+onze buurlanden speelt en verkeersapps niet stoppen aan landsgrenzen.  
+3. De maturiteit van het IBM-SMAS platform werd besproken in het antwoord op SV 573 
+van collega Rita Moors. Er zijn sindsdien geen verdere concrete contacten geweest met 
+Febiac of IBM hierover.

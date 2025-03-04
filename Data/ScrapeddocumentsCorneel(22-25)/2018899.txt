@@ -1,0 +1,114 @@
+title: Elektriciteitsleveringscontracten - Toekenning extra EAN-nummer of submeter
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2018899
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1780687
+SCHRIFTELIJKE VRAAG
+nr. 140
+van PETER VAN ROMPUY
+datum: 20 november 2023
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Elektriciteitsleveringscontracten  -  Toekenning extra EAN-nummer of submeter
+Deze vraag in opvolging van mijn schriftelijke vraag nr. 775 van 24 mei 2023 over de 
+toekenning van een extra EAN-nummer of submeter. 
+In het antwoord stelde de minister: 
+“De VREG geeft aan dat zij verder willen onderzoeken waar de verschillende knelpunten 
+zich bevinden en welke wijzigingen in regelgeving noodzakelijk zouden zijn om meerdere 
+elektriciteitsleveringscontracten (al dan niet via submeters) verder te faciliteren in 
+Vlaanderen. Het VEKA zal hierover ook in dialoog gaan met de VREG en mee bekijken 
+welke regelgeving er mogelijks moet worden aangepast.”
+Reeds op 1 januari 2023 leverde netbeheerder Fluvius hiertoe een visienota aan.
+De regelgeving omtrent de plaatsing van de submeter is vandaag bijzonder strikt. Zo is 
+plaatsing alleen toegestaan direct naast de oorspronkelijke meter. Daarnaast is de 
+submeter meteen een tweede hoofdmeter. Dat kan veel kleiner en goedkoper uitgevoerd 
+worden.
+Daarnaast wordt de bestaande EU-Elektriciteitsrichtlijn (‘EMD’) herzien. In het voorstel van 
+de Europese Commissie (14 maart 2023) wordt ook het recht voor afnemers om meerdere 
+elektriciteitsleveringscontracten op een toegangspunt te hebben, versterkt.
+1. Hoever staat de VREG met zijn onderzoek naar de knelpunten in functie van meerdere 
+elektriciteitsleveringscontracten (al dan niet via submeters) in Vlaanderen? 
+a) Welke stappen werden sinds de oplevering van de visienota van Fluvius gezet?
+b) Wat zijn de (voorlopige) conclusies en verdere timing voor een eventuele vertaling 
+in een wetgevend kader?
+2. Hoever staat de aanpassing van de EU-Elektriciteitsrichtlijn? 
+a) Welke elementen werden opgenomen in functie van meerdere 
+elektriciteitsleveringscontracten (al dan niet via submeters)?
+b) Wat is de verdere timing vanuit de EU? Evenals in functie van de omzetting ervan?
+3. Welke mogelijkheden ziet de minister doorheen dit proces voor een submeter zonder 
+dat dit een tweede hoofdmeter hoeft te zijn?
+4. Welke mogelijkheden ziet de minister doorheen dit proces om de submeter (of 
+tweede hoofdmeter) verder van de bestaande meter te plaatsen? 
+5. Hoeveel residentiële installaties met een submeter of tweede hoofdmeter zijn vandaag 
+al uitgevoerd?
+ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD 
+op vraag nr. 140 van 20 november 2023  
+van PETER VAN ROMPUY
+1. a) De Vlaamse Regulator voor de Energie- en Gasmarkt (VREG) geeft aan dat ze sinds 
+het ontvangen van de visienota van Synergrid enkele eerste interne analyses 
+uitgevoerd heeft waarbij de belangrijkste knelpunten in kaart werden gebracht. 
+Volgens de VREG zou de bestaande regelgeving nog niet voldoende voorzien zijn op 
+het faciliteren van meerdere leveringscontracten.
+b) Om stromen van aparte delen van de binneninstallatie van de 
+distributienetgebruiker te vermarkten, moet elke fysieke installatie eenduidig 
+worden voorgesteld in de markt. Daarop introduceerde de VREG in 2019 het begrip 
+‘allocatiepunt’ in het Technisch Reglement voor de Distributie van Elektriciteit in het 
+Vlaamse Gewest (TRDE). Op decretaal niveau bestaat vandaag enkel het 
+toegangspunt als concept om de relatie tussen netgebruikers en marktpartijen uit 
+te drukken. Het toegangspunt krijgt in het Energiedecreet een veeleer ‘fysieke’ 
+invulling – punt waar elektriciteit van het net wordt afgenomen en verbruikt, dan 
+wel geïnjecteerd – en is als dusdanig niet geschikt om te voorzien in een correcte 
+en eenduidige voorstelling van relaties tussen verschillende partijen in de markt, 
+indien men uitgaat van meerdere leveringscontracten. 
+Een eventuele aanpassing van het regelgevende kader voor meerdere 
+elektriciteitsleveringscontracten en submeters kan bij voorkeur tegelijk met de 
+omzetting van EMD 5 (zie punt 2a en 2b) naar Vlaamse regelgeving 
+geïmplementeerd worden.
+2. a) In het voorstel van de vijfde herziening van EU-elektriciteitsmarktwerking (EMD 5) 
+wordt het bestaande artikel 4 (in de elektriciteitsrichtlijn - 2019/944) over vrije 
+leverancierskeuze aangepast. In het aangepaste artikel wordt gesteld dat de 
+lidstaten erop moeten toezien dat alle afnemers vrij zijn om op hetzelfde moment 
+over meer dan 1 elektriciteitsleveringscontract te beschikken, en dat afnemers 
+daarom recht hebben op meer dan 1 meet- en factureringspunt voor het centrale 
+aansluitpunt voor hun terrein. Daarnaast is er in de elektriciteitsverordening ook 
+een nieuw artikel 7c dat de ‘dedicated measurement device’ (DMD) oftewel het 
+‘specifiek meettoestel’ introduceert. Dit gaat over een submeter of meter die 
+verbonden is met een toestel of ingebed is in een toestel (bv. een warmtepomp) 
+dat flexibiliteitsdiensten kan leveren. De gegevens uit dit ‘specifiek meettoestel’ 
+kunnen gebruikt worden door distributienetbeheerders en 
+transmissienetbeheerders in het kader van flexibiliteitsdiensten. Zowel voor 
+meerdere elektriciteitsleveringscontracten als voor flexibiliteitsdiensten zullen dus 
+submeters gebruikt kunnen worden. Daarbij zal nog bepaald moeten worden wat 
+de technische specificaties van deze submeters zullen zijn en welke partijen deze 
+zullen kunnen plaatsen.
+b) Op 14 maart 2023 publiceerde de Europese Commissie een nieuw voorstel voor de 
+herziening van de interne elektriciteitsmarktwerking. Op 14 september 2023 werd 
+het rapport met amendementen op het voorstel van de Commissie vanuit het 
+Europees Parlement goedgekeurd. Op 17 oktober 2023 werd er binnen de Europese 
+Raad overeenstemming bereikt (algemene oriëntatie) over het voorstel tot 
+herziening van de interne elektriciteitsmarkt. De trilogen tussen de Europese 
+Commissie, de Raad en het Parlement onder leiding van het Spaanse 
+voorzitterschap zijn gestart op 19 oktober 2023. Op 14 december hebben de 
+Europese Commissie, de Raad en het Parlement een voorlopig akkoord bereikt over 
+de herziening van de interne elektriciteitsmarkt. 
+3. Voor submeters m.b.t. meerdere elektriciteitsleveringscontracten achter de meter zijn 
+er verschillende opties mogelijk. De netbeheerder Fluvius zou de submeters kunnen 
+plaatsen of eventueel kan er gewerkt worden met submeters van een derde partij. 
+In elk geval is er nieuwe regelgeving nodig om afspraken vast te leggen over de 
+verantwoordelijkheden voor deze meters en de data ervan (bijvoorbeeld op het vlak 
+van validatie van de gegevens). Ook de captatie van de gegevens van meters van derde 
+partijen zou nog moeten geïmplementeerd worden. Deze stappen zijn heel gelijkaardig 
+aan wat er nodig is voor de ondersteuning van DMD (zoals voorzien in de 
+elektriciteitsverordening). De verschillende vormen van submetering zouden dan best 
+ook samen bekeken worden.
+Een nieuw regelgevend kader rond submetering kan bij voorkeur tegelijk 
+geïmplementeerd worden met de omzetting van EMD 5 naar Vlaamse regelgeving.
+4. Momenteel is er een geen specifieke of strikte regelgeving over de plaatsing van 
+submeters, behalve voor submeters of meters in het kader van flexibiliteit met een 
+energieoverdracht. Fluvius geeft aan dat het bij een submeteropstelling, waarbij een 
+tweede hoofdmeter achter een gemeenschappelijke beveiliging zit, belangrijk is dat de 
+afstand tussen de hoofdmeter en submeter beperkt wordt omwille van veiligheid en 
+fraudegevoeligheid.
+5. Volgens Fluvius zijn er momenteel 20 actieve digitale meters in parallel met een 
+bestaande digitale meter geplaatst.

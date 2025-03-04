@@ -1,0 +1,105 @@
+title: Elektrificatie vrachtvervoer - Rechtzetting laadcapaciteit
+thema: Energie
+Mobiliteit en Verkeer
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2016627
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1779110
+SCHRIFTELIJKE VRAAG
+nr. 205 
+van ANNICK DE RIDDER
+datum: 14 november 2023
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Elektrificatie vrachtvervoer  -  Rechtzetting laadcapaciteit
+De elektrificatie van het vrachtvervoer is een belangrijke manier om onze logistieke keten 
+te vergroenen en de klimaatdoelstellingen te halen. Bedrijven pionieren er op los en het 
+gamma elektrische vrachtwagens breidt navenant uit. 
+Natuurlijk is een dergelijke transitie niet zonder uitdagingen: een ervan is het toenemende 
+gewicht van de batterijen. Het extra gewicht van de batterij van een elektrische 
+vrachtwagen kan oplopen tot twee ton. Dat betekent dat een vrachtwagen aangedreven 
+door diesel, bij eenzelfde opgelegde maximale laadcapaciteit, tot twee ton meer lading kan 
+vervoeren dan zijn elektrische tegenhanger. Private spelers zullen daardoor minder bereid 
+zijn om een elektrische vrachtwagen aan te kopen, waardoor de transitie naar duurzaam 
+wegtransport wordt vertraagd.
+Europa heeft deze uitdaging al onderkend en verwerkt in de Europese wetgeving voor 
+maten en gewichten. Zo kan een elektrische vrachtwagen tot twee ton extra maximaal 
+treingewicht verkrijgen, ten belope van het gewicht van de batterij, ten opzichte van de 
+vrachtwagens aangedreven op diesel. Hierdoor kan het extra gewicht van de zero-
+emissietechnologie worden opgevangen en wordt er een gelijk speelveld gecreëerd tussen 
+beide alternatieven. 
+In Vlaanderen is men ook volop bezig deze discrepanties recht te zetten. Sinds 2021 is het 
+mogelijk voor voertuigen die aan bepaalde voorwaarden voldoen, waaronder minstens 3 
+assen voor het getrokken en trekkend voertuig, om een maximale laadcapaciteit van 48 
+ton te hanteren in plaats van de standaard 44 ton. Daarbij mogen emissievrije voertuigen 
+tot twee ton extra vervoeren als compensatie voor het extra gewicht van de batterij, naar 
+analogie met Europa. Een goed initiatief om de elektrificatie kracht bij te zetten.
+En toch mist deze maatregel in Vlaanderen grotendeels zijn doel. De meest voorkomende 
+combinatie vrachtvervoer in Vlaanderen, en Europa, is namelijk een trekkend tweeassig 
+voertuig met een getrokken drieassig voertuig met een maximale laadcapaciteit tot 44 ton 
+in Vlaanderen. Dat impliceert dat een groot deel van de emissievrije vrachtwagens nog 
+steeds een concurrentieel nadeel heeft ten opzichte van zijn tegenhanger aangedreven op 
+diesel.
+Omdat dat sinds de zesde staatshervorming een regionale bevoegdheid is, en een 
+duurzame transitie van onze logistieke sector hoog in het vaandel wordt gedragen door de 
+Vlaamse Regering, de volgende vragen aan de minister.
+1. Is de minister op de hoogte van deze problematiek?
+2. Waarom krijgen enkel (emissievrije) vrachtwagens die aan bepaalde voordelen 
+voldoen, zoals een drieassig trekkend en getrokken voertuig, een grotere maximale 
+laadcapaciteit?
+3. Wordt er werk gemaakt van het doortrekken van het gelijke speelveld naar 
+(emissievrije) vrachtwagens met een maximale laadcapaciteit van 44 ton, zodat ook 
+deze emissievrije vrachtwagens tot 2 ton meer kunnen laden? Zo ja, kan de minister 
+daar een timing en een stand van zaken van geven? Zo niet, waarom?
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD
+op vraag nr. 205 van 14 november 2023
+van ANNICK DE RIDDER
+1. Ik ben op de hoogte van deze problematiek en mijn administratie maakt werk van 
+een aanpassing van de wetgeving om de overgang naar een emissievrije logistiek te 
+faciliteren (zie ook het antwoord op deelvraag 2). 
+2. Een eerste aanpassing aan het KB technische eisen artikel 32bis is gebeurd in het 
+kader van de invoering van voertuigcombinaties met een MTM tot 50 ton. Bij deze 
+aanpassing hebben we reeds een onderscheid gemaakt tussen klassiek aangedreven 
+voertuigcombinaties en emissievrije voertuigcombinaties. Naast de invoering van 
+48/50 ton, werd ook een verhoging voorzien voor enkelvoudige motorvoertuigen met 
+2 (19 t+ 2t) of 3 assen (26 +2 t).
+Momenteel wordt er gewerkt aan een volledige herziening van het KB technische eisen 
+artikel 32bis op vlak van massa’s van voertuigen. In deze algemene herziening 
+worden voor alle emissievrije voertuigen en voertuigcombinaties waar mogelijk een 
+verhoging van maximaal 2 ton voorzien, waardoor de meeste 5-assige emissievrije 
+combinaties een MTM krijgen tot 46t (i.p.v. 44 ton). Ook voor andere combinaties 
+worden waar mogelijk tonnageverhogingen toegestaan.
+Het klopt dat combinaties met een 2-assige trekker en een 3-assige oplegger geen 
+tonnageverhogingen krijgen tot 48/50t. Dit is een gevolg van de (te compacte) massa 
+onder de assen van de oplegger/aanhangwagen en de draagkracht van onze bruggen.
+Een tridem van 27t met asafstanden tussen 1,3m en 1,8m (zoals toegelaten in het 
+huidig art 32bis) is heel nadelig in vergelijking met de ontwerpnormen die gebruikt 
+werden voor het ontwerp van onze bruggen en tunnels tot begin jaren 90. Dit komt 
+neer op +/- 70% van ons patrimonium. In deze ontwerpnormen werd uitgegaan van 
+een 5-assig voertuig van 32t met een maximale aslast van 12t en een asafstand van 
+4m. Als je dit vergelijkt met een tridem van 27t op een totale afstand van +/-3m, is 
+deze tridem een heel stuk nadeliger.
+In de praktijk kan een 3-assige oplegger van 44t geen 27t op de achterste 3 assen 
+halen, aangezien deze minimum 25% (= 11t) op de aangedreven as moet hebben en 
+al snel 7 à 8t heeft op de voorste as omwille van het gewicht van de trekker. Dit 
+maakt dat er zich in de praktijk maximaal +/- 25 à 26t op de achterste 3 assen kan 
+bevinden. Hierdoor bleef de belasting ten gevolge van de combinaties in de praktijk 
+tot dusver beperkt. Bij hogere toegelaten massa’s van de combinatie is deze 
+praktische beperking er niet meer en krijgen we dus een zware tridem in combinatie 
+met nog eens zwaardere aslasten van de trekker in de buurt er bovenop.
+Daarom werd voor 48/50t de som van de massa onder de assen van het getrokken 
+voertuig beperkt. Momenteel is dit maximaal 25t, in de volledige herziening passen 
+we dit aan naar maximaal 27t. In het geval dat de 3 assen een tridem vormen houden 
+we dit op 25t. Dat is meteen ook de voornaamste reden om een 6-assige combinatie 
+te maken. Aangezien een 2-assige emissievrije trekker slechts 21t mag wegen, is het 
+totaalgewicht beperkt tot 48t in plaats van het gewenste 50t of in het geval van een 
+tridem achteraan is het slechts beperkt tot 46t. Aangezien deze maxima uitgaan van 
+een perfecte verdeling van de lading, wat in de praktijk onrealistisch is en een groot 
+risico inhoudt op het overladen van de assengroepen, wordt het maximum voor een 
+5-assige emissievrije voertuigcombinatie op 46t gehouden.
+3. Ja, de administratie werkt aan een voorstel voor een BVR ter aanpassing van het KB 
+technische. In deze herziening verhogen we de MTM van 5-assige emissievrije 
+voertuigcombinaties met 2 ton. Dit voorstel wordt besproken op een 
+stakeholdersoverleg met de belanghebbende sectoren. In 2024 wordt dit voorstel 
+voorgelegd aan de Vlaamse regering met het oog op een eerste principiële 
+goedkeuring.

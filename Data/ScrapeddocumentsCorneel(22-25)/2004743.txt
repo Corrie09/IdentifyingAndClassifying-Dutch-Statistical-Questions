@@ -1,0 +1,362 @@
+title: Dynamische lijst zwarte verkeerspunten - West-Vlaanderen
+thema: Mobiliteit en Verkeer
+Openbare werken
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2004743
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1765154
+SCHRIFTELIJKE VRAAG
+nr. 27
+van BRECHT WARNEZ
+datum: 28 september 2023
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Dynamische lijst zwarte verkeerspunten  -  West-Vlaanderen
+Zwarte punten vormen een ernstig probleem binnen het hedendaagse verkeersbeheer. Een 
+zwart verkeerspunt is een gevaarlijk kruispunt op de weg. Naast het feit dat ze gevaarlijk 
+zijn voor weggebruikers, kunnen ze ook leiden tot ernstige verwondingen en zelfs dodelijke 
+slachtoffers. Het is van cruciaal belang om zwarte punten te identificeren, te begrijpen en 
+nauwlettend te monitoren om de verkeersveiligheid te verbeteren. Daarnaast kan een 
+grondige monitoring van zwarte punten ook een doelgerichte aanpak bevorderen en zorgen 
+voor een efficiënter gebruik van middelen.
+Sinds enkele jaren wordt met het oog op de wegwerking van gevaarlijke verkeerspunten 
+een dynamische lijst gepubliceerd. Om te bepalen welke verkeerspunten op de lijst komen, 
+wordt het 531-scoresysteem toegepast op basis van de ongevallenstatistieken van de 
+voorbije drie jaar. Elk dodelijk slachtoffer telt voor vijf punten, elk zwaargewond slachtoffer 
+voor drie punten en elk lichtgewond slachtoffer voor één punt. Indien een bepaald 
+verkeerspunt vijftien punten behaalt, komt het op de lijst.
+De minister heeft de ambitie geuit om ‘grijze punten’ te traceren voor ze ‘zwart’ worden. 
+Deze grijze punten zijn locaties waar (nog) geen of niet veel slachtoffers vallen maar waar 
+de situatie wel structureel onveilig is. De ontwikkelingen in het Mobilidata-programma en 
+de historische data die in het kader van dit programma worden opgeslagen, vormen 
+daarvoor een opportuniteit.
+Deze vraag is een vervolgvraag van mijn schriftelijke vraag nr. 383 van 12 december 2022.
+Gelieve alle gegevens beschikbaar te stellen in Excel. 
+1. Kan de minister de meest recente dynamische lijst beschikbaar stellen van de provincie 
+West-Vlaanderen? Wat is de top 5 van zwarte punten voor de minister?
+2. Hoe evalueert de minister de resultaten die de afgelopen jaren geboekt werden 
+aangaande het verbeteren van de verkeersveiligheid op deze punten? 
+a) Welke zwarte punten werden het afgelopen jaar weggewerkt, en welke zijn er 
+bijgekomen? 
+b) Zijn er meer of minder zwarte punten dan de voorbije jaren, en hoe staat de 
+minister daar tegenover? Graag een update tot en met 2023.
+3. Wat is voor de zwarte verkeerspunten in West-Vlaanderen die (nog) op de lijst staan:
+a) de stand van zaken;
+b) de timing om ze aan te pakken;
+c) het vermoedelijke budget;
+d) de eventueel betrokken partners?
+Graag een lijst per verkeerspunt.
+4. Kan de minister een update van de lijst bezorgen van het aantal ongevallen op de 
+gevaarlijke punten in West-Vlaanderen voor 2019, 2020, 2021, 2022 en 2023? 
+Hoeveel dodelijke, zwaargewonde en lichtgewonde slachtoffers waren er per ongeval? 
+Graag een lijst van het aantal ongevallen per verkeerspunt en graag met vermelding 
+van het type weggebruiker (bv. automobilist, fietser, voetganger…).
+5. Kan de minister een lijst van de getraceerde ‘grijze punten’ geven? 
+Zo ja, graag een overzicht per provincie.
+Zo niet, wanneer wordt die lijst verwacht?
+6. Kan de minister een actuele evaluatie geven van het IBM ‘SMAS’-platform dat grijze 
+punten detecteert in het wegennetwerk? 
+a) Hoe evalueert de minister het mogelijk gebruik van ‘Machine Learning’ bij het 
+detecteren van grijze punten?
+b) De minister besprak ook het gebruik van de MIA-proeftuinen om een 
+detectiemethode te ontwikkelen. 
+Kan de minister daarvan een update geven?
+7. Acht de minister nog bijkomende concrete initiatieven nodig, zowel op korte als lange 
+termijn, om de grijze punten aan te pakken? Graag een geüpdatet overzicht van de 
+geplande acties, met timing en budget, per punt voor de West-Vlaamse grijze punten.
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD 
+op vraag nr. 27 van 28 september 2023
+van BRECHT WARNEZ
+1. Hiervoor verwijs ik naar het antwoord op schriftelijke vraag nr. 383 van 12 december 
+2022. We leggen momenteel de laatste hand aan de nieuwste dynamische lijst met 
+gevaarlijke punten. De dynamische gevaarlijke puntenlijst 2023 wordt binnenkort 
+bekendgemaakt.
+2. Wanneer we alle unieke punten op de dynamische lijsten van 2018 t.e.m. 2022 
+bekijken, zijn dat er voor West-Vlaanderen 93. Op 58 punten zijn reeds werken 
+uitgevoerd, op 15 anderen zijn werken in uitvoering. Voorts zijn er 96 punten in 
+voorbereiding, 6 in onderzoek, 1 gepland en 1 afgesloten.
+In West-Vlaanderen staan er 12 nieuwe punten op de lijst van 2022, die nog nooit 
+eerder op een dynamische lijst voorkwamen. Voor West-Vlaanderen staan er 31 
+gevaarlijke punten op de dynamische lijst van 2022. Op de lijst van 2021 waren dat 
+32 punten. Het totale aantal blijft nagenoeg hetzelfde. Elk gevaarlijk punt is er een te 
+veel, verkeersveiligheid blijft voor mij een topprioriteit. 
+3. Op de dynamische lijst van 2022 staan in West-Vlaanderen 31 locaties op 
+gewestwegen. Daarvan zijn er 4 in onderzoek, 5 in voorbereiding, 4 in uitvoering en 
+18 uitgevoerd. De antwoorden op de deelvragen vindt u terug in de tabel in de bijlage.
+4. Hieronder volgen de letselongevallengegevens voor de 31 gevaarlijke punten van de 
+dynamische gevaarlijke puntenlijst 2022 in de provincie West-Vlaanderen, met daarbij 
+de letselernst en de bij de ongevallen betrokken vervoerswijzen in de 
+overeenstemmende periode (2018-2020), aangevuld met de meest recent 
+gelokaliseerde ongevallen van het jaar 2021 (originele bron: FOD Economie, Statbel).
+ 
+Gemeente Locatie (straatnamen) Periode 2018-2020 Jaar 2021
+Brugge Baron Ruzettelaan, 
+Kortrijkstraat, 
+Vaartdijkstraat8 ONG (2 ZG, 7 LG; 6x PA-
+fiets, PA-bromfiets, fiets-
+fiets)2 ONG (2 LG; 2x 
+PA-fiets)
+Brugge Buiten De Kruispoort, 
+Buiten Kazernevest, Buiten 
+Kruisvest, Langestraat, 
+Moerkerkse Steenweg14 ONG (17 LG; 4x PA-
+bromfiets, 5x PA-PA, 2x 
+PA-fiets, fiets-fiets, 
+bromfiets-motorfiets,  PA-
+onbekend)4 ONG (5 LG; 3x 
+PA-PA, PA-fiets)
+Brugge Buiten Begijnenvest, 
+Oostmeers, Stationsplein13 ONG (2 ZG, 16 LG; 4x 
+PA-fiets, 2x PA-PA, fiets-
+fiets, fiets-bromfiets, PA-
+lichte VRW, PA-
+voetganger, fiets-
+motorfiets, PA-bromfiets, 
+autobus-PA)3 ONG (4 LG; 2x 
+PA-fiets, 
+bromfiets-fiets)
+Brugge Leopold II-laan, Leopold I-
+laan, Scheepsdalelaan8 ONG (1 D, 2 ZG, 6 LG; 
+2x PA-bromfiets, 2x PA-
+fiets, 2x lichte VRW-
+bromfiets, fiets-fiets, 
+VRW-fiets)1 ONG (1 LG; 
+bromfiets-
+voetganger)
+Brugge Koningin Astridlaan, 
+Koning Leopold III-laan, 
+Torhoutse Steenweg9 ONG (2 ZG, 7 LG; 6x PA-
+fiets, VRW-fiets, VRW-
+bromfiets, eenzijdig 
+onbekend)4 ONG (4 LG; 2x 
+PA-fiets, PA-
+speedpedelec, 
+PA-PA)
+Brugge Albert Serreynstraat, 
+Gistelse Steenweg, Koning 
+Leopold III-laan7 ONG (1 ZG, 7 LG; 3x PA-
+bromfiets, 2x PA-fiets, PA-
+VRW, lichte VRW-fiets)0 ONG
+Damme Hoornstraat, Natiënlaan 6 ONG (1 D, 1 ZG, 7 LG; 
+PA-PA, PA-lichte VRW, 
+eenzijdig PA, PA-VRW, 
+VRW-voetganger, VRW-
+onbekend)0 ONG
+De Haan Blankenbergsesteenweg, 
+N34 Richting Knokke-
+Heist, Neptunuslaan5 ONG (3 ZG, 4 LG; 2x PA-
+fiets, bromfiets-fiets, PA-
+motorfiets, VRW-lichte 
+VRW)2 ONG (1 ZG, 1 
+LG; 2x PA-
+bromfiets)
+De Panne Duinkerkekeiweg, 
+Moeresteenweg, N39 
+Richting Dunkerque(F), 
+N39 Richting Nieuwpoort5 ONG (2 ZG, 6 LG; 2x PA-
+fiets, PA-bromfiets, PA-
+bromfiets-voetganger, 
+PA-lichte VRW)0 ONG
+Izegem Kruisstraat, 
+Roeselaarsestraat8 ONG (10 LG; 5x PA-fiets, 
+PA-bromfiets, lichte VRW-
+fiets, lichte VRW-
+voetganger)1 ONG (1 LG; 
+PA-bromfiets)
+Jabbeke Gistelsteenweg, Kerkeweg, 
+N367 Brugge (N32) - 
+Nieuwpoort (N380)6 ONG (1 D, 7 LG; 2x PA-
+voetganger, 2x PA-PA, PA-
+fiets, PA-motorfiets)0 ONG
+Jabbeke A10-E40 Richting Brussel 
+Oprit 6, Stationsstraat, 
+Weststraat3 ONG (5 ZG, 3 LG; PA-
+motorfiets, PA-PA, 
+eenzijdig PA)0 ONG
+Kortrijk Doorniksesteenweg, N50 
+Richting Mons, Sint-
+Margriete-Houtemlaan5 ONG (4 ZG, 1 LG; 5x PA-
+fiets)0 ONG
+Kortrijk Burgemeester Mayeurlaan, 
+Doorniksesteenweg, N50 
+Richting Mons8 ONG (1 ZG, 8 LG; 5x PA-
+fiets, 2x PA-bromfiets, 
+VRW-fiets)2 ONG (2 LG; 
+PA-bromfiets, 
+lichte VRW-
+fiets)
+Kortrijk Kortrijksestraat, 
+Meensestraat, N8 Richting 
+Koksijde, Noordstraat, R36 
+Binnenring, R36 Buitenring11 ONG (12 LG; 4x PA-
+fiets, 3x PA-bromfiets, PA-
+voetganger, eenzijdig PA, 
+fiets-fiets, VRW-fiets)2 ONG (2 LG; 2x 
+PA-fiets)
+Kortrijk Minister Tacklaan, N50h 
+Tacklaan-Wandelweg, N50 
+Richting Mons, R36 
+Buitenring, Wandelweg7 ONG (3 ZG, 6 LG; 5x PA-
+fiets, fiets-voetganger, 
+VRW-autobus)1 ONG (2 LG; 
+bromfiets-
+bromfiets)
+Kortrijk A19 Richting Ieper, R8 
+Binnenring, R8 Buitenring7 ONG (1 D, 1 ZG, 10 LG; 
+4x PA-PA, PA-lichte VRW, 
+PA-VRW, VRW-lichte 
+VRW)1 ONG (2 LG; 
+PA-PA)
+Kortrijk, 
+KuurneHeirweg, N395b 
+Parallelweg R8 Zuid, R8 
+Binnenring, R8 Buitenring, 
+Ringlaan10 ONG (2 ZG, 13 LG; 4x 
+PA-fiets, 2x PA-lichte 
+VRW, PA-bromfiets, PA-
+PA, PA-VRW, PA-
+gemotoriseerd 
+voortbewegingstoestel)2 ONG (1 ZG, 1 
+LG; VRW-fiets, 
+eenzijdig PA)
+Kuurne Brugsesteenweg, N395a 
+Parallelweg R8 Noord, N50 
+Richting Brugge, R8 
+Buitenring10 ONG (1 D, 9 LG; 5x PA-
+PA, 2x PA-bromfiets, PA-
+lichte VRW, VRW-fiets, 
+PA-motorfiets)1 ONG (1 ZG; 
+PA-VRW)
+Menen N58 Richting 
+Armentières(F), N58 
+Richting Dottignies3 ONG (1 D, 5 ZG, 4 LG; 
+2x PA-PA, VRW-PA)0 ONG
+Oostende Elisabethlaan, 
+Gistelsesteenweg12 ONG (16 LG; 8x PA-PA, 
+3x PA-fiets, PA-
+voetganger)4 ONG (11 LG; 
+3x PA-PA, PA-
+lichte VRW)
+Oostende Kreekstraat, Ringlaan, 
+Zandvoordestraat10 ONG (10 LG; 4x PA-
+fiets, 3x PA-voetganger, 
+PA-bromfiets, eenzijdig 
+fiets, lichte VRW-fiets )5 ONG (6 LG; 
+PA-PA, PA-fiets, 
+PA-voetganger, 
+motorfiets-fiets, 
+eenzijdig 
+bromfiets)
+Oostkamp Albrecht Rodenbachstraat, 
+Brugsestraat7 ONG (1 ZG, 6 LG; 3x PA-
+fiets, eenzijdig fiets, 
+eenzijdig bromfiets, PA-
+bromfiets, PA-
+voetganger)2 ONG (2 LG; 
+PA-fiets, PA-PA)
+Oostkamp Europaplein, Siemenslaan, 
+Kapellestraat, 
+Gruuthuselaan7 ONG (1 D, 7 LG; 4x PA-
+fiets, PA-PA, eenzijdig PA, 
+PA-bromfiets)4 ONG (1 ZG, 3 
+LG; 2x PA-fiets, 
+PA-PA, fiets-
+onbekend)
+Gistel Keiweg, N358 Nieuwpoort 
+(N380) - Oostende (N9), 
+Oostendsesteenweg, 
+Vaartstraat9 ONG (2 ZG, 10 LG; 2x 
+VRW-fiets, 2x PA-PA, PA-
+fiets, VRW-bromfiets, PA-
+lichte VRW, PA-motorfiets, 
+PA-landbouwtractor)3 ONG (3 LG; 
+PA-PA, PA-lichte 
+VRW, PA-fiets)
+Roeselare Meensesteenweg (thv 
+Euroshop)6 ONG (1 D, 9 LG; 2x PA-
+bromfiets, 2x PA-
+voetganger, lichte VRW-
+bromfiets, eenzijdig PA)0 ONG
+Roeselare Hippoliet Spilleboutdreef, 
+Meensesteenweg, 
+Meiboomlaan, Westlaan21 ONG (1 ZG, 20 LG; 12x 
+PA-fiets, 3x lichte VRW-
+fiets, 3x PA-bromfiets, PA-
+PA, eenzijdig motorfiets, 
+autobus-fiets)12 ONG (14 LG; 
+5x PA-fiets, 4x 
+PA-bromfiets, 
+2x PA-PA, fiets-
+fiets)
+Roeselare Koestraat, N36 6 ONG (2 D, 5 LG; 4x PA-
+fiets, 2x PA-PA)0 ONG
+Roeselare R32, Meensesteenweg 10 ONG (21 LG; 4x PA-PA, 
+2x PA-lichte VRW, fiets-
+fiets, PA-motorfiets, PA-
+VRW, PA-fiets)4 ONG (4 LG; 2x 
+PA-PA, PA-fiets, 
+PA-motorfiets)
+Tielt Holdestraat, 
+Meulebeeksesteenweg5 ONG (2 ZG, 3 LG; 4x PA-
+fiets, lichte VRW-fiets)1 ONG (1 LG; 1x 
+PA-fiets)
+Zuienkerke Blankenbergse Steenweg, 
+N371 Brugge (N9) - 
+Blankenberge (N34), 
+Statiesteenweg6 ONG (2 ZG, 5 LG; 2x PA-
+fiets, PA-bromfiets, 
+eenzijdig PA, PA-lichte 
+VRW, PA-PA)4 ONG (6 LG; 2x 
+PA-PA, PA-
+bromfiets, lichte 
+VRW-bromfiets)
+Legende: 
+- ONG = letselongeval(len)
+- D = verkeersdode
+- ZG = zwaargewonde
+- LG = lichtgewonde
+- PA= personenauto
+- VRW = vrachtwagen
+5. Op dit moment bestaat er als zodanig geen lijst van getraceerde ‘grijze punten’. Er 
+lopen wel een aantal proefprojecten en initiatieven in dit kader, zoals onderzoek naar 
+de mogelijkheden op het vlak van het gebruik van in-car data (zie ook het antwoord 
+op deelvraag 6) en medewerking van burgers en/of lokale besturen in het kader van 
+melding en inventarisatie van knelpunten en/of aandachtspunten op het vlak van 
+verkeersveiligheid (platform Citizens4Safety in het kader van MIA, identificatie 
+schoolrouteknelpunten door lokale besturen …) Er worden m.a.w. nu ook reeds locaties 
+langs gewestwegen beveiligd buiten de dynamische gevaarlijke puntenlijst. 
+Er wordt ook verder gewerkt aan het wegwerken van de door de lokale besturen 
+ingediende knelpunten op schoolroutes langs gewestwegen. Op circa 300 locaties langs 
+gewestwegen werd reeds een ingreep uitgevoerd ter bevordering van de 
+verkeersveiligheid, op circa 110 locaties zijn de werken in uitvoering en op nog eens 
+200 locaties worden ingrepen opgestart in het najaar van 2023 of in de loop van 2024.
+6. Het IBM ‘SMAS’-platform werd enkele jaren geleden grondig geanalyseerd. Het 
+platform bleek echter nog niet matuur genoeg om aan de hand hiervan op een 
+voldoende betrouwbare manier ‘grijze punten’ te kunnen detecteren, o.m. ook door 
+een gebrek aan een consistente definitie, documentatie en systematiek om grijze 
+punten te kunnen identificeren en vraagtekens i.v.m. de representativiteit van de 
+gebruikte vloot van voertuigen. We zijn er ons echter wel van bewust dat data uit 
+voertuigen potentieel in zich dragen voor de aanpak van grijze punten.
+Vandaar dat met partners uit de automobielsector gesprekken lopen met het oog op 
+het delen van ‘in-car data’. Er zou o.a. data gedeeld kunnen worden afkomstig uit 
+aanwezige veiligheidssystemen in wagens. Hierbij wordt nader bekeken welke nieuwe 
+inzichten verworven kunnen worden op basis van deze gegevens en in welke mate dit 
+geïntegreerd kan worden in de huidige aanpak van gevaarlijke punten.
+Met betrekking tot de MIA-proeftuinen werd in West-Vlaanderen en Limburg 
+geëxperimenteerd met detectie en analyse van verkeersonveilige punten via het 
+inzetten van camera’s. Op kruispunten in Kortrijk, Roeselare, Zonnebeke, Beringen, 
+Dilsen-Stokkem en Lanaken werden camerabeelden verzameld, geanonimiseerd 
+(GDPR-proof) en geanalyseerd om verkeersonveilige situaties o.a. met fietsers te 
+detecteren. Het Agentschap Wegen en Verkeer (AWV) gaat nu de camera’s verder 
+inzetten bij het analyseren van risicovolle locaties over heel Vlaanderen. O.a. op het 
+kruispunt N229 x Rodenbachlaan x Torenstraat te Rotselaar zal door AWV aan de hand 
+van camera’s een conflictanalyse uitgevoerd worden. 
+7. Zoals in het vorige antwoord reeds vermeld, zal AWV de MIA-methodiek die werd 
+uitgewerkt in de proeftuinomgevingen in West-Vlaanderen en Limburg verder gaan 
+implementeren voor Vlaanderen. Hiervoor is een team aangenomen van Machine 
+Learning specialisten die dezelfde omgeving zullen opstellen waarmee camerabeelden 
+kunnen verwerkt worden tot verkeersanalyses. Op deze manier kunnen grijze punten 
+verder onderzocht worden en kan de verkeersveiligheid proactiever geanalyseerd 
+worden door bv. te kijken naar “bijna ongevallen” op een kruispunt.
+BIJLAGE
+Overzicht 

@@ -1,0 +1,50 @@
+title: Publieke en semi-publieke laadpunten - Vlaams Brabant
+thema: Energie
+Mobiliteit en Verkeer
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2048660
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1806051
+SCHRIFTELIJKE VRAAG
+nr. 698
+van JEROEN TIEBOUT
+datum: 22 februari 2024
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Publieke en semi-publieke laadpunten  -  Vlaams Brabant
+Met het actieplan Clean Power for Transport (CPT) wil de Vlaamse overheid inzetten op de 
+omschakeling naar zero-emissievervoermiddelen en vervoermiddelen aangedreven door 
+alternatieve brandstoffen. De uitbouw van oplaadinfrastructuur is een van de onderdelen 
+van het actieplan.
+Tegen 2025 wil de Vlaamse Regering 35.000 publieke laadpunten in Vlaanderen realiseren, 
+moet elke snelweg- en carpoolparking een ultrasnel laadpunt krijgen en moet er langs de 
+grote verkeersassen elke vijfentwintig kilometer een oplaadpunt zijn.
+1. Hoeveel publieke laadpunten telde Vlaams-Brabant in 2020, 2021, 2022, 2023 en 
+2024? Graag opgedeeld per gemeente (en voor 2024 per maand).
+a) Hoeveel daarvan zijn normale, snelle en ultrasnelle laadpunten? Graag een 
+opsplitsing.
+b) Over hoeveel laadequivalenten (charge point equivalents, CPE’s) gaat het per 
+gemeente en per type laadpunt?
+2. Hoeveel semi-publieke laadpunten telde Vlaams-Brabant in 2020, 2021, 2022, 2023 
+en 2024? Graag opgedeeld per gemeente (en voor 2024 per maand).
+a) Hoeveel daarvan zijn normale, snelle en ultrasnelle laadpunten? Graag een 
+opsplitsing.
+b) Over hoeveel laadequivalenten gaat het per gemeente en per type laadpunt? 
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD
+op vraag nr. 698 van 22 februari 2024
+van JEROEN TIEBOUT
+a) In bijlage 1 vindt u de cijfers van de (semi-)publieke laadpunten per provincie op 
+kwartaalbasis, voor zover beschikbaar. 
+In bijlage 2 vindt u een overzicht van de (semi-)publieke laadpunten per gemeente, 
+zoals op 31 december 2023. 
+Verdere detailinformatie is niet beschikbaar.
+b) Voor het berekenen van de CPE worden de volgende rekenregels toegepast:
+- publiek normaal laadpunt = 1 CPE
+- publiek snellaadpunt = 5 CPE
+- publiek ultrasnellaadpunt = 10 CPE
+- semi-publiek normaal laadpunt = 0,5 CPE
+- semi-publiek snellaadpunt = 2,5 CPE
+- semi-publiek ultrasnellaadpunt = 5 CPE
+BIJLAGEN
+1.(Semi-)publieke laadpunten per provincie op kwartaalbasis
+2.(Semi-)publieke laadpunten per gemeente

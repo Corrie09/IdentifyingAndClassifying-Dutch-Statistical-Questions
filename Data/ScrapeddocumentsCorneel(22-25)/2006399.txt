@@ -1,0 +1,100 @@
+title: Openbaarvervoermaatschappij De Lijn - Financieringsmechanisme
+thema: Mobiliteit en Verkeer
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2006399
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1767986
+SCHRIFTELIJKE VRAAG
+nr. 59
+van ELS AMPE
+datum: 5 oktober 2023
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Openbaarvervoermaatschappij De Lijn  -  Financieringsmechanisme
+De Brusselse openbaarvervoermaatschappij MIVB (Maatschappij voor Intercommunaal 
+Vervoer te Brussel) betaalt een steeds kleiner aandeel van haar uitgaven met eigen 
+inkomsten. Dat blijkt uit een recent rapport van auditbureau PricewaterhouseCoopers 
+(PwC). De ticketverkoop dekt nog slechts een kwart van de uitgaven. PwC wijst naar de 
+lage tarieven voor specifieke doelgroepen als een van de belangrijkste oorzaken. De 
+auditor voegt eraan toe dat het niet-indexeren van de tarieven sinds 2014, gecombineerd 
+met de uitbreiding van bepaalde voorkeurstarieven, drukt op de financiële balans van de 
+MIVB.
+1. Hoe groot zijn de vervoersontvangsten bij De Lijn sinds 2018? Graag een overzicht 
+van:
+- de eigen inkomsten (directe ontvangsten) tussen 2018 en 2022;
+- de dotatie voor voorkeurstarieven (om bijna gratis tarieven te compenseren) 
+tussen 2018 en 2022.
+2. Hoe groot zijn de uitgaven en opbrengsten bij De lijn sinds 2018? Graag een overzicht 
+van de totale uitgaven en opbrengsten tussen 2018 en 2022.
+3. Hoeveel procent van de totale uitgaven bij De Lijn wordt gedekt door de ticketverkoop? 
+Graag een overzicht van de ESR-dekkingsgraad tussen 2018 en 2022. (ESR: Europees 
+Systeem van Nationale en Regionale Rekeningen)
+4. Met hoeveel procent zijn de openbare subsidies voor De lijn gestegen tussen 2018 en 
+2022? Graag een overzicht per dotatie (bijv. subsidie voor voorkeurstarieven) en per 
+jaar.
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD
+op vraag nr. 59 van 5 oktober 2023
+van ELS AMPE
+1. Nettovervoerontvangsten (in duizenden euro)
+2018 2019 2020* 2021* 2022*
+-194.050 -194.601 -128.160 -121.227 -159.453
+* incl. corona
+Dotatie voor voorkeurstarieven
+De Lijn krijgt geen specifieke dotatie voor voorkeurstarieven.
+2. Het overzicht van de totale uitgaven en opbrengsten voor de periode 2018-2022, 
+opgelijst per jaar (in duizenden euro)
+2018 2019 2020 2021 2022
+Totale 
+ontvangsten* -384.530 -363.736 -321.065 -331.752 -389.846
+Totale 
+uitgaven 1.224.083 1.224.684 1.269.609 1.332.435 1.457.466
+* De totale opbrengsten bestaan, naast de nettovervoerontvangsten, ook uit andere 
+bedrijfsopbrengsten, financiële opbrengsten (inclusief kapitaalsubsidies) en uitzonderlijke 
+opbrengsten.
+3. Overzicht van de ESR-dekkingsgraad tussen 2018 en 2022
+In het kader van de berekening van de kostendekkingsgraad wordt een simulatie 
+gedaan van de compensaties voor sociale tarieven, zoals voorzien in het ODC 
+(openbaredienstencontract). Deze compensaties voor sociale tarieven vanwege de 
+overheid, als onderdeel van de toelage van het Vlaamse Gewest voor de gunsttarieven 
+die worden toegekend aan doelgroepen, worden door De Lijn opgenomen bij de ‘eigen 
+opbrengsten’ – om een internationale vergelijking toe te laten door het effect van 
+goedkope netabonnementen te neutraliseren.
+Voor de berekening van de kostendekkingsgraad wordt bij de opbrengsten dus niet 
+alleen rekening gehouden met de nettovervoerontvangsten, maar ook met de 
+compensaties voor voorkeurtarieven. Dit beïnvloedt uiteraard het resultaat van de 
+berekende kostendekkingsgraad.
+De exploitatiekosten en -opbrengsten worden opgenomen exclusief de kosten met 
+betrekking tot het leerlingenvervoer. Ook de ontvangsten van het leerlingenvervoer 
+worden gecorrigeerd. Compensaties gerelateerd aan corona worden eveneens niet in 
+rekening gebracht.
+Kostendekkingsgraad ODC ESR2010 met correctie covid
+2018* 2019 2020 2021 2022
+38,49 % 35,31 % 34,59 % 31,55 %
+* De nieuwe berekening volgens de principes van het ODC is pas vanaf 2019 beschikbaar. 
+4. Overzicht per dotatie voor de periode 2018 en 2022, opgelijst per jaar (in duizenden 
+euro)
+2018 2019 2020* 2021* 2022*
+1. Werkingsdotatie MB0-
+1MEH2EY-IS 840.504 862.341 944.844 994.630 1.083.118
+1.1.1 Exploitatiedotatie kern- 
+en aanvullend net (MB0 
+1ME001 4141) 699.547 709.798 785.437 839.879 896.935
+1.1.2 Leerlingenvervoer (MB0 
+1ME025 4140) 70.744 70.434 70.200 70.451 98.043
+1.1.3 Vervoer op maat (MB0 
+1ME024 4140) 30.808 30.808 30.808 30.808 30.808
+1.1.4 Minder hinder 
+maatregelen bij werken (MB0 
+1ME003 4140) 1.500 1.500 1.500 1.500 1.500
+1.1.5 Capaciteit kernlijnen 
+(MB0 1ME028 4140) 1.600 7.500 7.500 7.500 7.500
+1.1.6 
+Beschikbaarheidsvergoedingen 
+stelplaats & LIVAN (MB0 
+1ME002 4140) 18.435 22.316 22.452 22.661 23.861
+1.1.7 
+Beschikbaarheidsvergoedingen 
+BAM (MB0 1ME003 4140) 17.600 19.733 26.727 21.671 24.348
+1.1.8 Kapitaalaflossing NMVB 
+(MB0 1ME008 6142) 270 252 220 160 123
+* Incl. coronaprovisie

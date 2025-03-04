@@ -1,0 +1,89 @@
+title: Mobiele applicaties - Toegankelijkheid
+thema: Gelijke kansen
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2033635
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1793516
+SCHRIFTELIJKE VRAAG
+nr. 98
+van BRECHT WARNEZ
+datum: 11 januari 2024
+aan GWENDOLYN RUTTEN
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BINNENLANDS BESTUUR, 
+BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN
+Mobiele applicaties  -  Toegankelijkheid
+Vlaanderen streeft naar een integraal toegankelijke leefomgeving. Er werd geïnvesteerd in 
+kwalitatieve digitale dienstverlening en verschillende projecten werden de afgelopen 
+maanden gelanceerd om voor elke Vlaming toegang te verzekeren tot onlinediensten. Die 
+toegang moet vlot, veilig en gebruiksvriendelijk zijn om eenieder te betrekken in een 
+inclusieve, moderne maatschappij.
+Niet alleen blinden en slechtzienden verdienen een aangepaste onlinedienstverlening, ook 
+mensen met andere beperkingen of leesproblemen. Het verbeteren van de 
+toegankelijkheid is geen einddoel op zich: applicaties en onlinediensten moeten er naar 
+streven om voor elke burger een optimale dienstverlening te verzekeren.
+Dat vereist, volgens het expertisecentrum Inter Vlaanderen, dat informatie bereikbaar, 
+bruikbaar, beschikbaar, begrijpelijk en bekend is. Om expertise op het vlak van digitale 
+toegankelijkheid duurzaam te realiseren, moet de Vlaamse overheid wat betreft de 
+publieke websites een voorbeeldrol opnemen.
+In 2020 voldeed slechts 56 procent van de Vlaamse publieke websites aan de richtlijnen 
+van het AnySurfer-label.
+Deze vraag is een opvolgvraag van vraag nr. 37 van 13 oktober 2022 aan toenmalig 
+minister Somers.
+Gelieve de cijfers in Excel weer te geven.
+1. Hoeveel van de Vlaamse publieke websites voldoen aan de richtlijnen van het 
+AnySurfer-label? Graag een overzicht van de laatste 5 jaar.
+2. De vorige minister gaf mee dat er in het Bestuursdecreet, net zoals in de Europese 
+richtlijn, geen sancties zijn opgenomen bij niet-naleving van de WCAG-richtlijnen (Web 
+Content Accessibility Guidelines). Hij liet weten voorstander te zijn van sensibilisering 
+en opleidingen in plaats van sancties.
+Zal de minister die lijn doortrekken? Zo niet, wat wil de minister anders doen?
+3. Minister Somers kondigde in zijn antwoord aan dat hij nieuwe initiatieven plande. Zo 
+werd er vorige zomer een subsidieoproep gelanceerd. Verder werden er ook 
+werkpakketten van de City Deal ‘e-inclusion by Design’ opgestart.
+a) Over de subsidies: 
+i. Graag per provincie en gemeente een overzicht van de toegekende subsidies 
+met vermelding van het bedrag.
+ii. Hoe evalueert de minister de maatregel?
+b) Over de werkpakketten:
+Hoe evalueert de minister de maatregel?
+c) Plant de minister nog bijkomende maatregelen?
+d) Hoe ziet de minister de toekomst van het project? Blijft dit nodig?
+GWENDOLYN RUTTEN
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BINNENLANDS BESTUUR, 
+BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN
+ANTWOORD 
+op vraag nr. 98 van 11 januari 2024
+van BRECHT WARNEZ
+1. De laatste vijf jaar werd de digitale toegankelijkheid van Vlaamse publieke websites op 
+verschillende manieren gemonitord. 
+Tabel 1: Aantal toegankelijke websites uit de toegankelijkheidsmonitoring uitgevoerd 
+door AnySurfer in 2017-2020
+Jaar  %  Absolute aantallen  
+2017  49  74/150  
+2018  44  66/150  
+2019  51  76/150  
+2020  56  84/150 
+2. Net zoals mijn voorganger verkies ik hierrond te sensibiliseren en in opleidingen te 
+voorzien. Ik zal daarvoor ook verder samenwerken met het Agentschap Toegankelijk 
+Vlaanderen. Zo plant Inter dit voorjaar nog intervisies voor lokale besturen rond digitale 
+toegankelijkheid, onder meer over de EU-richtlijn webtoegankelijkheid. Inter heeft ook 
+eind 2023 een toolbox digitale 
+3. a) i. In 2022 werd inderdaad de subsidieoproep “uitrol e-inclusiebeleid 2022-2024” 
+gelanceerd. Zie bijlage 1 voor het overzicht van de toegekende subsidies per 
+gemeente en per provincie. De Vlaamse Gemeenschapscommissie ontving in dit 
+kader ook een subsidie (ten belope van 1.875.000 EUR). 
+ii. Het is nog wachten op de eindrapportering om hier een sluitend antwoord op te 
+kunnen geven. Deze moet uiterlijk op 30 juni 2025 ingediend worden. Het feit 
+dat 160 lokale besturen hebben ingetekend op de subsidie illustreert alvast dat 
+de subsidie inspeelt op een behoefte bij de lokale besturen. 
+b) Ook wat betreft de werkpakketten van de City Deal ‘e-inclusion by Design’ wil ik de 
+evaluatie en -rapportering eind februari ‘24 afwachten. Het project zit op schema en 
+we ervaren een grote motivatie en enthousiasme bij de 13 deelnemende 
+centrumsteden (en Vlaamse Gemeenschapscommissie) binnen het project. 
+c) Aangezien een heel aantal projecten lopen tot eind 2024, plan ik voorlopig geen 
+nieuwe initiatieven. 
+d) De cijfers uit vraag 1 laten zien dat er nog werk aan de winkel is. De digitale 
+transformatie gaat razendsnel en uit de respons op het actieplan ‘Iedereen Digitaal’ 
+blijkt een duidelijke nood om in te zetten op digitale inclusie en het creëren van een 
+digitaal toegankelijke samenleving. Een doelstelling waar ik de rest van deze 
+regeerperiode graag op verder werk. 
+BIJLAGE
+Toegekende subsidies ‘Uitrol E-inclusiebeleid’ per gemeente en provincie.

@@ -1,0 +1,87 @@
+title: Sociale woningen - Leegstand
+thema: Wonen
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2019741
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1780808
+SCHRIFTELIJKE VRAAG
+nr. 59
+van SARAH SMEYERS
+datum: 21 november 2023
+aan MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+Sociale woningen  -  Leegstand
+Van de bijna 15000 leegstaande sociale woningen werden er vorig jaar 7432 in een 
+onbekende categorie onderverdeeld. De sociale woninghuurmarkt is een volatiel gegeven. 
+Mensen verhuizen om tal van redenen: ze kopen een eigen woning; ze vinden een partner 
+en verlaten de eigen huurwoning; ze verkassen; zoeken of hebben, omwille van 
+gezinsuitbreiding, nood aan een grotere woning. Door al deze elementen kan er leegstand 
+ontstaan.
+In se onderscheidt men twee soorten leegstand: structurele leegstand en frictieleegstand. 
+Structurele leegstand geldt voor woningen die langer dan zes maanden leegstaan, 
+bijvoorbeeld door renovaties. Frictieleegstand of niet-structurele leegstand is leegstand die 
+veroorzaakt wordt door bewegingen op de sociale woningmarkt door een verhuizing, een 
+overlijden en dergelijke meer.
+Door de lange wachtlijsten voor een sociale woning zijn de leegstandscijfers vaak een doorn 
+in het oog voor de wachtenden. In 2022 steeg het totale aantal leegstaande huurwoningen 
+licht tot 14.926 of 9,3 procent van het totaalaantal huurwoningen uit datzelfde jaar. Vooral 
+bij niet-structurele leegstand nam de ‘onbekende vorm’ in 2022 toe. De structurele 
+leegstand daalde dan weer tegenover 2021 met 820 wooneenheden. 
+Zoals de minister zelf terecht opmerkt, is het evident dat er, net zoals op de private 
+huurmarkt, steeds een bepaald percentage sociale woningen leeg zal staan. Het is echter 
+evident dat de woonmaatschappijen er alles aan doen om die periode zo kort mogelijk te 
+houden. Daarvoor zijn de noden nu eenmaal te hoog.
+1. We zijn nu eind 2023. 
+Hoe evolueerde de (structurele en niet-structurele) leegstand tijdens het afgelopen 
+jaar in vergelijking met vorig jaar? Heeft de minister daar al een beeld van?
+2. Wat verstaan de woonmaatschappijen onder het begrip ‘onbekende vorm’ van niet-
+structurele leegstand? 
+3. Hoe wil de minister de woonmaatschappijen er verder toe aanzetten/aanmoedigen om 
+de positieve trend van de daling van de structurele leegstand verder aan te houden?
+MATTHIAS DIEPENDAELE
+MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+ANTWOORD 
+op vraag nr. 59 van 21 november 2023
+van SARAH SMEYERS
+1. Deze gegevens zijn nog niet beschikbaar. Gegevens over het patrimonium van de 
+woonmaatschappijen zullen uiterlijk 30/04/2024 beschikbaar zijn. De gegevens worden 
+daarna gepubliceerd op de website van het agentschap Wonen in Vlaanderen.
+2. Detailinformatie over het soort leegstand wordt door de woonmaatschappij doorgegeven 
+op basis van een sjabloon (xsd-schema) dat door het agentschap Wonen in Vlaanderen 
+is aangereikt. In dat schema worden volgende categorieën onderscheiden:
+Niet-structurele leegstand:
+Onbekende vorm van leegstand
+Woning voldoet niet aan de wensen van de kandiaat-huurder
+Overlijden van de huurder
+Huurder die door renovatie zijn sociale woning zal ontruimen
+Woning nog niet in gebruik
+Structurele leegstand:
+Onbekende vorm van structurele leegstand
+Renovatiewerken in uitvoering
+Nog uit te voeren werken
+Woning/gebouw dient gesloopt te worden
+De categorie ‘Onbekende vorm’ wordt gebruikt wanneer het detail niet is ingevuld of 
+foutief is ingevuld. Bij niet-structurele leegstanden is het ontbreken van een detail 
+meestal een aanwijzing dat het om frictieleegstand gaat, maar door het ontbreken van 
+een duidelijk label is dat niet helemaal zeker: vandaar ‘Onbekend’. In ongeveer 20% 
+van de gevallen is echter een niet-structurele leegstand gecombineerd met een detail 
+die verwijst naar structurele leegstand. Die gevallen zijn ondergebracht in de groep 
+‘Onbekende vorm van structurele leegstand’. 
+3. De Vlaamse overheid hanteert verschillende maatregelen om leegstand bij 
+woonmaatschappijen tegen te gaan of te voorkomen. Zo maakt de manier waarop 
+woonmaatschappijen leegstand voorkomen en aanpakken een expliciet onderwerp uit 
+van de prestatiebeoordelingsmethodiek. Vlaanderen heeft het mogelijk gemaakt dat 
+woonmaatschappijen woningen die leegstaan in afwachting van renovatie tijdelijk in 
+beheer kunnen geven van leegstandsbeheerders, zodat die woningen tijdelijk verhuurd 
+kunnen worden buiten het sociaal stelsel. Door de theoretische huurinkomsten van niet-
+structureel leegstaande woningen ook mee te tellen in de inkomstenzijde van de GSC-
+berekening, worden woonmaatschappijen via hun subsidiëring ook gepenaliseerd voor 
+dergelijke leegstaande woningen.
+Omdat de meeste woonmaatschappijen in de komende jaren nog voor grote renovatie-
+uitdagingen staan en renovatieprojecten vaak aanleiding vormen voor leegstand, stelt 
+de Vlaamse overheid sinds kort ook mobiele woonunits ter beschikking, die in eerste 
+instantie nog dienen voor de opvang van vluchtelingen uit Oekraïne, maar daarna 
+ingezet kunnen worden om verhuisbewegingen bij woonmaatschappijen te faciliteren 
+zodat renovatie-projecten sneller van start kunnen gaan. Daarnaast starten we 
+kortelings een groepsaanbesteding voor de renovatie van sociale woningen. Het is de 
+bedoeling dat we net als bij CBO een opdracht in de markt zetten waarbij zoveel mogelijk 
+sociale woningen kunnen gerenoveerd worden. Hiermee wil ik de woonmaatschappijen 
+faciliteren in het uitvoeren van hun opdracht.

@@ -1,0 +1,64 @@
+title: LeerID - Stand van zaken
+thema: Onderwijs en Vorming
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2006121
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1771170
+SCHRIFTELIJKE VRAAG
+nr. 48
+van HILÂL YALÇIN
+datum: 12 oktober 2023
+aan BEN WEYTS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN ONDERWIJS, SPORT, 
+DIERENWELZIJN EN VLAAMSE RAND
+LeerID  -  Stand van zaken
+Vorig schooljaar lanceerde het departement van de minister LeerID. LeerID is een single 
+sign-on oplossing die leerlingen van het leerplichtonderwijs toelaat om via één 
+gebruikersnaam en één wachtwoord aan te melden op allerhande digitale leermiddelen en 
+toepassingen in de onderwijsomgeving. Een handige oplossing om niet verloren te lopen 
+in verschillende wachtwoorden die we vandaag nodig hebben op school.
+1. Hoeveel scholen maken op dit moment gebruik van de tool LeerID? Graag een 
+overzicht per onderwijsvorm en provincie.
+2. Hoeveel scholen zijn op dit moment vragende partij maar wachten nog op de komst 
+van het opstartteam om van start te gaan? Graag een overzicht per onderwijsvorm en 
+provincie.
+3. Voor een heel aantal leermiddelen is het momenteel al mogelijk om via LeerID te 
+werken.
+Heeft de minister zicht op een mogelijke uitbreiding? Zullen er leermiddelen 
+toegevoegd worden?
+BEN WEYTS 
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING EN VLAAMS MINISTER VAN ONDERWIJS, SPORT, 
+DIERENWELZIJN EN VLAAMSE RAND 
+ANTWOORD
+op vraag nr. 48 van 12 oktober 2023
+van HILÂL YALÇIN
+1. Tot 20 oktober 2023 werden er door de scholen reeds 454.577 LeerID-accounts 
+aangemaakt. Dit maakt dat er voor 46,7% van de leerlingen een account werd 
+aangemaakt.
+a. Gewoon lager onderwijs:
+i. 195.707 LeerID-accounts = 44,8% van de leerlingen
+b. Gewoon voltijds secundair onderwijs:
+i. 245.360 LeerID-accounts = 51,6% van de leerlingen
+c. Buitengewoon lager onderwijs:
+i. 6.040 LeerID-accounts = 22,2% van de leerlingen
+d. Buitengewoon secundair onderwijs:
+i. 5.123 LeerID-accounts = 20,5% van de leerlingen
+e. Deeltijds beroeps secundair onderwijs:
+i. 2.121 LeerID-accounts = 28,9% van de leerlingen
+f. Anderen
+i. 226 LeerID-accounts = 14,5% van de leerlingen
+De gegevens worden niet per provincie bijgehouden.
+2. Het staat scholen vrij om beroep te doen op het LeerID Opstartteam. Zo kunnen ze 
+online makkelijk een afspraak met dit team inplannen. Er is geen wachtlijst en scholen 
+kunnen op dit moment nog steeds afspraken inboeken. Sinds eind februari 2023 gaat 
+het team ook zelf op pad en dit is een succes gebleken. Het LeerID Opstartteam 
+probeert zo veel mogelijk scholen tegelijk te bereiken door hen te vragen hun collega’s 
+van scholengroepen of andere scholen uit de buurt mee uit te nodigen zodat ze meteen 
+aan meerdere scholen tegelijk het gebruik van LeerID kunnen toelichten. 
+3. Op https://onderwijs.vlaanderen.be/nl/leerid/aangesloten-toepassingen-leerid staat 
+een actueel overzicht van de aangesloten digitale toepassingen. Naast de reeds 
+geïntegreerde toepassingen zijn er nog een aantal die op korte termijn de intentie 
+hebben om de aansluiting met LeerID te finaliseren. Er wordt ingezet op een integratie 
+later dit schooljaar of tegen de start van het nieuwe schooljaar 2024-2025, als de 
+planning van de dienstenleveranciers dit toelaat. Door de ontwikkelingen binnen 
+LeerID verwachten wij dat het steeds interessanter wordt voor de dienstenleveranciers 
+om mee aan te sluiten. Dit omdat we zowel inzetten op gebruiksgemak, extra diensten, 
+maar zeker ook op veiligheid en transparantie.

@@ -1,0 +1,118 @@
+title: Verkeersveiligheid - Dataverwerving en detectie grijze punten
+thema: Mobiliteit en Verkeer
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2043440
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1798916
+SCHRIFTELIJKE VRAAG
+nr. 573
+van RITA MOORS
+datum: 26 januari 2024
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Verkeersveiligheid  -  Dataverwerving en detectie grijze punten
+Naast de zwarte punten in het verkeer zijn er ook vele ‘grijze punten’. Dat zijn locaties 
+waar (nog) niet veel slachtoffers vallen, maar waar de situatie structureel onveilig is. Om 
+die ‘grijze punten’ in kaart te brengen, speelt dataverwerving een cruciale rol. Aan de hand 
+van de data kan er worden ingespeeld op potentieel gevaarlijke verkeerssituaties.
+In het verleden werden er, in samenwerking met Waze, al mogelijkheden onderzocht om 
+gegevensuitwisseling op poten te zetten om zo verkeersveiligheidswinsten te boeken. 
+Daarnaast werden met Febiac gesprekken gevoerd over de mogelijkheden om de gegevens 
+uit rijveiligheidssystemen en remsystemen te gebruiken, via de IBM SMAS-tool (Smarter 
+Mobility Analytics Studio), om zicht te krijgen op zogenaamde grijze punten. Daaromtrent 
+werd toen een proefproject uitgevoerd. 
+In antwoord op schriftelijke vraag nr. 1061 van 19 juni 2020 van Jos Lantmeeters over de 
+analyse van het proefproject, gaf de minister de volgende vaststelling 
+mee: “Samenvattend zorgt het gebrek aan duidelijke consistente definitie en systematiek 
+van het platform om zogenaamde ‘grijze punten’ te kunnen identificeren ervoor dat dit IBM 
+SMAS platform momenteel (nog) niet voldoende matuur is om tegemoet te komen aan de 
+verwachting om ‘grijze punten’ te gaan bepalen of identificeren, die we op eenzelfde niveau 
+als de gevaarlijke punten zouden kunnen gaan aanpakken.”
+Ondertussen zijn we enkele jaren verder. Het is van belang dat gevaarlijke zones 
+geïdentificeerd worden, zodat beschikbare middelen efficiënt ingezet kunnen worden om 
+die situaties te verbeteren. We moeten ons dan ook blijven engageren om de vinger aan 
+de pols te houden en het gebruik van data in het verkeer maximaal te benutten ten 
+voordele van de verkeersveiligheid.
+1. Hoe staat het vandaag met het samenwerkingsverband met Waze? Werden er nog 
+vorderingen gemaakt? Zo ja, kan de minister ze nader toelichten? 
+2. Hoe staat het met de maturiteit van het IBM SMAS-platform?
+3. Zijn er nog evoluties in de technologie die kunnen helpen om grijze punten te 
+detecteren? Zo ja, kan de minister ze nader toelichten? 
+4. Welke structurele aanpak zal volgen voor de grijze punten?
+5. Plant de minister nog bijkomende gesprekken in het kader van datagebruik in het 
+verkeer? Zo ja, welke? 
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD
+op vraag nr. 573 van 26 januari 2024
+van RITA MOORS
+1. Het Agentschap Wegen en Verkeer (AWV) is een partner van het Waze for Cities 
+programma ( https://www.waze.com/nl/wazeforcities/). Het verkeerscentrum 
+gebruikt deze inkomende datastroom in zijn operationele werking (naast andere), 
+maar ook in het Mobilidata-programma gebruiken we deze data feed, meer bepaald 
+in de kwaliteitsmonitor van een aantal use cases. Tegelijk zet het Mobilidata-
+stakeholdermanagement in op het aansluiten en ‘voeden’ van service providers, 
+waaronder Waze. 
+Deze gesprekken hebben er tot op heden nog niet toe geleid dat dergelijke 
+rechtstreekse koppeling op de roadmap van Waze is komen te staan. Daarom werd 
+als deel van Mobilidata recent de opdracht gegund aan een derde partij om, eventueel 
+in afwachting van een rechtstreekse koppeling, een brede set van Mobilidata use cases 
+door te zetten naar onder meer Waze (conform hun specifieke interface daartoe). 
+Daarnaast zijn er sinds 2020 een aantal overlegmomenten geweest, waarbij er 
+bijvoorbeeld gesproken werd over mogelijkheden om verkeersveiligheidswinsten te 
+boeken via een samenwerking rond gegevensuitwisseling. Onder meer de pro’s en 
+contra’s over het eventueel opzetten van een proefproject rond het vermijden van 
+gevaarlijke punten en/of schoolomgevingen kwam ter sprake. Naast het risico van 
+sluipverkeer, is het hierbij echter ook van belang om de gebruiker niet te overladen 
+met informatie en oog te hebben voor mogelijke effecten van afleiding. 
+Er was daarna contact met de vrijwilligers van Waze om verdere mogelijkheden op 
+dit vlak af te toetsen. Bij het begin van het schooljaar vestigt Waze sindsdien via een 
+back to school-actie bij de Wazegebruikers de aandacht erop om voorzichtig te rijden 
+bij het naderen van een schoolomgeving.
+2. Het IBM ‘SMAS’-platform werd inderdaad enkele jaren geleden grondig geanalyseerd, 
+maar het platform bleek nog niet matuur genoeg om aan de hand hiervan op een 
+voldoende betrouwbare manier ‘grijze punten’ te kunnen detecteren, o.m. ook door 
+een gebrek aan een consistente definitie, documentatie en systematiek om grijze 
+punten te kunnen identificeren en vraagtekens i.v.m. de representativiteit van de 
+gebruikte vloot van voertuigen. Deze bevindingen werden ook meegegeven aan 
+Febiac (onze tussenpersoon in de contacten met IBM). 
+Autofabrikanten zetten intussen volop in op het verder benutten van in car-data, die 
+zij kunnen verzamelen met hun vloot. Deze data kan gebruikt worden om potentieel 
+grijze punten te detecteren in het wegennetwerk. Merk op dat dit reeds een 
+aanzienlijke verbetering is ten opzichte van het gebruiken van de ABS/ESP sensor om 
+grijze punten te detecteren (IBM SMAS), vermits er bij ADAS systemen een minder 
+hoge kans is op vals positieve meldingen. Het AWV volgt deze evoluties nauw op.  
+Het Mobilidata programmateam heeft in 2023 in een aantal iteraties een voorstel 
+gepresenteerd voor een vervolgprogramma. Eén van deze projecten betreft specifiek 
+dit onderwerp van grijze punten op basis van in car-data. 
+Ten slotte nog de bedenking dat ondanks het feit dat data uit in car-systemen 
+uiteraard heel erg interessant zijn, deze ook zeer auto-centrisch zijn, terwijl net de 
+actieve weggebruiker centraal staat in het verkeersveiligheidsplan. De gegevens die 
+hieruit komen, zijn dan ook eerder een potentiële aanvulling op de bestaande 
+gevaarlijke punten aanpak (waarbij wel veel nadruk ligt op de kwetsbare 
+weggebruikers). 
+3. Zie vraag 2 met betrekking tot in car-data.
+Daarnaast hebben we via de MIA-proeftuinen in West-Vlaanderen en Limburg 
+geëxperimenteerd met detectie en analyse van verkeersonveilige punten via het 
+inzetten van camera’s en drones. Op kruispunten in Kortrijk, Roeselare, Zonnebeke, 
+Beringen, Dilsen-Stokkem en Lanaken werden camerabeelden verzameld en 
+geanalyseerd om verkeersonveilige situaties met fietsers te detecteren. 
+Het AWV gaat nu de camera’s verder inzetten bij het analyseren van risicovolle 
+locaties over heel Vlaanderen. Hiervoor is een team aangenomen van machine 
+learning-specialisten die dezelfde omgeving zullen opstellen waarmee camerabeelden 
+kunnen verwerkt worden tot verkeersanalyses. Op deze manier kunnen grijze punten 
+verder onderzocht worden en kan de verkeersveiligheid proactiever geanalyseerd 
+worden door bv. te kijken naar ‘bijna ongevallen’ op een kruispunt.
+4. Het is inderdaad zo dat er de laatste tijd verschillende lijsten met verkeersonveilige 
+locaties ontstaan zijn, naast de traditionele dynamische gevaarlijke puntenlijst (grijze 
+punten, meldingsplatformen …) Op termijn is het niet werkbaar om ad hoc met allerlei 
+verschillende lijsten te blijven werken. De beschikbare mensen en middelen zijn 
+immers beperkt, waardoor er prioriteiten gesteld zullen moeten worden over welke 
+punten wel en welke niet zullen aangepakt worden.
+Voor een meer structurele aanpak is nog wat studiewerk nodig, waartoe er in de loop 
+van 2024 een werkgroep zal opgericht worden met het AWV, het departement MOW 
+en externe verkeersveiligheidsexperten.
+ 
+5. Data en verkeer zijn zowat de kern van Mobilidata, en in dat opzicht lopen er tal van 
+gesprekken met potentieel aansluitende service providers. Aansluiters die niet alleen 
+data kunnen consumeren, maar die evengoed ook produceren. Naast de bekende 
+bouwers van navigatietoepassingen gaat dit ook om OEMs of hun toeleverbedrijven, 
+maar ook niet-mobiliteitsapplicatiebouwers. 

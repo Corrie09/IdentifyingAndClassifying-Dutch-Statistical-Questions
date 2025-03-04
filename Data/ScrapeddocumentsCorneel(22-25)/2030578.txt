@@ -1,0 +1,99 @@
+title: Trajectcontroles - Evolutie
+thema: Mobiliteit en Verkeer
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2030578
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1792001
+SCHRIFTELIJKE VRAAG
+nr. 429
+van SOFIE MERTENS
+datum: 5 januari 2024
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Trajectcontroles  -  Evolutie
+Om overdreven snelheid in het verkeer tegen te gaan, investeert Vlaanderen sinds 2012 
+in de uitrol van trajectcontroles langs gewestwegen. Een trajectcontrole is een systeem 
+waarbij de gemiddelde snelheid over een langere afstand wordt gemeten. Daarmee wil 
+men de verkeersveiligheid verhogen, vermits snelheid één van de drie grootste killers in 
+het verkeer is. Uit een studie van het Instituut voor Mobiliteit van de Universiteit Hasselt 
+uit 2014 blijkt dat op de stukken snelwegen met trajectcontrole: 
+- het aantal snelheidsovertreders (tot 127 km/uur) daalt; 
+- het aantal zware snelheidsovertreders (meer dan 127 km/uur) zeer sterk daalt en; 
+- het aantal ongevallen daalt, ook voor en na de bewaakte zone. 
+1. Graag een overzicht per provincie van het aantal trajectcontroles langs gewestwegen 
+in Vlaanderen op 1 januari 2024. Graag vermelding van:  
+a) wegnummer; 
+b) gemeente; 
+c) rijrichting; 
+d) geïnstalleerd - in dienst - in uitvoering; 
+e) lengte; 
+f) kostprijs;  
+g) wijze van financiering (lokaal bestuur, Vlaamse overheid of cofinanciering). 
+2. Graag een overzicht per provincie van de trajectcontroles langs gewestwegen die er in 
+2023 bijgekomen zijn. Graag vermelding van: 
+a) wegnummer; 
+b) gemeente; 
+c) rijrichting; 
+d) geïnstalleerd - in dienst - in uitvoering; 
+e) lengte; 
+f) kostprijs;  
+g) wijze van financiering (lokaal bestuur, Vlaamse overheid of cofinanciering). 
+3. Om welke redenen zijn bepaalde trajectcontroles wel al geïnstalleerd, maar nog niet 
+in dienst? 
+4. Graag een overzicht per provincie van de trajectcontroles langs gewestwegen die in 
+2024 geïnstalleerd zullen worden. Graag vermelding van: 
+a) wegnummer; 
+b) gemeente; 
+c) rijrichting; 
+d) lengte; 
+e) kostprijs;  
+f) wijze van financiering (lokaal bestuur, Vlaamse overheid of cofinanciering); 
+g) timing. 
+5. Graag een overzicht per provincie van de mobiele trajectcontroles langs gewestwegen 
+die in 2023 ingezet werden. Graag vermelding van: 
+a) periode; 
+b) wegnummer; 
+c) gemeente; 
+d) rijrichting; 
+e) lengte; 
+f) kostprijs;  
+g) wijze van financiering (lokaal bestuur, Vlaamse overheid of cofinanciering). 
+6. Hoe evalueert de minister bovenstaande cijfers? Welke aandachts- en/of 
+verbeterpunten ziet ze? 
+7. Hoe wordt het effect van een trajectcontrole gemeten? Of met andere woorden: hoe 
+meet men of een trajectcontrole effectief het aantal ongevallen doet verminderen? 
+8. Welke evoluties stelt de minister vast sinds het begin van de invoering van 
+trajectcontroles?  
+9. Heeft de minister zicht op het aantal boetes dat per maand en per trajectcontrole 
+uitgeschreven werd en op de evolutie van die boetes?
+10. Heeft de minister zicht op het profiel van de mensen die een snelheidsboete ontvangen 
+(jongeren, ouderen, omwonenden, …)?
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD 
+op vraag nr. 429 van 5 januari 2024
+van SOFIE MERTENS
+1-2.Een overzicht van de trajectcontroles in het beheer van het Agentschap Wegen en 
+Verkeer (AWV) kan geconsulteerd en gedownload worden via de website 
+https://wegenenverkeer.be/controles/snelheidscontroles/trajectcontroles.
+3. Geinstalleerde trajectcontroles worden operationeel zodra ze gekoppeld zijn aan de 
+AMS (ANPR management server), wat een taak is van de federale politie. Momenteel 
+is de capaciteit van het AMS onvoldoende om alle trajectcontroles operationeel te 
+maken.
+4. Deze planning wordt opgemaakt. 
+5. De inzet van mobiele trajectcontrole is afhankelijk van een aantal randvoorarden en 
+enkel bij werven die minstens drie maanden duren. De kostprijs van installatie is 
+gemiddeld 60.000 euro. In 2023 werd een mobiele trajectcontrole ingezet op volgende 
+locaties:
+Periode WegNr Gemeente Rijrichting lengte financiering
+11/22-07/23 E40 2.7 Brussel 750m AWV
+07/23-heden E40 2.4 Gent 800m AWV
+6-8.Trajectctroles hebben zeker hun nut en ik zal daar dan ook op blijven inzetten. Uit 
+studies blijkt dat trajectcontroles zorgen voor een daling van het aantal 
+letselongevallen, een daling van het aantal overtreders, een daling van de gemiddelde 
+snelheid en een daling van het aantal zware overtreders. 
+Door de capactiteitstekorten van de AMS, waarvan het beheer in handen is van de 
+federale overheid, zijn nog niet alle trajectcontroles operationeel. Er loopt een project 
+om het AMS te hervormen om zo meer capaciteit ter beschikking te stellen. Samen 
+met alle stakeholders binnen het handhavingslandschap blijft mijn administratie de 
+druk aanhouden en constructief mee zoeken naar oplossingen. 
+9-10.Daar heb ik geen zicht op. De verwerking van de trajectcontroles wordt door de 
+politionele instanties uitgevoerd.

@@ -1,0 +1,64 @@
+title: Ventilus - Permanent monitoringsysteem (2)
+thema: Energie
+Ruimtelijke ordening
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2059415
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1815671
+SCHRIFTELIJKE VRAAG
+nr. 465
+van CARMEN RYHEUL
+datum: 22 maart 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Ventilus  -  Permanent monitoringsysteem (2)
+In haar antwoord op mijn schriftelijke vraag nr. 762 van 17 mei 2023 stelde de minister 
+expliciet dat het permanent monitoringnetwerk een noodzakelijk onderdeel van het 
+Ventilusdossier vormt.
+Uit het antwoord op mijn schriftelijke vraag nr. 105 van 8 november 2024 bleek dat de 
+resultaten van het monitoring-proefproject, waartoe de minister opdracht gaf in afwachting 
+van een volledige uitrol van dit monitoringsysteem, in het voorjaar 2024 beschikbaar 
+zouden zijn.
+1. Kan de minister dan ook meedelen welke concrete resultaten het proefproject intussen 
+heeft opgeleverd?
+2. Staat de technologie intussen al feilloos op punt om over te gaan tot een volledige 
+uitrol van het door de minister in het vooruitzicht gestelde permanente 
+monitoringnetwerk dat bij effectieve realisatie van Ventilus voldoende bescherming 
+moet bieden aan de getroffen bevolking tegen langdurige en felle blootstelling aan 
+magnetische velden van bovengrondse hoogspanningsverbindingen, of werden op 
+basis van het proefproject nog technologische tekortkomingen vastgesteld? Welke 
+tekortkomingen werden desgevallend vastgesteld en binnen welke termijn zullen ze 
+worden opgelost?
+3. Als uit deelvraag 2 blijkt dat er nog altijd geen permanent monitoringsysteem kan 
+worden uitgerold dat afdoende bescherming biedt aan de getroffen bevolking, welke 
+impact zal een dergelijke situatie dan hebben op de verdere besluitvorming van de 
+minister en haar collega-ministers in de Vlaamse Regering in het lopende 
+Ventilusdossier? Wordt desgevallend in dat dossier alle besluitvorming on hold gezet 
+of wordt een bovengrondse Ventilus zelfs volledig afgevoerd van de regeringstafel?
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 465 van 22 maart 2024
+van CARMEN RYHEUL
+1. Uit het proefproject blijkt dat de sensoren nauwkeurig de magnetische velden van 
+hoogspanningsverbindingen kunnen meten. Er werden testen uitgevoerd zowel in labo-
+omstandigheden als op het terrein in de omgeving van bestaande 
+hoogspanningsverbindingen. Het proefproject toonde eveneens aan dat de 
+meetgegevens betrouwbaar worden doorgestuurd naar het dataplatform van het 
+Departement Omgeving en dat het mogelijk is om de meetgegevens te laten zien op 
+dashboards.
+2. De sensoren werden, in samenwerking met Imec, volledig in huis ontwikkeld. De 
+sensoren meten nauwkeuring en kunnen data doorsturen. We deden de ontwikkeling 
+zelf omdat er geen commercieel beschikbare toestellen beschikbaar zijn die konden 
+ingeschakeld worden voor deze toepassing. Tijdens de proef-uitrol werden problemen 
+vastgesteld bij een aantal sensoren aangaande een verlies van de verbinding die nodig 
+is om de data door te sturen. Er werden een aantal aanpassingen aan de sensoren 
+gedaan om dit probleem op te lossen en dat wordt nu verder geëvalueerd in het 
+proefproject. Volgens de huidige planning zijn er in het najaar 12 sensoren beschikbaar 
+op het terrein. Later worden er nog 14 sensoren bijgeplaatst voor de volgende fase van 
+het proefproject.
+3. Er zijn op dit moment geen problemen vastgesteld die zouden verhinderen dat het 
+meetnet verder wordt uitgerold. Verdere stappen in het proefproject bestaan uit de 
+productie van bijkomende sensoren, het zoeken naar representatieve meetlocaties en 
+het evalueren van de aanpassingen die zorgen voor het betrouwbaarder doorsturen 
+van de meetresultaten. Er is bijgevolg geen impact op de lopende 
+besluitvormingsprocedure voor Ventilus. Het besluitvormingsproces rond het 
+gewestelijk ruimtelijk uitvoeringsplan (GRUP) Ventilus is immers afgerond.

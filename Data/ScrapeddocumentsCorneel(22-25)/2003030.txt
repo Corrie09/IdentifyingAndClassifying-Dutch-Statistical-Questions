@@ -1,0 +1,138 @@
+title: Sint Annatunnel Antwerpen - Defecte lift
+thema: Mobiliteit en Verkeer
+Openbare werken
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2003030
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1763592
+SCHRIFTELIJKE VRAAG
+nr. 2
+van ANKE VAN DERMEERSCH
+datum: 26 september 2023
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Sint Annatunnel Antwerpen  -  Defecte lift
+Een van de liften in de Sint-Annatunnel is sedert 15 juni buiten dienst.
+Dat gebeurt al te vaak en bovendien laat de reparatie altijd lang op zich wachten, wat erg 
+vervelend is voor zowel fietsers als voetgangers die de tunnel geregeld gebruiken. Het is 
+tenslotte een zeer belangrijke verbinding tussen beide oevers van de Schelde.
+1. Wat is de reden dat de lift opnieuw buiten dienst is?
+2. Hoeveel keer waren er problemen aan de lift of de roltrappen tijdens de afgelopen 
+legislatuur tot nu?
+3. Hoe lang duurde het telkens om de reparatie te voltooien en wat was de gemiddelde 
+‘buiten dienst’-tijd?
+4. Zijn er voldoende reserveonderdelen en technici om de lift bij problemen onmiddellijk 
+te herstellen? Zo niet, waarom niet?
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD 
+op vraag nr. 2 van 26 september 2023
+van ANKE VAN DERMEERSCH
+1. Op donderdag 15 juni omstreeks 12.30 uur stelde het Agentschap Wegen en Verkeer 
+(AWV) een technische storing vast aan de lift op rechteroever. Om mogelijke schade 
+aan de liftmechanismen te voorkomen, werd de lift uit voorzorg stilgelegd. 
+Onderzoek van het AWV toonde aan dat de stilstand het gevolg was van externe 
+factoren, waartegen geen eerder preventief optreden mogelijk was. De temperatuur in 
+de machinekamer was opgelopen tot meer dan 55°C. De oorzaak daarvan is de 
+oriëntatie van de machinekamer, waardoor de binnentemperatuur tijdens een hittegolf 
+hoog kan oplopen.
+De extreem hoge binnentemperatuur, samen met de warmte die ontstaat wanneer de 
+motor draait, beperkt de natuurlijke koeling van de motor enorm. Die combinatie heeft 
+een nadelige invloed op de wisselwerking tussen de nieuwe elektrische aansturing van 
+de liftmotor en de motor zelf. De sturing werd daardoor ontregeld.
+Het agentschap heeft de afgelopen maanden een aantal veiligheidsmechanismen 
+ingebouwd, waardoor de combinatie sturing-motor minder beïnvloed wordt door hoge 
+binnentemperaturen.
+2. Het AWV maakt voor de huidige legislatuur (2019-2024) melding van onderstaande 
+stilstanden voor de liften en de roltrappen (cijfers actueel tot 30 september 2023):
+Stilstanden van de liften:
+Sint-Annavoetgangerstunnel - Liften linker- en rechteroever
+Jaartal Defecten lift 
+linkeroeverDefecten lift 
+rechteroeverTotaal aantal 
+defecten
+2019 69 38 107
+2020 33 13 46 (*)
+2021 2 5 7 (**)
+2022 19 0 13 (***)
+2023 20 26 46 (****)
+(*) 2020 werd gekenmerkt door het coronavirus en meerdere maanden lockdown. 
+De capaciteit van de lift werd beperkt tot maximaal 6 personen en tunnelbezoekers 
+werden aangemoedigd om gebruik te maken van de roltrappen. 
+(**) De lift op rechteroever werd op 22 juni 2021 uit dienst genomen, de lift op 
+linkeroever werd in de maand april 2021 uit dienst genomen.
+(***) In het kader van de grote herstellingswerken was de lift op rechteroever 
+buiten dienst in 2022. De lift op linkeroever is vanaf 11 juli 2022 opnieuw in dienst. 
+De defecten voor de lift op linkeroever zijn allemaal opgetreden tijdens de 
+testperiode van de lift en werden door tussenkomst van de aannemer onmiddellijk 
+opgelost.
+(****) De lift op rechteroever werd begin januari 2023 in dienst genomen. De 
+eerste 6 maanden van 2023 vormden de testperiode voor deze lift.
+Uitval als gevolg van oneigenlijk gebruik van de lift door derden wordt niet als een 
+defect beschouwd. Denk bv. aan het blokkeren van de deuren door een fiets, waarna 
+de tussenkomst van een aannemer noodzakelijk is.
+Defecten werden onmiddellijk hersteld en na analyse werden aangepaste 
+onderhoudsinstructies in het adaptieve onderhoudsprogramma opgenomen om de 
+frequentie van het betreffende te drukken. 
+Stilstanden van de roltrappen:
+Sint-Annavoetgangerstunnel - Roltrappen linker- en rechteroever
+Jaartal Defecten roltrap 
+linkeroeverDefecten roltrap 
+rechteroeverTotaal aantal 
+defecten
+2019 1 0 1
+2020 7 4 11 (*)
+2021 7 17 24 (*)
+2022 4 11 15 (*)
+2023 4 5 9
+(*) Het toenemend aantal defecten aan de roltrapinstallaties is het gevolg van een 
+24/7 operationele toestand sinds het tweede kwartaal van 2020. Als gevolg van de 
+richtlijnen in het kader van de coronapandemie heeft het AWV ervoor geopteerd 
+om de roltrappen in een 24/7 regime operationeel te houden. Daar waar vroeger 
+de roltrappen tussen 21h00 en 06h00 buiten dienst werden gesteld, betekent het 
+24/7 regime een grotere belasting van de installatie. Een toenemend aantal 
+defecten is dan ook niet uit te sluiten.
+Defecten en stilstanden omwille van valpartijen of kwaadwillig indrukken van de 
+noodstoppen zijn niet opgenomen in de cijfers van bovenstaande tabel.
+3. Het agentschap bevestigt dat er tijdens weekdagen een vaste technieker van de 
+onderhoudsaannemer aanwezig is tussen 07h30 en 16h00.
+Buiten deze uren en tijdens weekends, is de onderhoudsaannemer bij bevrijding van 
+personen uit de lift of bij calamiteit  gebonden aan contractuele interventietijden:
+●Uitvoeren van bevrijding :
+￿Starten van de bevrijding ter plaatse moet binnen de 30 minuten na het 
+ontvangen van de oproep gebeuren.
+￿De onderhoudsaannemer is gemiddeld na 10 minuten al aanwezig.
+￿De toestand wordt ingeschat en volgens de situatie wordt bijstand van 
+brandweer gevraagd.
+￿Een bevrijding duurt, afhankelijk van de positie van de liftkooi en 
+bijstand brandweer, tussen de 5 minuten en 45 minuten.
+●Interventie bij calamiteit zonder noodzaak tot bevrijding :
+￿Starten van de herstelling ter plaatse binnen de 2 uur na het ontvangen 
+van de oproep gebeuren.
+￿De onderhoudsaannemer is gemiddeld binnen de 30 minuten ter plaatse.
+￿De herstellingswerken worden aangevat onmiddellijk na aankomst op de 
+tunnel en duren tot einde der werken en opnieuw indienststelling van de 
+betreffende lift.
+Bij het optreden van een calamiteit of bij bevrijding van personen wordt gemiddeld 
+binnen de 10 minuten gestart met de herstelling of met de bevrijding.
+Na het uitvoeren van een bevrijding of bij het optreden van een calamiteit varieert de 
+gemiddelde hersteltijd tussen 10 minuten en 1 uur. Zeldzame uitlopers tot 3 uur of 
+langer werden genoteerd bij grotere averijen, zoals de stilstand van 15 juni 2023. De 
+tijd tot herstelling of de tijd dat een lift buiten dienst is, is sterk afhankelijk van de 
+aard van de calamiteit en de fysieke plaats in het liftmechanisme waar de calamiteit 
+zich voordoet.
+Bij een calamiteit is de onderhoudsaannemer in eerste instantie steeds met één 
+interventietechnieker ter plaatse (contractueel). Deze technieker kan het gros van de 
+storingen oplossen. Bepaalde werken vragen echter een tweede technieker omwille 
+van de complexiteit of veiligheid, de hersteltijd neemt hierdoor uiteraard toe.
+Buiten de werkuren op weekdagen en tijdens de weekends is geen technieker meer 
+aanwezig op de tunnel. Techniekers worden via het permanentienummer van de 
+onderhoudsaannemer opgeroepen. De opstarttijd en de aanrijtijd van de technieker 
+tot aan de tunnel zijn een bepalende factor die aanvaard moet worden als wachttijd 
+alvorens de herstelling start. 
+Het is ten slotte belangrijk op te merken dat 95% van de herstellingen achter de 
+schermen plaatsvindt waardoor de indruk gecreëerd kan worden dat de herstelling zeer 
+laat start.
+Er zijn zowel in de magazijnen van de Sint-Annatunnel als in de magazijnen van de 
+onderhoudsaannemer en van de leveranciers voldoende reserveonderdelen om 
+herstellingen in eerste lijn uit te voeren. 
+Betreffende de beschikbaarheid van technici verwijs ik naar het antwoord op deelvraag 
+3.

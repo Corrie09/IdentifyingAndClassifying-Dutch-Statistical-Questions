@@ -1,0 +1,139 @@
+title: Lokale en provinciale besturen - Audit cyberveiligheid
+thema: Lokale overheden en Binnenlands bestuur
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2009637
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1773385
+SCHRIFTELIJKE VRAAG
+nr. 34
+van BRECHT WARNEZ
+datum: 19 oktober 2023
+aan BART SOMERS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BINNENLANDS BESTUUR, 
+BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN
+Lokale en provinciale besturen  -  Audit cyberveiligheid
+In de afgelopen jaren kregen veel gemeenten in Vlaanderen te kampen met 
+cybercriminaliteit. De ondersteuning van gemeenten die zich wensen te wapenen tegen 
+cybercriminaliteit is een van de actiepunten van de minister. Hij zette daartoe twee sporen 
+op. Enerzijds is er de mogelijkheid tot uitvoering van een basisaudit door Audit Vlaanderen, 
+die voor twee derde door de Vlaamse overheid betaald wordt. Gemeenten kunnen altijd 
+een bijkomende audit laten uitvoeren. Daarvoor is in een cofinanciering van 50 procent 
+voorzien. Anderzijds kunnen gemeenten ervoor opteren om een ethisch hacker van 
+hogeschool HOWEST het ICT-systeem van gemeenten te laten testen. Beide sporen sluiten 
+elkaar niet uit.
+Het is van essentieel belang om het effect van beide sporen op regelmatige basis te 
+evalueren. Een bevordering van de cyberveiligheid bij lokale besturen versterkt het 
+vertrouwen van burgers in hun overheid, aangezien het de kans op datalekken van de 
+gevoelige gegevens van die burgers minimaliseert. Daarnaast is een degelijke 
+cyberveiligheid ook van belang om de continuïteit van de dienstverlening te garanderen, 
+iets wat een cyberaanval zou kunnen verstoren, met onmiddellijke gevolgen voor de lokale 
+gemeenschap. Tot slot kunnen goede cyberbeveiligingsmaatregelen en -richtlijnen ook 
+zogenaamde ransomware-aanvallen voorkomen, waarbij lokale systemen vergrendeld 
+worden en pas tegen losgeldbetaling worden vrijgegeven. De bovenvermelde redenen 
+geven nogmaals weer hoe belangrijk een goede cyberbeveiliging is voor lokale besturen.
+Deze vraag is een vervolgvraag op mijn vragen nr. 445 van 20 september 2022, nr. 398 
+van 15 september 2021 en nr. 31 van 21 oktober 2020.
+Gelieve alle gegevens beschikbaar te stellen in Excel.
+1. Hoeveel gemeenten hebben sinds 13 september 2022 een bestelling geplaatst via de 
+raamovereenkomst van Audit Vlaanderen om een basisaudit inzake ICT-veiligheid te 
+laten uitvoeren?
+a) Wat is momenteel de kostprijs voor de Vlaamse overheid per audit?
+b) Graag per jaar een geüpdatet overzicht van de gemeenten die de voorbije vijf jaar 
+een audit aanvroegen per provincie.
+2. Hoeveel gemeenten hebben naast die basisaudit sinds 13 september 2022 bijkomende 
+auditwerkzaamheden besteld? Graag een geüpdatet overzicht per jaar van de 
+gemeenten die de voorbije 5 jaar een bijkomende audit aanvroegen per provincie.
+3. Hoeveel gemeenten hebben zich sinds 13 september 2022 aangemeld om een ethisch 
+hacker van hogeschool HOWEST hun ICT-systeem te laten testen? Graag per provincie 
+een geüpdatet overzicht van de voorbije 5 jaar van de gemeenten die een ethische 
+hacker van HOWEST aanvroegen.
+4. Hoe evalueert de minister de recente cijfers van beide sporen in vergelijking met 
+dezelfde cijfers vorig jaar?
+a) Hoe verhouden de verschillende provincies zich?
+b) Hoe verhoudt de vraag zich ten opzichte van het aanbod?
+c) Welke evolutie is er merkbaar inzake de deelelementen die gemeenten laten 
+screenen?
+i. Hoeveel gemeenten lieten hun camera’s screenen op cyberveiligheid?
+ii. In het antwoord op vraag nr. 445 gaf de minister aan geen plannen te 
+hebben over nieuwe deelaspecten van cyberveiligheid bij lokale besturen.
+Is dat sindsdien veranderd?
+Zo ja, welke nieuwe deelaspecten plant de minister toe te voegen en vanaf 
+wanneer?
+5. Wat is de stand van zaken van de uitwerking van het Programma Cyberveilige 
+Gemeenten? Zou de minister daarnaast ook een update kunnen geven over:
+a) het traject Ethisch Hacken;
+b) de webinars in het kader van de Toolkit Cybersecurity;
+c) de denktank cyberveiligheid;
+d) enige verdere initiatieven die werden of zullen worden opgestart?
+GWENDOLYN RUTTEN
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BINNENLANDS BESTUUR, 
+BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN
+ANTWOORD 
+op vraag nr. 34 van 19 oktober 2023
+van BRECHT WARNEZ aan BART SOMERS
+1. Sinds 13 september 2022 hebben 32 gemeenten een basisaudit inzake ICT-veiligheid 
+besteld via de raamovereenkomst.
+a) De gemiddelde kostprijs voor de Vlaamse overheid bedroeg in de periode september 
+2022-oktober 2023 5.654,70 euro per basisaudit.
+b) Als bijlage 1 is een overzicht van de gemeenten per provincie die een ICT-
+veiligheidsaudit bestelden toegevoegd. 
+2. Sinds 13 september 2022 hebben 21 gemeenten een aanvullende audit besteld. 
+Als bijlage 2 is een overzicht van de gemeenten per provincie die een aanvullende audit 
+bestelden toegevoegd. 
+3. Sinds de testronde van 2022-2023 hebben 40 gemeenten deelgenomen aan het traject 
+ethisch hacken (2023-2024). Als bijlage 3 is een overzicht van de gemeenten per 
+provincie die deelnamen aan het traject ethisch hacken toegevoegd. 
+4. Evaluatie cijfers 2022-2023: 
+a) Voor de ICT-veiligheidsaudits is het totale aantal bestellingen voor basis- en 
+aanvullende audits in 2023 hoger dan in 2022. In verhouding met 2022 merken we 
+in 2023 relatief meer gemeenten uit de provincie Antwerpen die basis- en 
+aanvullende audits bestellen, vermoedelijk onder impuls van het cyberincident in stad 
+Antwerpen.
+Voor het traject ethisch hacken nemen er in verhouding met de vorige testronde 
+(2022-2023) in de huidige testronde (2023-2024) ook relatief meer gemeenten uit 
+de provincies Antwerpen en Oost-Vlaanderen deel.
+b) Op basis van de informatie van de auditfirma’s, blijken zij momenteel over voldoende 
+capaciteit te beschikken om aan de vraag naar ICT-veiligheidsaudits door lokale 
+besturen te kunnen voldoen. 
+De plaatsen van het traject ethisch hacken zijn, in samenspraak met VVSG en 
+Howest, beperkt tot 40. Het aantal ethische hacks die per testronde kunnen worden 
+uitgevoerd is afhankelijk van het aantal studenten. Omwille van de beperkte plaatsen 
+is er doorgaans meer vraag dan aanbod. Lokale besturen die niet eerder deelnamen 
+aan het traject krijgen daarom steeds voorrang.  
+c) Evolutie in de deelelementen:
+i. In 2022 lieten een beperkt aantal lokale besturen hun camerasystemen via een 
+basisaudit doorlichten. Een lokaal bestuur bestelde een aanvullende audit 
+specifiek voor het doorlichten van haar camerasysteem. In 2023 is er geen 
+enkel lokaal bestuur dat een ICT-veiligheidsaudit bestelde voor het doorlichten 
+van haar camerasysteem. 
+Binnen het traject ethisch hacken lieten in de vorige testronde (2022-2023) 
+slechts twee lokale besturen hun camerasystemen screenen. Voor de huidige 
+testronde 2023-2024 heb ik nog geen zicht op de deelaspecten die zullen 
+worden gescreend. De testen moeten nog worden uitgevoerd. Op dit moment 
+is een vergelijking niet mogelijk. 
+ii. Op dit moment worden geen nieuwe deelaspecten voorzien binnen het aanbod 
+van de cofinanciering voor ICT-veiligheidsaudits of het traject ethisch hacken. 
+Vanuit lokale besturen zijn er geen vragen naar andere deelaspecten. 
+5. Stand van zaken: 
+a) De laatste ronde van het traject ethisch hacken is intussen van start gegaan. Hiervoor 
+zijn 40 lokale besturen geselecteerd, in samenspraak met het Agentschap 
+Binnenlands Bestuur. Eind december ontvangen de lokale besturen de verslagen met 
+resultaten. Tot slot zal VVSG op basis van de bevindingen een globaal analyserapport 
+opmaken.
+b) Op 23 oktober organiseerde VVSG een webinar ‘monitoring en detectie’. De volgende 
+webinar ‘Hoe veilig zijn onze systemen? Een ethische hacker live aan het werk!’ vindt 
+plaats op 7 november.
+c) In kader van het project cyberveilige gemeenten zette VVSG een strategische 
+denktank op om over verschillende vraagstukken met betrekking tot cyberveiligheid 
+kennis te delen en bundelen. De thema’s die aan bod komen zijn afhankelijk van 
+lokale noden en vraagstukken. In totaal zijn drie thema’s behandeld; de overstap 
+naar de cloud, NIS2 en cyberveiligheidscrisis.
+d) In samenwerking met de denktank (zie c.) heeft VVSG een omvangrijke leidraad 
+voorbereid die lokale besturen helpt bij het organiseren van een 
+cyberveiligheidsoefening. Er zijn vier pilootgemeenten die de 
+cyberveiligheidsoefening zullen uitvoeren en de leidraad zullen testen. In december 
+organiseert VVSG tot slot nog een webinar om de leidraad voor te stellen en geleerde 
+lessen te delen. Hiermee willen we lokale besturen warm maken om zelf aan de slag 
+te gaan en een cyberveiligheidsoefening te organiseren. 
+BIJLAGEN
+1.Basisaudit
+2.Aanvullende audit
+3.Traject ethisch hacken

@@ -1,0 +1,68 @@
+title: EPC-attesten - Klachten
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2060358
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1813811
+SCHRIFTELIJKE VRAAG
+nr. 460
+van ROBRECHT BOTHUYNE
+datum: 19 maart 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+EPC-attesten  -  Klachten
+Het energieprestatiecertificaat (EPC) is een verplichting geworden bij het 
+verkopen/verhuren van een woning (huis / appartement). Het certificaat geeft aan hoe 
+energiezuinig de woning is. Het opmaken van een EPC dient door een energiedeskundige 
+type A te gebeuren. De energiedeskundige type A heeft daartoe een opleiding volbracht 
+die erkend wordt door het Vlaams Energie- en Klimaatagentschap (VEKA). Een EPC-attest 
+kost tussen de 250 à 400 euro en blijft 10 jaar geldig.
+1. Hoeveel klachten over de EPC-attesten zijn er in 2023 bij het VEKA binnengekomen? 
+2. Wat zijn de redenen van de klachten? Graag de top 3 van de meest relevante redenen 
+van de klachten.
+3. Op welke manier interpreteert de minister het aantal klachten van de laatste drie jaar? 
+4. In antwoord op schriftelijke vraag nr. 589 van 21 maart 2023 gaf de minister aan: 
+“Tot slot loopt er binnen het VEKA een traject om te starten met de automatische 
+selectie van dossiers uit de energieprestatiedatabank op basis van mogelijk foutieve 
+invoer of een verdachte combinatie van invoergegevens.” 
+Wat is de stand van zaken? Hoe verloopt het traject van automatische selectie? Welke 
+resultaten zijn er al geboekt? 
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 460 van 19 maart 2024
+van ROBRECHT BOTHUYNE
+1. In 2023 werden er 373 klachten over EPC-attesten ingediend bij het Vlaams Energie- 
+en Klimaatagentschap (VEKA).
+2. De redenen voor een klacht zijn divers en zijn ook gelijkaardig aan het jaar voordien. 
+Het merendeel van de klachten is momenteel afkomstig van huurders die in het kader 
+van huurindexeringsmogelijkheden voor de verhuurder van oordeel zijn dat het EPC-
+label de realiteit niet correct weergeeft. Verder zijn er ook klachten van nieuwe 
+eigenaars die na een tijd merken dat het EPC een beter beeld weergeeft dan de realiteit. 
+Het gaat dan over de dikte of aanwezigheid van isolatie, foutieve eigenschappen van 
+verwarmingsinstallaties, grootte of begrenzing van de verliesoppervlaktes, ... Maar 
+evengoed komen er klachten binnen van verkopers of verhuurders die van mening zijn 
+dat hun pand te negatief wordt ingerekend en daardoor ook financieel nadeel zouden 
+ondervinden.
+3. Het aantal ingediende klachten is toegenomen t.o.v. de jaren voordien:
+•2020: 27 klachten;
+•2021: 39 klachten;
+•2022: 63 klachten;
+•2023: 373 klachten.
+Het is logisch dat het aantal ingediende klachten is toegenomen aangezien ook het 
+aantal EPC’s dat jaarlijks wordt ingediend sinds 2020 is verdubbeld. In 2023 werden 
+meer dan 220.000 EPC’s opgemaakt; in 2020 ongeveer 97.000. Die stijging kan worden 
+verklaard door enerzijds de invoering van het EPC voor kleine niet-residentiële delen 
+en het EPC voor gemeenschappelijke delen en anderzijds door het aantal 
+beleidsinstrumenten dat aan het EPC wordt gekoppeld, zoals de EPC-labelpremie, het 
+renovatiekrediet met rentesubsidie en de huurindexering. Wegens het toenemend 
+financieel belang van het EPC door o.a. de voorwaarden omtrent de huurindexering 
+sinds eind 2022, heeft het aantal ingediende klachten sinds eind 2022 dan ook een 
+sprong gemaakt. Ik meen echter dat het aantal klachten nog steeds erg beperkt is 
+t.o.v. het totaal aantal ingediende EPC’s (0,17%).
+4. Binnen het VEKA zijn de eerste stappen gezet om op basis van een automatische 
+selectie en met hulp van artificiële intelligentie EPC’s met mogelijks foutieve invoer uit 
+de Energieprestatiedatabank te selecteren. Eind 2023 werd reeds aan de hand van de 
+Graydon-tool een eerste test uitgevoerd om mogelijks frauduleuze EPC’s op te sporen. 
+Het hernieuwde dataplatform van het VEKA met o.a. alle EPC-data kan sinds kort 
+gebruikt worden om een eerste groter experiment uit te voeren om mogelijks foutieve 
+EPC’s met hulp van artificiële intelligentie te selecteren. Resultaten van dit experiment 
+zijn nog niet beschikbaar.

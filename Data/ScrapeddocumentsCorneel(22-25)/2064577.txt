@@ -1,0 +1,220 @@
+title: Riolerings- en zuiveringsgraad - Stand van zaken
+thema: Natuur en Milieu
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2064577
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1824306
+SCHRIFTELIJKE VRAAG
+nr. 526
+van MIEKE SCHAUVLIEGE
+datum: 29 april 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Riolerings- en zuiveringsgraad  -  Stand van zaken
+Ik verwijs naar schriftelijke vraag nr. 231 van 11 januari 2024 van collega Ludwig 
+Vandenhove.
+Volgens de VMM-website https://www.vmm.be/water/riolering/zuiveringsgraad is de 
+rioleringsgraad in maart 2024 gestegen tot 94% (VMM: Vlaamse Milieumaatschappij). Tot 
+voor kort was dat nog maar 86%. Op basis van dit totaalcijfer lijkt dus een reuzesprong 
+voorwaarts gemaakt voor de rioleringsgraad in Vlaanderen. 
+De VMM geeft aan dat die positieve evolutie het gevolg is van een vernieuwde 
+rioolinventaris. De toename zou deels toe te schrijven zijn aan extra gerealiseerde riolering 
+op het terrein maar ook deels aan een betere inventarisatie. 
+Op de pagina https://www.vmm.be/water/riolering/hoe-wordt-de-riolerings-en-
+zuiveringsgraad-berekend staat vermeld hoe de rioleringsgraad wordt berekend. Meer 
+informatie wordt niet gegeven. 
+Vlaamse Rioleringen (Vlario) meldt het volgende: "In 2018 werd bepaald het afvalwater 
+van nog eens 8 percent, of 532.000 Vlamingen bijkomend gezuiverd dient te worden om 
+de doelstellingen van de Kaderrichtlijn Water kunnen halen. 58% van die inspanning is 
+voor de gemeenten, de rest zijn bovengemeentelijke projecten. Een deel van de 
+inspanningen zijn al uitgevoerd, waardoor de recentste inschatting toont dat er nog 
+ongeveer 249.000 IE aan te sluiten is door de gemeenten, en 115.000 door Aquafin." 
+(https://www.vlario.be/wateruitdagingen/). In totaal gaat het dus om 364.000 
+inwonerequivalenten.
+1. Kan de minister gedetailleerd toelichten hoe die evolutie in de realisatiegraad van het 
+rioleringsnetwerk verklaard kan worden?
+2. Een betere inventaris, wat betekent dat concreet? Welke projecten werden in het 
+verleden niet meegenomen? Gaat het om informatie die voorheen niet beschikbaar 
+was? Of zijn de criteria voor de berekening van de rioleringsgraad veranderd? Is die 
+strenger/minder streng geworden? 
+3. Zijn de criteria die vermeld staan op https://www.vmm.be/water/riolering/hoe-wordt-
+de-riolerings-en-zuiveringsgraad-berekend voor de berekening van de rioleringsgraad 
+dezelfde als de criteria die gebruikt werden in het kader van de rioleringsgraad in 
+2022? 
+4. Wat is de sprong voorwaarts die het gevolg is van een betere inventarisatie? 
+5. Wat betreft de extra rioleringen op het terrein: over hoeveel extra km riolering gaat 
+het concreet? Hoeveel woningen zijn er extra aangesloten? Hoeveel extra individuele 
+behandelingsinstallaties voor afvalwater (IBA's) zijn er gerealiseerd? 
+6. Wat is de sprong voorwaarts die het gevolg is van een uitbreiding van het 
+rioleringsnetwerk? 
+7. Volgens de cijfers uit 2022 van de rioleringsgraad: hoeveel woningen waren 
+aangesloten op het rioleringsnetwerk? Hoeveel hadden een IBA? 
+8. Volgens de cijfers van 2024: hoeveel woningen zijn aangesloten op het 
+rioleringsnetwerk? Hoeveel hebben een individuele behandelingsinstallatie voor 
+afvalwater? 
+9. De rioleringsgraad bedraagt nu 94%.
+Wat is nog de doelafstand tot de doelstelling in het kader van de Kaderrichtlijn Water? 
+Graag in procenten en in absolute cijfers. 
+10. In het kader van de nieuwe ronde beleids- en beheerscyclussen (BBC's) is het 
+belangrijk dat gemeenten goed geïnformeerd zijn over de doelafstand die nodig is om 
+de doelstellingen uit de Kaderrichtlijn Water te halen. Voorheen was er op de website 
+van de VMM een Excel-bestand beschikbaar dat per gemeente aangaf wat de 
+riolerings- en zuiveringsgraad per gemeente was. 
+Kan dat bestand beschikbaar gemaakt worden? Graag de rioleringsgraad en 
+zuiveringsgraad per gemeente voor 2022 en 2024. 
+11. Is er een globaal rapport beschikbaar dat de nieuwe cijfers met betrekking tot de 
+rioleringsgraad en de nieuwe rioleringsmethode bespreekt? Kan dat beschikbaar 
+gemaakt worden?
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 526 van 29 april 2024
+van MIEKE SCHAUVLIEGE
+1. Een eerste belangrijk aspect om de evolutie in de rioleringsgraad mee te verklaren is 
+het feit dat deze cijfers voor het eerst gebaseerd zijn op de informatie uit de nieuwe 
+AWIS-rioolinventaris. In de rioolinventaris wordt de detailinformatie over de ligging 
+van de rioleringen aangeleverd door de gemeentelijke rioolbeheerders en Aquafin. Met 
+de publicatie van de cijfers start dus een nieuw ijkpunt. 
+De gemeentelijke rioolbeheerders en Aquafin beheren de ligging van riolen in hun 
+eigen systemen en laden 4 keer per jaar een actualisatie van hun gegevens op in de 
+rioolinventaris. De opgeladen data moet daarbij ook aan bepaalde criteria voldoen. 
+Enerzijds moet het vormelijk aan de juiste criteria voldoen (gemeenschappelijk 
+datamodel) maar ook de kwaliteit moet gewaarborgd worden.
+In functie van het asset management traject wordt daarom een dekkingsgraad 
+berekend. Dat is de mate waarin het aantal putten in de rioolinventaris overeenstemt 
+met het aantal putten zoals gekend in GRB (Grootschalig Referentie Bestand). De 
+minimaal te behalen dekkingsgraad bedraagt 90% (geen 100% omdat niet alle putten 
+gedigitaliseerd in het GRB een oorsprong in het saneringsnetwerk hebben). Op enkele 
+kleinere afwijkingen na, wordt deze norm voor alle gemeenten in Vlaanderen behaald.
+https://statustool.aquafin.be/inventaris/provincie/dekkingsgraad/ 
+De gemeentelijke rioolbeheerders en Aquafin hebben dus heel wat werk verzet om het 
+volledige patrimonium in kaart te brengen en deze informatie conform de afspraken 
+aan te leveren aan de rioolinventaris.
+De stijging in rioleringsgraad is deels te wijten aan extra riolering aangelegd op het 
+terrein en anderzijds door een betere inventarisatie van het eerder aangelegde 
+patrimonium. 
+2. De betere inventarisatie uit zich in verschillende vormen. 
+Enerzijds ligt het verschil in een meer gedetailleerde inventarisatie van het stelsel. 
+Voorheen gebeurde er een schematische inventarisatie door de VMM (op niveau: ligt 
+er riolering in de straat). De data opgeladen door de rioolbeheerders geeft nu in detail 
+aan of de infrastructuur links of rechts van de straat gelegen is, of beide. Zoals dat ook 
+vereist is voor aanlevering aan het Kabel- en Leidingen Informatieportaal (KLIP). Deze 
+situaties geven over het algemeen geen stijging van de rioleringsgraad.
+Er zijn echter wel een aantal  situaties waarbij verbeterde inventarisatie wel leidt tot 
+een hogere rioleringsgraad:
+- Digitalisatie van infrastructuur aangelegd na 2022
+- Digitalisatie door de rioolbeheerders van infrastructuur aangelegd voor 2022 die 
+eerder bij de VMM niet gekend was. Dit komt voor in twee vormen: 
+oVrij recent aangelegde en niet-gesubsidieerde infrastructuur. De informatie 
+inzake niet gesubsidieerde projecten werd immers niet stelselmatig gedeeld 
+met de VMM. 
+oBestaande (vaak oudere) infrastructuur die bij opmaak van de 
+gebiedsdekkende uitvoeringsplannen (GUP) aanzien werd als onvolwaardig 
+voor een modern rioleringssysteem (en niet geïnventariseerd werd). In het 
+kader van asset management is het cruciaal ook deze infrastructuur niet uit 
+het oog te verliezen. Door ook deze infrastructuur te inventariseren kan er 
+een volledig beeld gecreëerd worden op vlak van asset management.
+In de laatste berekening zal dus een deel van de infrastructuur aangelegd voor 2022 
+die voorheen niet gekend was bij de VMM, retroactief meegerekend worden in de 
+nieuwe rioleringsgraad. Voor een relatief groot deel daarvan zullen nog extra 
+investeringen nodig zijn om ook in deze situaties te kunnen voldoen aan de code van 
+goede praktijk. Het asset management traject moet de rioolbeheerders helpen de keuze 
+te maken tussen vervanging of deels hergebruik van de bestaande infrastructuur 
+(daarmee moeten ze steeds rekening houden met de huidig geldende code van goede 
+praktijk).
+In die situaties waar de geïnventariseerde infrastructuur nog niet voldoet aan de meest 
+recente code van goede praktijk zal dit vanaf nu in cijfers eerder als vervanging van 
+bestaande infrastructuur aanzien worden i.p.v. nieuwe aanleg. Waardoor we in de 
+toekomst bij het uitvoeren van werken vaker geen of een beperkte stijging van 
+rioleringsgraad verwachten.
+Daarnaast zijn er ook andere wijzigingen die de resultaten kunnen beïnvloeden: 
+correcties in de data, update van de achterliggende inwonersaantallen (bijv. indien er 
+vooral stijging van inwoners is in centraal gebied en minder in de buitengebieden, kan 
+de rioleringsgraad ook stijgen), wijzigingen in de adresposities, …
+3. Om de rioleringsgraad te berekenen worden de adressen via een algoritme aan de 
+ingetekende rioolinfrastructuur gekoppeld.
+De basis van het algoritme gebruikt in 2022 en dat wat nu in 2024 gebruikt wordt is 
+grosso-modo hetzelfde gebleven. Zoals hierboven bij de eerste vraag aangegeven, 
+wordt nu gebruik gemaakt van de nieuwe gedetailleerde AWIS-rioolinventaris en niet 
+meer van de schematische rioleringsinventaris. De website van de VMM werd inmiddels 
+geactualiseerd. 
+4. Omdat de bronnen waarop deze berekening gebaseerd zijn verschillend zijn, kan het 
+cijfer dat we vandaag berekenen moeilijk vergeleken worden met het voorgaande. Dit 
+moment moet als een nieuw ijkpunt aanschouwd worden. De gegevenspartners 
+(rioolbeheerders en lokale besturen) zijn immers vanaf nu verantwoordelijk voor de 
+basisdata.  Als we een schatting maken zal het grootste verschil met het voorgaande 
+cijfer te wijten zijn aan betere inventarisatie (zie vraag 2).
+In de inleidende tekst van deze vragen worden echter twee verschillende cijfers met 
+elkaar vergeleken. Op de website staat dat de rioleringsgraad in maart 2024 94% 
+bedraagt. Daarnaast bedroeg de zuiveringsgraad in april 2022 in Vlaanderen 86%.
+De rioleringsgraad bedroeg in 2022 88%. Het betreft dus nog steeds een stijging van 
+ongeveer 6%, maar niet de eerst vermelde 8%. Voor de zuiveringsgraad is er dit jaar 
+geen actualisatie gebeurd.
+Omdat de cijfers voor de eerste keer berekend zijn op basis van de nieuwe info in de 
+rioolinventaris zal de VMM het cijfer op de website vaker actualiseren zodat de laatste 
+verbeteringen en actualisaties steeds gereflecteerd worden in het cijfer. Er wordt wel 
+verwacht dat de achterliggende data en het cijfer in de komende maanden verder zal 
+stabiliseren.
+5. Er zijn ± 8800 km afvalwaterrioleringen extra geïnventariseerd in de rioolinventaris 
+(dit is ontbrekende riolering + riolering die meer gedetailleerd is ingetekend en zo ook 
+resulteert in een hoger aantal km). Daarboven is ± 390 km aangelegd van begin 2023 
+tot nu.
+Als tevens de hemelwaterafvoeren worden meegerekend , is er in de rioolinventaris ± 
+12 300 km extra geïnventariseerd (hierbij werd enkel rekening met rioolbuizen, 
+grachten werden  hier niet meegerekend). Daarboven is ± 660 km aangelegd van 
+begin 2023 tot nu.
+Voor het aantal extra aangesloten woningen en het aantal extra IBA’s verwijs ik naar 
+vraag 7 en 8.
+6. Zoals in vraag 4 al aangehaald is het grootste verschil met het voorgaande cijfer te 
+wijten aan betere inventarisatie. Maar omdat de bron waarop de berekening in 2022 
+en vandaag gebaseerd is verschillend is, kan het cijfer dat we vandaag berekenen niet 
+vergeleken worden met het voorgaande. Dit moment moet als een nieuw ijkpunt 
+aanschouwd worden. Een schatting geeft aan dat het aandeel van de uitbreiding van 
+het rioleringsnetwerk rond de 0,3% zal liggen, tussen de situatie 2022 en de situatie 
+zoals die vandaag geïnventariseerd is (dus de meest recente wijzigingen op het terrein 
+zitten daar nog niet in).
+7. Volgens de berekeningen in 2022 waren er ongeveer 2 451 000 gezinnen aangesloten 
+op de riolering. Dit cijfer is een afgeleid cijfer want er worden geen cijfers of evolutie 
+van het aantal aangesloten woningen/adressen of gezinnen bijgehouden. Om tot een 
+inschatting te komen werd het cijfer van het aantal aangesloten inwoners (indicatie 
+volgens algoritme) gedeeld door 2,3 inwoners (als eenheid per gezin).
+Voor het aantal woningen dat in 2022 aangesloten was op een IBA verwijs ik naar 
+bijlage 1 van ons antwoord op uw schriftelijke vraag 187 van 11 december 2023. Op 
+basis van de jaarlijkse rapportering door de rioolbeheerders kunnen we concluderen 
+dat eind 2022 15.408 IBA’s in werking waren.
+8. Volgens de berekeningen vandaag zijn 2 597 000 gezinnen aangesloten. Zoals bij 
+vraag 7 aangegeven is dit een afgeleid cijfer. Om tot een inschatting te komen werd 
+het cijfer van het aantal aangesloten inwoners (indicatie volgens algoritme) gedeeld 
+door 2,3 inwoners (als eenheid per gezin).
+Voor wat betreft het aantal IBA’s in werking in 2024 zijn nog geen cijfers ter 
+beschikking. De meest recente rapportering door de rioolbeheerders handelt over het 
+werkjaar 2022. Tegen 15 juli 2024 moeten de gemeentelijke rioolbeheerder 
+rapporteren over het werkjaar 2023.
+9. Ik verwijs hiervoor naar de stroomgebiedbeheerplannen waarin de reductiedoelen per 
+waterlichaam, gemeente en rioolbeheerder werden vastgelegd. Deze informatie is 
+raadpleegbaar op de CIW website en op het geoloket van de VMM: 
+https://www.vmm.be/data/zonering-en-uitvoeringsplan. Omdat de reductiedoelen 
+enkel te halen zijn via een toename in de zuiveringsgraad, kunnen de inspanningen 
+niet afgeleid worden uit de rioleringsgraad. De reductiedoelen zijn dus sturend, niet 
+de rioleringsgraad. Verder verwijs ik ook naar het nieuw besluit over de gemeentelijke 
+saneringsverplichting waarin de openbare dienstverplichtingen werden vastgelegd.
+10. De huidige stand van zaken is nog steeds te downloaden op de website van de VMM 
+via https://www.vmm.be/water/riolering/zuiveringsgraad en de optie rechts ‘ Cijfers in 
+Excel’. 
+Zoals ook reeds eerder aangehaald zal de VMM dit jaar de cijfers frequenter updaten 
+voor zover de brondata dit toelaten. Met de publicatie van de cijfers uit de 
+rioolinventaris is een nieuw ijkpunt gestart. De cijfers uit 2022 en die van vandaag zijn 
+dus niet zo maar te vergelijken zonder rekening te houden met de verschillen in de 
+brondata. De actuele gegevens over de zuiveringsgraad zijn nog niet beschikbaar 
+aangezien het connecteren van de door de verschillende rioolbeheerders aangeleverde 
+info momenteel nog niet optimaal is. Daardoor kan de berekening van de 
+zuiveringsgraad nog niet automatisch gebeuren. Lokale besturen en rioolbeheerders 
+met een ondermaatse datakwaliteit worden hierop gewezen. Het resultaat van een 
+nieuwe oplaadcyclus, waarbij elke rioolbeheerder zijn data verder kon aanvullen, wordt 
+tegen de zomer verwacht. 
+Tevens werd het gebruik van de AWIS-rioolinventaris inmiddels verankerd in het 
+nieuwe besluit van de Vlaamse Regering Gemeentelijke Saneringsplicht Afvalwater (BS 
+8 april 2024). Het is dus verplicht voor elke Vlaamse gemeente of stad om aangesloten 
+te zijn op de AWIS-rioolinventaris. De lokale besturen en rioolbeheerders die nog geen 
+data aanleverden, werden hierover aangeschreven. Bovendien is de aansluiting op de 
+rioolinventaris een voorwaarde om met nieuwe rioleringsprojecten nog in aanmerking 
+te komen voor Vlaamse rioolsubsidies. 
+11. Er is geen globaal rapport beschikbaar met de bespreking van de cijfers.

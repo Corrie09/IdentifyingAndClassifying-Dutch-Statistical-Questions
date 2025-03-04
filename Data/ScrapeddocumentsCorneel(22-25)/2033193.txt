@@ -1,0 +1,77 @@
+title: Basistegemoetkoming zorg in woonzorgcentra (wzc's) - Afwijkingen voor de kwalificatie van medewerkers
+thema: Welzijn en Gezin
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2033193
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1791716
+SCHRIFTELIJKE VRAAG
+nr. 168
+van MAAIKE DE RUDDER
+datum: 9 januari 2024
+aan HILDE CREVITS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+Basistegemoetkoming zorg in woonzorgcentra (wzc’s)  -  Afwijkingen voor de kwalificatie 
+van medewerkers
+Ik heb een aantal vragen over de financiering van de basistegemoetkoming van de zorg in 
+woonzorgcentra in het licht van de recente migratie van RaaS naar eCalcura, meer specifiek 
+over de aftoetsing van de visumvereisten aan de diverse diploma's van de medewerkers, 
+wat leidt tot financiële gevolgen voor de basistegemoetkoming van de zorg in verschillende 
+woonzorgcentra.
+Om de migratie vlot te laten verlopen, werd de kwalificatie voor elke zorgmedewerker 
+afgetoetst met de databank van de personen die over de kwalificatie in kwestie beschikken, 
+de visumlijsten.
+Het Departement Welzijn, Volksgezondheid en Gezin hanteert regels met betrekking tot de 
+geldigheid van visums en de koppeling ervan aan de berekening van de 
+basistegemoetkoming van de zorg in de woonzorgcentra. Het gebrek aan de automatische 
+aftoetsing en de complexiteit van de huidige regelgeving dragen bij aan de onbedoelde 
+financiële gevolgen voor de woonzorgcentra.
+1. Is het mogelijk dat het departement intussen alle diploma's en visums automatisch 
+integreert in het registratiesysteem (eCalcura) waardoor de woonzorgcentra 
+onmiddellijk op de hoogte gesteld worden van de geldigheid van diploma's en visums?
+2. Zal er een uitzondering gemaakt worden voor de voorbije referentieperiode 
+(01/07/2022-30/06/2023) aangezien de onduidelijkheden voor negatieve financiële 
+gevolgen kunnen zorgen?
+HILDE CREVITS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN  
+ANTWOORD
+op vraag nr. 168 van 9 januari 2024 
+van MAAIKE DE RUDDER
+1. Het vertrekpunt voor de invoer van de gegevens binnen eCalcura zijn de beschikbare 
+authentieke bronnen waarover het Departement beschikt. eCalcura zal wat betreft 
+gegevensinvoer dus een hele vereenvoudiging betekenen voor voorzieningen. Deze 
+vereenvoudigingen en koppeling met authentieke bronnen zullen gebeuren vanaf het 
+facturatiejaar 2025 (referentieperiode van 1 juli 2023 t.e.m. 30 juni 2024).
+In RaaS moesten voorzieningen zelf een rijksregisternummer, voornaam, naam en 
+kwalificatie van een medewerker invoeren.
+In eCalcura is er voor de invoer van gegevens van medewerkers een koppeling met 
+het rijksregister. Bij invoer van een rijksregisternummer wordt de voornaam en naam 
+van een medewerker automatisch opgehaald. Bijkomend wordt ook de correcte 
+kwalificatie van een medewerker gecontroleerd in de Zorgberoependatabank. Bij 
+selectie van een visumplichtige kwalificatie zal namelijk onmiddellijk een controle 
+gebeuren o.b.v. het rijksregisternummer of de betreffende medewerker over het 
+correcte visum beschikt. Op die manier komt een voorziening bij een retroactieve 
+controle niet meer voor verrassingen te staan dat bepaalde medewerkers niet in 
+aanmerking komen voor financiering.
+2. Het visum wordt toegekend door de FOD Volksgezondheid, Veiligheid van de 
+Voedselketen en Leefmilieu en is ook volledig de bevoegdheid van de FOD. Elke 
+afgestudeerde verpleegkundige (bv.) zal over een diploma beschikken, maar het visum 
+is de (enige) garantie dat deze persoon dat gereglementeerd gezondheidszorgberoep 
+ook mag uitoefenen. Het is dan ook geen nieuw gegeven dat een medewerker over 
+het juiste diploma moet beschikken en bij een visumplichtige kwalificatie over een 
+geldig visum. Het Departement controleert jaarlijkse talrijke voorzieningen via 
+steekproef. Deze controle staat in de regelgeving en kan het Departement niet 
+vrijblijvend toepassen. Indien van toepassing wordt voor de gecontroleerde 
+voorzieningen een herberekening van de basistegemoetkoming voor zorg uitgevoerd. 
+De datamigratie van RaaS naar eCalcura kan enkel succesvol verlopen als de 
+brongegevens (aangifte referentieperiode 2022/2023) correct zijn bij het migreren.
+Bij de grote controle die in november 2023 gebeurde zijn alle voorzieningen 
+gecontroleerd en werden de bevindingen per voorziening overgemaakt aan de 
+betreffende voorziening. Voorzieningen die de instructies van het Departement hebben 
+opgevolgd hebben zelf de foute gegevens tijdig aangepast waardoor zij een correcte 
+berekening van de basistegemoetkoming voor zorg voor het facturatiejaar 2024 
+ontvingen in december. Voor de voorzieningen die dit niet gedaan hebben zal het 
+Departement de gegevens aanpassen en een herberekening uitvoeren van de 
+basistegemoetkoming voor zorg voor het facturatiejaar 2024. Elke voorziening wordt 
+zo op dezelfde manier behandeld.
+De bedrijfsrevisor en het Rekenhof weten van deze algemene controle en dit is één 
+van hun absolute voorwaarden bij het nazicht van de jaarrekeningen.

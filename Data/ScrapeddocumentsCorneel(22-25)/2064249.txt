@@ -1,0 +1,55 @@
+title: Successierechten - Verdeling
+thema: Financiën
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2064249
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1824010
+SCHRIFTELIJKE VRAAG
+nr. 269
+van KIM DE WITTE
+datum: 26 april 2024
+aan MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+Successierechten  -  Verdeling
+Onlangs bleek uit onderzoek door de krant De Tijd dat meer dan vijfhonderd rijke families 
+in België successierechten ontlopen via private stichtingen. Verder blijkt dat twee op de 
+drie familiale stichtingen zich bevinden in Vlaanderen. In het Vlaamse Gewest worden de 
+successierechten beheerd door de Vlaamse Belastingdienst (VLABEL).
+1. Hoe waren de aangegeven bedragen van de nalatenschappen verdeeld in de afgelopen 
+5 jaar waarvoor er gegevens beschikbaar zijn, opgesplitst volgens het bedrag? 
+2. Hoe waren de successierechten verdeeld in de afgelopen 5 jaar waarvoor er gegevens 
+beschikbaar zijn? Graag opgesplitst volgens het bedrag.
+3. Kan de minister bij het verstrekken van de gegevens het totaalaantal nalatenschappen, 
+de gemiddelde standaardafwijking en een onderverdeling bezorgen voor:
+a) percentiel 1;
+b) percentiel 5;
+c) percentiel 10;
+d) percentiel 25;
+e) percentiel 50;
+f) percentiel 75;
+g) percentiel 90;
+h) percentiel 95;
+i) percentiel 99?
+MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+ANTWOORD 
+op vraag nr. 269 van 26 april 2024
+van KIM DE WITTE
+In de tabel in bijlage worden voor aanslagjaren 2019-2023 de nalatenschappen waarvoor 
+een aangifte werd ingediend verdeeld volgens de gevraagde percentielen op basis van het 
+belastbaar vermogen.1 
+Voor elke groep werd het aantal dossiers berekend, de bovengrens van de groep, het 
+gemiddelde belastbaar vermogen binnen de groep, de standaarddeviatie, het totale 
+belastbare vermogen en de te betalen erfbelasting voor de groep.
+Een voorbeeld: in 2019 waren er 14.016 dossiers tussen percentiel 25 en percentiel 50. 
+De bovengrens van het belastbaar vermogen van deze groep dossiers bedraagt 138.784 
+euro. Dat is dus het mediaan belastbaar vermogen voor 2019. Het gemiddelde belastbaar 
+vermogen van de dossiers P25-P50 bedraagt 94.772 euro en de standaardafwijking 26.378 
+euro. De 14.016 dossiers vertegenwoordigen een totaal belastbaar vermogen van 
+1.328.326.328 euro waarop in totaal 62.475.695 euro aan erfbelasting moet worden 
+betaald.
+Gelet op de aangiftetermijn en de tijd die nodig is voor de verwerking van een dossier zijn 
+de cijfers voor aanslagjaar 2023 nog niet volledig.
+BIJLAGE
+Overzicht belastbare vermogens per aanslagjaar en per percentiel (aantal, bovengrens, 
+gemiddelde, standaardafwijking, totaal belastbaar vermogen, totaal erfbelasting)
+1 Aangezien in 6 à 7% van de dossiers een nulaangifte wordt ingediend (d.i. er is geen belastbaar 
+vermogen) kan geen onderscheid gemaakt worden tussen percentiel 1 en percentiel 5.

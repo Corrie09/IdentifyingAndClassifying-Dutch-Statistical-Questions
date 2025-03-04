@@ -1,0 +1,264 @@
+title: Toegekende coronasteun - Controle
+thema: Economie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2027525
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1784212
+SCHRIFTELIJKE VRAAG
+nr. 101
+van BOB SAVENBERG
+datum: 30 november 2023
+aan JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+Toegekende coronasteun  -  Controle
+De Vlaamse overheid kende via diverse mechanismen (coronahinderpremie, 
+compensatiepremie, Vlaams beschermingsmechanisme (VBM) enzovoort) directe steun toe 
+aan ondernemingen en zelfstandigen om de gevolgen van de coronacrisis (deels) op te 
+vangen. Daarnaast verliep een deel van de crisissteun via waarborgen en leningen 
+(achtergestelde leningen, heropstartleningen, handelshuurleningen enzovoort). 
+Naderhand werd ook in overbruggingsleningen voorzien, die werden uitgebreid in het kader 
+van de Rusland-Oekraïnecrisis.
+1. In antwoord op de begrotingstechnische vragen bij de begrotingsopmaak (BO) 2024 
+gaf de minister een overzicht van de bedragen aan toegekende coronasteun voor de 
+verschillende premies.
+a) Kan de minister een overzicht geven voor elk van de premies (cfr. voormeld 
+overzicht in de antwoorden op de begrotingstechnische vragen) van het aantal 
+aanvragen?
+b) Kan de minister een overzicht geven voor elk van de premies (cfr. voormeld 
+overzicht in de antwoorden op de begrotingstechnische vragen) van het aantal 
+goedgekeurde dossiers?
+2. In antwoord op schriftelijke vraag nr. 632 van 23 mei 2023 van de heer Vande Reyde 
+gaf de minister een overzicht van alle toegekende steun via waarborgen en leningen.
+a) Kan de minister voor elk van die instrumenten een overzicht geven van het 
+totaalaantal aanvragen? 
+b) Hoeveel bedroeg voor elk van die instrumenten de goedkeuringsratio?
+3. Voor de beoordeling van steunaanvragen zou ook gebruikgemaakt zijn van externe 
+partijen (onder andere KPMG).
+a) Werd inderdaad een beroep gedaan op externe partijen voor de beoordeling van 
+aanvraagdossiers? Zo ja:
+i. Voor welke instrumenten gebeurde dat?
+ii. Op basis van welke afwegingen werd daartoe beslist?
+iii. Welke externe partijen werden daarvoor ingeschakeld?
+iv. Wat was de concrete opdracht en rol van deze externe partijen?
+v. Welke vergoedingen werden daavoor betaald aan die externe partijen. Graag 
+een overzicht per opdrachtnemer.
+vi. Hoe verliep dat procesmatig (wanneer werd beslist om voor een bepaald 
+dossier een beroep te doen op een externe partner, welke output leverde dat 
+op, hoe ging het Agentschap Innoveren en Ondernemen (VLAIO) vervolgens 
+om met die output met het oog op de finale steunbeslissing, enzovoort)?
+vii. Voor hoeveel aanvraagdossiers werd een beroep gedaan op externe partijen? 
+Graag een overzicht per instrument en per externe partner.
+viii. Hoe werden die externe partijen aangesteld (overheidsopdracht, procedure 
+enzovoort)?
+b) Doet VLAIO nog een beroep op externe partijen voor de beoordeling van 
+aanvraagdossiers (inclusief reguliere steunkanalen)? Zo ja:
+i. Voor welke instrumenten gebeurt dat?
+ii. Op basis van welke afwegingen werd daartoe beslist?
+iii. Welke externe partijen worden daarvoor ingeschakeld?
+iv. Wat is de concrete opdracht en rol van die externe partijen?
+v. Welke vergoedingen worden daarvoor betaald aan die externe partijen? Graag 
+een overzicht per opdrachtnemer.
+vi. Hoe verloopt dat procesmatig (wanneer werd beslist om voor een bepaald 
+dossier een beroep te doen op een externe partner, welke output leverde dat 
+op, hoe ging VLAIO vervolgens om met die met het oog op de finale 
+steunbeslissing enzovoort)?
+vii. Voor hoeveel aanvraagdossiers wordt een beroep gedaan op externe partijen? 
+Graag een overzicht per instrument en per externe partner.
+viii. Hoe werden die externe partijen aangesteld (overheidsopdracht, procedure 
+enzovoort)?
+4. Uit het werkveld kreeg ik signalen dat bepaalde aanvraagdossiers voor een 
+overbruggingslening al na enkele uren een weigeringsbeslissing kregen omdat uit de 
+financiële analyse zou zijn gebleken dat er onvoldoende terugbetalingscapaciteit was. 
+a) Hoe kan een degelijke financiële analyse in een tijdspanne van enkele uren worden 
+uitgevoerd? Gebeurde dit deels geautomatiseerd of volledig manueel? Graag een 
+toelichting bij de procesflow vanaf indiening aanvraag tot en met kennisgeving 
+van de steunbeslissing (stappen, betrokken personen enzovoort) voor de 
+overbruggingslening.
+b) Graag een toelichting bij de procesflow vanaf indiening aanvraag tot en met 
+kennisgeving van de steunbeslissing (stappen, betrokken personen enzovoort) 
+voor de overige respectieve crisissteuninstrumenten (premies, leningen, 
+waarborgen).
+c) Hoeveel bedroeg de gemiddelde doorlooptijd (vanaf indiening aanvraag tot en met 
+kennisgeving steunbeslissing) voor steunaanvragen? Graag een overzicht voor elk 
+van de instrumenten (premies, leningen, waarborgen).
+JO BROUNS
+VLAAMS MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW
+ANTWOORD 
+op vraag nr. 101 van 30 november 2023
+van BOB SAVENBERG
+1. Hierna een overzicht van het aantal ingediende en uitbetaalde aanvragen coronasteun.
+Corona steunmaatregel  
+(toestand 30/11/2023)Aantal
+ingediende 
+aanvragenAantal 
+uitbetaalde 
+dossiers
+Hinderpremie inclusief dagpremie 132.341 106.342
+Compensatiepremie 96.980 79.690
+Ondersteuningspremie 35.880 34.710
+Vlaams Beschermingsmechanisme 15.382 14.475
+Nieuw Vlaams Beschermingsmechanisme 63.884 62.547
+Vlaams Beschermingsmechanisme 3 57.717 56.678
+Vlaams Beschermingsmechanisme 4 47.903 46.940
+Vlaams Beschermingsmechanisme 5 48.975 48.095
+Vlaams Beschermingsmechanisme 6 42.521 41.826
+Vlaams Beschermingsmechanisme 7 45.243 44.506
+Vlaams Beschermingsmechanisme 8 28.762 27.914
+Vlaams Beschermingsmechanisme 9 21.667 20.788
+Vlaams Beschermingsmechanisme 10 938 575
+Vlaams Beschermingsmechanisme 11 1.816 1.239
+Vlaams Beschermingsmechanisme 12 830 720
+Corona Globalisatie Mechanisme 2020 861 522
+Corona Globalisatie Mechanisme 2021 161 72
+Eindtotaal 641.861 587.639
+2. a-b) aantal aanvragen en goedkeuringsratio:
+handelshuurlening: 2.495 aanvragen, 78,4% goedgekeurd
+heropstartlening: 1634 aanvragen, 73,26% goedgekeurd
+overbruggingslening COVID: 1.936 aanvragen, 52,48% goedgekeurd
+overbruggingslening energie: 1.698 aanvragen, 44,23% goedgekeurd 
+overbruggingslening oekraïne: (binnen dit product zijn nog aanvragen mogelijk 
+tot 15/12/2023; de beoordeling van de aangevraagde dossiers is nog lopende) 
+1.669 aanvragen, 35,23% goedgekeurd op 10/12/2023
+b) goedkeuringsratio
+supra
+3. a) In het kader van de beoordeling van de aanvragen overbruggingslening werd voor 
+diepgaandere analyse soms beroep gedaan op kredietanalisten van PMV en KPMG. 
+Gelet op de snelheid waarmee de maatregelen operationeel werden gemaakt, werd 
+er voor gekozen om capaciteit tot kredietanalyse te recruteren bij zowel VLAIO, PMV 
+als KPMG. KPMG werd aangesteld na mini-competitie onder de raamovereenkomst 
+die VLAIO heeft met acht dienstverleners. Deze raamovereenkomst kwam tot stand 
+na een Europees bekendgemaakte overheidsopdracht. Aangezien de opdracht nog 
+loopt, is er nog geen definitief bedrag van de kost bekend voor KPMG en ook nog 
+geen exact aantal geanalyseerde dossiers. De kost zal vermoedelijk tussen de 
+200.000 euro en 300.000 euro, inclusief btw liggen. De kost wordt betaald per 
+geanalyseerd dossier. De opdracht van KPMG betreft het meer doorgedreven 
+analyseren van de financiële situatie en de terugbetalingscapaciteit van de 
+ondernemingen die een lening aanvroegen. KPMG werd vooral ingeschakeld voor 
+ondernemingen die ofwel een hoger bedrag aanvroegen, ofwel naar het oordeel van 
+VLAIO – die de eerste analyse maakte – een hoger risicoprofiel hadden. KPMG werd 
+ook soms ingeschakeld indien de aanvrager na eerste negatieve beslissing door het 
+kredietcomité bezwaar aantekende. KPMG levert een rapport op met de 
+kredietanalyse. Dit geldt als advies aan het kredietcomité dat bestaat uit VLAIO en 
+PMV. Het kredietcomité neemt de beslissing en kan dus afwijken van dit advies.
+b) Bij de behandeling van aanvragen innovatiesteun is zoals algemeen bekend dikwijls 
+een beoordeling door externe experten van toepassing. Daarnaast wordt ook voor 
+ecologiesteun en Screen Flanders samengewerkt met externe experten. Dit is al 
+jarenlang zo, en staat los van de getroffen maatregelen voor pandemie, oorlog in 
+Oekraïne of energiecrisis. Er worden externe experten ingezet:
+1) Voor innovatiesteun instrumenten die beslist worden door het Beslissingscomité 
+van het Fonds voor Innoveren en Ondernemen.
+Meer concreet gaat het om: Onderzoeksprojecten, Ontwikkelingsprojecten, 
+ICON, TETRA, COOCK, Landbouwtrajecten, Baekeland mandaten en 
+Innovatiemandaten.
+Voor Ontwikkelingsprojecten met een gevraagde subsidie onder de 500.000 
+euro alsook voor Haalbaarheidsstudies wordt doorgaans – in functie van de 
+beschikbaarheid van interne expertise- gekozen voor een interne evaluatie 
+zonder externe partijen. Als intern geen expertise beschikbaar is, kan ook een 
+externe partij worden ingeschakeld. 
+2) Voor de instrumenten van ECOLOGIESTEUN (STRES, Ecologiepremie+ en 
+Green) wordt voor de evaluatie samengewerkt met VITO. 
+3) In het kader van de steunmaatregel Screen Flanders wordt samengewerkt met 
+het VAF (Vlaams Audiovisueel Fonds) voor communicatie, promotie en de 
+dossierbehandeling, waarbij culturele experts  worden ingeschakeld in de 
+beoordeling van de projecten. 
+ 
+i. Het inschakelen van externe partijen voor de beoordeling van 
+innovatiesteunprojecten is vastgelegd in de respectievelijke besluiten van de 
+Vlaamse Regering van de instrumenten.
+Voor ecologiesteun is de inschakeling van VITO geregeld via een VO-brede 
+Beheersreglement met VITO waarbij VITO een aantal referentietaken 
+uitvoert voor de Vlaamse Overheid, waaronder VLAIO. Prestaties die 
+aanleiding geven tot een overschrijding van het budget opgenomen in het 
+Beheersreglement worden afzonderlijk  door VITO aan VLAIO gefactureerd.
+Voor Screen Flanders is er een samenwerkingsovereenkomst tussen VLAIO 
+en VAF zodat beroep kan gedaan worden op de specifieke expertise bij het 
+VAF omwille van haar jarenlange ervaring in de audiovisuele sector. Dit is 
+vastgelegd in een samenwerkingsovereenkomst tussen VLAIO en VAF. Deze 
+samenwerking die betrekking heeft op de inhoudelijke taken van  van 
+dossierbehandeling inzake de ondersteuning van audiovisuele werken die 
+voor de productie ervan bestedingen doen in Vlaanderen, is niet aan de 
+wetgeving overheidsopdrachten  onderworpen. 
+ii. 
+1) Voor de innovatiesteun programma’s worden industriële en 
+academische experten ingeschakeld op basis van hun specifieke 
+expertise gelinkt aan de inhoud van een project. Deze worden 
+doorgaans ad hoc benaderd. Daarnaast beschikt VLAIO over een 
+expertendatabank van deskundigen die zichzelf aangemeld hebben, en 
+geraadpleegd kunnen worden naargelang beschikbaarheid en 
+expertise. 
+2) Voor de instrumenten van ECOLOGIESTEUN wordt VITO ingeschakeld 
+(zie boven) 
+3) Voor Screen Flanders wordt VAF ingeschakeld voor zijn specifieke 
+expertise in de Vlaamse audiovisuele sector.
+iii.
+1) Opdracht van externe deskundigen is een advies verlenen omtrent de 
+kwaliteit en de impact van het project op basis van de 
+beoordelingscriteria van de instrumenten. Op basis van dit advies wordt 
+een beslissing tot steuntoekenning voorbereid.
+2) Opdracht van VITO: VITO geeft advies op 2 niveaus: 1) het beoordelen 
+van nieuwe technologieën op de limitatieve Lijst van Technologieën 
+(LTL-lijst) voor de Ecologiepremie+, en 2) ondersteuning van de 
+dossierbehandelaars in de beoordeling of een technologie waarvoor 
+steun gevraagd wordt bij Strategische Ecologiesteun (STRES) of bij 
+GREEN, in aanmerking komt.
+Opdracht van VAF: samen met VLAIO staat VAF in voor de behandeling 
+van de steunaanvragen en de communicatie en promotie van de 
+steunmaatregel. 
+iv.
+1) Innovatiesteun: zie bijlage voor afgesproken vergoedingen.
+2) VITO: het budget is enerzijds bepaald voor de verschillende 
+referentietaken opgenomen in het Beheersreglement VITO en bedraagt 
+voor onderzoek en adviezen door VITO in het kader van de 
+Ecologiesteun jaarlijks 128.510 euro, verhoogd met de gefactureerde 
+prestaties rechtstreeks aan VLAIO waarvoor jaar in het Fonds 
+Innoveren en Ondernemen is voorzien van 101.000 euro.
+3) Screen Flanders: voor de samenwerkingsovereenkomst vanaf 2024 
+wordt een jaarlijkse kostprijs voorzien van 189.750 euro voor het 
+behandelen van steunaanvragen van de steunmaatregel Screen 
+Flanders en een bedrag van 97.750 euro voor de communicatie en het 
+voeren van promotie voor de steunmaatregel Screen Flanders, samen 
+287.500 euro per jaar.
+v. zie boven. 
+vi. Zoals eerder aangegeven geldt dat voor innovatiesteunprojecten voor alle 
+O&O dossiers boven de 500.000 euro, en voor alle dossiers die in kader van 
+oproepen worden ingediend.
+Ecologiesteun: onderzoek en advies met betrekking tot technologieën op te 
+nemen op de LTL-lijst is niet op dossierniveau. De LTL wordt periodiek 
+aangepast bij ministerieel besluit, gemiddeld 2 tot 3 keer per jaar. ; in kader 
+van GREEN- & STRES dient in gemiddeld een 30-tal aanvragen op jaarbasis 
+advies verstrekt worden.Screen Flanders: de steunverlening wordt per 
+oproep georganiseerd. Er zijn alle aanvragen per oproep (circa 20 op jaar 
+basis) jaarlijks 2 oproepen waarop gemiddeld een 20-tal projecten intekenen
+vii. Zie boven. 
+4. Voor de overbruggingslening wordt geen gemiddelde doorlooptijd berekend. Bij de 
+overbruggingslening werd inderdaad recent een dossier op enkele uren tijd beslist. Het 
+dossier betrof een onderneming die al eerder een overbruggingslening had 
+aangevraagd en verkregen, het betrof met andere woorden een al gekend dossier, 
+waarvoor de parameters al onderzocht werden bij de eerdere aanvraag en er geen 
+nieuwe gegevens beschikbaar waren op het ogenblik van de nieuwe aanvraag.
+Het procesverloop voor aanvraag overbruggingslening
+- Aanvraag via de applicatie, de applicatie checkt automatisch de parameters zoals 
+opgenomen in het besluit van de Vlaamse Regering en kan op deze parameters 
+een automatische negatieve beslissing nemen. De applicatie geeft ook een aantal 
+signalen aan de projectadviseurs binnen VLAIO.
+- Behandeling binnen VLAIO. Een aantal formele voorwaarden worden gecheckt. 
+Indien het dossier ontvankelijk is voor beoordeling wordt het door minstens twee 
+personen bekeken binnen VLAIO. Deze personen checken de voorgaanden van het 
+dossier (vorige aanvragen, contacten ed.) en vragen binnen de abonnementen die 
+VLAIO hiervoor heeft een rapport op bij verstrekkers van financiële informatie 
+(Belfirst, Graydon, etc.). Er wordt nagegaan of het een onderneming in 
+moeilijkheden is, een verbonden onderneming en of de verklaringen op eer van de 
+onderneming o.a. op dit vlak kloppen, of er schulden zijn bij VLAIO, etc.. De 
+minstens twee personen overleggen en nemen desgevallend een beslissing.
+- Voor aangevraagde bedragen waarvoor het besluit van de Vlaamse Regering 
+voorziet in een diepgaandere kredietanalyse en beslissing door het kredietcomité 
+wordt met PMV overlegd welke ruimte er is om een kredietanalyse door de 
+analisten van PMV te laten uitvoeren. Indien die er niet is, wordt KPMG aangesteld.
+- Indien dit vereist is door het besluit van de Vlaamse Regering beslist het 
+kredietcomité over de toekenning van de lening.
+- Positief besliste dossiers worden overgemaakt aan PMV. PMV checkt of er 
+achterstallige betalingen zijn bij producten van PMV. Indien die er zijn, wordt 
+alsnog een negatieve beslissing genomen. Indien die er niet zijn, legt PMV een 
+kredietovereenkomst voor aan de aanvrager. Als die ondertekend wordt, wordt het 
+ontleende bedrag overgemaakt aan de aanvrager/kredietnemer. 
+ 
+BIJLAGE
+Expertvergoedingen innovatiesteun

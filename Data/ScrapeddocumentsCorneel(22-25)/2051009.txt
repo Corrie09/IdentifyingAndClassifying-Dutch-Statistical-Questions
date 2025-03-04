@@ -1,0 +1,142 @@
+title: Drempelwaarden dioxines en polychloorbifenyl (pcb's) - Stand van zaken
+thema: Natuur en Milieu
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2051009
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1807458
+SCHRIFTELIJKE VRAAG
+nr. 391
+van JOHAN DANEN
+datum: 28 februari 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Drempelwaarden dioxines en polychloorbifenyl (pcb's)  -  Stand van zaken
+Uit een reportage van de RTBF bleek dat er in de buurt van bedrijven die oude metalen en 
+huishoudtoestellen recycleren, hoge pcb-waarden werden opgemeten die ver boven de 
+‘geldende’ normen zaten. Het gevaarlijke pcb 126 zou op één plek zelfs 600 keer de 
+drempelwaarde voor depositie overschrijden. Als gevolg daarvan werd de Waalse minister 
+voor Leefmilieu, Céline Tellier, geviseerd omdat zij in 2021 met een ministerieel besluit de 
+normen voor ‘diverse uitstoot’ had omgezet van limietwaarden naar streefwaarden. Die 
+omzetting werd door sommigen geïnterpreteerd als een versoepeling, maar de minister 
+gaf aan dat dat op vraag van de administratie is gebeurd omdat het te moeilijk zou zijn 
+om het onderscheid te maken tussen verschillende bronnen van het vervuilde stof.
+De limietwaarden die in het Waalse Gewest van toepassing waren, konden enkel normen 
+zijn die door het Gewest zelf waren bepaald. Er zijn immers geen Europese of internationale 
+normen voor dioxine- en pcb-depositie. Het Europees Wetenschappelijk Comité voor 
+menselijke voeding heeft in 2001 een advies uitgebracht over hoeveel dioxines en 
+dioxineachtige pcb’s men wekelijks maximaal mag innemen. Dat bedraagt 14 pg TEQ/kg 
+lichaamsgewicht per week. Die dosis ligt binnen de toelaatbare dosis die de 
+Wereldgezondheidsorganisatie (WHO) voorstelt (1 tot 4 pg TEQ/kg.dag). (TEQ: Toxic 
+Equivalent Quantity)
+Sinds 2003 voert de Vlaamse Milieumaatschappij (VMM) samen met de afdeling 
+Handhaving van het Departement Omgeving onder andere in Genk-Zuid metingen uit van 
+dioxines en pcb’s in neervallend stof (depositie). Tot april 2012 werd er vooral gefocust op 
+het toxische pcb 126, maar nu worden de depositiewaarden uitgedrukt als de totale 
+toxiciteit van het mengsel van 17 dioxines en 12 dioxineachtige pcb’s (en dus niet enkel 
+pcb 126) onder de vorm van toxische equivalenten. De achterliggende redenering is 
+vermoedelijk dat als de totale hoeveelheid pcb 126 stijgt, de kans groot is dat ook de 
+gemeten depositiewaarden stijgen.
+1. Sinds 2012 meet de VMM in de buurt van schroot- en shredderbedrijven de 
+depositiewaarden van het mengsel van 17 dioxines en 12 dioxineachtige pcb’s.
+a) Op welke locaties in Vlaanderen worden momenteel de depositiewaarden van het 
+mengsel van 17 dioxines en 12 dioxineachtige pcb’s gemeten?
+b) Worden de depositiewaarden van het toxische pcb 126 ook nog steeds apart 
+gemeten? Zo ja, wat zijn dan de evoluties van de depositiewaarden op de 
+verschillende meetlocaties in Vlaanderen?
+c) Werd in de periode 2019-2023 de VMM-drempelwaarde voor pcb 126 in woonzones 
+overschreden? Zo ja, hoe vaak werd die drempelwaarde overschreden en op welke 
+locaties?
+2. In 2018 verlaagde het Europese Voedselagentschap de maximale wekelijkse inname 
+naar 2 pg TEQWGO2005/(kg lichaamsgewicht.week).
+a) Zijn de VMM-drempelwaarden al herzien en in overeenstemming gebracht met de 
+verstrenging door het Europese Voedselagentschap?
+b) Wat betekent die verstrenging voor het aantal overschrijdingen op de verschillende 
+meetplaatsen in Vlaanderen? Op hoeveel plaatsen (en hoe vaak) zou de 
+drempelwaarde overschreden zijn in 2022 als de verstrengde norm werd 
+gehanteerd?
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 391 van 28 februari 2024
+van JOHAN DANEN
+1. a) Tot eind 2023 mat de Vlaamse Milieumaatschappij (VMM) dioxines en PCB’s op 16 
+locaties waarvan 10 in de nabijheid van shredders. 
+Op 17 november 2023 keurde de Vlaamse Regering het Actieplan Dioxines/PCB’s 
+goed. Een van de acties is de monitoringsverplichting voor bedrijven met een GPBV-
+installatie om de dioxine- en PCB-depositie in de omgeving van het bedrijf zelf te 
+monitoren. Zo worden de bedrijven zelf verantwoordelijk gesteld voor de opvolging 
+van hun impact op de omgeving. Dat betekent dat de verantwoordelijkheid en 
+financiële last verschoven wordt van de VMM en Afdeling Handhaving van het 
+Departement Omgeving naar de bedrijven die verantwoordelijk zijn voor de uitstoot. 
+De VMM zal er wel op toezien dat de kwaliteit van de aangeleverde data voldoende 
+is door voorwaarden op te leggen rond de monstername, analyse en meetstrategie.
+Door het Actieplan voert de VMM vanaf 2024 dus metingen uit op 6 locaties en ziet 
+de VMM toe op de metingen van 10 locaties in de buurt van shredders met een GPBV-
+installatie.
+b) De VMM meet sinds 1995 de dioxinedepositie in Vlaanderen. Sinds 2002 wordt ook 
+de depositie van de meest toxische polychloorbifenyl-verbinding PCB126 gemeten. 
+Vanaf 2012 wordt de volledige set van alle 12 dioxine-achtige PCB’s gemeten. De 
+analyseresultaten van de 17 dioxines en 12 PCB’s zijn apart beschikbaar. Niet alle 29 
+verbindingen zijn even toxisch. Daarom rapporteert de VMM de som van deze 29 
+verbindingen, vermenigvuldigd met hun toxische equivalentiefactor. Het is immers 
+belangrijk om het volledig toxisch potentieel te kennen en daarvoor moeten zowel 
+dioxines als PCB’s samen beoordeeld worden.
+Het meetnet is vrij dynamisch. Als er herhaaldelijk lage depositiewaarden worden 
+gemeten, dan stoppen de metingen en worden de middelen ingezet op nieuwe 
+locaties. Op heel wat locaties zijn de dioxine/PCB-deposities in de loop van de jaren 
+verbeterd en werden daarom de meetactiviteiten stopgezet.
+Op een aantal locaties meet de VMM al meerdere jaren. Dat komt omdat er 
+(sporadisch) nog hogere deposities gemeten worden. Zeker bij schrootbedrijven 
+stellen we dit vast. Ook in Beerse en Wielsbeke zijn de deposities soms verhoogd. Bij 
+de shredders is vooral het PCB-aandeel hoog, in de buurt van andere bedrijven is het 
+dioxine-aandeel meestal hoger.
+c) De VMM toetst de resultaten in woonzones aan 2 drempelwaarden: een 
+maandgemiddelde en een jaargemiddelde drempelwaarde die gelden voor de som 
+van dioxines en PCB’s. Er bestaan geen drempelwaarden voor PCB126 afzonderlijk. 
+Onderstaande tabel geeft een overzicht van de overschrijding van deze 
+drempelwaarden voor de som van 17 dioxines en 12 dioxine-achtige PCB’s in 2019-
+2023.
+De meest recente meetresultaten kunnen geraadpleegd worden op de website van 
+de VMM ( https://www.vmm.be/lucht/meer-polluenten/dioxines-en-pcbs-in-
+depositie).
+Aantal meetplaatsen 
+in woonzonesAantal stalen boven 
+maandgemiddelde 
+drempelwaardeOverschrijding 
+jaargemiddelde 
+drempelwaarde
+2019 6 Beerse: 1/6
+Menen: 3/7
+Willebroek: 3/6
+Zelzate: 1/4Beerse
+Menen
+Willebroek
+Zelzate
+Oostrozebeke
+2020 6
+Menen: 1/5
+Willebroek: 4/6Beerse
+Menen
+Willebroek
+Oostrozebeke
+2021 6
+Genk: 1/6
+Willebroek: 2/6Beerse
+Genk
+Willebroek
+2022 6 Beerse: 1/6
+Willebroek: 4/6Beerse
+Willebroek
+2023 6 Beerse: 1/6
+Willebroek: 3/6Beerse
+Willebroek
+2. a) De VMM heeft een studie besteld om de drempelwaarden te herzien, rekening 
+houdende met alle nieuwe beschikbare wetenschappelijke informatie, waaronder 
+bijvoorbeeld de verlaagde wekelijkse innamedosis die EFSA definieerde. Het resultaat 
+van die studie wordt in de loop van de komende maanden verwacht. Vervolgens moet 
+de haalbaarheid van de studieresultaten bekeken worden vooraleer nieuwe 
+drempelwaarden vastgelegd kunnen worden en opgenomen kunnen worden in de 
+wetgeving. Nieuw is dat er drempelwaarden voor verschillende typegebieden 
+berekend zullen worden, waaronder ook voor industriegebieden.
+b) De VMM zal het effect van de nieuwe drempelwaarden nagaan voor Vlaanderen op 
+de depositieresultaten van kalenderjaar 2024 door de resultaten zowel te toetsen aan 
+de nieuwe drempelwaarden (uitgedrukt in WGO2005-TEF’s) als de oude (uitgedrukt 
+in WGO1998-TEF’s).

@@ -1,0 +1,64 @@
+title: Woonmaatschappijen - Installatie zonnepanelen met herinvesteringsmiddelen - Tool energiewinst
+thema: Energie
+Wonen
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2038361
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1796419
+SCHRIFTELIJKE VRAAG
+nr. 153
+van MAXIM VEYS
+datum: 19 januari 2024
+aan MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+Woonmaatschappijen  -  Installatie zonnepanelen met herinvesteringsmiddelen  -  Tool 
+energiewinst
+Tijdens de commissiezitting van 11 januari 2024 gaf de minister het volgende antwoord 
+op mijn vraag in hoeverre woonmaatschappijen hun herinvesteringsmiddelen, in het kader 
+van het fusietraject, mogen uitgeven aan het installeren van zonnepanelen: “Als de 
+plaatsing van zonnepanelen noodzakelijk is om aan de energievereisten te voldoen bij een 
+nieuwbouw of ingrijpende renovatie, komt dat in aanmerking voor een FS3-lening en dus 
+ook voor een financiering via de herinvesteringsplicht. Als de plaatsing van de 
+zonnepanelen daarbuiten gebeurt, kan er geen FS3-lening worden toegekend en dus ook 
+geen financiering via de herinvesteringsplicht.” 
+Het is logisch dat de herinvesteringsmiddelen moeten gaan naar renovatie of bouw van 
+sociale woningen en ook de koppeling met FS3-regels is in die zin begrijpelijk. Om een 
+beroep te kunnen doen op FS3-middelen is het nodig dat de zonnepanelen effectief zorgen 
+voor een verbetering van de energieprestatie. Daarvoor zou een tool bestaan die aantoont 
+wat de energiewinst is van het plaatsen van zonnepanelen. Zo'n tool kan mogelijks 
+duidelijkheid scheppen in de verschillende dossiers die nu 'on hold' staan. 
+1. Is de minister op de hoogte van die tool? Zo ja, kan dat een oplossing zijn voor de 
+huidige impasse?
+2. Wat is de timing? Wanneer mogen de woonmaatschappijen een beslissing verwachten?
+MATTHIAS DIEPENDAELE
+MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+ANTWOORD 
+op vraag nr. 153 van 19 januari 2024
+van MAXIM VEYS
+1. Zoals aangegeven in het antwoord op commissiezitting, is de financiering van PV-
+panelen met een FS3-lening verbonden aan de energievereisten voor het project. Deze 
+worden bepaald vanuit de energieprestatieregelgeving (EPB) waar een eis tot 
+hernieuwbare energie opgelegd wordt aan nieuwbouw of ingrijpende renovatie 
+uitgedrukt in een minimale energie-opbrengst van respectievelijk 25 en 20 kWh/m²jaar. 
+Hiervoor kan op verschillende technieken beroep gedaan worden waaronder PV-
+panelen, maar ook een zonneboiler, warmtepomp, biobrandstof gevoegde 
+verbrandingstoestellen of een warmtenet, en dit ofwel door productie op de eigen site 
+of via participatie. De berekening van de concrete energiewinst verloopt via de EPB-
+software, waarin de berekeningsmethodiek uit het Energiebesluit is opgenomen. Meer 
+info vindt u op pv-panelen-in-epb.
+De berekeningsmethodiek en de berekeningstool zijn dus gekend, doch het is in eerste 
+instantie de aard van de werken en de bijhorende energievereisten die bepalen of het 
+plaatsen van PV-panelen FS3-gerechtigd is. Dit is enkel zo voor nieuwbouw en 
+ingrijpende energetische renovatie en niet bij renovatie van bestaande woningen.
+De berekening heeft verder weinig gevolgen voor de impasse waarover u spreekt, er is 
+op het niveau van deze berekening geen probleem.
+2. Met betrekking tot uw tweede vraag, vermoed ik dat u polst naar het tijdstip waarop 
+woonmaatschappijen een beslissing mogen verwachten m.b.t. hun vraag om 
+herinvesteringsmiddelen in te zetten voor PV-installaties. Ik heb in de commissie 
+aangekondigd dat ik ging laten onderzoeken of we in die regelgeving de bestaande 
+mogelijkheid om te herinvesteren in de werkings- en onderhoudskosten kunnen 
+uitbreiden naar beperkte investeringen in PV-panelen.
+Ik heb mijn administratie de opdracht gegeven om de opties in dit verband uit te 
+werken. Een aanpassing van de regelgeving is in elk geval nodig en daarvoor worden 
+nu de nodige ontwerpteksten voorbereid. Het is mijn voornemen om deze wijziging nog 
+mee te nemen in een van de regelgevende trajecten die nog voor het einde van deze 
+legislatuur worden afgerond. Van zodra daar uitsluitsel over is, zal ik dat ook laten weten 
+aan de woonmaatschappijen.

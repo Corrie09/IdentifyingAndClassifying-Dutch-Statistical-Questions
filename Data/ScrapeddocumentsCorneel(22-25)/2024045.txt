@@ -1,0 +1,135 @@
+title: Woonkwaliteitshandhaving - Register van herstelvorderingen
+thema: Wonen
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2024045
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1784425
+SCHRIFTELIJKE VRAAG
+nr. 85
+van GUY D'HAESELEER
+datum: 4 december 2023
+aan MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+Woonkwaliteitshandhaving  -  Register van herstelvorderingen
+Het register van herstelvorderingen verzamelt alle panden waarvoor door de 
+wooninspecteur in het kader van de strafrechtelijke procedure inzake 
+woningkwaliteitshandhaving een herstelvordering werd opgesteld en waarvoor nog niet 
+werd vastgesteld dat die herstelvordering uitgevoerd werd.
+In het antwoord op mijn schriftelijke vraag nr. 224 van 16 februari 2023 gaf de minister 
+aan dat de jaarcijfers voor 2022 nog niet beschikbaar waren.
+1. Hoeveel panden werden in 2022 in het register vermeld? Graag een overzicht per 
+provincie en per gemeente.
+2. Welke herstelmaatregelen (herstellen gebreken, sloop of herbestemming) werden voor 
+die panden opgelegd? Graag een overzicht, opgesplitst per herstelmaatregel en per 
+provincie.
+3. Bij hoeveel van de panden werd al een dagvaarding uitgebracht of een definitieve 
+veroordeling tot herstel?
+4. Wat zijn de gemiddelde dwangsommen die opgelegd werden bij het niet tijdig voldoen 
+aan de opgelegde herstelmaatregelen? Graag de cijfers van 2021 en eventueel van 
+2022.
+5. Welke problemen met de woonkwaliteit komen het vaakst voor bij deze panden?
+6. Hoe verhouden de cijfers zich ten opzichte van de cijfers van vorige jaren? Is er een 
+daling of stijging merkbaar? Voorziet de minister op basis van deze cijfers nog in 
+bijkomende maatregelen anders dan vermeld in zijn beleidsnota?
+7. Sinds 1 januari 2023 is de implementatie van het kaderdecreet Bestuurlijke 
+Handhaving in Boek 3 (woningkwaliteitsbewaking) definitief in werking getreden. 
+Belangrijkste gevolg is dat de Vlaamse Wooninspectie thans ook kan overgaan tot 
+bestuurlijke beboeting in de gevallen waarin het parket het dossier seponeert.
+Zijn hierover al voorlopige cijfers beschikbaar? Zo ja, kan de minister die meedelen? 
+MATTHIAS DIEPENDAELE
+MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+ANTWOORD 
+op vraag nr. 85 van 4 december 2023
+van GUY D'HAESELEER
+1. Een herstelvordering komt in principe overeen met één pand (dat bestaat uit één of 
+meerdere woonentiteiten). Dit betreft uiteraard niet het totale aantal herstelvorderingen 
+op het register. Het register is immers een permanente lijst die alle actieve (niet-
+uitgevoerde) herstelvorderingen bevat van zodra ze door de wooninspecteur worden 
+opgesteld. Eens uitgevoerd, verdwijnen de herstelvorderingen uit het register.
+Aantal herstelvorderingen in 2022 per provincie:
+Provincie Aantal herstelvorderingen
+Antwerpen 90
+Limburg 42
+Oost-Vlaanderen 74
+Vlaams-Brabant 59
+West-Vlaanderen 82
+TOTAAL 347
+Het aantal herstelvorderingen in 2022 per gemeente vindt u in bijlage 1.
+2. Aard van de herstelvorderingen opgesteld in 2022 per provincie.
+Provincie Herstel conformiteit Herbestemming/sloop TOTAAL
+Antwerpen 49 41 90
+Limburg 24 18 42
+Oost-Vlaanderen 59 15 74
+Vlaams-Brabant 42 17 59
+West-Vlaanderen 40 42 82
+TOTAAL 214 133 347
+3. In 31 dossiers waarvan de herstelvordering werd opgesteld in 2022 werd er reeds een 
+strafrechtelijke dagvaarding uitgebracht. In 3 van deze dossiers kwam er ook al een 
+definitieve veroordeling tussen.
+Dossiers blijven over het algemeen enige tijd in onderzoek bij het openbaar ministerie. 
+Vaak wordt opgevolgd welke inspanningen geleverd worden om het herstel door te 
+voeren vooraleer het parket een beslissing neemt. Dit verklaart waarom het aantal 
+dossiers waarin het parket tot op heden tot dagvaarding overging relatief laag ligt. Een 
+groot aantal dossiers is momenteel nog in onderzoek bij het parket. Dossiers waarin de 
+betrokkene gedurende het onderzoek, onder druk van een potentiële strafrechtelijke 
+vervolging, overgaat tot herstel (dit zijn er voor 2022 tot op heden al 133) worden vaak 
+geseponeerd (al kan de aard van het dossier wel een aanleiding geven om alsnog 
+strafrechtelijke te vervolgen).
+Sinds de implementatie van het Kaderdecreet Bestuurlijke Handhaving in de Vlaamse 
+Codex Wonen, heeft het parket maximaal 1 jaar de tijd om aan te geven of ze tot 
+strafrechtelijke vervolging wil overgaan. Dit geldt voor dossiers waarvan de vaststelling 
+dateert van na 31 december 2022.
+4. In de gevallen waarin de rechter een dwangsom oplegde in het geval de 
+herstelmaatregel niet uitgevoerd werd binnen de opgelegde herteltermijn, bedroeg de 
+dwangsom in 2021 gemiddeld 131,88 euro per dag vertraging en in 2022 122,92 euro 
+per dag vertraging.
+5. De meest voorkomende gebreken bij aanvankelijke controles in zelfstandige woningen 
+in 2022 zijn:
+•gebreken gelinkt aan een gevaar voor elektrocutie of brand (88,73%)
+•gebreken gelinkt aan vocht (68,36%)
+•gebreken gelinkt aan de gasinstallatie, algemene beschadigingen en toegankelijkheid 
+van de woning (57,72%)
+•gebreken gelinkt aan de toegankelijkheid van de woning (57,56%)
+•gebreken gelinkt aan beschadiging/verwering/afwerking (57,1%)
+De meest voorkomende gebreken bij aanvankelijke controles in niet-zelfstandige 
+woningen in 2022 zijn:
+•gebreken gelinkt aan een gevaar voor elektrocutie of brand (95%)
+•gebreken gelinkt aan privacy (91%), vaak een gevolg van het samenwonen in 
+eengezinswoningen zonder dat men een gezin vormt (dit wordt dan beschouwd als 
+kamerwonen
+•gebreken gelinkt aan sanitaire installaties (77%)
+•gebreken gelinkt aan vocht (75%)
+•gebreken gelinkt aan de toegankelijkheid van de woning (69%)
+•gebreken gelinkt aan de gasinstallatie (66%)
+6. Na het recordjaar 2019 met 404 herstelvorderingen, was er in het jaar nadien een lichte 
+daling te merken (337 herstelvorderingen). Sindsdien neemt het aantal weer gestaag 
+toe. 2022 staat met 347 herstelvorderingen op de tweede plaats in de rangschikking 
+van de laatste 10 jaar. Globaal genomen betekent dit dat het aantal herstelvorderingen 
+jaarlijks wel in stijgende lijn gaat.
+Om een goed beeld te kunnen krijgen van de strafrechtelijke vervolging, kan er 
+vergeleken worden met het aantal gerechtelijke uitspraken in een bepaald jaar (er wordt 
+abstractie gemaakt van het feit of deze uitspraken al dan niet definitief zijn geworden). 
+In de jaren 2021 en 2022 lag het aantal beduidend hoger dan de voorgaande jaren, wat 
+aangeeft dat ondanks de beperkte capaciteit het parket wel degelijk meer inzet op de 
+strafrechtelijke vervolging van woningkwaliteitsschendingen.
+Jaar uitspraken
+2018 84
+2019 100
+2020 105
+2021 153
+2022 135
+In het aantal uitspraken is er eveneens een beperkt aantal uitspraken van de burgerlijke 
+rechtbank opgenomen. Deze hebben betrekking op de gevallen waarin het parket niet 
+strafrechtelijk vervolgde en de wooninspecteur het opleggen van de herstelmaatregel 
+via de burgerlijke rechtbank diende na te streven.
+Wat de meest voorkomende gebreken betreft, kan vastgesteld worden dat de top van 
+de meest voorkomende gebreken ongeveer gelijk blijft jaar na jaar. Ook de procentuele 
+aanwezigheid ligt doorgaans in dezelfde grootteorde.
+Op basis van deze vaststellingen is het voorlopig niet nodig om bijkomende initiatieven 
+te nemen voor wat de strafrechtelijke handhaving op vlak van woningkwaliteit betreft. 
+De slagkracht blijft behouden en groeit zelfs. In de loop van de volgende jaren zal ook 
+de impact van de bestuurlijke beboeting duidelijk worden.
+Algemeen wordt er al sterk ingezet op sensibilisering en stimulering om de 
+woningkwaliteitsnormen na te leven. Dit blijft belangrijk.
+7. De cijfers voor 2023 zullen pas vrijgegeven worden naar aanleiding van de publicatie 
+van het jaarverslag van het agentschap Wonen in Vlaanderen.
+BIJLAGE
+Aantal herstelvorderingen in 2022 per gemeente

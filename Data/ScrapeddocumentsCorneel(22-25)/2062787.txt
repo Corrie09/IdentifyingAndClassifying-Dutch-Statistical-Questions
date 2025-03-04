@@ -1,0 +1,70 @@
+title: Elektriciteitsverbruik - Afrekening
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2062787
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1818049
+SCHRIFTELIJKE VRAAG
+nr. 498
+van ROBRECHT BOTHUYNE
+datum: 4 april 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Elektriciteitsverbruik  -  Afrekening
+Elk jaar heeft de distributienetbeheerder de stand van de elektriciteitsmeter nodig. Om de 
+twee jaar komt daarvoor een meteropnemer aan huis, een personeelslid van de 
+distributienetbeheerder, om de meterstand te noteren. In het jaar tussen die twee 
+meteropnames moet de elektriciteitsverbruiker zelf de meterstand doorgeven. De 
+distributienetbeheerder geeft vervolgens de meterstand door aan de 
+elektriciteitsleverancier zodat die een factuur kan opmaken voor de verbruikte hoeveelheid 
+elektriciteit.
+Vanuit de sector vernemen we dat bij verschillende elektriciteitsverbruikers de meterstand 
+niet kan worden opgenomen door de distributienetbeheerder en dat het verbruik ook niet 
+wordt doorgegeven door de verbruiker zelf. Daar dient de distributienetbeheerder over te 
+gaan tot het schatten van het verbruik. Daarnaast vernemen we ook dat er in Vlaanderen 
+heel wat wanbetalers van de elektriciteitsfactuur zijn.
+1. Bij hoeveel procent van de elektriciteitsverbruikers in Vlaanderen moet Fluvius het 
+elektriciteitsverbruik voor het jaar 2023 schatten omdat de juiste meterstand niet kan 
+worden opgenomen?
+2. Een te hoog verbruik kan niet in reële cijfers worden gevat aangezien het om een 
+schatting gaat. De netgebruiker kan wel een betwisting doen. Meestal gaat dat gepaard 
+met het doorgeven van een aangepaste meterstand. Hoeveel van die aanpassingen 
+kreeg Fluvius in 2023?
+3. Kan de minister opgeven voor het jaar 2023:
+a) hoeveel klanten een eerste ingebrekestelling kregen? Graag totaalaantal.
+b) hoeveel klanten een opgestart afbetalingsplan kregen? Graag totaalaantal.
+c) hoeveel contracten definitief werden opgezegd? Graag totaalaantal.
+ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD 
+op vraag nr. 498 van 4 april 2024  
+van ROBRECHT BOTHUYNE
+1. Ik verwijs naar de globale tabel als antwoord op deelvraag 2.
+2. Onderstaande tabel geeft voor het jaar 2023 per maand weer voor hoeveel 
+elektriciteitsverbruikers Fluvius het elektriciteitsverbruik heeft moeten schatten en voor 
+hoeveel van die schattingen een aanpassing (rectificatie) is gebeurd.
+Opnamemaand Opnamescope Schattingen Schattingen 
+(%)Rectificaties Rectificaties 
+(%)
+Januari 601.235 35.559 6% 12.518 35%
+Februari 595.279 32.392 5% 11.234 35%
+Maart 615.935 29.853 5% 10.671 36%
+April 595.918 34.975 6% 13.299 38%
+Mei 530.290 27.935 5% 9.838 35%
+Juni 555.948 32.906 6% 11.808 36%
+Juli 173.460 8.477 5% 2.776 33%
+Augustus 173.010 8.418 5% 3.392 40%
+September 593.164 33.082 6% 10.116 31%
+Oktober 620.685 32.794 5% 8.802 27%
+November 591.443 34.117 6% 8.938 26%
+December 229.105 16.476 7% 3.758 23%
+3.
+a) Bij de sociale leverancier Fluvius ontvingen 35.963 klanten in 2023 minstens 1 
+ingebrekestelling voor elektriciteit. Voor de commerciële leveranciers vindt u deze 
+informatie op https://dashboard.vreg.be/report/DMR_SODV%20LEV.html onder 
+het tabblad ‘Wanbetaling bij de leverancier’. 
+b) Er werden bij Fluvius in 2023 21.290 betaalplannen opgestart voor elektriciteit. Voor 
+de commerciële leveranciers vindt u deze informatie op 
+https://dashboard.vreg.be/report/DMR_SODV%20LEV.html onder het tabblad 
+‘Wanbetaling bij de leverancier’.
+c) U vindt deze informatie op 
+https://dashboard.vreg.be/report/DMR_SODV%20LEV.html onder het tabblad 
+‘Opzeggingen contract en beschermde afnemers’.

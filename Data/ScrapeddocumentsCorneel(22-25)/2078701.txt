@@ -1,0 +1,88 @@
+title: Next Generation Concrete Surface (NGCS) - Uitrol
+thema: Mobiliteit en Verkeer
+Openbare werken
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2078701
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1832768
+SCHRIFTELIJKE VRAAG
+nr. 8
+van STIJN DE ROO
+datum: 10 oktober 2024
+aan ANNICK DE RIDDER
+VLAAMS MINISTER VAN MOBILITEIT, OPENBARE WERKEN, HAVENS EN SPORT
+Next Generation Concrete Surface (NGCS)  -  Uitrol
+De dichtbevolkte woongebieden in Vlaanderen worden doorkruist door heel wat drukke 
+wegen. Het toenemende verkeer leidt tot steeds meer geluidshinder.
+De Next Generation Concrete Surface-techniek, die in Antwerpen werd uitgetest in 2021, 
+brengt groeven aan in een betonnen wegdek met als doel het rolgeluid tussen banden en 
+wegoppervlak te verminderen. Die techniek kan enkel worden toegepast op een betonnen 
+wegdek in goede staat, een asfaltweg zou niet in aanmerking komen.
+ 
+De proefprojecten op de N44 in Maldegem en de Antwerpse Ring (R1), tussen de 
+Posthofbrug en het op- en afrittencomplex van Borgerhout, werden positief geëvalueerd. 
+Daarna werd het initiatief verder uitgerold op de E313, tussen Lummen en Ham, in beide 
+richtingen over een afstand van 8 kilometer en op de Antwerpse Ring (R1), tussen 
+Antwerpen-Zuid en Antwerpen-Oost, in beide richtingen over een afstand van 6 kilometer.
+Uit de folder ‘NGCS: Next Generation Concrete Surface - Innovatieve betontechniek om 
+geluidshinder te verminderen’ van het Agentschap Wegen en Verkeer (AWV) blijkt dat de 
+testen op de R1 aantonen dat het geluidsniveau daalt in alle frequenties. Voor de metingen 
+qua gevelbelasting varieert de gemiddelde afname tussen de 3,5 en 4 dB(A). Het gaat dan 
+over metingen aan de buitengevels van nabijgelegen woningen op slaapkamerniveau en 
+op het ringfietspad naast de Antwerpse Ring.
+De toepassing van Next Generation Concrete Surface kan daarom zorgen voor een betere 
+leefbaarheid voor de inwoners van de omliggende wijken.
+ 
+Momenteel is de NGCS-techniek slechts op vier plaatsen uitgerold in Vlaanderen.
+1. Wat is de visie van de minister over de verdere uitrol en de ontwikkeling van die 
+techniek?
+2. Wat zijn de randvoorwaarden voor een verdere uitrol van de NGCS-techniek in 
+Vlaanderen?
+3. Hoe verhoudt NGCS zich op het vlak van prijs en geluidswinst ten aanzien van 
+technieken om de geluidsoverlast bij asfalt te verminderen (bijvoorbeeld asfalt met 
+geluidsarme toplaag)? Wat zijn de voor- en nadelen van NGCS ten opzichte van asfalt?
+4. Hoe verhoudt de NGCS-techniek zich ten opzichte van geluidsschermen? Bijvoorbeeld 
+op het vlak van kostprijs, onderzoek, realiseerbaarheid enzovoort. Welke invloed heeft 
+dat op de keuzes die de komende jaren zullen worden gemaakt met betrekking tot 
+geluidsschermen?
+5. Welke wegen in beheer van het Agentschap Wegen en Verkeer in Oost-Vlaanderen 
+komen in aanmerking voor het gebruik van NGCS? Graag een overzicht.
+6. Welke plannen zijn er om wegen in beheer van het Agentschap Wegen en Verkeer uit 
+te rusten met de NGCS-techniek? Graag een overzicht van de lopende en geplande 
+initiatieven. Als er geen initiatieven gepland zijn, wat is daar de reden voor?
+ANNICK DE RIDDER
+VLAAMS MINISTER VAN MOBILITEIT, OPENBARE WERKEN, HAVENS EN SPORT
+ANTWOORD 
+op vraag nr. 8 van 10 oktober 2024
+van STIJN DE ROO
+1-2.Ik wens de techniek van NGCS breed te evalueren, waarbij de maatschappelijke 
+kosten (prijs, maar ook bv. bandenslijtage) tegen de baten worden afgewogen ten op 
+zichte van de alternatieven zoals geluidsschermen. 
+3. Een wegverharding in NGCS kan momenteel enkel toegepast worden bij bestaande 
+betonnen wegverhardingen in goede staat. Een wegverharding in AGT kan enkel 
+worden toegepast als nieuwe toplaag op locaties waar de rijsnelheid groter is dan 60 
+km/u, waar geen gevaar is voor wringend verkeer (bv. bushaltes, op- en afritten, 
+rotondes, kruispunten, erftoegangen of parkings, …) én waar een wooncluster1 met 
+minstens 5 woningen kan worden gevormd.
+NGCS AGT
+Prijs ca. 15 [euro/m²] dikte = 9 cm:
+ca. 16 [euro/m²]
+dikte = 7 cm:
+ca. 14 [euro/m²]
+Lichte voertuigen 
+(v = 80 km/u)-2,9 dB(A) -3,2 dB(A) Reductie (t.o.v. 
+referentiewegver-
+harding SMA-C) 
+(bron: 
+wegdekcorrectiete
+rmen AWV 2016)Middelzware en 
+zware voertuigen 
+(v = 70 km/u)-2,9 dB(A) -2,0 dB(A)
+4. De prijs voor NGCS bedraagt ca. 15 euro/m², terwijl de prijs voor een standaard 
+geluidsscherm van 4 m hoogte gemiddeld ca. 1750 euro per lopende meter (incl. BTW, 
+incl. alle werken) bedraagt.   
+1 Een wooncluster is een groep gebouwen binnen de 100 m van de rand van de betrokken hoofdweg, 
+die maximaal 60 m uit elkaar liggen en waarbij een overschrijding van de geluidseisen aan minstens 
+één gebouw wordt berekend. Deze wooncluster kan uitgebreid worden met een andere wooncluster 
+of gebouw indien:
+▪ de gebouwen onderling maximaal 70 m van elkaar verwijderd zijn;
+▪ het begin of einde van de geluidsmilderende maatregel een gebouw, waarbij een overschrijding van 
+de geluidseisen wordt berekend of nieuwe wooncluster, virtueel kruist.

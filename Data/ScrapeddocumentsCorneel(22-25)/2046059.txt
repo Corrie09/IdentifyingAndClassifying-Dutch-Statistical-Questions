@@ -1,0 +1,75 @@
+title: Fraude met AdBlue - Maatregelen
+thema: Financiën
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2046059
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1799662
+SCHRIFTELIJKE VRAAG
+nr. 169
+van STIJN BEX
+datum: 31 januari 2024
+aan MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+Fraude met AdBlue  -  Maatregelen
+AdBlue is een in water oplosbare vloeistof, speciaal ontwikkeld om uitlaatgassen te 
+behandelen en ervoor te zorgen dat voertuigen voldoen aan de emissienorm. De 
+meerderheid van zware bedrijfswagens, maar ook sommige lichtere bedrijfswagens en 
+personenauto’s gebruiken AdBlue. AdBlue is bij veel nationale en internationale 
+tankstations verkrijgbaar aan de pomp (voor vrachtwagens) of in verpakkingen van 5 of 
+10 liter (voor personenauto's en busjes).
+AdBlue is een mengeling van gedemineraliseerd water en ureum dat ervoor zorgt dat de 
+NOx-uitstoot van dieselmotoren beperkt blijft. Vandaag zijn bijvoorbeeld de meeste 
+voertuigen van de multinationale autoproducent Stellantis met Euro 6-motoren voorzien 
+van het systeem.
+Het systeem zou echter niet waterdicht zijn. Het blijkt mogelijk om het systeem volledig 
+uit te schakelen of te verwijderen. Dat kan door middel van de zogenaamde ‘AdBlue-killer’, 
+die ervoor zorgt dat de wagen kan blijven rijden, ook al is de AdBlue-vloeistof opgebruikt, 
+door de software te verwijderen of via een bijkomend apparaat dat geïnstalleerd wordt. 
+Het gevolg is dat de eigenaar geen AdBlue meer hoeft bij te vullen. De keerzijde is dat die 
+wagens daardoor veel meer vervuilende stoffen uitstoten en niet langer conform de 
+euronormen zijn. De Europese verordening ter zake voorziet in sancties voor die 
+manipulaties.
+De technische keuring moet in principe vaststellen of het emissieregelsysteem nog werkt 
+of afwezig is. In de praktijk is dat meestal onmogelijk aangezien het personeel van de 
+technische keuring bij de inspectie geen voertuigonderdelen kan demonteren. De 
+toegevoegde apparaten om het AdBlue-systeem uit te schakelen, kunnen bovendien vaak 
+eenvoudig tijdelijk verwijderd worden, zodat de wagen wel in regel is. De verbeterde 
+roettest die sinds 1 juli van kracht is, zal dus wellicht geen oplossing bieden.
+Onderzoek van de Vlaamse Milieumaatschappij in opdracht van minister Demir wees 
+intussen uit dat onze luchtkwaliteit enorm kan verbeteren als de emissiefraude in 
+Vlaanderen verder wordt teruggedrongen. Op snelwegen in en rond Antwerpen worden 
+inmiddels via remote sensing uitstoten gemeten om emissiefraude op te sporen.
+Controles worden uitgevoerd door de Vlaamse Belastingdienst (VLABEL) in samenwerking 
+met federale en lokale politiediensten.
+1. Heeft de minister cijfers over de omvang van het probleem van fraude met AdBlue-
+systemen? Zo ja, hoe gedetailleerd zijn die? Zo niet, welke stappen plant de minister 
+om daar een overzicht van en vat op te krijgen?
+2. Op welke manier wil de minister ervoor zorgen dat fraude met AdBlue-systemen wordt 
+aangepakt? Welk beleid stippelt hij daarbij uit voor respectievelijk vrachtwagens en 
+personenwagens? Zal hij daarvoor overleg plegen met zijn federale en 
+gewestcollega’s?
+3. Op welke manier wil de minister de technische autokeuring betrekken bij de bestrijding 
+van fraude met AdBlue-systemen?
+MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+ANTWOORD 
+op vraag nr. 169 van 31 januari 2024
+van STIJN BEX
+1. In 2023 werden door de Vlaamse Belastingdienst (VLABEL) ongeveer 12.000 
+bedrijfsvoertuigen aan een technische controle langs de weg onderworpen. Daarbij 
+werden 138 inbreuken inzake het uitlaatemissieregelsysteem vastgesteld, waarvan 57 
+defecten en  81 gevallen van fraude. AdBlue-fraude valt onder deze inbreuken maar 
+wordt niet afzonderlijk geregistreerd.
+Een deel van deze overtredingen werd vastgesteld op basis van een interceptie na een 
+controle met de techniek van “plume chasing”. Hierbij wordt via “snuffelwagens” en een 
+combinatie van soft- en hardware op een snelle en accurate manier de uitstoot van 
+rijdende voertuigen gemeten en geanalyseerd op afwijkende (en dus te onderzoeken) 
+uitstootwaarden.
+Op basis van dergelijke metingen bij 2.154 rijdende voertuigen werden 69 voertuigen 
+geïntercepteerd, waarvan er 25 effectief in overtreding waren. Met een hitratio van 
+36,23% kan dit zeker aanzien worden als een waardevolle pre-selectiemethode. 
+Bij de vaststelling van een defect wordt er een onmiddellijke inning van 350 euro 
+voorgesteld, voor fraude is dat 2.500 euro.
+2. De inzet van plume chasing vormt een dagelijks onderdeel van de controlemix die 
+VLABEL hanteert (visueel, ANPR, plume chasing). Het beleid ter zake behoort echter tot 
+de bevoegdheid van de minister van Mobiliteit en Openbare werken, Lydia Peeters.
+3. Het antwoord op deze vraag behoort tot de bevoegdheid van minister van Mobiliteit en 
+Openbare werken, Lydia Peeters.

@@ -1,0 +1,65 @@
+title: Ouderenzorg - Zorgzwaarteprofiel
+thema: Welzijn en Gezin
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2006362
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1771245
+SCHRIFTELIJKE VRAAG
+nr. 43
+van VEERLE GEERINCKX
+datum: 12 oktober 2023
+aan HILDE CREVITS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+Ouderenzorg  -  Zorgzwaarteprofiel
+De Vlaamse overheid is sinds de zesde staatshervorming bevoegd voor de financiering van 
+de residentiële ouderenzorg. Binnen woonzorgcentra en centra voor kortverblijf wordt 
+gewerkt met afhankelijkheidscategorieën om bewoners in een bepaalde zorgzwaarte in te 
+delen. Dit gebeurt ook zo in centra voor dagverzorging.
+1. Kan de minister een overzicht geven van het aantal unieke bewoners per 
+afhankelijkheidscategorie in de woonzorgcentra? Graag een overzicht per O, A, B, C, 
+Cd en D-profiel van 2019 tot en met 2022.
+2. Kan de minister een overzicht geven van het aantal unieke gebruikers per 
+afhankelijkheidscategorie in de centra voor kortverblijf? Graag een overzicht per O, A, 
+B, C, Cd en D-profiel van 2019 tot en met 2022.
+3. Kan de minister een overzicht geven van het aantal unieke gebruikers per 
+afhankelijkheidscategorie in de centra voor dagverzorging? Graag een overzicht per F, 
+Fd en D-profiel van 2019 tot en met 2022.
+4. Kan de minister een overzicht geven van het aantal unieke gebruikers per 
+afhankelijkheidscategorie in de centra voor dagverzorging voor personen met een 
+ernstige ziekte? Graag een overzicht per Fp-profiel.
+HILDE CREVITS 
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+ANTWOORD
+op vraag nr. 43 van 12 oktober 2023
+van VEERLE GEERINCKX
+1. Het aantal personen per afhankelijkheidscategorie in de woonzorgcentra op 31/12, per 
+kalenderjaar, gegevens eWZCfin 18/10/2023
+2019 2020 2021 2022
+O 5.217 4.325 5.151 5.628
+A 8.983 7.839 8.998 10.036
+B 25.996 26.299 26.984 26.650
+C 9.325 8.819 8.944 8.846
+Cd 25.286 22.841 24.799 24.250
+D 3.004 2.525 2.400 2.456
+Totaal 77.811 72.648 77.276 77.866
+2. Het aantal personen per afhankelijkheidscategorie in de centra voor kortverblijf op 
+31/12, per kalenderjaar, gegevens eWZCfin 18/10/2023
+2019 2020 2021 2022
+O 210 115 173 195
+A 425 309 398 430
+B 901 721 943 1.015
+C 271 236 281 266
+Cd 201 178 261 223
+D 59 40 71 36
+Totaal 2.067 1.599 2.127 2.165
+3. Het aantal personen per afhankelijkheidscategorie in de centra voor dagverzorging op 
+31/12, per kalenderjaar, gegevens eWZCfin 18/10/2023
+2019 2020 2021 2022
+F 1.809 1.543 1.655 1.806
+Fd 1.891 1.583 1.746 1.806
+D 987 896 939 1.100
+Totaal 4.687 4.022 4.340 4.712
+4. Het aantal personen in de centra voor dagverzorging voor personen met een ernstige 
+ziekte op 31/12, per kalenderjaar, gegevens eWZCfin 18/10/2023
+2019 2020 2021 2022
+Fp 102 101 114 125

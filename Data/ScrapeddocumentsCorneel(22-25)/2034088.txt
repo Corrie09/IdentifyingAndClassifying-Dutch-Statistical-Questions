@@ -1,0 +1,50 @@
+title: Centraal inschrijvingsregister (CIR) - Impact uitstel inwerkingtreding op huurpremies
+thema: Wonen
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2034088
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1792204
+SCHRIFTELIJKE VRAAG
+nr. 114 
+van AN MOERENHOUT
+datum: 9 januari 2024
+aan MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+Centraal inschrijvingsregister (CIR)  -  Impact uitstel inwerkingtreding op huurpremies
+De inwerkingtreding van het centraal inschrijvingsregister (CIR) wordt al een tijdje 
+uitgesteld. Eerst werd het verschoven van januari 2023 naar oktober, vervolgens van 
+oktober naar januari 2024. Onlangs werd gecommuniceerd dat ook januari 2024 niet 
+gehaald zou worden, en werd 18 maart 2024 vooropgesteld.
+Er zijn op het terrein heel veel vragen over de gevolgen van de vertraging van de 
+inwerkingtreding van het CIR. 
+Wat gebeurt er met de toewijzingen van de huurpremies voor kandidaat-huurders van een 
+sociale woning die voldoen aan de voorwaarden om een huurpremie te ontvangen.
+Hoe gaat de minister de problemen oplossen die ontstaan door de freezeperiode tot 18 
+maart 2024 voor het toekennen van huurpremies?
+MATTHIAS DIEPENDAELE
+MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+ANTWOORD 
+op vraag nr. 114 van 9 januari 2024
+van AN MOERENHOUT
+De wachttijdberekening om in aanmerking te komen voor een huurpremie gebeurt in het 
+Centraal Register Voor Potentieel Rechthebbenden (CRPR). Deze databank bevat alle 
+inschrijvingen van kandidaat-huurders.
+Kandidaat-huurders die bijna 4 jaar op de wachtlijst staan voor een sociale woning 
+ontvangen van het agentschap Wonen in Vlaanderen automatisch een invulformulier om 
+de huurpremie aan te vragen. Doordat deze kandidaturen reeds bijna 4 jaar gekend zijn 
+in het CRPR is er geen impact en kan de beslissing tot het toekennen of weigeren van een 
+huurpremie nog steeds gebeuren.
+De gegevens in het CRPR kwamen tot eind 2023 uit de lokale databanken van de 
+verschillende woonmaatschappijen. Begin januari 2024 is de datamigratie gestart om deze 
+data uit het Centraal Inschrijvingsregister (CIR) te halen i.p.v. uit de lokale 
+softwarepaketten van de woonmaatschappijen. Er wordt op vandaag al gewerkt op de data 
+zoals deze in het CIR vervat zitten.
+De verandering van bron voor het CRPR heeft minimale gevolgen voor de uitbetaling van 
+huurpremiedossiers. Voor lopende dossiers is de huurpremie applicatie waar nodig 
+aangepast om onderbrekingen te vermijden. Uitzonderlijk kan een dossier automatisch 
+opgeschort zijn omwille van een wijziging in de data uit het CIR en kan een tussenkomst 
+van een kandidaat-huurder of zijn woonmaatschappij nodig zijn om de betaling, retroactief, 
+herop te starten. Sinds 15 januari kunnen de woonmaatschappijen in de backoffice van het 
+CIR werken. Indien een burger geconfronteerd zou worden met een wijziging in zijn 
+huurpremiedossier dan neemt hij best contact op met zijn woonmaatschappij.
+Nieuwe kandidaten die nog niet bekend waren bij een woonmaatschappij voor de start van 
+de freezeperiode kunnen door de woonmaatschappij retroactief worden ingeschreven in 
+het CIR waardoor zij geen verlies hebben van wachttijd.

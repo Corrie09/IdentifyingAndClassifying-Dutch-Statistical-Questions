@@ -1,0 +1,65 @@
+title: Proefproject 'Verkeerslichtenbeïnvloeding door korteafstandsradio (KAR) voor de Vlaamse tramlijnen' - Evaluatie
+thema: Mobiliteit en Verkeer
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2005998
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1765850
+SCHRIFTELIJKE VRAAG
+nr. 41
+van STIJN DE ROO
+datum: 2 oktober 2023
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Proefproject 'Verkeerslichtenbeïnvloeding door korteafstandsradio (KAR) voor de Vlaamse 
+tramlijnen'  -  Evaluatie
+In mijn schriftelijke vragen nr. 787 van 3 februari 2022 en nr. 144 van 21 oktober 2022 
+informeerde ik naar het proefproject ‘Verkeerslichtenbeïnvloeding door korteafstandsradio 
+(KAR) voor de Vlaamse tramlijnen’. 
+Op mijn schriftelijke vraag nr. 144 antwoordde de minister: “De evaluatie is gepland in het 
+najaar van 2022. De dataverzameling loopt, maar het rapport is dus nog niet klaar.”
+Op een schriftelijke vraag van Orry Van de Wauwer (nr. 1341 van 9 juni 2023) antwoordde 
+de minister onder meer: “De pilootcorridor in Gent is operationeel met KAR (alle trams in 
+Gent, 1 stelplaats en 10 kruispunten op tramlijnen 2 en 4). De evaluatie van KAR is 
+positief.” 
+1. Kan de minister de evaluatie van KAR bezorgen?
+2. Wat wordt positief geëvalueerd? Graag meer uitleg.
+3. Wat wordt negatief geëvalueerd? Graag meer uitleg.
+4. Gebeurde er een vergelijking met andere systemen? Zo ja, welke en wat is het 
+resultaat? Zo niet, waarom niet?
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD
+op vraag nr. 41 van 2 oktober 2023
+van STIJN DE ROO
+1-3.In de technische evaluatie van de leverancier werd eerder reeds geconcludeerd dat 
+de KAR-technologie die gebruikt wordt, toelaat om de verkeerslichten op de 
+pilootcorridor met de trams op een flexibele en betrouwbare manier te beïnvloeden. 
+In het project wordt afgestapt van de beïnvloeding door fysieke lussen. De 
+communicatie gebeurt permanent tussen het voertuig en de regelaar tijdens de 
+nadering van het kruispunt. Dat levert veel meer informatie op en laat toe om 
+gedurende de hele nadering rekening te houden met de tijd die de tram nodig heeft 
+om de stopstreep te bereiken. Daardoor kan de doorstroming van de tram verbeterd 
+worden en de groentijd van de tram zo beperkt als mogelijk gehouden worden, wat 
+op zijn beurt weer meer groentijd voor andere weggebruikers oplevert en wachttijden 
+verlaagt. De cyclustijden worden op die manier zo optimaal mogelijk benut. 
+Hoewel de implementatie van de pilootcorridor afgerond is met de uitrusting van de 
+overige trams op het Gentse netwerk met KAR-apparatuur, toont de analyse aan dat 
+er blijvend aandacht nodig is voor de lichtenregelingen op de pilootcorridor en het 
+Gentse tramnetwerk in haar geheel. De evaluatie en bijsturing van 
+verkeerslichtenregelingen is een continu proces. 
+De installatie van KAR op deze corridor en de eerste evaluaties tonen aan dat 
+draadloze aanmelding via KAR (en in de toekomst via C-ITS) een grote stap vooruit 
+is in de manier waarop openbaar vervoer de verkeerslichten kan beïnvloeden. De 
+lichten worden beter gevoed met informatie en ook de monitoring gaat erop vooruit. 
+4. Het proefproject 'Verkeerslichtenbeïnvloeding door korteafstandsradio (KAR) voor de 
+Vlaamse tramlijnen' had niet als doel om de KAR technologie te vergelijken met 
+andere systemen voor beïnvloeding van verkeerslichten door Openbaar Vervoer, maar 
+had tot doel om de aangeboden oplossing van de leverancier van de KAR oplossing te 
+evalueren. 
+Het grote verschil tussen het aanmelden met fysieke lussen enerzijds en met 
+draadloze technologie (KAR of C-ITS) anderzijds, zit in de hoeveelheid informatie die 
+kan verstuurd worden. Bij fysieke lussen is dit beperkt tot het aantal aanwezige 
+lussen: een eventuele vooraanmelding, een aanmelding en een afmelding. Draadloze 
+aanmelding laat toe om informatie veel frequenter door te sturen, zelfs om de 
+seconde. Daardoor wordt het verkeerslicht op basis van realtime informatie gevoed. 
+Uit een eerdere studie die werd uitgevoerd door de stad Antwerpen en De Lijn blijkt 
+dat de verschillen tussen KAR en C-ITS wat betreft de aanmelding van het openbaar 
+vervoer beperkt zijn.

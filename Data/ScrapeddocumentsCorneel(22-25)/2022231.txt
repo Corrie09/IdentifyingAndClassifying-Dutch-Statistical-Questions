@@ -1,0 +1,174 @@
+title: Advies Sociaal-Economische Raad van Vlaanderen (SERV) interoperabiliteit - Stand van zaken
+thema: Economie
+Wetenschap en Innovatie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2022231
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1780866
+SCHRIFTELIJKE VRAAG
+nr. 65 
+van LUDWIG VANDENHOVE
+datum: 21 november 2023
+aan JAN JAMBON
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN, CULTUUR, 
+DIGITALISERING EN FACILITAIR MANAGEMENT
+Advies Sociaal-Economische Raad van Vlaanderen (SERV) interoperabiliteit  -  Stand van 
+zaken
+Op 25 oktober 2023 bracht de SERV een advies uit over “Werk maken van interoperabiliteit 
+voor een digitale overheid en economie”. Dat kwam naar aanleiding van een vraag om 
+uitleg van collega De Roo aan bod in de commissie van 14 november 2023.
+De SERV stelt een aantal werkpunten voor: digitaalvriendelijke regelgeving (juridische 
+interoperabaliteit), betere samenwerking tussen het Vlaamse, lokale en federale niveau en 
+samenwerking tussen publieke, private en maatschappelijke actoren.
+De minister-president verwijst in zijn antwoord naar de werkgroep datamanagement van 
+het Stuurorgaan Vlaams Informatie- en ICT-beleid, die bezig is met het opstellen van 
+datarichtlijnen als leidraad bij het regelgevend kader. Bij het LBLOD (Lokale Besluiten als 
+geLinkte Open Data)-programma bekijkt de minister-president om dat uit te breiden naar 
+meer lokale regelgeving en Vlaamse regelgeving.
+1. Wanneer zal het Stuurorgaan Vlaams Informatie- en ICT-beleid klaar zijn met het 
+opstellen van de datarichtlijnen? Wat zijn dan de volgende stappen eens dat klaar is?
+2. Welke concrete stappen zal de minister-president, in samenspraak met minister 
+Rutten, nemen voor de uitbreiding van het LBLOD-programma?
+3. Welke andere stappen zal de minister-president zetten om het uitgebreide SERV-
+advies ter harte te nemen? Wat is de timing ervan en wanneer mogen we de eerste 
+concrete resultaten verwachten?
+JAN JAMBON 
+MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BUITENLANDSE ZAKEN, 
+CULTUUR, DIGITALISERING EN FACILITAIR MANAGEMENT
+ANTWOORD
+op vraag nr. 65 van 21 november 2023
+van LUDWIG VANDENHOVE
+1. Onder het opstellen van datarichtlijnen wordt verstaan het opstellen en verstrekken 
+van toelichtingen rond een aantal belangrijke uitdagingen die gemeenschappelijk zijn 
+aan het gepast gebruik van data binnen de Vlaamse overheid. Uitdagingen zoals bijv. 
+het op een consistente manier omgaan met persoonsgegevens binnen de beperkingen 
+vastgelegd door de Algemene Verordening Gegevensbescherming (AVG) of het op de 
+juiste manier selecteren van data om AI algoritmes te trainen die zoveel mogelijk vrij 
+zijn van vooroordelen of andere vormen van bias. Deze toelichtingen kunnen gegeven 
+worden tijdens kennisdelingssessies, desgevallend georganiseerd door of in 
+samenwerking met respectieve werkgroepen, ressorterend onder het Stuurorgaan 
+Vlaams Informatie- en ICT-beleid, in voorkomend geval in samenwerking met het AI 
+competentie centrum van Digitaal Vlaanderen. Deze kennisdelingssessies kunnen 
+aanleiding geven tot het identificeren van beste praktijken en, waar mogelijk en 
+passend, het opstellen van meer uitgewerkte datarichtlijnen.
+2. De uitbreiding van het LBLOD-programma naar meer lokale regelgeving valt onder de 
+bevoegdheid van mijn collega van Binnenlands Bestuur, mevrouw Rutten.
+Gegeven dat besluitvorming in heel wat digitaliseringsprocessen relevant is en ook 
+Digitaal Vlaanderen hierin ondersteunend optreedt, onder meer via Lokaal Digitaal, 
+hebben wij en onze administraties ondertussen de reflex om elkaar te betrekken. Op 
+die manier koppelen onze medewerkers – samen – LBLOD-uitbreidingen aan concrete 
+noden op het terrein. Voorbeelden zijn de retributiereglementen in het kader van het 
+vastgoedinformatieplatform en onderzoek hoe LBLOD kan bijdragen in het opmaken 
+van een vergunningen- of subsidieregister.
+Samen met mijn collega van Binnenlands Bestuur, mevrouw Rutten, wil ik er ook voor 
+zorgen dat de machineleesbare regelgeving, die al beschikbaar is via het LBLOD 
+programma, nog gemakkelijker kan teruggevonden en hergebruikt worden door 
+derden. Hiervoor zal samen met het Vlaamse Smart Data Space (VSDS) programma 
+bekeken worden hoe LBLOD kan ingebed worden in een smart dataspace met als 
+thema publieke administratie.
+3. Ik schetste op 14 november in de Commissie voor Algemeen Beleid, Financiën, 
+Begroting en Justitie een uitvoerig overzicht van de acties die deze Vlaamse overheid 
+neemt in kader van het gewaardeerde advies van de SERV, als antwoord op de vraag 
+van de heer De Roo.
+In kader van deze vraag licht ik graag toe welke concrete acties inzake 
+interoperabiliteit de Vlaamse Regering zal nemen en wanneer we hiervan resultaten 
+mogen verwachten. Ik start met (i) de acties op interfederaal niveau, (ii) vervolgens 
+bespreek ik de acties op Vlaams en lokaal niveau, en (iii) ik eindig met de publiek-
+private initiatieven van het Vlaams Datanutsbedrijf athumi.
+Interfederaal niveau
+De interfederale werkgroep datastandaarden maakt deel uit van het Intergouverne-
+menteel Comité e-Government (ICEG). ICEG is een samenwerkingsakkoord tussen de 
+federale overheid, de gewesten en de gemeenschappen om de inspanningen voor een 
+geïntegreerd e-government te harmoniseren en op elkaar af te stemmen. Deze 
+werkgroep heeft met succes overeenstemming bereikt over de methode voor de 
+gezamenlijke ontwikkeling van datastandaarden, met de in Vlaanderen ontwikkelde 
+OSLO methodologie als basis. 
+Nog deze legislatuur leg ik samen met de federale overheid een basis voor data-
+standaarden voor hulpdiensten (hydranten), die de veiligheid van burgers over de 
+regiogrenzen heen zal optimaliseren. Eind 2023 realiseren we een standaard voor 
+gebouwen en een standaard voor mobiliteitsdienstverlening (trips en aanbod), die 
+zorgt voor interoperabiliteit tussen de verschillende mobiliteitsoperatoren.
+Op dit moment is mijn administratie samen met de interfederale partners een 
+vervolgtraject aan het bekrachtigen met niet alleen oog voor de ontwikkelen van 
+nieuwe interfederale standaarden maar ook voor de vertaling van de zeer 
+gewaardeerde Vlaamse OSLO standaarden om de adoptie in de gewesten, 
+gemeenschappen en bij de federale overheid makkelijker te maken. We verwachten 
+dat alle partners samen kunnen oversteken voor eind 2023. Ik vraag mijn 
+administratie om vandaag en in de toekomst een trekkersrol op te nemen op 
+interbestuurlijk vlak.
+Vlaams en lokaal niveau
+In lijn met het advies van de SERV zet ik nog deze regeerperiode versterkt in op 
+interoperabiliteit. Mijn administratie zet samen met de andere Vlaamse administraties, 
+de steden en gemeenten, de private partners en de strategische 
+onderzoeksinstellingen (SOC’s) in op het verhogen van interoperabiliteit, meer 
+specifiek via het Open Standaarden voor Linkende Organisaties programma (OSLO).
+Hierbij geef ik graag een overzicht van de standaarden en oplossingen die in 
+ontwikkeling zijn. De Vlaamse ambitie op het vlak van datatechnologie is hoog, we 
+hebben een groot draagvlak bij alle betrokken partners, wat de lijst van initiatieven 
+lang maakt. De hieronder vermelde lokale besturen zijn initiatiefnemers, in 
+samenwerking met een zeer brede groep van andere steden en gemeenten. 
+De komende jaren staan diverse standaarden en initiatieven op de agenda die het 
+leven van burgers, ondernemers en organisaties in 2024 aanzienlijk zullen 
+veranderen.  
+In het vierde kwartaal van 2023 zijn de opgeleverde standaarden onder meer gericht 
+op cultuurparticipatie, vervoersknooppunten, leercredentials, verkeersmetingen, het 
+voorkomen van wegdekschade door Kunstmatige Intelligentie in Roeselare, en urban 
+mining in Oostende voor vlotter hergebruik van bouwmaterialen in stedelijke 
+gebieden.
+Het eerste kwartaal van 2024 brengt gevalideerde standaarden voor het datamodel 
+van kabel- en leidingbeheerders voor overdracht van leidinggegevens naar het Kabel- 
+en Leidinginformatieportaal (KLIP), jeugd- en cultuurinfrastructuur, aandacht voor 
+waterkwaliteit, burgerinitiatieven ter stimulering van de lokale economie in Geel, en 
+Visualo informatieschermen die lokale handelaars in beeld brengen in Halle.
+Het tweede kwartaal van 2024 omvat standaarden voor het onderzoek in bodem en 
+ondergrond, oplossingen voor vrachtwagenoverlast in gemeenten zoals Puurs, en het 
+sanctieregister voor verzameling van bestuurlijke sancties op verschillende overheids-
+niveaus, wat naadloos aansluit bij de ambities van het LBLOD-programma.
+In het derde kwartaal van 2024 zijn er ontwikkelingen zoals druktemetingen ter 
+ondersteuning van de lokale economie in Mechelen en Oostkamp, slim ruimtelijk 
+plannen in Gent voor een aangenamere stadskern, een slimme fiche voor alle 
+informatie van kinderen die buitenschoolse activiteiten volgen in Bornem, en een 
+toegankelijkere dienstverlening van lokale besturen via een slimme 
+raadpleegomgeving in Aalter, in synergie met het gewaardeerde LBLOD-programma 
+van minister Rutten.
+Het vierde kwartaal van 2024 markeert de invoering van de digitale watermeter door 
+De Watergroep, mobiliteitskredieten voor burgers in Hasselt en de implementatie van 
+slimme stadsdistributie om de logistiek in het stadscentrum van Hasselt efficiënter te 
+plannen.
+Deze standaarden zullen hun weg vinden naar oplossingen via de eerder genoemde 
+partners, oplossingen die het leven van burgers, ondernemers en organisaties 
+eenvoudiger, goedkoper en gezonder maken.
+Publiek-private initiatieven van het Vlaams Datanutsbedrijf athumi.
+Nog deze legislatuur initiëren we 5 nieuwe interoperabele data-ecosystemen bovenop 
+de 4 platformen die athumi vandaag reeds operationeel heeft. Alle platformen 
+gebruiken OSLO-standaarden die in co-creatie met de private sector tot stand 
+kwamen. 
+In 2024 zal Athumi zich richten op verschillende belangrijke initiatieven:
+1) Het implementeren van een digitaal registratiesysteem voor overlijdensaangifte en 
+het efficiënt delen van relevante gegevens tussen betrokken partijen. De analyse 
+en financiering voor dit project werden in 2023 voltooid, en Athumi streeft ernaar 
+om in het eerste kwartaal van 2024 te starten met de ontwikkeling van dit nieuwe 
+platform. Op langere termijn is het plan om ook andere sectoren, zoals notarissen, 
+nutsbedrijven en banken, te laten aansluiten op dit ecosysteem.
+2) De digitalisering van gegevensuitwisseling betreffende bouwmaterialen tussen 
+verschillende partners in de bouwsector. Na een verkennende studie eerder dit 
+jaar, heeft Athumi de brede bouwsector betrokken bij dit initiatief. In 2024 zal de 
+concrete business case in samenwerking met de sector worden uitgewerkt, met 
+mogelijke uitvoering in 2025.
+3) Het faciliteren van informatie-uitwisseling tussen bedrijven en netbeheerders met 
+betrekking tot hun energiebehoeften in het kader van de energietransitie. De 
+energiesector heeft deze specifieke uitdaging voorgelegd aan Athumi. Een pilotfase 
+zal worden opgezet in de eerste helft van 2024, met het oog op mogelijke 
+opschaling naar een oplossing op sectorniveau later in 2024 of in 2025.
+4) Het delen van EPC-certificaten om processen te vereenvoudigen in de financiële 
+sector met het oog op ESG-rapportage. Athumi heeft in 2023 een consortium 
+samengebracht van geïnteresseerde partijen uit diverse sectoren voor het 
+uitwisselen van EPC-data. Momenteel wordt de analyse van behoeften en 
+toepassingen afgerond, waarna in 2024 concrete implementatie mogelijk zal zijn.
+5) Uitbreiding van het bestaande vastgoedinformatieplatform met bodemattesten 
+voor woningaankopen. De rollout van het Vastgoedinformatieplatform over alle 
+Vlaamse gemeenten zal tegen het einde van 2023 zijn voltooid. In 2024 zal het 
+platform worden uitgebreid met extra datapunten, zoals bodemattesten, en dit zal 
+beschikbaar zijn voor alle gebruikers van het platform voor het einde van 2024.
+Dankzij deze inspanningen om te komen tot een gestandaardiseerde en vlotte data-
+deling over economische sectoren heen zullen onze burgers, de samenleving, en de 
+economische actoren in de nabije toekomst kunnen rekenen op de beschikbaarheid 
+van nog meer data voor meer innovaties en geavanceerde toepassingen.

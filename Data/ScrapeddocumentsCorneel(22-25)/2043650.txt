@@ -1,0 +1,70 @@
+title: Lokale besturen - Artificiële intelligentie (AI)
+thema: Lokale overheden en Binnenlands bestuur
+Wetenschap en Innovatie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2043650
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1799963
+SCHRIFTELIJKE VRAAG
+nr. 131
+van KOEN VAN DEN HEUVEL
+datum: 31 januari 2024
+aan GWENDOLYN RUTTEN
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BINNENLANDS BESTUUR, 
+BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN
+Lokale besturen  -  Artificiële intelligentie (AI)
+De voorbije maanden en jaren is het enorme potentieel van een aantal nieuwe 
+technologieën steeds duidelijker geworden. Een van deze technologische concepten is 
+artificiële intelligentie. Artificiële Intelligentie stelt organisaties, bedrijven, en overheden in 
+staat om de dienstverlening te optimaliseren. Zo kan AI chatbots verder optimaliseren. 
+Een chatbot kan 24/7 vragen van burgers beantwoorden zonder een menselijke 
+tussenkomst. Maar het kan bijvoorbeeld ook bepaalde taken makkelijker maken. ChatGPT 
+is veruit de bekendste AI-toepassing voor tekstverwerking maar ook voor het maken van 
+afbeeldingen, presentaties en websites zijn er al AI-toepassingen vindbaar. 
+1. Heeft de minister weet van Vlaamse steden en gemeenten die op dit moment al 
+gebruikmaken van AI-toepassingen? Zo ja, graag een oplijsting van de concrete zaken 
+waarvoor de technologie wordt gebruikt en op welke manier.
+2. Heeft de minister weet van Vlaamse steden en gemeenten die plannen hebben om 
+artificiële intelligentie in de toekomst toe te passen? Zo ja, graag een oplijsting van de 
+concrete zaken waarvoor de technologie zal worden gebruikt, op welke manier en de 
+timing hieromtrent. 
+3. Is er een gecoördineerde aanpak omtrent artificiële intelligentie? Een kenniscentrum 
+binnen de Vereniging van Vlaamse Steden en Gemeenten (VVSG) of andere 
+organisaties, … om lokale besturen bij de implementatie van deze technologie te 
+ondersteunen? De implementatie van AI brengt immers ook enkele ethische en 
+juridische vraagstukken met zich mee. 
+GWENDOLYN RUTTEN
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN BINNENLANDS BESTUUR, 
+BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN
+ANTWOORD 
+op vraag nr. 131 van 31 januari 2024
+van KOEN VAN DEN HEUVEL
+1. Vanuit het Gemeente zonder gemeentehuis-programma zetten een aantal besturen in 
+op het gebruik van AI. Al deze projecten zijn samenwerkingsprojecten waarin in het 
+totaal 47 besturen betrokken zijn. 
+Uit de contacten van mijn administratie met de collega’s van VLAIO weten we dat er 
+ook binnen City of Things projecten lopen waarin lokale besturen aan de slag gaan met 
+AI. 
+De tabel in bijlage geeft een overzicht van de verschillende lopende projecten.
+2. Ik of mijn administratie beschikken niet over een lijst van besturen die in de toekomst 
+AI zullen gaan gebruiken in toepassingen. Via het relanceplan Lokaal Digitaal, wat onder 
+de bevoegdheid van de minister-president valt, vormen de gemeente zonder 
+gemeentehuis projecten van Kortrijk, Rumst en Wichelen wel de basis voor een 
+behoefteanalyse en marktverkenning om tot een concrete digitale oplossing te komen 
+voor alle besturen in Vlaanderen.
+3. Het AI Competence Center, dat organisatorisch onder Agentschap Digitaal Vlaanderen 
+valt, is speciaal opgericht om een AI-strategie voor de Vlaamse overheid en lokale 
+besturen te ontwikkelen en te bewaken. Het AI Competence Center werkt hiervoor nauw 
+samen met vertegenwoordigers van andere Vlaamse entiteiten waaronder ABB maar 
+ook met lokale besturen, KVCS en VVSG. 
+Op dit moment is al een principedocument opgesteld waarin zes leidende principes bij 
+het gebruik van AI uitgewerkt zijn en zijn er richtlijnen voor het gebruik van generatieve 
+AI. Deze instrumenten moeten het gebruik en de ontwikkeling van (generatieve) AI 
+binnen overheden in Vlaanderen in goede banen leiden en zullen onderdeel uitmaken 
+van de Vlaamse AI-strategie die nog in ontwikkeling is. Ook lokale besturen worden 
+aangemoedigd om hiermee aan de slag te gaan. 
+Daarnaast bouwt het AI Competence Center aan een decentraal experten AI-netwerk 
+over Vlaamse en lokale overheden heen. In kader hiervan worden verschillende AI-
+netwerkevenementen en kennisdelingssessies georganiseerd, waar een forum wordt 
+voorzien voor het uitwisselen van ideeën, bewezen praktijken en inspirerende 
+praktijkvoorbeelden. 
+BIJLAGE
+Tabel AI projecten van lokale besturen binnen GZG en City of Things

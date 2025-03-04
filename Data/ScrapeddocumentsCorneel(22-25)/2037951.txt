@@ -1,0 +1,82 @@
+title: Kinderopvang - Evaluatie dossiers op basis van datamining
+thema: Welzijn en Gezin
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2037951
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1795166
+SCHRIFTELIJKE VRAAG
+nr. 203
+van CELIA GROOTHEDDE
+datum: 17 januari 2024
+aan HILDE CREVITS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+Kinderopvang  -  Evaluatie dossiers op basis van datamining
+Graag enkele verdere antwoorden op vragen in navolging op het antwoord van de minister 
+op mijn schriftelijke vraag nr. 133 van 4 december 2023.
+1. Hoeveel dossiers werden er op basis van datamining onder de loep genomen in heel 
+2023 en hoeveel ervan werden na evaluatie gelabeld met ‘mogelijk risico’? Het vorige 
+antwoord was nog onvolledig voor het hele afgelopen jaar.
+2. Hoeveel dossiers werden er op basis van datamining onder de loep genomen sinds de 
+inwerkingtreding van de datamining en hoeveel van die dossiers werden na evaluatie 
+gelabeld met ‘mogelijk risico’?
+3. Hoeveel dossiers die als ‘mogelijk risico’ werden geëvalueerd sinds het begin van de 
+inwerkingtreding, hadden a) tekorten op het vlak van de inzet van kindbegeleiders, b) 
+gebreken inzake veiligheid of verzorging, c) gebreken inzake pedagogie?
+4. Hoeveel van de dossiers die tot nu onder de loep werden genomen en geëvalueerd 
+werden als ‘mogelijk risico’, zijn van a) nabij opgevolgd en b) in handhaving gezet, c) 
+zaten al in handhaving?
+5. Welke factoren zorgen ervoor dat een dossier bovenaan wordt gezet via de 
+datamining?
+6. Er zijn in het verleden problemen geweest met dossiers waarover er klachten waren 
+maar die toch goede inspectieverslagen hadden. In haar vorige antwoord stelt de 
+minister dat er via parameters dossiers via datamining bovenaan worden gezet. Die 
+dossiers worden dan onder de loep genomen. Wanneer een dossier een goed recent 
+inspectieverslag had, wordt het als ‘geen risico’ geklasseerd.
+a) Hoe kan Opgroeien dan garanderen dat alles in orde is voor de veiligheid of 
+pedagogie van de kinderen?
+b) Is er een hiërarchie in parameters die de doorslag geven om iets als veilig te 
+beschouwen?
+HILDE CREVITS 
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN WELZIJN, 
+VOLKSGEZONDHEID EN GEZIN
+ANTWOORD
+op vraag nr. 203 van 17 januari 2024
+van CELIA GROOTHEDDE
+1. De cijfers vermeld in vraag nr 133 waren de cijfers over het volledige jaar 2023.
+2. De cijfers vermeld in vraag nr 133 zijn de cijfers van bij het begin van de datamining 
+tot en met het einde van 2023.
+3. Hierop wordt niet structureel gerapporteerd. De tekorten zijn beschikbaar in het 
+dossier en worden opgevolgd door klantenbeheer.
+4. Zoals meegegeven in vraag nr 133 is er geen gestandaardiseerde rapportage mogelijk 
+tussen datamining en handhaving.
+5. Datamining is een proces waarbij via statistische technieken grote hoeveelheden 
+gegevens worden geanalyseerd om patronen, trends of relaties te ontdekken. Het 
+bepalen van een ranglijst van parameters is hierbij van belang en vormt onderdeel 
+van het datamining proces. Bepalen welke parameters voldoende betekenisvol zijn en 
+onderling de best mogelijke fit geven om een voorspelling te doen, is een intensief 
+rekenkundig proces waarbij talloze combinaties worden gemaakt.  Het is niet praktisch 
+om individuele parameters te identificeren als meest significant of die maken dat een 
+dossier hoger scoort in de datamininglijst, omdat ze samenwerken als onderdeel van 
+het grotere model. Bovendien wijzigen data doorheen de tijd en kan ook de 
+significantie van de parameters die bepalen of een dossier hoger dan wel lager in de 
+lijst voorkomt, steeds wijzigen.
+6. a. Opgroeien kan zich enkel baseren op elementen die ter plaatse vastgesteld worden 
+door Zorginspectie of informatie die Opgroeien van derden of de organisator zelf 
+ontvangt, om te concluderen of een opvanglocatie als “voldoende” veilig kan worden 
+beschouwd. Een ‘goed inspectieverslag’ leidt er echter niet zonder meer toe dat een 
+dossier de classificatie ‘geen risico’ krijgt; een dossier wordt in de breedte onder de 
+loep genomen, waarbij alle informatie waarover Opgroeien beschikt naast elkaar 
+wordt gelegd en vanuit een meerogenprincipe wordt beoordeeld. Is in een dossier 
+sprake van indicaties/elementen die gerelateerd zijn aan psychische en fysische 
+integriteit, dan gaat Opgroeien hiermee aan de slag.  
+Uiteraard kan een recente melding van een ernstig feit altijd aanleiding geven tot 
+handhaving uit voorzorg. De datamining zorgt ervoor dat ook een dossier waarin 
+aangegeven wordt dat er op een bepaald moment geen zorgwekkende elementen 
+“geen risico” zijn, toch opnieuw onder de loep wordt genomen als de parameters 
+bepalen dat dit dossier bovenaan de lijst verschijnt. Dataming is een extra 
+ondersteunende tool, en dus zeker niet het enige instrument is dat aan de basis ligt 
+van een dossieranalyse. Het instrument draagt ertoe bij risico’s te detecteren.
+b. Er is geen hiërarchie in parameters. Een tekort, is een tekort. Maar er zijn wel 
+elementen die sneller zullen aanleiding geven tot opvolging. We denken daarbij aan 
+bv een tekort aan begeleiders of een overbezetting of een vaststelling van foutief 
+pedagogisch handelen. Ook vaststellingen tot tekorten op het vlak van statische 
+veiligheid (bv loshandende kabels) zullen onmiddellijk moeten worden aangepakt.

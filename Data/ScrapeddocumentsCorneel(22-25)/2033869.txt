@@ -1,0 +1,84 @@
+title: Elektrische voertuigen - Uitrol laadpunten
+thema: Energie
+Mobiliteit en Verkeer
+Openbare werken
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2033869
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1794534
+SCHRIFTELIJKE VRAAG
+nr. 471
+van ROBRECHT BOTHUYNE
+datum: 16 januari 2024
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Elektrische voertuigen  -  Uitrol laadpunten
+Het Vlaamse luchtbeleidsplan bepaalt het volgende: “Volgens de huidige inzichten zullen 
+we in 2025 minimum 30.000 publieke laadpunten uitrollen en een veelvoud daarvan aan 
+semi-publieke en private laadpunten. Deze infrastructuur moet verder worden aangevuld 
+met een netwerk van (ultra)snelladers. De uitdaging voor de toekomst zal bijkomend 
+liggen bij het parkeerbeleid (aan de laadpalen). Ook het privélaadnetwerk (thuis en bij 
+bedrijven) verdient de nodige aandacht, niet alleen omwille van het relatieve belang, ook 
+omdat er bijkomende voordelen aan gekoppeld zijn. Dat netwerk kunnen we immers 
+efficiënt organiseren, is goedkoper in gebruik en beter op te volgen en te sturen. Bij de 
+toename van het aandeel elektrische wagens kan de (lokale) capaciteit van het 
+elektriciteitsnet een bijkomende uitdaging worden. Flexibel opladen is daarbij het 
+ordewoord.”
+1. Hoeveel publieke laadpunten waren er eind 2023 in Vlaanderen? Graag totaalaantal, 
+opdeling naar provincie en naar verdeler (lokaal bestuur of Fluvius).
+2. Hoe verhouden de bovenstaande cijfers zich tot de huidige elektrische vloot in 
+Vlaanderen? 
+3. Hoeveel gewone laadpunten waren er op 31 december 2023 in Vlaanderen? Graag 
+totaalaantal gewone laadpunten en per provincie. 
+4. Hoeveel snellaadpunten waren er op 31 december 2023 in Vlaanderen? Graag 
+totaalaantal snellaadpunten en per provincie. 
+5. Hoeveel gewone laadpunten zijn er gepland in 2024? Graag totaalaantal gewone 
+laadpunten en per provincie.
+6. Hoeveel snellaadpunten zijn er gepland in 2024? Graag totaalaantal snellaadpunten en 
+per provincie.
+7. De minister geeft aan dat er elk jaar 6000 CPE’s (charge point equivalent) moeten 
+komen. 
+a) Hoeveel daarvan worden snelladers, hoeveel andere laders?
+b) Welk budget wordt daartegenover gesteld?
+c) Met welke stakeholders zal daarvoor samengewerkt worden?
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD
+op vraag nr. 471 van 16 januari 2024
+van ROBRECHT BOTHUYNE
+1. Hieronder de stand van zaken op 31 december 2023. De laadpunten worden uitgebaat 
+door een groot aantal laadpuntexploitanten (CPO’s). Fluvius noch de gemeenten 
+spelen hierin een rol. 
+2. Eind 2023 waren er 136.411 batterij elektrische wagens in Vlaanderen. Met bijna 
+31.000 gewone (semi-)publieke laadpunten en bijna 1.700 (ultra)snelladers zit de 
+verhouding goed. De verhouding van 1 laadequivalent per 10 wagens, die in de 
+conceptnota “aanpak uitrol laadinfrastructuur 2021-2025” werd opgenomen als 
+doelstelling, zoals aangeraden door gespecialiseerde Europese organisaties, hebben 
+we overtroffen. Vlaanderen heeft de verhouding van bijna 1 op 4.
+3-4.Zie deelvraag 1.
+5-6.Laadpunten worden niet op dergelijke wijze vooraf gepland, maar komen tot stand 
+via de vraag van e-rijders (‘paal volgt wagen’ of ‘paal volgt paal’), op initiatief van 
+marktpartijen of als strategisch voorstel van lokale besturen. 
+Zo werden er de voorbije jaren a.d.h.v. subsidieoproepen, burgeraanvragen, 
+concessies … honderden locaties gegund, toegewezen en gesubsidieerd voor 
+laadinfrastructuur of werden er plaatsingsopdrachten gegeven. Velen daarvan zijn 
+nog in uitvoering, maar dragen allen bij tot de gewenste versnelling van de uitrol.
+7. Voor het halen van de doelstelling voor 2025 moeten er in 2024 nog 4.000 CPE 
+bijkomen. Dat is op zich al minder dan de laadpunten die op dit ogenblik uitgerold 
+worden, zij het via de concessie op het openbare domein of naar aanleiding van de 
+Vlaamse subsidies op het private domein. In 2023 zijn er 13.000 CPE bijgekomen; we 
+vermoeden dat dat in 2024 ook zeker het geval kan zijn. Er wordt geen 
+voorafgaandelijke verdeling gemaakt van de verhouding die er tussen gewone en 
+snelladers moet zijn, gezien er naar de noden moet worden gekeken daarvoor. Aan 
+laadpalen op het openbare domein wordt geen budget besteed. Voor die op het private 
+domein gaat het vooral over budgetten van de voorgaande jaren die nu tot resultaat 
+komen. Er wordt hiervoor vooral samengewerkt met CPO’s, Fluvius, lokale besturen 
+en bedrijven met mogelijkheden om laadinfrastructuur te plaatsen.publiek december 
+2023Laadpunten 
+normaal vermogenSnellaadpuntenUltrasnellaadpuntensemi-publiek 
+december 2023Laadpunten normaal 
+vermogen Snellaadpunten UltrasnellaadpuntenCPE
+Antwerpen 2.546 72 148 Antwerpen 6.130 73 56 7.913,5
+Limburg 914 73 81 Limburg 2.709 49 23 3.681,0
+Oost-Vlaanderen 2.176 76 141 Oost-Vlaanderen 4.799 87 54 6.853,0
+Vlaams Brabant 1.450 83 156 Vlaams Brabant 3.174 61 20 5.264,5
+West-Vlaanderen 1.740 81 181 West-Vlaanderen 5.290 76 101 7.295,0
+Totaal 8.826 385 707 Totaal 22.102 346 254 31.007,0

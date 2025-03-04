@@ -1,0 +1,131 @@
+title: Duurzame cementindustrie - Circulariteit en innovatie
+thema: Economie
+Natuur en Milieu
+Wetenschap en Innovatie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2044387
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1799656
+SCHRIFTELIJKE VRAAG
+nr. 293
+van STIJN DE ROO
+datum: 31 januari 2024
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Duurzame cementindustrie  -  Circulariteit en innovatie
+De cementindustrie is een kleine maar vooral voor de bouw belangrijke sector in onze 
+regio, met ondernemingen in onder andere Antwerpen en Gent. 
+Tal van factoren bepalen mee de toekomstkansen van de cementindustrie, en innovatie en 
+circulariteit zijn er twee van. Inzonderheid omdat de duurzaamheidsvereisten almaar 
+stijgen en de bedrijfsvoorwaarden inzake klimaat, energie, milieu en natuur voortdurend 
+verstrengen. 
+FEBELCEM, de federatie van de Belgische cementindustrie, pleit dan ook voor een betere 
+toegang tot Europese fondsen, een wettelijk kader voor CO 2-transport, 
+grensoverschrijdende overeenkomsten voor CO 2-opslag en een ‘level playing field’ en een 
+‘carbon border adjustment mechanism’ om carbon leakage te voorkomen. 
+Tegelijk bepleit FEBELCEM zowel innovatieve bouwoplossingen “toepassing van nieuwe 
+‘koolstofarme’ cement- en betonsamenstellingen in openbare bestekken aanmoedigen”, 
+als een circulaire economie “recycling van verschillende industriële bijproducten en 
+sloopafval in nieuwe cementsamenstellingen ondersteunen om de milieuvoetafdruk van de 
+bouw te reduceren”. En zowel innovatie als circulariteit zijn speerpunten in het Vlaamse 
+overheidsbeleid. 
+1. (Hoe) ondersteunt de Vlaamse overheid in het algemeen en het departement 
+Omgeving of de Openbare Vlaamse Afvalstoffenmaatschappij (OVAM) in het bijzonder 
+het onderzoek naar en de ontwikkeling van meer duurzame cementsoorten? Betreft 
+duurzaamheid dan alleen koolstofneutraliteit? Of worden ook andere ecologische 
+parameters in rekening gebracht? 
+2. (Hoe) bevordert de Vlaamse overheid het gebruik van meer duurzame cementsoorten 
+in de bouw? Door middel van openbare aanbestedingen voor eigen werken en 
+gebouwen? Door middel van financiële of fiscale prikkels voor andere opdrachten? 
+3. Wordt er met de cementsector overleg gepleegd over de mogelijkheden en de 
+moeilijkheden van meer duurzaam cement? Bijvoorbeeld met betrekking tot de 
+recyclage van industriële bijproducten en residentieel sloopafval. Of met betrekking 
+tot het recycleren van mineralen via co-processing en van het brandbare gedeelte uit 
+afval. 
+4. Geldt een vergelijkbare aanpak ook voor de betonsector? Klopt het dat het onderzoek 
+naar en de ontwikkeling van beton op meer steun en meer middelen kan rekenen van 
+onder andere het voormalige Grindfonds? Bestaan er wetenschappelijke 
+samenwerkingsverbanden tussen cement- en betononderzoek en worden dergelijke 
+ontwikkelingen van overheidswege ondersteund? 
+ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 293 van 31 januari 2024
+van STIJN DE ROO
+1. De CO2-impact van cementproductie is een zeer belangrijke kwestie. De CO2-uitstoot 
+van de wereldwijde cementindustrie bedraagt bijna 9% van de globale uitstoot van de 
+industrie en kan tegen 2030 oplopen tot 25%. Vlaanderen heeft echter geen 
+cementovens waardoor dit aspect van het beheer van materialen niet centraal heeft 
+gestaan in het beleid. Dat is anders voor beton.
+Het grootste aandeel van de CO2-uitstoot van beton komt van de productie van het 
+cement. Het is daarom van groot belang om op zoek te gaan naar alternatieve 
+bindmiddelen. Hiervoor komen materialen zoals gemalen hoogovenslakken, vliegassen 
+en geopolymeren in aanmerking. Voor het gebruik van geopolymeren – dat zijn 
+alkalisch geactiveerde bindmiddelen op basis van een of meerdere end-of-waste 
+materialen – heeft de Openbare Vlaamse Afvalstoffenmaatschappij (OVAM) reeds een 
+grondstoffenverklaring afgeleverd. Een aanvraag voor een grondstoffenverklaring moet 
+gebeuren via de website van de OVAM. De ‘ Praktische gids voor het ontwikkelen en 
+toepassen van circulaire betonsoorten’ geeft aan welke gegevens de aanvraag voor 
+grondstoffenverklaring moet bevatten en wat de milieuhygiënische randvoorwaarden 
+zijn om het als een bindmiddel te kunnen gebruiken. 
+2. Het beleidsprogramma ‘Op weg naar circulair bouwen’ omvat het stimuleren van 
+betongranulaten in hoogwaardige toepassingen, dus in nieuw beton. Het beleidsplan 
+omvat net als de werkagenda ‘Circulair Bouwen’ echter geen directe stimulans voor het 
+ontwikkelen en gebruiken van CO2-arme cementsoorten.
+Het Facilitair bedrijf van de Vlaamse overheid hanteert de duurzaamheidsmeter GRO 
+voor de eigen aanbestedingen en promoot het gebruik ervan in de brede praktijk. Een 
+van de GRO-criteria met betrekking tot de beoordeling van materiaalkeuzes vereist een 
+TOTEM-analyse. TOTEM is een tool die binnen een samenwerking tussen de drie 
+gewesten wordt ontwikkeld en waarmee we de milieu-impact van gebouwen kunnen 
+evalueren en verlagen. De drie gewesten promoten het gebruik van TOTEM. Voor de 
+generieke data in TOTEM wordt uitgegaan van een mengeling van verschillende 
+cementtypes op basis van data uit de praktijk (35% CEM I, 55% CEM III/A, 10% CEM 
+III/B). Voor prefab-betonproducten wordt enkel CEM I gebruikt omwille van de kortere 
+droogtijden. Naast generieke data kunnen producenten ook specifieke productdata 
+aanleveren onder de vorm van een Environmental Product Declaration (EPD), hetgeen 
+een federale bevoegdheid is. In EPD’s kunnen betonproducenten aangeven met welke 
+cementsoort zij werken en op basis van die gegevens de milieu-impact laten 
+doorrekenen en registeren. De EPD’s kunnen vervolgens in TOTEM opgenomen worden 
+en gebruikt worden in milieuprestatieberekeningen door architecten, studiebureaus, 
+enz. Op deze manier worden producenten gestimuleerd om met duurzame 
+cementsoorten met een lagere milieu-impact te werken, en worden gebruikers van 
+TOTEM gestimuleerd om producten met een lage milieu-impact te gebruiken in hun 
+projecten.
+Het partnerschap Vlaanderen Circulair ondersteunt daarnaast vanuit haar open 
+oproepen nog een heel aantal initiatieven binnen Vlaanderen, zoals:
+Circulair projectbeton Haven van Antwerpen (vlaanderen-circulair.be): een project voor 
+het gebruik van gerecycleerd beton in de Haven van Antwerpen.
+De Circulaire Weg - Detail - Vlaanderen Circulair (vlaanderen-circulair.be): een project 
+voor de hoogwaardige recyclage van oude betonwegen, en toepassingen in nieuwe 
+wegen.
+Stapsteen naar een circulaire stad - Detail - Vlaanderen Circulair (vlaanderen-
+circulair.be): een project waarin op zoek gegaan wordt naar alternatieven voor cement.
+EQUITONE gevelmaterialen circulair maken (vlaanderen-circulair.be): een project om 
+de cementketen te sluiten.
+Staenis - circulaire vloeropbouw - Detail - Vlaanderen Circulair (vlaanderen-
+circulair.be): een project waarin onderzoek gevoerd wordt naar een duurzaam 
+alternatief voor chape (dat ook cement bevat).
+3. De afgelopen jaren was er hierover geen overleg met Febelcem (de cementsector), vnl. 
+omdat Vlaanderen geen eigen cementovens heeft. De Waste to Energy (WtE)-
+toepassing in cementovens inzake heffingen wordt sinds 2007 volledig op dezelfde leest 
+geschoeid als de WtE-toepassing in dedicated afvalverbranding in Vlaanderen.  Het 
+aspect recyclage van mineraalgedeelte is daaraan ondergeschikt. Ook in dedicated 
+WtE-verbranding in Vlaanderen wordt verbrandingsas maximaal gevaloriseerd als 
+bouwstof. Uitzondering daarop zijn vnl. minerale afvalstoffen (bv. drinkwaterslibs) die 
+als vervangingsgrondstof in cementovens worden ingezet en voldoen aan de bepalingen 
+van art. 46 §3.5° MD ‘niet-gevaarlijke afvalstoffen waarvan de onderste 
+verbrandingswaarde, berekend op de droogrest, kleiner is dan 8 MJ/kg, en waarvan de 
+minerale fractie, inclusief carbonaten, uitgedrukt als gewichtpercent asrest op de 
+droogrest, groter is dan 50 %, en die ingezet worden omwille van hun minerale fractie, 
+met uitzondering van afvalstoffen die ingezet worden als afvalwater’.
+4. Met steun van Vlaanderen Circulair binnen een open oproep-project heeft Groen Beton 
+gewerkt aan de ontwikkeling van een Betonakkoord. Meer informatie vindt u hier: 
+Circulair beton: naar een betonakkoord voor Vlaanderen (vlaanderen-circulair.be). 
+Voor het project Groen Beton ligt de nadruk op het verhogen van de kwaliteit van de 
+grondstoffen enerzijds en op het creëren van een maatschappelijk draagvlak voor het 
+gebruik van gerecycleerde granulaten in stortbeton anderzijds. De toepassing van 
+hoogwaardige betongranulaten staat garant voor een hoge kwaliteit van het 
+eindproduct (stortbeton). De samenwerking binnen Groen Beton brengt verschillende 
+partners in de waardeketen van beton, van afbraak tot verwerking in de betoncentrales 
+en het gebruik door aannemers, samen. Binnen het project zijn modelbestekken en 
+aanbevelingen voor kwaliteit en mogelijkheden voor gebruik uitgewerkt. Wij hebben 
+geen informatie over mogelijke samenwerking of overleg hierover met de 
+cementindustrie.

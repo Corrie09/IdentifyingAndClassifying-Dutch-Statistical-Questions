@@ -1,0 +1,92 @@
+title: Taxidecreet - Implementatie en realtime-registratie
+thema: Mobiliteit en Verkeer
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2008965
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1774171
+SCHRIFTELIJKE VRAAG
+nr. 132
+van CARMEN RYHEUL
+datum: 20 oktober 2023
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Taxidecreet  -  Implementatie en realtime-registratie
+Taxibedrijven die werken onder het Taxidecreet van 2020 moeten sinds 1 november 2020 
+aangesloten zijn op de overheidsdatabase Chiron en realtime-informatie doorgeven van 
+elke rit. Met die verplichting wordt de administratieve werklast van de taxibedrijven 
+vereenvoudigd en kan de Vlaamse overheid makkelijk toezicht houden op de taxisector en 
+zwartwerk tegengaan. Door de coronacrisis en de complexiteit van de databank die moet 
+worden opgebouwd, werd de oorspronkelijk geplande deadline voor de verplichte 
+ritregistratie van 1 juli 2020 verschoven naar 1 november 2020.
+Ik verwijs naar mijn eerdere vragen over dit onderwerp: schriftelijke vraag nr. 1182 van 
+16 oktober 2020, vraag om uitleg nr. 3773 op 17 juni 2021, vraag om uitleg nr. 623 op 9 
+december 2021 en ten slotte vraag om uitleg nr. 3260 op 16 juni 2022.
+1. Hoeveel exploitanten:
+a) werken vandaag onder de nieuwe vergunning;
+b) zijn in orde met Chiron;
+c) doorliepen de testomgeving maar stuurden geen ritten door;
+d) zijn in de testomgeving geweest zonder de testfase af te ronden;
+e) ondernamen nog geen stappen om de koppeling te maken?
+2. Graag een update van de cijfers van 15 juni 2022 zoals toegevoegd aan vraag om 
+uitleg nr. 3260 op 16 juni 2022 over de verdeling per provincie betreffende Chiron.
+3. Hoe evalueert de minister die nieuwe cijfers in verhouding tot de laatste cijfers in juni 
+2022? Welke eventuele verklaringen ziet die minister bij het resultaat (al dan niet 
+naleven van de regeling)? Welke bijkomende maatregelen plant de minister om de 
+cijfers nog te optimaliseren?
+4. Heeft de minister cijfers over het aantal steden en gemeenten dat ondertussen 
+vertrouwd is met Chiron en toeziet op de aanwezigheid van apparatuur of software in 
+elk voertuig bij de vergunningsaanvraag?
+5. In het Nieuwsblad van donderdag 10 november 2020 stond dat een taxichauffeur een 
+boete van 300 euro had gekregen omdat hij had nagelaten een rit te melden in Chiron. 
+Heeft de minister cijfermateriaal over het aantal politiezones (per provincie) die 
+gebruikmaken van Chiron en het aantal boetes die ondertussen uitgeschreven zijn?
+6. De administratie van Mobiliteit en Openbare Werken (MOW) deed, in overleg met de 
+sector, een aantal inspanningen om alle mogelijke obstakels die men zou kunnen 
+ondervinden bij het aansluiten, weg te werken. Ook de leesbaarheid van de te volgen 
+stappen voor de gebruiker werd verbeterd.
+Hoe evalueert de minister het resultaat van die oefening die in de zomer van 2022 
+getest zou worden? Werd een nieuwe communicatieronde naar de exploitanten 
+uitgestuurd?
+7. Wat is de stand van zaken van de privacyprotocolprocedure? Zijn ondertussen alle 
+gegevens zichtbaar voor de politie? Zo niet, waarom niet en wat zijn de obstakels?
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD
+op vraag nr. 132 van 20 oktober 2023
+van CARMEN RYHEUL
+1. Situatie op 10/11/2023:
+a) 1772 exploitanten
+b) 1297 exploitanten
+c) 133 exploitanten
+d) 68 exploitanten
+e) 279 exploitanten
+Opmerking: Er is een klein verschil van 5 exploitanten in de verschillende categorieën 
+vergeleken met de totaalsom bij a). Dat komt omdat de gegevens van de 
+softwareleverancier (b,c,d,e) niet op exact hetzelfde tijdstip werden getrokken als de 
+gegevens bij a). 
+2. Situatie op 9/11/2023:
+3. Er zijn de voorbije 18 maanden stappen gezet om het aandeel aangesloten 
+exploitanten te verhogen. Slechts 15% heeft nog geen stappen ondernomen in 
+vergelijking met 30% in juni 2022. Het is moeilijk om de reeds actieve taxi-
+exploitanten te bereiken. Tegen eind 2024 moet elke vergunning in principe 
+vernieuwd zijn geweest. De aanvraagprocedure voor de nieuwe vergunning geeft 
+telkens de kans geeft om het belang van de aansluiting te benadrukken en de cijfers 
+verder op te krikken. Daarnaast stellen we vast dat op de locaties waar er actief 
+gecontroleerd wordt door de politie, de aansluitingsgraad ook hoger is. 
+4. Alle steden en gemeenten zijn in het verleden op de hoogte gebracht van wat Chiron 
+is. Er werd ook een opleiding georganiseerd vanuit het Departement Mobiliteit en 
+Openbare Werken voor de lokale besturen. De steden en gemeenten worden geacht 
+vertrouwd te zijn met Chiron en dit mee te nemen bij een vergunningsaanvraag. 
+5. De politie houdt geen aparte gegevens bij specifiek voor inbreuken op regelgeving 
+rond individueel bezoldigd personenvervoer.
+6. Er werd geen nieuwe communicatieronde uitgestuurd naar de exploitanten. Wel 
+werden verbeterpunten in kaart gebracht wat betreft software. Deze zullen verwerkt 
+worden. Hierdoor zal de aansluiting in de toekomst vlotter verlopen.
+7. Politiezones die toegang willen tot de databank kunnen een aanvraag doen. 
+Politiezones Antwerpen, Gent en Brugge voeren actief controles uit aan de hand 
+hiervan. Andere politiezones maken ook occasioneel gebruik van deze data. De CHIRON Centaurus2020 % aangesloten
+Antwerpen 408 585 69,74%
+Vlaams-Brabant 209 377 55,44%
+Limburg 65 117 55,56%
+West-Vlaanderen 190 286 66,43%
+Oost-Vlaanderen 283 395 71,65%
+standaardprocedure is dat op de dag van de vaststelling de gegevens van het voertuig 
+en de exploitant kunnen worden geraadpleegd. 

@@ -1,0 +1,94 @@
+title: Virtueel museum FAAM - Stand van zaken
+thema: Cultuur
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2082985
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1836518
+SCHRIFTELIJKE VRAAG
+nr. 32
+van BRAM JAQUES
+datum: 30 oktober 2024
+aan CAROLINE GENNEZ
+VLAAMS MINISTER VAN WELZIJN EN ARMOEDEBESTRIJDING, CULTUUR EN GELIJKE KANSEN
+Virtueel museum FAAM  -  Stand van zaken
+Op 12 maart 2024 opende het museum FAAM zijn virtuele deuren. Het museum kan worden 
+bezocht via de website of app. FAAM wil mensen blijvend prikkelen en laten kennismaken 
+met het rijke erfgoedaanbod in Vlaanderen. De vorige Vlaamse Regering voorzag in 3 
+miljoen euro tot aan de lancering en voor de verdere groei en het beheer wordt er jaarlijks 
+1 miljoen euro recurrent vrijgemaakt.
+1. Wanneer wordt er een eerste evaluatie gepland? Welke KPI’s (kritieke prestatie-
+indicatoren) zijn bepaald voor die evaluatie? 
+2. Hoeveel keer is de app gedownload sinds de lancering in maart 2024?
+a) Nieuwe downloads per maand sinds de lancering?
+b) Bezoekcijfers per maand: uniek versus totaal?
+c) Hoelang blijft een bezoeker gemiddeld op de app?
+d) Hoeveel keer per week of maand keert een bezoeker gemiddeld terug? 
+e) Wat zijn de bezoekersaantallen voor de website sinds de lancering? Uniek versus 
+totaal per maand?
+3. a) Hoeveel personen maakten een persoonlijk profiel aan?
+b) Welke data en conclusies worden uit die profielen getrokken? 
+4. Welke verdere stappen plant de minister tijdens deze zittingsperiode wat betreft 
+FAAM?
+CAROLINE GENNEZ
+VLAAMS MINISTER VAN WELZIJN EN ARMOEDEBESTRIJDING, CULTUUR EN GELIJKE KANSEN
+ANTWOORD
+op vraag nr. 32 van 30 oktober 2024
+van BRAM JAQUES
+1. Zodra een nieuwe stuurgroep is samengesteld, evalueren we FAAM volgens de 
+indicatoren die we met de stuurgroep in de afgelopen regeerperiode bepaald hebben. 
+Dat zijn:
+•Ontsluiting: kunnen we het publiek doorlopend aanspreken met nieuwe belevingen; 
+representatief voor erfgoed in heel Vlaanderen; waarbij we steeds meer 
+erfgoedpartners betrekken?
+•Breed publiek: slagen we er met de belevingen en promotie in om een groeiend 
+publiek te bereiken; het publiek te laten terugkeren; het te verbreden voorbij de 
+bestaande erfgoedliefhebbers; en het de weg te wijzen naar erfgoedplekken?
+•Instrument voor de digitale transformatie van de erfgoedsector: bieden we nieuwe 
+manieren om erfgoed op schaal digitaal te ontsluiten; integreren we met andere 
+digitale erfgoedinitiatieven; en verdiepen we het inzicht in de gebruikers?
+2. Om de drempel te verlagen en de vindbaarheid te verhogen is FAAM als rijke 
+webtoepassing ontwikkeld, die ook beschikbaar is als native app met extra AR-
+capaciteiten. Het grootste aantal bezoekers gebruikt de FAAM webtoepassing op hun 
+smartphone. Een aantal vragen beantwoord ik voor de beide:
+a. De app voor iOS en Android is in totaal meer dan 10.400 keer gedownload. De helft 
+daarvan bij de lancering, dus gemiddeld 600 nieuwe downloads per maand. Dat 
+aantal fluctueert echter met de promotieperiodes, die het aantal gevoelig doen 
+stijgen.
+b. De webtoepassing en de app samen hebben per maand gemiddeld 36K bezoekers 
+en 40K bezoeken (sessies). Ook hier zijn er pieken tijdens promotieperiodes.
+c. Een bezoek duurt gemiddeld iets meer dan 2 minuten.
+d. Sinds de lancering is er een stijging van 6% naar 11% weerkerende bezoekers.
+e. zie subvraag b.
+3. a) Sinds de lancering hebben 2092 personen een profiel aangemaakt. In de nieuwe 
+versie van FAAM worden features voorzien die mensen een reden geven om een 
+profiel aan te maken (zie antwoord op vraag 4). Die waren in de eerste versie 
+beperkt.   
+b) FAAM volgt strikt de GDPR-richtlijnen en vraagt gebruikers in hun profiel slechts om 
+naam en e-mailadres. In de nieuwe versie van FAAM worden features voorzien die 
+het voor mensen rechtvaardigen om enkele bijkomende gegevens te delen. Op dit 
+moment kunnen wel conclusies getrokken worden uit andere meetpunten:
+i. Locatie die ze delen voor gebruik van kaart en belevingen in hun buurt: 
+gebruikers over heel Vlaanderen worden aangesproken.
+ii. Aan analytische cookies, die 45% van de gebruikers toestaan, is te zien 
+dat meer bezoekers hun weg naar FAAM vinden via Facebook dan 
+Instagram. Deze verdeling kent een 80/20-verhouding, wat een indicatie 
+is dat de gemiddelde bezoeker van FAAM mogelijk in een oudere 
+leeftijdscategorie zit.
+iii. Online campagnes: een campagne specifiek gericht op gezinnen met 
+kinderen resulteerde in een hoog doorklikpercentage (250% van de 
+benchmark).
+iv. Volgers op sociale kanalen sinds half september: een evenredige mix van 
+vrouwen/mannen op Instagram (55%/45%) en Facebook (56%/44%).
+4. Wat betreft beleving wordt er eind februari een nieuwe versie van FAAM uitgerold met 
+een aantal verbeteringen in de gebruikersbeleving op basis van verzamelde feedback, 
+en uitbreidingen gericht op het verhogen van de gebruikersbinding en -inzicht. Op de 
+roadmap voor de periode erna staan er features voor verdere personalisatie, 
+gebruikscenarios en groepsbeleving.
+Technologisch wordt er onder andere ingezet op verdere integraties met 
+erfgoeddatabronnen, vertaalmechanisme, en proefdraaien, aansluiten bij gerelateerde 
+initiatieven zoals het cultuurprofiel en nieuwe schaalbare belevingsformaten.
+Inhoudelijk wordt er ingezet op de bottom-up voeding van het virtuele museum in 
+verschillende redactionele samenwerkingsverbanden met de erfgoedpartners.
+Promotioneel wordt de overstap verdergezet van een brede communicatie naar meer 
+doelgroepgerichte campagnes via een combinatie van kanalen, inhoud, contributors en 
+betalende acties.
+Tot slot werk ik verder in de volgende maanden om de overdracht van FAAM naar een 
+exploitatiepartner vorm te geven.

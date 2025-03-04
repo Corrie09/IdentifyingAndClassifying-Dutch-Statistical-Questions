@@ -1,0 +1,120 @@
+title: Europese Verordening digitale diensten (DSA) - Coördinatie
+thema: Media
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2004385
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1767446
+SCHRIFTELIJKE VRAAG
+nr. 6
+van WILFRIED VANDAELE
+datum: 4 oktober 2023
+aan BENJAMIN DALLE
+VLAAMS MINISTER VAN BRUSSEL, JEUGD, MEDIA EN ARMOEDEBESTRIJDING
+Europese Verordening digitale diensten (DSA)  -  Coördinatie
+In Europa is de DSA eindelijk goedgekeurd, wat op zich een goede zaak is: oppermachtige 
+digitale en sociale mediabedrijven worden gereguleerd, checks en balances worden 
+ingevoerd. Minder gelukkig zijn we met de wijze waarop de moderatie van inhoud in grote 
+mate wordt overgelaten aan diezelfde socialemediabedrijven. Het gevaar dat heel wat 
+gebruikers posts zullen zien verdwijnen door een of ander onduidelijk algoritme is groot en 
+we vrezen dat nogal wat gebruikers het zullen aanvoelen alsof hun vrijheid van 
+meningsuiting in het gedrang komt.
+Uiteraard zal ook Vlaanderen de DSA moeten implementeren, het kabinet van de minister 
+en de administratie hebben al naarstig aan het instemmingsdecreet gewerkt. Tot onze 
+grote verbazing zagen we afgelopen zomer een communicatie van federaal staatssecretaris 
+Mathieu Michel, die trots aankondigde dat het Belgisch Instituut voor Postdiensten en 
+Telecommunicatie (BIPT) de coördinatie zou voeren over de aanpak van desinformatie en 
+fake news. Dat lijkt ons nochtans bij uitstek een Vlaamse bevoegdheid, getuige ook de 
+talrijke initiatieven van de minister op het vlak van mediawijsheid, Factcheck Vlaanderen, 
+de samenwerking tussen de VRT en de Checkers enzovoort.
+1. Is de minister gecontacteerd door zijn federale collega in verband met de coördinatie 
+van de strijd tegen desinformatie en fake news door het BIPT? Hoe kijkt de minister 
+daarnaar?
+2. Over welke bevoegdheden die kunnen bijdragen aan die strijd beschikt het BIPT 
+eigenlijk, en hoe zetten zij die momenteel al in?
+3. Volgens de DSA moet er een digital services coördinator worden aangesteld om 
+zogenaamde ‘trusted flaggers’ aan te duiden.
+Welke Vlaamse organisaties komen daar volgens de minister voor in aanmerking?
+4. Hoe verhoudt het systeem van ‘trusted flaggers’ in de DSA zich ten opzichte van 
+bestaande kwaliteitslabels voor factchecking en de strijd tegen desinformatie, zoals 
+het International Fact-Checking Network (IFCN)?
+BENJAMIN DALLE 
+VLAAMS MINISTER VAN BRUSSEL, JEUGD, MEDIA EN ARMOEDEBESTRIJDING
+ANTWOORD
+op vraag nr. 6 van 4 oktober 2023
+van WILFRIED VANDAELE
+Ik werd niet op voorhand gecontacteerd over de communicatie van de federale 
+staatssecretaris in verband met de coördinatie van de strijd tegen desinformatie en fake 
+news door het BIPT. 
+De digitaledienstenverordening, beter gekend als de DSA, introduceert nieuwe regels voor 
+tussenhandelsdiensten, zoals online platformen, online marktplaatsen, sociale 
+mediadiensten en internetaanbieders. De nieuwe wetgeving omvat verplichtingen om in te 
+grijpen bij illegale content, maar ook transparantieverplichtingen over algoritmes en 
+beperkingen ten aanzien van gepersonaliseerde advertenties. De DSA gaat in de eerste 
+plaats over illegale inhoud, maar dat betekent niet dat er niets over de bestrijding van 
+desinformatie in de DSA staat. 
+Zeer grote platformen zoals Facebook en Twitter, moeten naast de verplichting om in te 
+grijpen tegen illegale inhoud ook nog aan andere regels voldoen. Zo moeten ze elk jaar 
+een risicoanalyse uitvoeren, waarin ze zelf proactief moeten kijken of hun algoritmes en 
+contentmoderatiesystemen ‘systematische risico’s’ geven door bijvoorbeeld desinformatie 
+te promoten. Als dat uit zo’n analyse komt, dan moeten die platformen maatregelen 
+nemen. Daarnaast worden online platformen aangemoedigd bij het meewerken aan en 
+naleven van gedragscodes die tot de toepassing van deze verordening behoren. De DSA 
+stelt bepaalde aandachtsgebieden voor dergelijke gedragscodes vast. Eén van die 
+aandachtspunten zijn de mogelijk negatieve gevolgen van systeemrisico's voor de 
+samenleving en de democratie, zoals desinformatie of manipulatieve activiteiten en 
+misbruik, of eventuele negatieve gevolgen voor minderjarigen. Hieronder vallen 
+gecoördineerde acties die gericht zijn op het versterken van informatie, met inbegrip van  
+desinformatie, zoals het gebruik van bots of nepaccounts voor het creëren van opzettelijk 
+onnauwkeurige of misleidende informatie, soms met het doel om economisch voordeel te 
+behalen, die bijzonder schadelijk zijn voor kwetsbare afnemers van de dienst, zoals 
+minderjarigen. Met betrekking tot dergelijke gebieden kan het aansluiten bij en naleven 
+van een bepaalde gedragscode door een zeer groot onlineplatform of door een zeer grote 
+onlinezoekmachine worden beschouwd als een passende risicobeperkende maatregel.
+Elke lidstaat moet één of meer bevoegde autoriteiten aanduiden als verantwoordelijke voor 
+het toezicht op de verordening. Vervolgens moet één van deze bevoegde autoriteiten 
+aangeduid worden als digitaledienstencoördinator. De digitaledienstencoördinator is, naast 
+enkele specifieke taken, voornamelijk verantwoordelijk voor de coördinatie op nationaal 
+niveau. 
+Aangezien de DSA betrekking heeft op de bevoegdheden van verschillende overheden, 
+zowel van de federale overheid als van de gemeenschappen, moet er een 
+samenwerkingsakkoord worden afgesloten om de digitaledienstencoördinator aan te 
+duiden, de werking ervan te bepalen en de samenwerking met de bevoegde autoriteiten 
+te regelen. We zijn hierover met de verschillende gemeenschappen en de federale overheid 
+reeds enige tijd in gesprek en het lijkt het meest efficiënt om het BIPT aan te duiden als 
+digitaledienstencoördinator. 
+Als federale regulator bevoegd voor toezicht op de elektronische communicatiemarkt en 
+audiovisuele mediadiensten en videoplatformdiensten voor het tweetalige gebied Brussel-
+Hoofdstad, beschikt het BIPT over enkele aanknopingspunten met het toepassingsgebied 
+van de digitaledienstenverordening. Daarnaast voldoet het BIPT aan de door de DSA 
+gestelde vereisten inzake onafhankelijkheid, noodzakelijke middelen (financieel en 
+personeel) en budgettaire autonomie waaraan de digitaledienstencoördinator moet 
+voldoen volgens artikel 50 van de DSA. 
+De aanduiding van het BIPT als digitaledienstencoördinator en de 
+digitaledienstenverordening zelf, doen op geen enkele manier afbreuk aan de 
+gemeenschapsbevoegdheden in het kader van de strijd tegen desinformatie.
+Eén van de taken van de digitaledienstencoördinator is, op verzoek van een organisatie, 
+de status van betrouwbare flagger toe te kennen. Op welke manier de 
+digitaledienstencoördinator andere autoriteiten zal betrekken bij het toekennen van de 
+status van betrouwbare flagger, zal worden geregeld in het samenwerkingsakkoord.
+Om als betrouwbare flagger aangeduid te worden, dient de aanvrager aan te tonen dat hij 
+aan de voorwaarden voldoet van artikel 22 lid 2, van de DSA zoals beschikken over 
+specifieke deskundigheid en competentie op het gebied van het opsporen, identificeren en 
+melden van illegale inhoud, actief zijn binnen het aangewezen deskundigheidsgebied, 
+collectieve belangen vertegenwoordigen, onafhankelijk zijn van een onlineplatform, 
+transparante financieringsstructuren hebben, enzovoort. Dergelijke entiteiten kunnen 
+openbaar van aard zijn zoals, voor terroristische inhoud, eenheden voor melding van 
+internetuitingen van nationale rechtshandhavingsinstanties of van het Agentschap van de 
+Europese Unie voor samenwerking op het gebied van rechtshandhaving (“Europol”), of zij 
+kunnen niet-gouvernementele organisaties en particuliere entiteiten of semi-
+overheidsinstanties zijn zoals de organisaties die deel uitmaken van het INHOPE-netwerk 
+van meldpunten voor het melden van materiaal over seksueel misbruik van kinderen en 
+organisaties die zich bezighouden met het melden van illegale racistische en xenofobe 
+uitingen online.
+Het is voorbarig om op dit moment een uitspraak te doen over wie al dan niet als 
+betrouwbare flagger zal kunnen worden aangeduid.
+Het systeem van ‘betrouwbare flaggers’ in de DSA en het IFCN hebben beide tot doel de 
+verspreiding van illegale en schadelijke inhoud online te bestrijden, maar ze doen dit op 
+verschillende manieren. De betrouwbare flaggers in de DSA zijn entiteiten met bewezen 
+expertise in het signaleren van illegale inhoud aan platformen die als opdracht hebben 
+illegale inhoud te signaleren. Het IFCN daarentegen is een initiatief dat is gelanceerd om 
+factcheckers over de hele wereld samen te brengen in de strijd tegen desinformatie. Het 
+IFCN bevordert factchecking bij organisaties door middel van belangenbehartiging, 
+opleidingen en andere evenementen. 

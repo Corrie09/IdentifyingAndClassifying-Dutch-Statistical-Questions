@@ -1,0 +1,104 @@
+title: Verkeersbordendatabank - Actualisering
+thema: Mobiliteit en Verkeer
+pdf link: https://docs.vlaamsparlement.be/pfile?id=2047867
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1801605
+SCHRIFTELIJKE VRAAG
+nr. 644
+van ELISABETH MEULEMAN
+datum: 7 februari 2024
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+Verkeersbordendatabank  -  Actualisering
+De gemeenteraad van Oudenaarde keurde op 31 januari 2022 - dat is dus twee jaar 
+geleden - een tonnagebeperking goed in twee verschillende straten in deelgemeente Eine 
+(het Ohioplein en de Ankerstraat). Een afschrift van een dergelijk besluit wordt steeds naar 
+allerlei instanties gestuurd.
+Volgens inwoners wordt de tonnagebeperking nog steeds en heel vaak genegeerd. Een van 
+de redenen zou zijn dat gps-systemen nog niet zijn aangepast en dat 
+vrachtwagenchauffeurs hun gps volgen en daardoor verkeersborden negeren. We 
+veronderstellen dat gps-systemen hun data uit de verkeersbordendatabank halen. Als die 
+niet actueel is, geldt dat bijgevolg ook voor het gps-systeem.
+Onlangs deelde de bevoegde schepen van Oudenaarde mee dat de 
+verkeersbordendatabank niet actueel gehouden is, althans voor Oudenaarde. Het zou 
+namelijk een titanenwerk zijn om die bij te werken.
+1. Klopt het hierboven geschetste?
+a) Gebruiken gps-systemen de verkeersbordendatabank?
+b) Hoe verloopt de procedure om die databank congruent te houden met de eigenlijke 
+verkeerssignalisaties ter plekke?
+c) Wie beheert en actualiseert de databank?
+2. Klopt het dat er een vertraging van minstens twee jaar is (zie voorbeeld hierboven)? 
+Hoe komt dat? Hoe ernstig is de vertraging in tijd, maar ook ruimtelijk: hoeveel gebied 
+van Vlaanderen wordt getroffen door eventuele afwijkingen? Kan de minister daar een 
+beeld van geven?
+3. Is de Vlaamse overheid bezig met een actualisatie? En wat is de tijdlijn daarvoor?
+4. Hoe kijkt de minister aan tegen de discrepantie tussen de databank en de situatie op 
+de weg? Is dat geoorloofd? Zo niet, wat gaat de minister ondernemen om het te 
+verhelpen?
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT EN OPENBARE WERKEN
+ANTWOORD 
+op vraag nr. 644 van 7 februari 2024
+van ELISABETH MEULEMAN
+1. De toepassing verkeersborden.vlaanderen wordt beheerd door het Agentschap Wegen 
+en Verkeer (AWV), maar staat ter beschikking van alle lokale besturen en alle 
+wegbeheerders. Wanneer in het systeem wijzigingen aangebracht worden aan 
+snelheidsgerelateerde borden of bepaalde verbodsborden, dan worden die de dag 
+nadien ook gepubliceerd via open data en een publieke service (TN-ITS) op het 
+Belgische National Access Point of NAP, namelijk transportdata.be 
+(https://transportdata.be/dataset/tn-its). Deze publieke service maakt gebruik van 
+een Europese datastandaard, nl. CEN TS 17268, wat de verwerking langs de zijde van 
+de afnemers fel vereenvoudigt. Bedrijven zoals o.a. TomTom en Here maken gebruik 
+van deze service om hun producten en diensten te actualiseren en hun datakwaliteit 
+te verbeteren. De Vlaamse overheid stelt de open data wel beschikbaar, maar is niet 
+betrokken bij de verwerking door de kaartenmakers.
+Daarnaast biedt de Vlaamse overheid deze publieke service als datadienst ook op maat 
+aan via Mobilidata aan serviceproviders van navigatiesystemen, kaartenmakers en 
+voertuigfabrikanten. Op deze manier kan men, snel en op maat van de weggebruiker, 
+updates ontvangen en verwerken van tal van verkeersborden, waaronder de 
+snelheidsborden. Bovendien zet Mobilidata via stakeholdermanagement actief in op het 
+aangaan van samenwerkingen met service providers.  
+Essentieel hierbij is dat het proces start bij de wegbeheerder, die elke wijziging aan 
+verkeersborden op het terrein eigenlijk ook zou moeten registreren via 
+verkeersborden.vlaanderen om die te laten doorstromen als open datadienst. Dit is 
+echter tot op heden een extra taak waar vele wegbeheerders niet altijd aan toe komen. 
+Om een idee te geven, in 2023 brachten naast AWV ook 129 lokale besturen 
+aanpassingen aan in het systeem. 
+Het bijhouden van de verkeersborden.vlaanderen databank is tot op heden geen 
+decretale verplichting. Het is wel verplicht om besluiten, zoals een aanvullend 
+reglement, te melden aan de Vlaamse overheid. 
+Voor het opmaken van een aanvullend reglement stelt de Vlaamse overheid de 
+toepassing IRGN ter beschikking van de wegbeheerders. Er zal een integratie opgezet 
+worden tussen IRGN en de verkeersborden.vlaanderen databank. Deze koppeling zal 
+zorgen voor een actualisatie van de data in de verkeersborden.vlaanderen databank. 
+De koppeling tussen IRGN en verkeersborden.vlaanderen zal verder uitgewerkt worden 
+binnen het VLAG-project (zie antwoord 4). 
+2. De vertraging hangt af van verschillende factoren, zoals beschreven onder punt 1. 
+3. De Vlaamse overheid onderneemt acties om steden en gemeenten te motiveren om 
+hiermee aan de slag te gaan, o.a. via workshops, de website, opleidingen en een 
+helpdesk. Het AWV onderneemt op regelmatige basis actie om de belangrijkste 
+wijzigingen langsheen autosnelwegen en gewestwegen in de databank te registreren. 
+De Mobilidata architectuur voorziet bovendien in een feedbackkanaal waarlangs service 
+providers bevindingen van eindgebruikers (zoals bijvoorbeeld een foutief weergegeven 
+snelheidslimiet of tonnagebeperking) kunnen terugkoppelen aan het AWV, opdat de 
+brondata erop kan aangepast worden. 
+Er is echter geen centraal initiatief lopende om de hele databank gebiedsdekkend te 
+actualiseren.   
+4. Dankzij het subsidieprogramma ‘Gemeente zonder gemeentehuis’ hebben zes lokale 
+besturen in samenwerking met AWV en ABB het initiatief genomen om de handen in 
+elkaar te slaan. Samen willen deze partners een innovatieve en participatieve oplossing 
+ontwikkelen voor het beheren en delen van ‘signalisatie’ assets op het openbare 
+domein. Dit initiatief, genaamd VLAG (Volgen van Linkende Asset Gegevens), focust 
+onder andere op het beheren en delen van verkeerssignalisatie, specifiek 
+verkeersborden en wegmarkeringen. Men streeft hierbij naar een efficiënt en 
+gebruiksvriendelijk beheer van verkeerssignalisatie voor elke wegbeheerder en lokaal 
+bestuur, waarin de volledige procesflow ondersteund wordt t.e.m. de opmaak van een 
+aanvullend reglement.
+Elke wegbeheerder zal verkeerssignalisatie kunnen ontwerpen, goedkeuren en 
+beheren. De huidige verkeersbordentool wordt volledig vernieuwd en geïntegreerd met 
+het IRGN, de tool waarin de aanvullende reglementen worden opgemaakt. De nieuwe 
+tool maakt het mogelijk om het volledige proces van de verkeerssignalisatie van 
+ontwerp tot uiteindelijke verwijdering op te volgen, en elke wegbeheerder en lokaal 
+bestuur in staat te stellen zijn assets optimaal te beheren. Daarnaast zal de data ook 
+blijven doorstromen naar de service providers als datadienst. Door het volledige proces 
+te digitaliseren, is het de betrachting van de Vlaamse overheid om de datakwaliteit en 
+het gebruik bij de lokale besturen te doen stijgen. 
