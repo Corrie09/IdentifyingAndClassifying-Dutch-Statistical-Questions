@@ -1,11 +1,12 @@
-"results/checkpoint-*/" 
-"*.safetensors" 
-"*.pt" 
-"*.pth" 
-*.hdf5
-*.h5
-*.sqlite
-*.db
-*.log
 
+
+# Ignore model files
+*.safetensors
+*.pt
+*.pth
+
+# Ignore all checkpoints and results
+BERT_Classifiers/results/
+.history/
+Data/ScrapeddocumentsCorneel(22-25)/
 
