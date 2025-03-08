@@ -2,3 +2,10 @@
 "*.safetensors" 
 "*.pt" 
 "*.pth" 
+*.hdf5
+*.h5
+*.sqlite
+*.db
+*.log
+
+
