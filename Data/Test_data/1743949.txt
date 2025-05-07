@@ -1,0 +1,97 @@
+title: Groene stroom - Toekenning garantie van oorsprong
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1743949
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1542897
+SCHRIFTELIJKE VRAAG
+nr. 1217
+van STAF AERTS
+datum: 7 juli 2021
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Groene stroom   -  Toekenning garantie van oorsprong
+Of elektriciteit afkomstig is van een windmolen, een zonnepaneel of van een 
+kerncentrale, zodra  deze in het net wordt geïnjecteerd is het fysiek onmogelijk om nog 
+de herkomst  van de stroom die uit het stopcontact komt, vast te stellen. 
+Een garantie van oorsprong (GO) is een bewijsstuk waarmee men de herkomst  van 
+energie kan aantonen.  Een GO toont aan dat 1 MWh energie  (elektriciteit, gas, warmte of 
+koude) werd opgewekt uit hernieuwbare  energiebronnen (waterkracht, windenergie, 
+zonne-energie, biomassa, …), of uit kwalitatieve  warmtekrachtkoppeling  in het geval van 
+WKK-GO's. Een systeem van GO's moet garanderen dat elke groene MWh die in een net 
+wordt geïnjecteerd, slechts door één klant wordt “verbruikt”. Wie groene energie  wil 
+verbruiken, koopt  daarvoor GO's en levert deze in of laat zijn energieleverancier dat voor 
+hem doen. De Vlaamse  Regulator  van de Elektriciteits- en Gasmarkt (VREG) beheert het 
+systeem dat dubbeltelling  van eenzelfde  groene MWh voorkomt.
+Niet alle van de in België geproduceerde  hernieuwbare elektriciteit heeft verhandelbare 
+garanties van oorsprong. Geproduceerde elektriciteit die men zelf verbruikt, of die 
+hiermee gelijkgesteld is (via de terugdraaiende  teller), krijgt immers geen verhandelbare  
+garantie van oorsprong.  
+Gemiddeld wordt 70% van de opgewekte energie  van pv-installaties  niet zelf verbruikt, 
+maar op het net geïnjecteerd. De digitale meter kan hier zijn nut bewijzen  omdat die, in 
+tegenstelling tot de analoge, terugdraaiende teller, wel kan registreren  hoeveel er precies 
+op het net geïnjecteerd wordt. 
+In Vlaanderen staat volgens de energiekaart iets meer dan 4GW aan pv-vermogen. In 
+2019 werd 20.119 GWh met pv-installaties  opgewekt. Volgens PV Magazine nemen 
+particuliere pv-installaties (<10kVA) 60 tot 65% van de totale pv-productie voor hun 
+rekening. Dat zou betekenen dat particuliere pv-productie in 2019 goed was voor 20.119  
+x 1000=  20.119.000 MWh x 65%= 13.077.350  MWh of zo’n 13 miljoen GO's. 
+De module op de website van de VREG leert bijvoorbeeld dat in juni 2021 meer dan 1,5 
+miljoen garanties van oorsprong naar Vlaanderen werden geïmporteerd en dat er 
+omgekeerd bijna 320.000 werden geëxporteerd.  
+GO's worden bilateraal verhandeld, de waarde  van GO’s is daardoor erg afhankelijk van 
+de marktvraag. In het verleden  werden  pieken tot 10 euro/1000  kWh genoteerd; 
+momenteel schommelt de prijs rond 1 euro/1000 kWh geïnjecteerde groene stroom.
+1.Hoeveel pv-installaties <10kVA  waren er in 2020 en 2021?  Hoeveel stroom  werd 
+door die pv-installaties <10kVA  op het net geïnjecteerd? 
+2.Hoeveel GO's werden uitgegeven voor stroomproductie door installaties <10kVA?
+3.Overweegt de minister om, samen met het uitrollen van de digitale meter, het ook 
+mogelijk te maken dat de digitale meter de injectie  op het net meet, zodat 
+prosumenten met een pv-installatie <10kVA GO's kunnen krijgen voor de groene 
+stroom die ze injecteren?
+4.Door geen GO aan pv-installaties <10kVA toe te kennen, wordt  injectie van 
+zonnestroom door prosumenten minder rendabel.
+Hoe verantwoordt de minister  de discriminatie tussen grote (>10kVA) en kleine  pv-
+installaties (<10kVA)? 
+5.Ziet de minister in het licht van energiegemeenschappen en P2P en de verkoop van 
+zonnestroom een meerwaarde  om GO's voor kleinere  installaties toe te kennen? 
+ZUHAL DEMIR
+VLAAMS MINISTER  VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD 
+op vraag nr. 1217 van 7 juli 2021
+van STAF AERTS 
+1.Deze gegevens  zijn publiek raadpleegbaar via de website van VEKA  
+(https://www.energiesparen.be/energiekaart/cijfers).  Doordat veel van deze 
+installaties nog een analoge terugdraaiende teller hebben, is het niet geweten  hoeveel 
+elektriciteit deze installaties injecteren op het net. Op basis van een geïnstalleerd 
+vermogen van 2.500 MW, een geraamde productie van 2.250.000 MWh en een verbruik  
+ter plaatse van 30%zou dit overeenkomen met een injectie van 675.000 MWh.
+2.Geen.  Artikel 6.2/3.10 van het Energiebesluit stelt dat installaties die elektriciteit 
+opwekken uit een hernieuwbare energiebron  alleen in aanmerking komen voor 
+toekenning van garanties van oorsprong als ze een nominaal elektrisch vermogen van 
+meer dan 10 kW hebben.  
+3.De digitale  meter zal inderdaad de injectie van een PV-installatie <10kVA  meten en op 
+basis hiervan zou een (verhandelbare) garantie  van oorsprong kunnen worden  
+toegekend voor de op het net geïnjecteerde elektriciteit. Stroom die ter plaatse wordt 
+verbruikt (zelfverbruik), komt niet in aanmerking voor (verhandelbare)  garanties van 
+oorsprong   
+4.Het toekennen van garanties van oorsprong voor de op het net geïnjecteerde 
+elektriciteit van een PV-installatie <10kVA  met een digitale  meter zou slechts voor een 
+beperkt financieel voordeel voor deze prosumenten  zorgen. Deze PV-installaties 
+hebben er alle belang bij om sterk in te zetten op zelfverbruik en zullen per jaar wellicht 
+slechts enkele MWh per jaar en per installatie injecteren  op het net. Eén garantie van 
+oorsprong komt overeen met een injectie van 1 MWh in het net. Dit beperkt aantal 
+garanties van oorsprong moet de prosument dan verkopen  op de markt.  De gemiddelde 
+prijs van een garantie van oorsprong van groene  stroom  is beperkt: 0,79 euro in juni 
+2021. De gemiddelde prijs was slechts  enkele keren hoger dan 1 euro in de voorbije 
+jaren. De totale waarde van alle garanties van oorsprong  van PV-installaties  < 10 kVA 
+bedraagt op basis van een geraamd injectie van 675.000 MWh 533.250 euro. Deze 
+beperkte mogelijke,  financiële opbrengst van de toekenning van de garanties  van 
+oorsprong aan deze installaties moet in verhouding zijn met de (administratieve) lasten 
+en inspanningen die de prosument  en alle betrokken actoren (Fluvius, leveranciers…)  
+zich moet getroosten om de verkoop van deze garanties  van oorsprong op de markt 
+aan een goede prijs te realiseren. De VREG  (beheerder van de databank met garanties 
+van oorsprong ) en Fluvius (productieregistrator  voor de toekenning van de garanties 
+van oorsprong  aan PV-installaties) zoeken  momenteel naar een pragmatische  en 
+efficiënte oplossing  voor dit vraagstuk. 
+5.De toekomstige operationalisering van energiegemeenschappen, energiedelen en peer-
+to-peer handel wordt inderdaad meegenomen bij het uitwerken  van deze pragmatische  
+en efficiënte oplossing. 

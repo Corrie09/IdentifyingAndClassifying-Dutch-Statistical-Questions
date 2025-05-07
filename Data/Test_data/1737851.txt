@@ -1,0 +1,109 @@
+title: Departement Cultuur, Jeugd en Media (CJM) - Opstartproblemen vernieuwd e-loket KIOSK
+thema: Cultuur
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1737851
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1538583
+SCHRIFTELIJKE VRAAG
+nr. 396
+van FILIP BRUSSELMANS
+datum: 24 juni 2021
+aan JAN JAMBON
+MINISTER-PRESIDENT  VAN DE VLAAMSE REGERING, VLAAMS  MINISTER VAN BUITENLANDSE ZAKEN, CULTUUR, 
+DIGITALISERING EN FACILITAIR MANAGEMENT
+Departement Cultuur,  Jeugd  en Media  (CJM)  -  Opstartproblemen vernieuwd  e-loket KIOSK
+De nieuwe versie  van Kiosk is intussen twee maanden  oud maar blijkbaar  loopt nog niet 
+alles op rolletjes en laat de gebruiksvriendelijkheid te wensen  over want het Departement 
+Cultuur, Jeugd en Media vond het blijkbaar  nodig om enkele  aandachtspunten  op de CJM-
+webstek op te lijsten  voor Kiosk-gebruikers.
+1.Klopt het dat de overgang naar de nieuwe Kiosk-versie niet vlekkeloos is verlopen? 
+Indien dat zo is, had ik graag  van de minister vernomen waar die problemen zich 
+precies situeren en op welke wijze ze zullen worden opgelost?
+2.Zijn er problemen geweest met gebruiksrechten en/of mandaten? Zo ja, over hoeveel 
+dossiers gaat het concreet en hoeveel  ervan werden inmiddels opgelost?
+3.Hoeveel problemen  waren  van louter  technische  aard?
+4.Zijn er klachten geweest na de opstart van Kiosk nieuwe  versie? Zo ja, hoeveel en hoe 
+werden ze opgelost?
+5.Is de gebruiksvriendelijkheid van de nieuwe Kiosk-versie al onderzocht? Zo ja, met 
+welk resultaat?
+JAN JAMBON 
+MINISTER-PRESIDENT  VAN DE VLAAMSE  REGERING, VLAAMS MINISTER  VAN BUITENLANDSE ZAKEN, 
+CULTUUR, DIGITALISERING EN FACILITAIR  MANAGEMENT
+ANTWOORD
+op vraag nr. 396 van 24 juni 2021
+van FILIP BRUSSELMANS
+1.De aanname dat niet alles op rolletjes loopt omdat het departement  vanuit een 
+klantgerichte en sensibiliserende  houding oproept om tijdig rechten en mandaten 
+in orde te maken, klopt niet helemaal. Tijdens de uitgebreide 
+communicatiecampagne vóór de introductie  van de nieuwe KIOSK  heeft het 
+departement de gebruikers steeds duidelijk aangegeven dat men best tijdig begint 
+om de nodige rechten en mandaten in te stellen, zodat men geen deadlines voor 
+het indienen van aanvrager  of verantwoordingen zou missen.  Tegelijk voorzag het 
+departement een soepele ‘overgangsperiode’  waarin aanvragers die hun rechten 
+en mandaten - om wat voor reden  dan ook - niet tijdig op orde zetten een 
+oplossing aangeboden krijgen  die in hun voordeel  uitdraait. Die periode is recent 
+nog verlengd, omdat het departement merkte dat lang nog niet alle gebruikers  al 
+het nodige gedaan  hadden. Uiteraard maakt het departement die regeling,  en alle 
+info over de beschikbare ondersteuning breed bekend.  Zoals tijdens de 
+communicatiecampagne, tijdens de webinars en in de beschikbare handleidingen 
+uitgelegd, kunnen gebruikers die rechten enkel  zelf instellen, en moet men daar 
+éénmalig door.
+2.Er zijn wel degelijk gebruikers geweest  die last minute, ’s avonds  of nachts op de 
+dag van een deadline  pas hun rechten probeerden in te stellen en daarbij 
+ondersteuning nodig  hadden. Waar die ondersteuning pas de volgende werkdag 
+mogelijk was, werd toch nog een oplossing geboden  in het voordeel van de 
+aanvrager, in het kader van voornoemde ‘overgangsregeling’, die uiteindelijk 4 
+maand, d.w.z.  tot eind augustus zal duren.  Tot op heden  is er nog geen enkele 
+melding van een probleem  met rechten of mandaten geweest die niet tot een 
+aanvaardbare oplossing geleid heeft binnen max. enkele werkdagen. Kortom: er 
+zijn wel degelijk kleine ‘technische’ problemen geweest, die accuraat opgelost 
+werden, en er zijn wel degelijk gebruikers die nog niet of niet tijdig hun weg 
+vonden, maar die worden sluitend  opgevangen via de helpdesk.  Behalve de 
+aanvragers waren  er ook meerdere beoordelaars die niet meteen hun te 
+beoordelen dossiers te zien kregen omdat  ze in de vorige  KIOSK meerdere 
+accounts hadden en men die nog moest samenvoegen. Dat is geen technisch  
+probleem van het e-loket zelf, maar van het databeheer van de 
+gebruikersaccounts en hun rechten.  Ook hiervoor  is er een sluitende  workflow  die 
+dat soort meldingen van problemen snel opvolgt en aanpakt. Vaak gaan 
+aanvragers ook pas in de aanloop naar een eerstvolgende  deadline  terug actief 
+aan de slag met hun dossier. Zolang  niet alle bestaande  aanvragers en 
+beoordelaars minstens 1x succesvol ingelogd  hebben (KIOSK heeft bijna 10.000  
+aanvragers en kent het hele jaar door diverse  deadlines voor een breed gamma 
+aan dossiertypes!) kan het dus nog wel eens voorvallen dat er een paar zaken 
+aangepast moeten  worden in het rechtenbeheer. Dat kan in het slechtste geval 
+een doorlooptijd  kennen  van enkele werkdagen, vandaar  ook dat het departement 
+sensibiliseert om dergelijk problemen niet pas op de dag van een deadline  te 
+melden. Sinds de lancering tot en met 31 juli hebben 4402 gebruikers  zich 
+effectief via e-id of Itsme aangemeld  op de nieuwe kiosk. Bij het contactcenter  
+1700 kwamen in diezelfde periode  173 vragen binnen voor ondersteuning bij het 
+aanmelden op KIOSK.   
+3.Daarnaast zijn er een 3-tal gebruikers die zichzelf onterecht  geblokkeerd zagen 
+door een beveiliging van het e-loket, wat mogelijk was doordat  het e-loket  hen 
+niet automatisch uitlogde na te lange inactiviteit, en na het negeren  van de 
+voorziene foutmeldingen. Hetzelfde  probleem zorgde er ook voor dat beoordelaars  
+na lange inactiviteit  niet actief uitgelogd werden en daardoor soms kleine  
+gedeeltes ingevoerde tekst kwijtraakten, wat begrijpelijk  voor enige frustratie 
+zorgde. Samen met deze gebruikers heeft het departement het probleem, wat de 
+gebruikers precies  deden, en hoe de toepassing daar nog beter op zou reageren  
+binnen de 2 weken aangepast, zorgvuldig getest en in productie aangepast. 
+Eindresultaat: dit probleem kan zich voortaan niet meer herhalen,  en de 
+betrokken aanvraagdossiers werden alsnog  meegenomen voor verdere 
+dossierbehandeling.
+4.Het departement  CJM registreerde  nog geen enkele formele klacht over het 
+vernieuwde e-loket KIOSK. Conform het klachtenbeleid van het departement  CJM 
+probeert men een goede dienstverlening  te verzorgen door bij problemen  of 
+vragen de vraagsteller  klantgericht te helpen en zo te voorkomen dat het tot een 
+formele klacht moet komen. Alle problemen die gebruikers ondervonden   bij de in 
+gebruikname van het nieuwe  e-loket KIOSK  werden succesvol door de helpdesk 
+opgevangen en dit leidde steeds binnen een korte doorlooptermijn tot een 
+aanvaardbare oplossing.
+5.Er heeft nog geen formeel onderzoek plaats gevonden over de 
+gebruiksvriendelijkheid van de nieuwe versie van KIOSK.  In die nieuwe  versie lag 
+de focus op de nieuwe  manier van aanmelden via het Vlaams gebruikers- en 
+toegangsbeheer. Deze manier  van aanmelden en het instellen van de rechten  is 
+complex maar is ook standaard  functionaliteit  die voor alle overheidstoepassingen 
+op die manier voorzien wordt.  De wijzigingen die in KIOSK  zelf zijn doorgevoerd, 
+zijn in deze versie beperkt maar ingegeven door feedback uit bevragingen, 
+interviews en workshops met eindgebruikers  die de vorige versie  van het e-loket  
+gebruikten. Het departement CJM gaat regelmatig in dialoog met zijn “klanten” 
+over KIOSK  en betrok hen in de maand juli nog bij het testen van de module voor 
+het aanvragen van de werkingssubsidies voor het nieuwe Kunstendecreet. Die 
+feedback gebruiken we dan waar mogelijk om KIOSK  stapsgewijs  te verbeteren.

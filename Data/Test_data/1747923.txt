@@ -1,0 +1,91 @@
+title: Fluvius - Uitbetaling forfaitaire vergoedingen in geval van hinder op het distributienet
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1747923
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1548381
+SCHRIFTELIJKE VRAAG
+nr. 1315
+van ROBRECHT BOTHUYNE
+datum: 25 augustus  2021
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Fluvius  -  Uitbetaling forfaitaire vergoedingen  in geval van hinder op het distributienet
+Fluvius voorziet conform het Energiedecreet  in een forfaitaire vergoeding bij een aantal 
+gevallen van ‘hinder’  op het distributienet. Zo heeft een gedupeerde recht op een 
+vergoeding bij laattijdige (her)aansluiting en in geval  van een niet-geplande 
+stroomonderbreking met technische oorzaak van minstens vier uur. De Vlaamse Regering 
+bepaalt, na advies van de VREG (Vlaamse Regulator van de Elektriciteits- en Gasmarkt), 
+de voorwaarden en de procedure tot indiening  van de aanvraag van de vergoeding. In het 
+geval van langdurige stroomonderbreking dient de netgebruiker de aanvraag voor de 
+vergoeding binnen  dertig kalenderdagen zelf in te dienen bij de distributienetbeheerder.
+1.Kan de minister per type vergoeding een overzicht geven van het aantal uitgekeerde 
+vergoedingen per jaar in de voorbije 5 jaar? Met welke bedragen kwam dit overeen?
+2.Welk aandeel van de aanvragen tot compensatie was gegrond?
+3.Hoe worden de vergoedingen gefinancierd? In hoeveel procent  van de gevallen kon de 
+vergoeding verhaald worden op de verzekering van de tegenpartij?  In hoeveel gevallen 
+was Fluvius zelf aansprakelijk?
+4.Het feit dat bij de aanvraag van de vergoeding een actieve handeling van de getroffene  
+vereist is, leidt allicht  tot een zekere mate van ‘non-take-up’.  
+Kan een inschatting worden gemaakt over welk aandeel dit gaat?
+5.Hoe staat de minister tegenover een automatische  toekenning van de vergoeding door 
+Fluvius op basis van hun eigen gegevens over laattijdige  (her)aansluitingen en 
+stroomonderbrekingen? In gevallen die niet door Fluvius worden  gevat, kan door de 
+getroffene daarnaast nog steeds zelf een aanvraag worden ingediend.
+ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD 
+op vraag nr. 1315 van 25 augustus 2021  
+van ROBRECHT BOTHUYNE
+1.De gevraagde cijfers gaan als bijlage. 
+2.Hiervoor verwijs ik naar het kwaliteitsrapport  dat de VREG  jaarlijks publiceert op zijn 
+website (rapp-2021-15.pdf (vreg.be).
+3.Deze vergoedingen worden gefinancierd door de nettarieven.  De kosten  maken  deel uit 
+van de endogene  kosten die onderhevig zijn aan tariefregulering  op basis van de trend. 
+Daardoor is er een incentive voor de netbeheerder om het aantal klachten en 
+uitbetalingen te beheren. De recupereerbaarheid  van deze vergoedingen  bij derden is 
+eerder beperkt gelet op de zware (noodzakelijk gerechtelijke)  procedure en het vaak 
+ontbreken van bewijskracht. 
+4.Deze cijfers zijn niet beschikbaar bij Fluvius.  Dit is logisch  omdat de forfaitaire 
+vergoeding een vorm van vergoeding is voor de hinder  die de klant heeft ondervonden 
+door de langdurige ongeplande onderbreking of de laattijdige (her)aansluiting.  Er zijn 
+wel cijfers beschikbaar over het aantal  onderbrekingen en het aantal 
+(her)aansluitingen, maar deze cijfers zijn niet representatief voor de hinder die een 
+klant zou kunnen ondervinden  en kunnen niet gebruikt worden voor een automatische 
+toekenning. Zo kan de doorlooptijd van de realisatie  van een aansluiting bijvoorbeeld  
+gemeten worden ten opzichte van de wettelijke termijnen of ten opzichte van de 
+daarover gemaakte afspraak met de klant. Deze termijnen worden  eveneens beïnvloed 
+door het feit dat de klant niet thuis geeft of zijn afspraken naar voorbereidende werken 
+niet is nagekomen.  De onderbrekingsduur wordt gemeten op basis van de 
+netonderbreking. In bepaalde  gevallen  is een actie van de klant nodig om opnieuw in 
+te schakelen waardoor tijdsbestek  onderbreking klant niet altijd gelijk  is aan de duur 
+van de netonderbreking.
+5.De kwaliteit van de dienstverlening en de spanningskwaliteit die wordt bereikt  door 
+Fluvius behoort tot de Europese top. Dit wordt ook bevestigd in het kwaliteitsrapport 
+dat de VREG jaarlijks publiceert op zijn website (rapp-2021-15.pdf  (vreg.be)): “In 
+vergelijking met cijfers uit de buurlanden kunnen  we vaststellen dat de 
+betrouwbaarheid van het distributienet op een hoog peil gehandhaafd blijft. De 
+onderbrekingscijfers van de netbeheerders in Vlaanderen  liggen in lijn met die van 
+Nederland en Duitsland die tot de besten van de klas behoren”.
+Naast de forfaitaire decretale regeling voor de aansprakelijkheden van de 
+distributienetbeheerders  introduceerde de VREG in 2017 in de tariefmethodologie voor 
+de distributienettarieven een kwaliteitsfactor (Q-factor) om de distributienetbeheerders  
+aan te zetten een kwaliteitsvolle dienstverlening aan te houden en verder  te 
+ontwikkelen. De prikkel resulteerde in een eerste, zij het beperkte, impact op hun 
+inkomsten in de reguleringsperiode  2021-2024, volgens (o.a.)  de 
+stroomonderbrekingen die optraden in hun netgebieden  in 2017,  2018 en 2019.
+Gelet op de huidige kwaliteitsniveaus, gelet op de incentivering van de VREG, gelet op 
+de laagdrempelige toepassing om bij eventuele  hinder beroep te kunnen  doen op het 
+principe van forfaitaire schadevergoeding  en gelet op het frequent  gebruik van deze 
+toepassing, lijkt een complexe automatisering van de toekenning van de vergoeding  
+op dit moment  niet aangewezen. De netbeheerder zet zijn middelen best prioritair in 
+om de kwaliteit van de spanning en dienstverlening systematisch  te verbeteren. 
+Klanten die  hinder ondervinden,  hebben zeer laagdrempelig toegang  tot de forfaitaire 
+vergoedingsmechanismen (https://www.fluvius.be/nl/thema/storingen-en-
+werken/klachten/fortaitaire-vergoeding). 
+Uit de door Fluvius  bezorgde  cijfers blijkt dat het aantal klanten dat hinder heeft 
+ondervonden en een forfaitaire vergoeding heeft ontvangen, is toegenomen  in de 
+periode 2016-2020.  Het principe van de forfaitaire vergoeding raakt dus meer en meer 
+bekend bij het grote  publiek.
+Daarnaast zou een automatische toekenning  van de vergoedingen ook de nettarieven  
+kunnen verhogen.
+BIJLAGE
+Aantal dossiers en door Fluvius uitgekeerde bedragen voor hinder  op het distributienet

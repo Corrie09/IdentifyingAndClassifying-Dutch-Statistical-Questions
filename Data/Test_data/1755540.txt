@@ -1,0 +1,162 @@
+title: Woningmarkt en woonbeleid - Digitalisering (2)
+thema: Wonen
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1755540
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1549201
+SCHRIFTELIJKE VRAAG
+nr. 691
+van SARAH SMEYERS
+datum: 8 september 2021
+aan MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+Woningmarkt en woonbeleid  -   Digitalisering (2)
+Op 26 maart 2021 stelde ik al een schriftelijke vraag (nr.416) over de digitalisering van de 
+woningmarkt en het woonbeleid. In zijn antwoord  gaf de minister toen een volledig 
+overzicht van alle projecten die in het kader van het regeerakkoord  reeds ontwikkeld zijn 
+of waar nog aan gewerkt  wordt en die zich richten tot burgers en of externen. Meer bepaald 
+had de minister  het over:
+-de woningpas;
+-de woningkwaliteitswijzer;
+-het Vlaams  loket voor woningkwaliteit  (VLOK);
+-het kennisplatform  woningkwaliteit,  de overkoepelende woningrenovatiepremie;
+-de dossiersbehandelingssystemen voor de renovatiepremie en de aanvraag verzekering  
+gewaarborgd wonen;
+-de vernieuwde versie  van de premiezoeker;
+-het Fonds ter Bestrijding van Uithuiszettingen (FBUH);
+-de noodwoningen;
+-diverse interne digitaliseringsprojecten.
+1.Kan de minister een stand van zaken bezorgen? Welke  projecten staan  intussen op 
+punt? Welke moeten nog verder uitgerold  worden?
+2.In verband met de digitale projecten die intussen al in functie zijn: hoe vaak en om 
+welke reden maakte men hier in de eerste jaarhelft van 2021 gebruik van? Graag een 
+onderverdeling tussen burgers, externen en diverse (overheids)instanties.
+3.Werd  het digitale aanbod intussen (nog)  verder uitgebreid of verdwenen  er zaken? Zo 
+ja, welke  hulpmiddelen kwamen erbij?  Welke verdwenen er? In dat laatste  geval: 
+waarom werden  ze afgevoerd?
+MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+ANTWOORD 
+op vraag nr. 691 van 8 september 2021
+van SARAH SMEYERS
+1.Voortbouwend op uw schriftelijke vraag (nr. 416) van 26 maart  2021 over de 
+digitalisering van de woningmarkt  en het woonbeleid wens ik een verdere stand van 
+zaken te geven  voor de diverse projecten.
+Voor de volgende toepassingen kunnen we stellen dat deze intussen op punt staan  en 
+de diverse noodzakelijke functionaliteiten voor een goede werking aanwezig zijn:
+Het Fonds ter Bestrijding  van Uithuiszettingen (FBU): Voor FBU gebeurt de 
+aanvraag sinds de start volledig digitaal. De OCMW’s kunnen  een 
+begeleidingsovereenkomst digitaal opmaken  en kiezen  om deze 
+begeleidingsovereenkomst digitaal te laten ondertekenen  of te downloaden, af te 
+drukken en na ondertekening opnieuw op te laden  en in te dienen in het systeem.
+Premiezoeker: De vernieuwde premiezoeker is live gegaan in april.
+De woningkwaliteitswijzer werd midden februari 2021 gelanceerd.
+De volgende projecten zijn in verdere ontwikkeling:
+Voor wat betreft de toepassing voor het aanvragen van de verzekering 
+gewaarborgd wonen zijn verdere  stappen gezet om een digitale  aanvraag  mogelijk 
+te maken. Het formulierenloket staat klaar om de link te leggen met deze toepassing. 
+Het dossierbehandelingssysteem moet nog enkele  wijzigingen ondergaan om 
+vervolgens alles te kunnen testen en uit te rollen.
+Voor wat betreft de woningpas kan ik meegeven dat de toepassing verder wordt 
+uitgebreid. In december 2018 werd de woningpas gelanceerd door het Vlaams  
+Energie- en Klimaatagentschap, Departement  Omgeving,  Wonen-Vlaanderen  en de 
+Openbare Vlaamse Afvalstoffenmaatschappij.  Woningpas  is een burgerplatform  dat 
+alle informatie die door de overheid bekend is over Vlaamse woningen,  op een 
+overzichtelijke en begrijpbare manier  wilt weergeven aan de eigenaars van de 
+woning. De woningpas  zorgt voor een uniek  integraal elektronisch  dossier van een 
+wooneenheid in Vlaanderen. Het paspoort is ontwikkeld als een sensibiliserend 
+instrument dat een burger door inzicht in de huidige  status  van zijn woning en advies 
+helpt bij een duurzame  en kwaliteitsvolle  renovatie van zijn woning (energetische 
+renovatiegraad verhogen). Dit gebeurt in fases.  In februari 2021 werd de woningpas  
+onder andere nog verrijkt met de informatie rond woningkwaliteit  
+(conformiteitsattest, procedures ongeschikt/onbewoonbaarheid).  Een aantal andere 
+ontwikkelingen die op korte termijn  gepland  zijn, zijn het toevoegen van informatie 
+rond water (riolering, overstromingsrisico, waterlopen, watervoorziening), het 
+toevoegen van informatie rond de energieverbruiken (energieverbruiken, analoge en 
+digitale meter, PV-installaties, retro-actieve  investeringspremie)  en het verruimen  
+van de beschikbaarheid  van de woningpas naar een groter aantal woningen  (meer 
+appartementen).
+Het Vlaams  Loket  voor Woningkwaliteit: VLOK is het dossieropvolgingssysteem 
+voor de processen  van de woningkwaliteitsbewaking.  Wonen-Vlaanderen en de 
+gemeenten kunnen  in VLOK alle dossiergebonden opdrachten  rond woningkwaliteit 
+en het Vlaamse inventarisbeheer  op een efficiënte  manier opvolgen en uitvoeren. Het 
+proces ongeschikt- en onbewoonbaarverklaring, met een complexe wisselwerking 
+tussen lokaal bestuur en Wonen-Vlaanderen, wordt  daardoor sterk vereenvoudigd en 
+gedigitaliseerd. Daarnaast kunnen beide  partijen  technische  verslagen  en 
+conformiteitsattesten aanmaken  en besluiten Nieuwe  Gemeentewet registreren  en 
+beheren. VLOK  is in 2018 in productie gegaan. Er staan nog verschillende trajecten  
+in 2021 op de roadmap, waaronder de implementatie  van enkele  recente 
+regelgevende bepalingen (bv. ontsluiting  van data naar Geo-Punt), optimalisaties  in 
+de personenmodule, het toevoegen van organisatieparameters, het optimaliseren 
+van de beroepsprocedure  en technische aanpassingen.  De scope voor 2022 wordt in 
+het najaar van 2021 verder afgebakend.
+Renovatiepremie : Sinds  1 juni 2021 is het mogelijk om de renovatiepremie  digitaal 
+aan te vragen  langs het formulierenloket van Wonen-Vlaanderen. Momenteel zijn we 
+volop bezig om ons dossierbehandelingssysteem aan te sluiten  op de ‘MAGDA 
+documentendienst’ om onze communicatie met de burger zoveel mogelijk digitaal te 
+versturen (op voorwaarde dat de burger zijn eBOx geactiveerd heeft)  en ook op 
+DOSIS (Dossierinformatiesysteem) waarmee burgers via ‘Mijn Burgerprofiel’ de 
+status van hun renovatiepremie-dossier kunnen raadplegen. Zowel voor ‘MAGDA  
+documentendienst’ als ‘DOSIS’  zitten we nu in de testfase  en verwachten we de uitrol 
+dit najaar.
+Woningrenovatiepremie: We werken momenteel  volop aan de ontwikkeling  van 
+het nieuwe systeem zodat we klaar zijn bij de start van de nieuwe premie in de 
+tweede helft van 2022.  De regelgeving  voor de nieuwe  premie moet dit najaar nog 
+eerst goedgekeurd worden door de Vlaamse Regering.
+2.Het gebruik van de toepassingen in de eerste jaarhelft van 2021 varieert  naargelang de 
+toepassingen:
+Het Fonds ter Bestrijding van Uithuiszettingen (FBUH): Voor de eerste 6 
+maanden van 2021 hebben we 132 begeleidingsovereenkomsten van OCMW’s 
+ontvangen. Hiervan werden 2 begeleidingsovereenkomsten volledig digitaal  
+ondertekend.
+Premiezoeker: In de periode 10/4/2021-30/8/2021  werd de website  95.047  maal 
+bezocht. Voor de back-office van de premiezoeker hebben zich reeds  133 gemeenten 
+aangemeld om hun premies zelf te actualiseren.
+De woningkwaliteitswijzer (WKW) : Midden  februari  2021 werd de WKW  
+gelanceerd en dit genereerde meteen een pak weergaven.  De welkomstpagina WKW  
+is een goede  indicator  en die pagina werd in februari bijna 2500 keer uniek 
+opgeroepen.  Daarna zien we bezoekersaantallen  (unieke weergave) van 800 tot 
+1000 keer per maand. Er kan geen onderscheid worden gemaakt naar 
+gebruikersprofiel. Heel wat detailpagina’s worden bekeken, wat erop wijst dat de 
+bezoekers ook verder  navigeren. Meest bezochte pagina’s  zijn deze over de 
+rookmelders, meerdere  pagina’s omtrent energetische prestatie en EPC en de 
+pagina’s omtrent vochtproblematiek in de woning. Zowel de breed informerende 
+pagina’s als deze waar bezoekers concrete tips vinden, worden frequent bezocht. Het 
+is ook goed om vast te stellen dat de resultatenpagina’s veel worden geraadpleegd, 
+wat aangeeft dat heel wat bezoekers  daadwerkelijk de vragenlijst  benutten om actief 
+naar de kwaliteit  van de (eigen) woning te peilen.  De woningkwaliteitswijzer wordt 
+dus sinds de lancering  in februari goed en breed gebruikt waarvoor die bedoeld is: 
+informeren omtrent de kwaliteit  van de woning, als burger zelf een correcte 
+inschatting van de woningkwaliteit maken en concrete info aanreiken om die kwaliteit 
+waar nodig te verbeteren. 
+Verzekering  gewaarborgd wonen: deze toepassing wordt momenteel enkel intern 
+gebruikt, voor de verdere  stappen om over te gaan naar een digitale aanvraag verwijs 
+ik graag naar mijn antwoord  op vraag  1.
+Woningpas: De woningpas werd in de eerste jaarhelft van 2021 gemiddeld zo’n 
+10.500 keer bezocht door een 6.100 unieke gebruikers.  Er kan geen onderscheid 
+worden gemaakt  naar gebruikersprofiel. Er is een toename van het aantal gebruikers 
+t.o.v. 2020. In de eerste  jaarhelft  van 2021 surften de gebruikers het vaakst naar de 
+pagina’s rond energie, de pagina’s rond gebouw,  indeling & ligging  en de pagina’s 
+rond woningkwaliteit.
+Vlaams  Loket Woningkwaliteit: VLOK is in 2018 in productie gegaan. Er zijn meer 
+dan 1200 unieke  gebruikers actief in VLOK en 293 lokale besturen maken  gebruik 
+van de toepassing. Voor de gevraagde periode kunnen  we de volgende gegevens 
+doorgeven:
+oDe lokale besturen en Wonen-Vlaanderen, met inbegrip van de Vlaamse 
+Wooninspectie, hebben ongeveer 127000  documenten aangemaakt of 
+opgeladen in VLOK.  Het aandeel van de lokale besturen bedraagt 34%. Van 
+de 15000 technische verslagen in VLOK wordt 62% door de gemeenten 
+aangemaakt. Het grootste aantal conformiteitsattesten (ca.7000) en 
+beslissingen (2400) zijn aangemaakt of opgeladen  door de lokale  besturen. 
+De volledige strafrechtelijke dossierafhandeling, vanaf aanvankelijk proces-
+verbaal tot uitvoering van vonnissen en arresten, zit in VLOK en deze module 
+wordt iedere dag gebruikt door de wooninspecteurs en verbalisanten.
+oDe data-uitwisseling met VLABEL en de woningpas  gebeurt automatisch.
+oDe applicatie wordt dagdagelijks intensief gebruikt door Wonen-Vlaanderen 
+en de lokale  besturen.
+oDe burger maakt tot op heden  geen gebruik  van de applicatie, maar een 
+traject om de behoeften  in kaart te brengen wordt  in het najaar gestart.
+Renovatiepremie : Sinds  1 juni 2021 is het mogelijk om de renovatiepremie  digitaal 
+aan te vragen  langs  het formulierenloket van Wonen-Vlaanderen. In de maand  
+augustus werd iets meer dan 50% van de aanvragen digitaal ingediend. Tot op 
+vandaag werden  al 2.357 aanvragen  digitaal  ingediend  door burgers (juni 596, juli 
+678, augustus  728).
+3.Het digitale aanbod  werd sinds de vorige parlementaire vraag niet gewijzigd.

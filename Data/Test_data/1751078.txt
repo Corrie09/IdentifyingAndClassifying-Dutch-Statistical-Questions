@@ -1,0 +1,124 @@
+title: Klimaatdoelstellingen - Energiezuinige schoolgebouwen
+thema: Natuur en Milieu
+Onderwijs en Vorming
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1751078
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1548611
+SCHRIFTELIJKE VRAAG
+nr. 954
+van STEVE VANDENBERGHE
+datum: 30 augustus  2021
+aan BEN WEYTS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER VAN ONDERWIJS, SPORT, 
+DIERENWELZIJN EN VLAAMSE RAND
+Klimaatdoelstellingen  -  Energiezuinige schoolgebouwen
+In het kader van de Vlaamse klimaatdoelstellingen zijn energiezuinige gebouwen  een 
+meer dan belangrijke schakel. Om de doelstellingen te halen,  is een stevige 
+inhaalbeweging nodig  in het energieneutraal maken  van gebouwen op het Vlaamse 
+grondgebied. De schoolgebouwen vormen hiervoor een belangrijk onderdeel.
+Door een grondige energierenovatie van de schoolgebouwen kunnen  heel wat scholen 
+besparen op de energiekosten die ze betalen  uit hun werkingsbudget  en leveren ze een 
+wezenlijke bijdrage aan de Vlaamse klimaatinspanningen.
+1.Wat is de EPC-score (EPC: energieprestatiecertificaat) van de schoolgebouwen? 
+Graag een onderverdeling per grootteorde  en een opsplitsing per provincie.
+2.Wat is de evolutie  van de EPC-score de voorbije  jaren van de schoolgebouwen?
+3.In hoeveel scholen werd al een grondige energierenovatie uitgevoerd?  Met welke 
+resultaten? Graag een opsplitsing  per provincie.
+BEN WEYTS 
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING EN VLAAMS MINISTER  VAN ONDERWIJS, SPORT, 
+DIERENWELZIJN EN VLAAMSE RAND 
+ANTWOORD
+op vraag nr. 954 van 30 augustus 2021
+van STEVE VANDENBERGHE
+1.In het kader  van duurzame  scholenbouw wordt er voor het vrij en officieel 
+gesubsidieerd onderwijs gewerkt op basis van het E-peil en niet de EPC-score. Een 
+EPC-score kunnen we niet zomaar  vergelijken met het E-peil.  Het E-peil is een maat 
+voor de globale energieprestatie van een gebouw en die wordt uitgedrukt in een 
+waarde zonder  “eenheid”. De score  in het EPC toont aan de hand van een kengetal 
+hoe energiezuinig het gebouw is. Het kengetal wordt berekend  op basis van het 
+gemeten energieverbruik  van exact één jaar en de bruikbare vloeroppervlakte.
+Ik nam voor meer informatie over de EPC-scores voor de scholen  van het vrij en 
+officieel gesubsidieerd  onderwijs contact op met het beleidsdomein Omgeving. 
+Momenteel bevat  de energieprestatiedatabank  2068 geldige EPC’s voor 
+onderwijsinstellingen. Midden 2020 werd een analyse gemaakt van de 
+energieprestatiedatabank, die toen 1973 geldige EPC’s van onderwijsinstellingen  
+bevatte. Cijfers per provincie en per grootte-orde zijn niet beschikbaar.  Uit deze 
+analyse bleek  dat het gemiddelde EPC-kengetal  voor alle schoolgebouwen 181 kWh/m2 
+bedraagt. Mijn collega, de minister van Omgeving  en Energie, verwijst inhet kader van 
+uw vraag  naar haar antwoord op de schriftelijke  vraag 636 van de heer Stijn Beckx 
+van 17 juni 2020. 
+Voor de scholen  van het Gemeenschapsonderwijs geldt het onderstaande.
+Pas sinds 2009 is een EPC publieke gebouwen verplicht  voor grote publieke gebouwen 
+met een bruikbare vloeroppervlakte vanaf 1.000m² en het is geldig voor 10 jaar. De 
+vloeroppervlakte werd door de jaren heen verkleind maar zo een certificaat is een 
+momentopname om het energieverbruik op dat moment te monitoren. Een score wordt  
+toegekend aan een domein als gemiddeld verbruik  over het totaal van de gebouwen. 
+In de Brusselse  regio wordt  een EPC document  anders opgesteld dan in de overige 
+regio’s.
+In 2019 werd in de GO!-databank voor 550 domeinen een EPC-certificaat opgeladen:
+aantal EPC's in GO! databankGemiddeld EPC score 
+(kWh/m²)Minimum 
+EPC score 
+(kWh/m²)Maximum 
+EPC score 
+(kWh/m²)
+Antwerpen 143 191,97 64,85 535,79
+Limburg 94 156,4 30,43 422,77
+Oost Vlaanderen 137 202,89 59,38 888,66
+Vlaams Brabant 100 204,27 53 1.712,32
+West Vlaanderen 76 157,03 66,66 367,76
+Totaal GO! 550 186,07 30,43 1.712,32
+2.Het EPC publieke gebouwen wordt opgesteld op basis van het werkelijke 
+energiegebruik en geeft dus niet enkel het effect van uitgevoerde  energiebesparende 
+maatregelen weer.  Het EPC-kengetal wordt ook bepaald door het gedrag van de 
+gebruikers van het gebouw,  al dan niet naschoolse activiteiten,  de aanwezigheid van 
+een keuken,….  Als de evolutie van het kengetal wordt bekeken van scholen die hun 
+EPC al vernieuwd hebben, dan kan hieruit  worden  afgeleid dat er de voorbije 10 jaar 
+wel degelijk inspanningen  zijn geleverd  om de energie-efficiëntie  van de 
+schoolgebouwen te verbeteren.  De gemiddelde waarde van de EPC’s  voor bestaande 
+schoolgebouwen van de periode 2008  tot 2010 was 206 kWh/m2. De gemiddelde EPC-
+score van dezelfde gebouwen is in 2018 tot 2020 gedaald tot 161 kWh/m2
+De gemiddelde EPC-score voor schoolgebouwen in Vlaanderen kunt dus een duidelijk 
+dalende trend. Voor de scholen van het Gemeenschapsonderwijs geldt het 
+onderstaande.
+Gezien een EPC-certificaat  10 jaar geldig is, is dit eigenlijk een momentopname. Om 
+die reden wordt binnen het GO! niet gekeken  naar een EPC-document  om het 
+energieverbruik te monitoren, maar naar het verbruik door de totale oppervlakte van 
+het domein. Dit wordt bij ongeveer de helft van de GO!-gebouwen  gemonitord. Een 
+EPC is bovendien niet verplicht indien een gebouw kleiner  is dan 250 m².
+Op basis van deze GO!-berekening ontstaat volgende evolutie:
+ 2017 2018 2019 2020*
+Globale GO! EPC 
+score138,91 134,02 129,72 117,5
+% wijziging / -3,65% -3,31% -10,40%
+Bovenvermelde cijfers vergen enige  nuance: 
+De oppervlaktes die gebruikt  werden in bovenstaande  berekening zijn statisch.  Dat 
+wil zeggen dat deze een weergave zijn van de actuele situatie. Het GO! werkt 
+momenteel aan een dynamisch kader waarbij de oppervlaktes jaarlijks worden 
+geactualiseerd.
+Bovenstaande analyse  houdt geen rekening met de graaddagen van een jaar, d.w.z. 
+hoe warm of koud een specifiek jaar was. 
+(2020*) Het jaar 2020 is zeer vertekend wegens de (gedeeltelijke)  sluiting  van 
+scholen ten gevolge  van SARS-Cov2.  Anderzijds  werd er in dat jaar omwille van 
+dezelfde reden meer geventileerd wat in de praktijk betekent dat er meer verwarmd  
+dient te worden om de klassen  warm te houden. De EPC-score van 2020 kan dus 
+moeilijk vergeleken  worden met de eerdere jaren.
+Het GO! werkt momenteel  een energiemodule uit waarbij EPC-scores op domein-  
+en gebouwniveau worden opgemaakt via een dynamische tool waarbij de 
+verbruiken en oppervlaktes jaarlijks correcter worden geregistreerd  zodat een 
+monitoring in detail mogelijk is. 
+3.Vanaf  2017 zijn de scholen  in de energieprestatieregelgeving ondergebracht in de 
+bestemming EPN, samen  met alle niet-residentiële functies en met een nieuwe  
+berekeningsmethode. De indeling van gebouwen  wordt gemaakt  op basis van de 
+aanwezige functies in het gebouw. Er wordt echter geen overkoepelende functie 
+gegeven aan een gebouw. Het is dus niet mogelijk om ‘schoolgebouwen’  eenduidig uit 
+de EPB-gegevens  te filteren.  Het Vlaams Energie- en Klimaatagentschap (VEKA) geeft 
+aan dat voor 2017 voorlopig 2 EPN-gebouwen,  die de functie  ‘onderwijs’ bevatten, 
+gerapporteerd werden als ingrijpend  energetisch gerenoveerd.  Voor latere jaren 
+werden nog dossiers met functie ‘schoolgebouwen’ ingediend. De indieningstermijn  
+voor 2017 en de volgende jaren is momenteel  echter nog niet verstreken. Deze 
+resultaten worden  dus nog niet als representatief beschouwd.
+ 
+Binnen het GO! lopen momenteel  7 grondige energetische renovatiedossiers. 
+Aangezien deze nog niet zijn afgerond,  zijn de resultaten nog niet beschikbaar. De 
+scholengroepen staan  zelf in voor beperkte renovatiewerken, die ook een impact 
+hebben op het energieverbruik van de GO!-schoolgebouwen.

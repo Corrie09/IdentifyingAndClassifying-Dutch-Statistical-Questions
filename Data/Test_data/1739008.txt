@@ -1,0 +1,88 @@
+title: Openbare Vlaamse Afvalstoffenmaatschappij (OVAM) - Materialeninformatieregister (MATIS)
+thema: Natuur en Milieu
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1739008
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1541830
+SCHRIFTELIJKE VRAAG
+nr. 1206
+van FREYA PERDAENS
+datum: 2 juli 2021
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Openbare Vlaamse Afvalstoffenmaatschappij  (OVAM)  -  Materialeninformatieregister 
+(MATIS)
+Ik verwijs in deze naar het antwoord op mijn schriftelijke vraag nr. 990 van 11 mei 2021 
+betreffende de inzameling en recyclage van plastics. In het antwoord lees ik volgende 
+passage: “Om deze hiaten op te vullen  is de OVAM  gestart met de opmaak van een volledig 
+nieuw datamonitoringsysteem en afvaltraceringsysteem: MATIS 
+(materialeninformatieregister). Het moet in de nabije toekomst  niet alleen  de productie 
+van afvalstoffen meten, maar ze nadien ook traceren in het recyclageproces. De gegevens  
+van beheersorganismen zoals Fost Plus, Recupel of Valipac zullen  zo goed mogelijk 
+gekoppeld worden aan het nieuwe OVAM-systeem.  Met het nieuwe datamonitoringsysteem  
+gaat nog onderzoek en ontwikkeling gepaard. Dit vraagt dus nog enkele jaren eer het 
+volledig operationeel is.”
+Over de ontwikkeling  van het materialenregister heb ik nog enkele vragen.
+1.Is er al meer informatie over de timing van de uitrol van dit systeem?  Welke stappen 
+moeten nog worden gezet en wanneer staan die op de planning?
+2.Welke partners werken er naast OVAM mee met dit systeem?
+3.Welk budget werd uitgetrokken  voor de ontwikkeling ervan?
+ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 1206 van 2 juli 2021
+van FREYA  PERDAENS
+1.Voor de ontwikkeling van MATIS  (het Vlaamse materialeninformatiesysteem) is een 
+planning opgesteld. We geven  hieronder de belangrijkste mijlpalen.
+2019: 
+Haalbaarheidsstudie: enquêtes om draagvlak en randvoorwaarden  af te toetsen
+2020:
+Proof of concept:  opstellen van een datasjabloon, testen van het sjabloon voor 3 
+afvalstromen met gegevens van enkele  actoren
+2021- 2023:Scope  = huishoudelijke afvalstoffen en gelijkaardige bedrijfsafvalstoffen.
+Proof of concept  voor één afvalstroom op Vlaams niveau.  In kaart brengen  van 
+inzameling en verwerking van papier-  en kartonafval in Vlaanderen (loopt)
+Software-ontwikkeling voor de inzameling van gegevens  is lopend  en eerste 
+werkbare versie  is gepland tegen  einde oktober  2021.  Nadien wordt deze versie 
+verder geoptimaliseerd met het oog op data-inzameling vanaf februari 2022
+Software-ontwikkeling van gegevensverwerking  en tracering  wordt momenteel 
+gestart en zal in een eerste werkbare versie opgeleverd worden tegen juni 2022 
+(rapportering gegevens 2020 over recyclage van Stedelijk  afval aan de EU. Nadien 
+wordt deze versie verder geoptimaliseerd.
+Software-ontwikkeling met betrekking tot ontsluiting van gegevens naar 
+rapporterende entiteiten en de afdeling handhaving wordt  gestart en continu 
+uitgebreid.
+Vanaf 2023 zullen de gegevens van verplichte digitale  identificatieformulieren 
+(besluit Vlaamse regering  van 2 juli 2021)  beschikbaar zijn voor tracering van 
+afvalstromen in MATIS.
+Tijdens de looptijd worden de nodige wetgevende initiatieven genomen  om MATIS  
+in de wetgeving te verankeren.
+Als aanvaardingsplichtconvenanten (APC) of erkenningen van beheersorganismen  
+in het kader van de uitgebreide producentenverantwoordelijkheid aflopen, worden 
+de nodige aanpassingen in deze documenten voorgesteld om compatibiliteit  met 
+MATIS te verzekeren.
+Vanaf 2023: 
+Stelselmatig  scope uitbreiden naar alle industriële  afvalstoffen en bodemmaterialen
+Voor de opvolging van de voortgang  van het project “MATIS:  Het Vlaamse 
+materialeninformatiesysteem” heeft de OVAM  een webpagina waar op regelmatige 
+basis updates gegevens worden van de stand van zaken op dat moment 
+(https://ovam.be/matis-een-nieuw-materialen-informatie-systeem).  U vindt hier ook 
+de rapporten van de reeds uitgevoerde  studies  ikv MATIS.
+Met betrekking tot de concrete inzameling  van afvalstoffengegevens via MATIS geldt 
+de volgende planning:
+Oktober/november 2021: eerste rapportering van gegevens over huishoudelijke 
+afvalstoffen en gelijkaardige bedrijfsafvalstoffen (HA en GBA) in MATIS door 
+verwerkers en intercommunales (jaartotalen  van 2020)
+Februari/maart 2022:  Rapportering  van jaartotalen 2021 van HA en GBA door 
+verwerkers en intercommunales
+Vanaf maart 2022: Rapportering van maandtotalen van januari 2022 ( start 
+maandelijkse rapportering  over maand -2) door verwerkers en intercommunales.
+Vanaf 2023 stelselmatige  uitbreiding  naar andere bedrijfsafvalstoffen.
+2.De OVAM werkt aan MATIS in nauwe  samenwerking met de afdeling  handhaving. Er 
+wordt op regelmatige basis kennis uitgewisseld  met andere Vlaamse entiteiten met 
+gelijkaardige processen, bijvoorbeeld de Mestbank  (Vlaamse Landmaatschappij).  De 
+ontwikkeling van MATIS  verloopt ook in nauw overleg met de VVSG en de 
+bedrijfsfederatie van de afvalinzamelaars en -verwerkers (DENUO) omdat deze 
+organisaties de belangrijkste doelgroep voor MATIS  vertegenwoordigen. 
+3.Voor de analyse en ontwikkeling van MATIS  werd een budget voorzien van 3,35 miljoen 
+euro. 1,4 miljoen  Euro hiervan wordt gefinancierd  vanuit  de Europese 
+projectfinanciering van het CMARTLIFE-project. 1,95 Miljoen  euro werd voorzien vanuit 
+het Relanceplan Vlaamse Veerkracht  van de Vlaamse  regering. 

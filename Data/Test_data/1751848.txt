@@ -1,0 +1,172 @@
+title: Internationaal toerisme in Vlaanderen - Onderzoek naar de carbon footprint
+thema: Natuur en Milieu
+Toerisme
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1751848
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1549191
+SCHRIFTELIJKE VRAAG
+nr. 1339
+van CATHY  COUDYSER
+datum: 7 september 2021
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Internationaal toerisme in Vlaanderen  -  Onderzoek  naar de carbon footprint
+In antwoord op mijn schriftelijke vraag  nr. 533 van 22 januari 2021 gaf de minister mee 
+dat in februari van dit jaar een onderzoek zou worden  opgeleverd  via hetwelk  getracht 
+zou worden  om de ecologische voetafdruk  te bepalen van internationale toeristen in 
+Vlaanderen. Dit onderzoek werd toevertrouwd aan de Universiteit van Breda, meer 
+bepaald het Centre for Sustainability, Tourism and Transport (CSTT).
+Het Centre for Sustainability, Tourism and Transport van Breda University of Applied 
+Sciences publiceert in samenwerking  met NRIT Onderzoek  en NBTC-NIPO Research sinds 
+2008 jaarlijks een onderzoek naar de emissies van kooldioxide (de carbon footprint) die 
+worden veroorzaakt door Nederlandse vakantiegangers in binnen- en buitenland.
+1.Kan de minister  de concrete invalshoek  van dit onderzoek  motiveren? Waarom heeft 
+Toerisme Vlaanderen ervoor gekozen om de CO2-uitstoot van internationale  
+toeristen in Vlaanderen in kaart te brengen (en bijvoorbeeld niet de carbon  footprint  
+van Vlaamse toeristen in binnen- en buitenland)?
+2.Welke onderzoeksmethodologie werd gehanteerd door de onderzoekers?
+3.Kan de minister de voornaamste resultaten toelichten die uit dit onderzoek naar 
+voren zijn gekomen?
+4.Heeft  Toerisme  Vlaanderen in het verleden al een soortgelijk  onderzoek laten 
+uitvoeren, waardoor  er ook evoluties kunnen  waargenomen worden?  
+Zo ja, van wanneer dateert dit onderzoek en welke evoluties  zijn waar te nemen?
+Zo niet, overweegt de minister dit onderzoek periodiek te herhalen  en zo ja, welke  
+tijdspanne wordt daarbij best in acht genomen?  
+5.Welke beleidsconclusies trekt de minister uit de resultaten van dit onderzoek?
+ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD 
+op vraag nr. 1339 van 7 september 2021
+van CATHY COUDYSER
+1.De ecologische voetafdruk, en met name  de uitstoot van broeikasgassen,  is een ‘hot 
+topic’. De erschillende beleidsniveaus hebben hier terecht  aandacht voor. Onder andere 
+de Europese  Commissie wil via de European Green Deal de netto broeikasgasemissies 
+met minstens 55% laten dalen tegen  2030 (t.o.v. het 1990 niveau)  en een volledig 
+klimaatneutrale groei bereiken tegen  2050. Als verantwoordelijk Vlaams minister is dit 
+een thema waar ik ook volop  mee bezig ben.  
+Zoals ik reeds in andere klimaatdossiers aangaf,  wil ik mijn beleid niet baseren op 
+blinde slogans, maar wel op harde feiten. En daarom is het noodzakelijk een beter zicht 
+te krijgen op de ecologische voetafdruk van de verschillende economische sectoren. De 
+toeristische sector is hierbij bijzonder complex. Volgens de TSA-afbakening  omvat de 
+toeristische sector immers maar liefst 60 verschillende NACE5-codes. De meeste 
+hiervan vallen bovendien niet onder het huidige European Emissions Trading System 
+(EU ETS) en hun exacte uitstoot  is dan ook vaak onbekend.  Hierdoor dringt een 
+specifiek gericht onderzoek zich op.
+De keuze voor internationaal toerisme in Vlaanderen is tweeledig:  
+-De eerste en voornaamste reden  is het feit dat de grootste impact veroorzaakt 
+wordt door transport, en dan voornamelijk  vliegverkeer. Dit maakt dat 
+internationaal toerisme in grootteorde  veel zwaarder zal doorwegen dan 
+binnenlands toerisme. 
+-Een tweede, eerder prozaïsche reden,  is het gegeven dat de werking van het 
+agentschap Toerisme  Vlaanderen gericht is op inkomend internationaal toerisme. 
+Binnenlands toerisme en uitgaand toerisme vallen niet binnen  de specifieke 
+bevoegdheden van het agentschap. 
+2.De onderzoekers  gebruiken een methode die eveneens  werd toegepast  in verschillende 
+bestemmingen in Nederland. Omdat specifieke  uitstootgegevens per toeristische 
+subsector (i.e. de 60 NACE5-codes) ontbreken, wordt er gerekend vanuit de vraagzijde.  
+Specifiek wordt kennis vanuit de STATBEL  aankomst- en overnachtingscijfers van alle 
+internationale markten gecombineerd met kennis uit de bezoekersonderzoeken van 
+Toerisme Vlaanderen en partners (het Kunststedenonderzoek, Kustonderzoek en 
+Vlaamse Regio-onderzoek).  Uit deze onderzoeken wordt informatie gehaald over 
+activiteiten en vervoerskeuzes ter plaatse, de combinatie van bezoeken aan Vlaanderen 
+met andere bestemmingen en gekozen accommodatievormen.
+Voor alle landen worden afstanden berekend tot Vlaanderen en – daar waar 
+detailinformatie ontbreekt, aangezien de bezoekersonderzoeken beperkt zijn tot de 12 
+belangrijkste markten van Vlaanderen – wordt het transportmiddel  ingeschat op basis 
+van afstand. 
+Vervolgens worden er conversiefactoren toegepast voor transportmiddelen, toeristische 
+activiteiten en accommodatievormen. Deze conversiefactoren zijn gebaseerd op 
+internationale onderzoeken en geven uitstootwaarden aan gereisde  kilometer (voor 
+vervoer), gespendeerde nachten (voor accommodatie) en aantal bezoeken (voor  
+activiteiten). Zo wordt voor accommodatie bijvoorbeeld ingeschat dat een verblijf in 
+een hotel 20,6 kg CO2 per nacht  uitstoot,  terwijl dit voor een B&B 15,1 kg is en voor 
+een kampeerterrein 7,9 kg. 
+Een belangrijke correctiefactor  werd eveneens toegepast op internationale  bezoekers 
+die naast Vlaanderen  ook nog andere bestemmingen (bv. Frankrijk, Nederland) 
+bezoeken binnen dezelfde reis. In dit geval  is het foutief om de gehele uitstoot van het 
+vliegen van en naar de bestemming toe te rekenen aan Vlaanderen en werd dit 
+gecorrigeerd op basis van het aantal  gespendeerde  nachten.  Indien bijvoorbeeld  5 
+nachten in Vlaanderen werden doorgebracht voor een reis van in totaal 20 nachten,  
+dan werd 25% uitstoot van het transport toegeschreven aan Vlaanderen. 
+3.In 2019 bedroeg de totale CO2-emissie voor inkomend toerisme  in Vlaanderen 2334 
+megaton, waarvan  1624 Megaton toe te wijzen was aan de 12 belangrijkste  
+bezoekersmarkten. 
+In totale emissies werd de grootste uitstoot  gegenereerd door bezoekers uit 
+-de Verenigde Staten  (311,5 Kiloton), gevolgd  door 
+-Nederland  (276,1  Kiloton), 
+-Duitsland (226,9 Kiloton), 
+-Frankrijk (217,5 Kiloton), 
+-het Verenigd Koninkrijk (134,5 Kiloton) en 
+-China (114,4 Kiloton). 
+Maar dit is uiteraard  ook gelinkt aan de bezoekersaantallen die voor deze landen een 
+stuk hoger liggen.
+Indien de totale uitstoot  gedeeld  wordt door het aantal  aankomsten uit elk land, wordt  
+een uitstoot per trip gevonden en verandert bovenstaande  rangschikking. In dit geval 
+is de uitstoot direct  gerelateerd aan afstand en wordt de rangschikken  gedomineerd 
+door eilandengroepen uit de Stille Oceaan,  zoals
+-Amerikaans Samoa (886 kg per trip), 
+-Christmaseiland (846,2  kg per trip), 
+-Zuid-Georgië en de Zuidelijke Sandwicheilanden (839,5 kg per trip) en 
+-de Cookeilanden  (812,5 kg per trip). 
+De absolute bezoekerscijfers uit deze markten zijn evenwel zeer beperkt. Indien we 
+enkel kijken naar onze belangrijkste aankomstmarkten,  is de volgorde  als volgt:
+-de Verenigde Staten  bovenaan (720,1 kg per trip), gevolgd door 
+-China (719,8 kg per trip), 
+-Japan  (701,5  kg per trip) en 
+-Rusland (413 kg per trip).
+De gemiddelde dagelijkse CO2-emissie per bezoekers was 63 kg. Ter vergelijking, de 
+gemiddelde dagelijkse CO2 emissie van een inwoner in Vlaanderen is 27,2 kg. Dit wordt 
+grotendeels veroorzaakt  door de impact die transport heeft op de ecologische  
+voetafdruk en dan met name vliegtuigreizen waarvoor  de CO2-emissie per dag al gauw  
+verdubbelt ten opzichte van het gemiddelde.
+Om tot een kosten-baten analyse te komen,  werd er eveneens een eco-efficiëntie-
+indicator berekend. Deze kon wel enkel  berekend worden voor de 12 belangrijkste 
+markten, aangezien er gebruik moet gemaakt worden van bezoekersonderzoeken om 
+de bestedingen te kunnen inschatten.  In deze methode wordt de CO2-uitstoot per 
+bezoeker afgezet  tegen het gemiddelde  bestedingsbedrag. Met andere woorden  
+kilogram uitgestoten CO2 wordt berekend per gespendeerde euro, waarbij markten  die 
+meer economische  opbrengsten genereren voor relatief  lagere  uitstoten dus de 
+voorkeur genieten. Algemeen genomen zijn Europese landen hierbij interessanter dan 
+intercontinentale toeristen,  met een eco-efficiëntie  van 0,39 kg CO2 per bestede  euro, 
+ten opzichte  van 0,75 kg uitstoot per bestede euro voor intercontinentale markten. 
+De meeste  interessante markten zijn:
+-Zwitserland  met een eco-efficiëntie van 0,23 kg CO2/€, gevolgd door 
+-Luxemburg (0,24 kg CO2/€), 
+-het Verenigd Koninkrijk (0,28 kg CO2/€), 
+-Frankrijk (0,36 kg CO2/€), 
+-Duitsland (0,36 kg CO2/€) en 
+-Nederland  (0,39 kg CO2/€). 
+Minst interessant op dat vlak zijn 
+-de Verenigde Staten  (1,47  kg CO2/€), 
+-China (1,72 kg CO2/€) en 
+-Japan  (2,93  kg CO2/€).
+4.Dit onderzoek  is het eerste dergelijk onderzoek dat voor Vlaanderen werd uitgevoerd, 
+dus kan er weinig  gezegd worden over evoluties.
+Maar we kunnen  wel met quasi-zekerheid  stellen dat - gezien  de grote impact van 
+transport van en naar de bestemming  - de groei in toeristische  aankomsten en 
+overnachtingen pre-Covid-19  de ermee gepaard gaande uitstoot verhoogd heeft. 
+Eventuele verbeteringen in uitstoten van vliegtuigen, cruiseschepen  en auto’s zijn 
+hierbij onvoldoende om de groei in aantallen te compenseren.
+Momenteel lijkt het niet nuttig dit onderzoek jaarlijks of 2-jaarlijks  te herhalen  omdat 
+de resultaten vooral  samenhangen  met enerzijds  het aantal bezoekers en anderzijds 
+met de eco-efficiëntie van transport, accommodatie en attracties.  Technologische 
+verbeteringen en vergroening van de sector  gebeurt momenteel  niet met een 
+dusdanige snelheid dat er een wezenlijk verschil zal zijn op twee jaar tijd. 
+Een frequentie van vijf jaar lijkt me op dit vlak eerder  aangewezen.  Dit kan dan 
+gekoppeld worden aan onderzoeken  naar het ‘profiel van de toerist’ waarin o.a. gepeild 
+wordt naar de activiteiten  die ze ondernemen, hun uitgaven…
+5.De voornaamste conclusie  is – niet geheel verrassend – dat de CO2-emissie  sterk 
+samenhangt met het transportmiddel  waarmee men naar Vlaanderen komt.  De 
+belangrijkste winst lijkt me dan ook te zitten in het vergroenen van het vervoer over 
+lange afstanden.  
+Bezoekers uit verre  markten kunnen enkel  naar Vlaanderen komen met het vliegtuig. 
+Ik hoop dan ook dat door technologische  vooruitgang de luchtvaartsector  kan 
+vergroenen.  
+Voor de Europese markten  moet meer ingezet worden  op snelle treinverbindingen  en 
+nachttreinen. Deze evolutie is nu reeds aan de gang.  Zo zien we meer en meer 
+nachttreinen naar en van verdere  Europese bestemmingen starten.  Toch kan op dit 
+vlak nog veel verbeterd worden. Dit past zeker in het beleid  van Europa, maar wij 
+kunnen dit uiteraard vanuit Vlaanderen extra ondersteunen.  
+Daarnaast zet ik sowieso  in de komende jaren verder in op het verduurzamen van de 
+toeristische sector. Duurzaamheid  was bijvoorbeeld een van de thema’s waarvoor 
+toeristische ondernemingen aanspraak konden  doen op een financiering  via het Vlaams  
+Stimulusprogramma.  

@@ -1,0 +1,83 @@
+title: Inductief opladen van elektrische wagens - Stand van zaken
+thema: Mobiliteit en Verkeer
+Openbare werken
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1747684
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1548407
+SCHRIFTELIJKE VRAAG
+nr. 1545
+van CARMEN RYHEUL
+datum: 25 augustus  2021
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT  EN OPENBARE  WERKEN
+Inductief opladen van elektrische wagens  -  Stand van zaken
+Er wordt met de regelmaat  van de klok gewag  gemaakt van het tot de verbeelding 
+sprekende idee dat elektrische wagens opgeladen zouden kunnen worden op de weg 
+tijdens het rijden. Dat zou verwezenlijkt  kunnen worden aan de hand van zogenaamde 
+‘magnetische wegen’.  Een dergelijke  weg zou bestaan uit cement en (gerecycleerde, uit 
+elektronisch afval bijvoorbeeld) magnetische deeltjes  (gemagnetiseerd cement). Wanneer 
+een elektrische  wagen over deze weg zou rijden, vindt er een overdracht van elektrische 
+energie plaats waardoor de wagen opgeladen  wordt.
+De Indiana Department of Transportation van de Amerikaanse staat Indiana,  de National 
+Science Foundation van de Amerikaanse regering, de Purdue University  en de Duitse firma 
+Magment hebben onlangs  een publiek-privaat partnerschap  afgesloten om dergelijk 
+gemagnetiseerd cement  te ontwikkelen. Er zullen  eerst laboratoriumtesten plaatsvinden, 
+vervolgens een test op een 400 meter lange  weg en tot slot een test op diezelfde  weg met 
+zware vrachtwagens  die op hoog vermogen  rijden (200 kW en meer). Bij een succesvol 
+verloop wil de staat Indiana de technologie toepassen op een veel langer traject  op een 
+van zijn interstatelijke snelwegen.
+Een andere vorm van draadloos laden van elektrische wagens  is het zogenaamd stationair  
+inductief laden waarbij een autobatterij kan worden opgeladen  op een vaste plek 
+(bijvoorbeeld op een parkeerplaats  of stelplaats van een bus).
+1.Lopen er op dit moment proefprojecten in Vlaanderen op het vlak van (rijdend en 
+stationair) inductief laden?  Zo ja, graag een overzicht van de projecten  waarover het 
+gaat, hun looptijd en wie de betrokken actoren  zijn en hoeveel subsidie deze 
+proefprojecten ontvangen van de Vlaamse overheid. Werden  deze projecten  al 
+(tussentijds) geëvalueerd?
+2.In 2013 vond er een gedachtewisseling plaats over het eerste jaarverslag van de 
+‘Vlaamse Proeftuin Elektrische Voertuigen’.  Uit het verslag blijkt dat er in 2013 reeds 
+geëxperimenteerd werd in Vlaanderen  met rijdend inductief  laden (binnen Flanders’ 
+DRIVE, nu opgegaan in Flanders MAKE) en met stationair  inductief  laden aan de 
+stelplaatsen met elektrische bussen  van De Lijn. 
+a)Hoe werden deze projecten in het verleden  geëvalueerd en werden  deze op 
+enigerlei wijze voortgezet?
+b)Hebben  er in het verleden  nog andere proefprojecten  plaatsgevonden in 
+Vlaanderen? Zo ja, welke en hoe werden deze geëvalueerd?
+3.Heeft  de minister weet van private,  publieke of privaat-publieke onderzoeksprojecten 
+of partnerschappen in de Europese Unie die eveneens trachten (stationaire en 
+rijdende) draadloze  oplaadtechnologie  te ontwikkelen? Zo ja, om welke projecten gaat 
+het, welke actoren  zijn hierbij betrokken en wordt hierbij  ook gekeken naar de 
+ontwikkeling van gemagnetiseerd cement of wordt er ingezet  op de ontwikkeling van 
+andere technologieën?
+4.Wat is de visie van de minister op de rol die (stationair en rijdend) inductief laden  kan 
+spelen in de (nabije) toekomst  wat betreft de uitrol van laadinfrastructuur in 
+Vlaanderen?
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT  EN OPENBARE  WERKEN
+ANTWOORD
+op vraag nr. 1545 van 25 augustus 2021
+van CARMEN RYHEUL  
+1.Er lopen bij mijn weten momenteel geen proefprojecten voor inductief  laden in 
+Vlaanderen. 
+2.Er is een tiental jaren geleden  een proefproject geweest waarbij drie bussen van De 
+Lijn ook inductief zouden worden opgeladen.  Dit proefproject vond plaats binnen  de 
+toenmalige innovatieproeftuin,  die afliep eind 2014. De piste van stationair  inductief  
+laden werd verlaten gezien de andere wijzes van laden veel beter bleken. De 
+aanbieders van toen ondersteunen deze technologie niet meer. We hebben geen weet 
+van verdere werkzaamheden  hierrond of andere proefprojecten in Vlaanderen. 
+3.Er is eind 2019 een uitgebreid rapport verschenen over dit onderwerp binnen het 
+Europese Technology collaboration programme  
+https://www.aramis.admin.ch/Default?DocumentID=65222&Load=true. De Vlaamse 
+overheid was hier niet rechtstreeks  bij betrokken.
+4.Bij de aanvang van de Vlaamse beleidsinitiatieven in 2015 is ervoor gekozen om volop 
+te focussen op de laadpalen met connectie. Het inductief laden stond  (en staat) nog 
+in zijn kinderschoenen en bovendien bleek uit vooral Nederlandse  proefprojecten  dat 
+deze technologie minder performant  was (en is). Als redenen worden vooral 
+genoemd: (1) hogere kosten (investering en onderhoud);  (2) hogere 
+energieverliezen; (3) gebrek  aan standaardisatie/interoperabiliteit  tussen auto’s  en 
+laadsystemen en (4) complexer  om storingen aan (ondergrondse)  infrastructuur op 
+te lossen.
+In de nieuwe CPT-visie 2030 ‘Op weg naar zero-emissievervoer’ wordt wel een 
+opening gelaten.  Er is aangegeven dat inductieve laadsystemen in de toekomst extra 
+mogelijkheden en meer flexibiliteit kunnen bieden.  Het zal echter nog moeten blijken  
+of en wanneer de technologie voldoende matuur kan worden om complementair aan 
+de klassieke  laadinfrastructuur ingezet  te worden in Vlaanderen.

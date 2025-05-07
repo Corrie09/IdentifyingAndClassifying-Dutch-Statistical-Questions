@@ -1,0 +1,77 @@
+title: Burgerbevraging Gemeente-Stadsmonitor - Methodiek
+thema: Lokale overheden en Binnenlands bestuur
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1741157
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1539005
+SCHRIFTELIJKE VRAAG
+nr. 352
+van BRECHT WARNEZ
+datum: 29 juni 2021
+aan BART SOMERS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING,  VLAAMS MINISTER VAN BINNENLANDS BESTUUR, 
+BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN
+Burgerbevraging Gemeente-Stadsmonitor   -  Methodiek
+Op 16 juni 2021 werd de nieuwe Gemeente-Stadsmonitor gelanceerd. Een belangrijk 
+moment voor vele steden  en gemeenten.  Een burgerbevraging is daarvoor één van de 
+belangrijke databronnen.
+Het Agentschap Binnenlands Bestuur  bevraagt - in samenwerking  met Statistiek 
+Vlaanderen - in elke gemeente een groep inwoners tussen 17 en 85 jaar. In totaal worden  
+bijna 400.000 burgers uitgenodigd om de bevraging  in te vullen.
+1.Op welke wijze werden de 400.000 burgers geselecteerd?  Hoe werd de 
+representativiteit daarbij binnen elke gemeente gegarandeerd?
+2.Hoeveel burgers  hebben uiteindelijk  de bevraging ingevuld? Graag een overzicht per 
+provincie en per gemeente met opdeling  per geslacht en per leeftijdscategorie.
+3.Ziet de minister een lagere responsgraad in bepaalde gemeenten? Kwam de 
+representativiteit in het gedrang in bepaalde gemeenten door een beperkte of 
+atypische responsgraad?
+4.Hoe evalueert de minister  de methodiek?
+BART SOMERS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING,  VLAAMS MINISTER VAN BINNENLANDS BESTUUR, 
+BESTUURSZAKEN, INBURGERING EN GELIJKE KANSEN
+ANTWOORD 
+op vraag nr. 352 van 29 juni 2021
+van BRECHT WARNEZ
+1.In elke Vlaamse gemeente werd een representatief  staal van de inwoners  van 17 tot en 
+met 85 jaar bevraagd,  zodat voor elke gemeente  statistisch betrouwbare  uitspraken 
+mogelijk zijn. In totaal werden voor alle 300 gemeenten  samen 377.530  personen 
+gevraagd om deel te nemen aan het onderzoek.
+De steekproeftrekking gebeurde door het Rijksregister en dit op basis van een 
+steekproefplan. De steekproef is gebaseerd op een impliciete stratificatie: de 
+populatielijst werd geordend volgens geslacht, leeftijd en nationaliteit, waarna 
+systematisch eenheden werden geselecteerd. Stel bijvoorbeeld  dat er in een gemeente 
+van 50.000 inwoners 500 mensen  geselecteerd moeten worden. De sprong is dan gelijk 
+aan 100. Er wordt een toevalsgetal (t) getrokken tussen 1 en 100. De steekproef  bevat 
+dan de elementen t, 100+t, 200+t…  Elke inwoner  had op die manier evenveel kans om 
+aan het onderzoek deel te nemen.  Dit is een eerste voorwaarde voor representativiteit  
+van de respons. Zo zijn voor elke gemeente  statistisch betrouwbare uitspraken mogelijk 
+over de tevredenheid,  het gedrag en de participatie van inwoners.  Om het aantal te 
+trekken personen  te bepalen per gemeente gaan we uit van een responsgraad tussen  
+35-40 percent.  De getrokken steekproeven  per gemeenten is daarbij dus steeds een 
+weerspiegeling van de populatie in de gemeente naar leeftijd,  geslacht  en nationaliteit.
+Door een voldoende grote steekproef  te trekken  zetten  we in op een respons die een 
+goede weerspiegeling is van de steekproef en in het verlengde de populatie van de 
+gemeente. Natuurlijk kan er in de respons nog steeds een vertekening  optreden omdat 
+bepaalde groepen meer of minder antwoorden. Om de non-responsvertekening door de 
+over- en ondervertegenwoordiging  van bepaalde groepen te ondervangen, worden 
+statistisch verantwoorde gewichten berekend  voor de uiteindelijke steekproef. Die 
+houden rekening met de leeftijd/geslacht-verdeling in de gemeenten en met de 
+bevolkingsomvang.
+2.Van de 377.530 aangeschreven personen vulden er 150.326 de vragenlijst in. Dit is een 
+bruto respons  van 39,8%. Na kwaliteitscontroles  door de Vlaamse Statistische  Autoriteit 
+bedraagt de netto respons 36,9% (139.470 personen). De responsgraden zijn publiek  
+te consulteren op de website Gemeente-Stadsmonitor (https://gemeente-
+stadsmonitor.vlaanderen.be/burgerbevraging).  Zie ook de bijlage.
+3.Voor nagenoeg alle gemeenten is de respons voldoende groot om betrouwbare  en valide 
+uitspraken te doen. Alleen voor Herstappe is de respons te klein.  Voor deze gemeente 
+zijn er daarom  geen surveyresultaten,  al worden  de resultaten van de respondenten  uit 
+Herstappe wel meegenomen voor het berekenen van de surveyresultaten  op het niveau 
+van het Vlaamse  Gewest. Voor 5 gemeenten  is de respons aan de lagere  kant (< 250 
+eenheden), maar laten de aantallen toch toe om uitspraken  te doen,  zoals steeds 
+rekening houdend met een bredere foutenmarge  en de betrouwbaarheidsintervallen (zie 
+ook: https://gemeente-stadsmonitor.vlaanderen.be/burgerbevraging ). 
+4.Dit is één van de grootste  bevragingen in Vlaanderen, die wetenschappelijk uniform 
+wordt georganiseerd  en verwerkt. Ze geeft elk lokaal bestuur twee momenten  waarop 
+de resultaten  beschikbaar zijn, bij de start en op het einde van de lokale 
+bestuursperiode. Vanuit het oogpunt van kosten-baten  is deze methodiek en aanpak 
+efficiënt. 
+BIJLAGE
+Overzicht respons en representativiteit Gemeente-Stadsmonitor
