@@ -1,0 +1,155 @@
+title: Lokale overstromingen - Flooding-project imec
+thema: Natuur en Milieu
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1751858
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1549625
+SCHRIFTELIJKE VRAAG
+nr. 1350
+van BRECHT WARNEZ
+datum: 10 september 2021
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Lokale overstromingen  -  Flooding-project  imec
+Tussen 13 en 15 juli 2021 kreeg ons land te maken met bijzonder hoge 
+neerslaghoeveelheden, met overstromingen tot gevolg. Dergelijke rampen  dienen in de 
+toekomst vermeden  te worden.
+‘Flooding: proactief  ingrijpen bij plotse stedelijke overstromingen’ is een van de slimme 
+projecten van imec (Interuniversitair Micro-elektronicacentrum), een Vlaamse organisatie 
+en onderzoekscentrum  voor nano-elektronica en digitale technologie. Samen met zijn 
+partners, i.e. Brandweer  Zone Antwerpen, VITO (Vlaamse  Instelling voor Technologisch 
+Onderzoek), water-link en Hydroscan, met steun van VLAIO  (Agentschap Innoveren en 
+Ondernemen), heeft imec onderzocht of het mogelijk  is om lokale  overstromingen in het 
+kader van ‘smart cities’ (grondiger) te voorspellen.
+In juni 2019 werden de resultaten van het project voorgesteld: het is mogelijk om tot 3 
+uur op voorhand en met grote nauwkeurigheid  aan de hand van realtime informatie  van 
+sensoren in rioleringen en waterstromen, alsook van meetinstallaties aan de oppervlakte, 
+te voorspellen of en waar stedelijke overstromingen zullen plaatsvinden tot op 
+straatniveau. Op die manier kunnen instanties en burgers tijdig en meer gericht verwittigd 
+worden.
+1.Heeft  de minister weet van dit flooding-project van imec?  Zo ja, hoe evalueert de 
+minister (de resultaten van) dit project, de recente overstromingen van medio juli 
+2021 indachtig?
+2.Ziet de minister een mogelijkheid  om dit project operationeel te maken in Vlaanderen? 
+a)Zo ja, is er een investeringsplan  voorhanden? Is er een stappenplan voorhanden? 
+Graag ook een overzicht  qua timing.
+b)Zo niet, hoe denkt de minister de bezorgdheid die er bij de bevolking  heerst te 
+beantwoorden mede gelet op de beleidsnota van de minister waarin melding 
+gemaakt wordt van een gebiedsgerichte projectwerking  teneinde  de risico’s op 
+overstromingen te verminderen?
+3.Indien het budgettair niet haalbaar is om dergelijke flooding-technologie in heel 
+Vlaanderen operationeel  te maken,  vindt de minister het dan wel opportuun om dit 
+project op bepaalde kritische punten in Vlaanderen (bijvoorbeeld 
+overstromingsgevoelige gebieden)  uit te rollen?
+4.Heeft  de minister weet van andere lokale besturen  die, in navolging van het 
+pilootproject in Antwerpen, gebruikmaken  of wensen gebruik te maken van dergelijke 
+flooding-technologie (Flood4Cast),  ontwikkeld door imec en zijn partners?  
+a)Zo ja, heeft de minister zicht op de evolutie  van dergelijke eventuele 
+proefprojecten/samenwerkingen?
+b)Zijn er lokale  initiatieven die in dat kader subsidies aangevraagd hebben? Zo ja, 
+graag een overzicht  per project, per lokaal bestuur.
+5.Heeft  er overleg plaatsgevonden tussen de minister en imec omtrent de resultaten van 
+het flooding-project? 
+a)Zo ja, hoe ziet de minister het mogelijke  verdere verloop  van de samenwerking  
+met imec?
+b)Zo niet, plant de minister een overleg met imec en zijn partners?  In het laatste  
+geval, heeft de minister er reeds  zicht op wanneer een dergelijk  overleg  zou 
+kunnen plaatsvinden?
+ZUHAL DEMIR
+VLAAMS MINISTER  VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD 
+op vraag nr. 1350 van 10 september  2021
+van BRECHT WARNEZ
+1.Binnen het Vlaams beleid van de Meerlaagse Waterveiligheid, is er ook steeds aandacht 
+gegaan naar het spoor van de paraatheid,  en dus ook het voorspellen en waarschuwen 
+voor kritieke overstromingen.  In het bijzonder  in een wijzigend  klimaat  met frequentere 
+en extremere pluviale en fluviale overstromingen zijn performante  waarschuwingen 
+i.f.v. concreet handelingsperspectief van zowel de bevolking als de hulpdiensten van 
+cruciaal belang. Het Hydrologisch  Informatiecentrum HIC en de Vlaamse 
+Milieumaatschappij beschikken sinds meer dan 10 jaar over performante 
+voorspellingssystemen voor fluviale overstromingen vanuit  de bevaarbare  resp. 
+onbevaarbare waterlopen. Deze systemen  hebben in het verleden reeds  meermaals 
+hun nut bewezen zo ook tijdens de recente overstromingen in juli. Op basis van deze 
+modellen werden de federale  en provinciale crisisdiensten meer dan 24 uur op voorhand 
+gewaarschuwd. Daarnaast gaven VMM en HIC op basis van deze modellen  advies aan 
+crisisdiensten en lokale besturen én namen ze de nodige acties  om schade aan 
+infrastructuur tot een minimum te beperken.
+Naast de fluviale overstromingen  is het belangrijk ook aandacht  te hebben voor het 
+overstromingsrisico als gevolg van intense neerslagbuien, zogenaamde  pluviale 
+overstromingen. In stedelijke gebieden kunnen rioleringen  het water niet meer slikken 
+maar ook in landelijke gebieden kunnen, voornamelijk  in steile zones, modderstromen  
+voorkomen die heel wat schade aanrichten. Het Flooding-project  kan vooral voor de 
+pluviale overstromingen  een meerwaarde bieden.
+Het flooding-project werd zowel door IMEC als de partner Hydroscan reeds meermaals  
+toegelicht aan mijn administratie (VMM) en aan mijn kabinet, zowel de algemene 
+project-opzet als de specifieke  resultaten voor het testgebied Merksem-Ekeren.  Ik 
+begrijp hieruit  dat het zogenaamde  Flood4Cast-project gebruik  maakt van Vlaanderen 
+dekkende informatiebronnen  zoals real-time neerslagradarbeelden en hoge-resolutie 
+offline overstromingskaarten. De extremiteit of terugkeerperiode van de reeds 
+waargenomen en voor de komende 3u voorspelde neerslag wordt vertaald naar een op 
+voorhand aangemaakte overstromingskaart met de overeenkomstige 
+terugkeerperiode. Op deze manier kunnen lokale hulpverleners worden gewaarschuwd 
+en krijgen ze zicht op de zones die mogelijks  wateroverlast zullen kennen, welke  
+woningen kunnen getroffen worden, …  
+2.a)Ik steun de noodzaak om zo snel als mogelijk  in elke gemeente in Vlaanderen tot 
+performante voorspellingen  en waarschuwingen  voor pluviale wateroverlast  te 
+komen. Het flooding-project van Imec en partners kan hiertoe een goede startbasis  
+zijn, maar er zijn nog verder  uit te klaren / uit te werken punten.
+In opvolging van het flooding-project worden in opdracht van VMM door Hydroscan 
+modellen opgemaakt die pluviale wateroverlast kunnen  simuleren voor enkele  
+Vlaamse pilootgebieden. In deze nieuwe generatie Flood4Cast-modellen wordt  de 
+wateroverlast real-time  gesimuleerd eerder  dan dat er een link wordt gelegd  van 
+de extremiteit  van de neerslag naar een vooraf  aangemaakte overstromingskaart.  
+Dit maakt dat dergelijke modellen ook kunnen worden toegepast om de impact van 
+klimaatadaptatiemaatregelen te onderzoeken. In een aanvullend project door 
+Hydroscan, Vito en VMM werd een inspanningsverbintenis afgesproken voor het 
+verder kunnen  valoriseren van deze opgebouwde  modellen. De toepassing van deze 
+modellen voor real-time voorspellingen  is een mogelijke evolutie die we verder 
+willen onderzoeken. In een real-time context worden de modellen immers  gevoed 
+met voorspelde  neerslag  die vaak erg wispelturig en dus onzeker is wat uiteraard  
+belangrijke gevolgen heeft voor de betrouwbaarheid van de voorspelde  
+overstromingen, de mate waarin het systeem  tijdig waarschuwingen  genereert, …. 
+Uit de pilootstudie zal moeten  blijken of deze nieuwe Flood4Cast-modellen  
+voldoende performant en betaalbaar op te stellen zijn voor gans Vlaanderen. Zoniet 
+zou kunnen overwogen worden om de meer pragmatische  Flood4Cast-variant die 
+werd toegepast in Merksem-Ekeren op te stellen voor gans Vlaanderen. Een nog 
+pragmatischer alternatief is om te waarschuwen  louter op basis van de extremiteit 
+van de waargenomen  en voorspelde neerslag zonder output te genereren m.b.t. de 
+impact van de wateroverlast (bv. overstromingskaarten) wat op een kortere  termijn 
+realiseerbaar is. 
+Ook de resultaten van lopende proefprojecten bij andere opdrachtgevers, wensen 
+we in rekening  te brengen bij het stappenplan waarmee we vanuit  Vlaanderen het 
+overzicht en de regie willen bewerkstellingen.
+b)Niet van toepassing
+3.De lopende pilootstudie en verdere  besprekingen dit najaar met enerzijds  
+IMEC/Hydroscan en VMM moeten  meer duidelijkheid verschaffen in de precieze  scope 
+van de Flood4Castrft-technologie voor Vlaanderen en de bijhorende kostenraming. 
+Hieruit moet de haalbaarheid blijken voor een korte-termijn toepassing voor alle 300 
+Vlaamse gemeenten. Of een fasering over enkele  jaren nodig is, of er moet worden 
+uitgekeken naar meer pragmatische voorspellingssystemen, … Is vandaag nog niet 
+duidelijk.
+4.a)De VMM heeft weet van het pas opgestarte proefproject  met Leuven en Sint-
+Genesius-Rode, waarin de Flood4Cast technologie  zal geëvalueerd worden, en 
+mogelijks uitgebreid naar de volledige provincie Vlaams-Brabant. 
+Ook werd Vlaanderen gemeld dat er interesse zou zijn vanuit  het Federale 
+Crisiscentrum en budgetten die vanuit het Paragon-project zouden kunnen  benut  
+worden.
+Ik verwijs ook naar de jarenlange ervaring en lopende  projecten  binnen  VMM voor 
+fluviale voorspellingssystemen. In 2020 werd een eerste pilootproject  voor het 
+Demerbekken opgestart  om met de Delft-FEWS software  van het Nederlandse 
+Deltares fluviale overstromingen te voorspellen met aandacht voor aspecten als en 
+onzekerheid en impact van te verwachten  overstromingen. Er zal afstemming  nodig 
+zijn tussen de output van voorspellingssystemen voor fluviale en pluviale 
+overstromingen en eventueel zelfs een verregaande integratie ervan.  
+Gezien dit (groeiend) aantal  projecten, wensen we vanuit  de Vlaamse Overheid het 
+overzicht te behouden op deze evoluties zodat we een coherent  en performant 
+instrumentarium kunnen uitbouwen  in functie  van een verdere optimalisatie van het 
+crisisbeheer.
+b)Ik heb geen weet van lokale initiatieven die in dat kader subsidies aangevraagd  
+hebben.
+5.a)In augustus was er overleg met mijn kabinet, de VMM en de IMEC-partner 
+Hydroscan. Op dit overleg werd afgesproken elkaar te informeren  over de verdere 
+resultaten.
+Voor het verdere verloop van de samenwerking,  heb ik aan VMM gevraagd om 
+hierover verder in overleg te treden met Hydroscan  en/of IMEC. Zowel de technisch-
+inhoudelijke opties als het financieringsluik  kunnen daarbij verder afgestemd 
+worden.
+b)Niet van toepassing

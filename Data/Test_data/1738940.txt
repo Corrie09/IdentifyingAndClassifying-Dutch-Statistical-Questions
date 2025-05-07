@@ -1,0 +1,239 @@
+title: Broeikasgassen - HFK-23-vervuiling
+thema: Natuur en Milieu
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1738940
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1535520
+SCHRIFTELIJKE VRAAG
+nr. 1181
+van MIEKE  SCHAUVLIEGE
+datum: 21 juni 2021
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Broeikasgassen  -  HFK-23-vervuiling
+In Apache werd een artikel gepubliceerd waaruit blijkt dat er jarenlang een equivalent 
+van 1,78 megaton CO2 of ongeveer 4% van de totale uitstoot van broeikasgassen in heel 
+Vlaanderen werd ondergerapporteerd  in de broeikasgasinventarisatie aan de Europese  
+Commissie. Het gaat concreet over de periode 1990 tot 2018.  Het zou gaan over grote 
+hoeveelheden HFK-23, een extreem zwaar broeikasgas, meer bepaald zogenaamde  F-
+gassen, die uitgestoten  werden door één bedrijf: 3M in Zwijndrecht.
+1.Een bijstelling  van 4% van de totale broeikasuitstoot in Vlaanderen is significant. 
+Daarmee is het aandeel  broeikasgasemissies  uit F-gassen in de totale uitstoot van 
+Vlaanderen meer dan verdubbeld.
+Valt zo’n bijstelling binnen de foutenmarge van de gerapporteerde 
+broeikasgasemissies?
+2.Klopt het dat deze bijstelling volledig terug te brengen is tot de uitstoot van één 
+bedrijf? En zo ja, welke stappen  zijn er ondernomen ten opzichte van dat bedrijf?
+3.Hoe werd deze niet opgemerkte gigantische extra uitstoot van broeikasgassen 
+ontdekt?
+4.Betreft het een fout in de gerapporteerde  data? Of gaat het om een niet eerder 
+gedetecteerd lek van F-gassen?
+5.De data in de broeikasgasinventaris werden aangepast voor de periode 1990-2018. 
+Waarom werd dit zo laat pas ontdekt?
+6.Werden er eerder al dergelijke grote aanpassingen aan de inventaris  uitgevoerd? Zo 
+ja, was de oorzaak  toen een niet ontdekt lek of een fout in de gerapporteerde  data?
+7.Welke impact op de emissiereductiedoelstelling voor de periode 2020-2030 heeft 
+deze ontdekking (zowel in termen van het totale  berekende  emissiebudget voor deze 
+verbintenisperiode als in de haalbaarheid van de doelstelling  zelf)? Heeft deze 
+bijstelling implicaties  voor de berekening van het startpunt  van de 2030-doelstelling 
+en dus op de totale inspanningsverplichting  van België voor de periode 2021-2030?
+8.Wat is het plan van aanpak van de minister  met betrekking tot het Vlaams  
+Klimaatbeleidsplan 2021-2030  om de doelstelling met betrekking tot de reductie  van 
+F-gassen bij productieprocessen tijdig te halen,  overeenkomstig de doelstelling 
+opgenomen in het Vlaams Klimaatbeleidsplan?  Is die doelstelling  nog haalbaar met 
+de nieuwe  informatie?
+1ZUHAL DEMIR 
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD
+op vraag nr. 1181 van 21 juni 2021
+van MIEKE  SCHAUVLIEGE
+1.Zoals  toegelicht in het derde voortgangsrapport over het Vlaams  Mitigatieplan 2013-
+2020 dat op 9 oktober 2020 meegedeeld werd aan de Vlaamse regering, is er 
+inderdaad voor een hele tijdsreeks een significante bijstelling gebeurd  van de 
+emissiecijfers van de F-gassen in de Vlaamse broeikasgasinventaris. Deze verhoging 
+varieerde tussen de 0,5 en 1,5 Mton CO2eq per jaar, en dus niet “jarenlang 1,78 Mton 
+CO2eq”, zoals in de vraagstelling  wordt  vermeld. 
+Het gaat hierbij  vooral om een bijkomende  rapportering van emissies van het gas HFK-
+23, waarvan vroeger werd vermoed  dat het een emissie  betrof  van andere 
+gefluoreerde broeikasgassen die niet onder de internationale  
+rapporteringsverplichtingen vielen.  
+Deze aangepaste  emissiecijfers werden reeds  op 15 maart  2020 aan de Europese 
+Commissie en op 15 april 2020 aan het UNFCCC-secretariaat officieel gerapporteerd.
+Deze aanpassing zorgde voor een stijging  van het aandeel van de F-gasemissies in de 
+totale broeikasgasinventaris van 2 tot 4% over deze periode i.p.v. voordien  een 
+aandeel van 1 tot 3%.
+De internationale aanbevelingen inzake  ‘good practice’ bij het opstellen van nationale  
+broeikasgasinventarissen, stellen dat inschattingen van emissies continu moeten 
+verbeteren, en moeten worden bijgesteld wanneer blijkt dat deze daardoor accurater  
+gebeuren. Nieuwe  inzichten  kunnen  leiden tot nieuwe  inschattingen  van emissies die 
+nadien ook officieel moeten worden gerapporteerd. Eén van de overwegingen bij een 
+herberekening is dat de consistentie in de tijdsreeks steeds behouden blijft en dat over 
+de motivatie van de herrekening  gedetailleerd wordt  gerapporteerd. 
+Broeikasgasinventarissen inclusief  eventuele herrekeningen worden jaarlijks 
+onderworpen aan meerdere reviews op het Europese (European Environment Agency) 
+en internationale niveau  (UNFCCC) waarbij een team van experten de gerapporteerde 
+emissies van alle gassen  en alle sectoren intensief doorlicht en waar nodig, 
+aanpassingen aan de emissiecijfers  vraagt.  De Belgische broeikasgasinventaris  waarin 
+deze herberekening van de uitstoot  van F-gassen was vervat en werd toegelicht, werd 
+door deze experten officieel  goedgekeurd. 
+2.Deze herberekening  van de emissies is inderdaad volledig toe te schrijven aan de 
+uitstoot van één bedrijf, namelijk  3M in Zwijndrecht. In 2015 rapporteerde  3M aan de 
+Vlaamse overheid via het Integraal Milieu  Jaarverslag (IMJV) een veel hogere uitstoot 
+van F-gassen (+HFK’s) voor het jaar 2014 in vergelijking  met de rapportage  van de 
+voorgaande jaren.
+Omwille van een aantal  onduidelijkheden, onvoldoende garanties ivm de correctheid 
+van de nieuwe  berekeningswijze  van de uitstoot, de belangrijke  impact hiervan,  en het 
+feit dat er inzake de overstap naar de nieuwe methodologie problemen  waren om ze 
+op korte termijn ook door te trekken naar het verleden (en derhalve een consistente 
+tijdreeks te garanderen) werd in overleg  met VMM, 3M en departement Omgeving  
+beslist om: 
+1) niet onmiddellijk  over te stappen  naar de nieuwe monitoringsmethodologie -en 
+dus nog geen opname van deze cijfers in de officiële rapporteringen van de 
+2broeikasgasemissies- maar hieromtrent vooreerst verder  overleg te plegen om de 
+nieuwe berekeningswijze van de F-gasuitstoot  te valideren, en 
+2) tegelijkertijd te focussen op de mogelijkheden  om de F-gasuitstoot te beperken. 
+Dit  was de aanleiding voor een regelmatig en intensief overleg tussen het departement 
+Omgeving (intussen VEKA), VMM en het bedrijf 3M. 
+Mede als gevolg van dit overleg is de monitoring en rapportering  van de F-gasuitstoot 
+van 3M verder verfijnd, geobjectiveerd en werd een consistente  tijdreeks opgesteld. 
+Daarnaast werden ook bijkomende maatregelen genomen om de uitstoot van dit 
+bedrijf te beperken: zo werd in het Vlaams Energie-  en Klimaatplan 2021-2030 
+opgenomen dat het bedrijf extra inspanningen moet leveren om de jaarlijkse uitstoot  
+aan F-gassen (volgens de nieuwe berekeningsmethode) zo snel mogelijk terug te 
+dringen tot 0,15 Mton CO2-eq.,  en werd deze doelstelling  ook vertaald en 
+geconcretiseerd in de bijzondere voorwaarden van de omgevingsvergunning. Aan de 
+hand van een halfjaarlijks  overleg wordt de implementatie van deze en bijkomende 
+maatregelen momenteel nauwgezet opgevolgd. Verscheidende  reducerende 
+maatregelen zijn reeds in uitvoering.
+ 
+3.Zoals  hierboven aangegeven, rapporteerde  3M in 2015 via het IMJV veel hogere 
+emissie-uitstoot van F-gassen (HFK’s) voor het jaar 2014 in vergelijking  met de 
+rapportage van de voorgaande jaren. De rapportering van de verhoogde F-gasuitstoot  
+was het gevolg  van nieuwe  inzichten bij het bedrijf naar aanleiding van 
+laboratoriumsimulaties van bepaalde specifieke productieprocessen die het bedrijf in 
+de VS in 2014 was opgestart om in het kader van haar duurzaamheidsdoelstellingen 
+de uitstoot van dit bedrijf  beter in te schatten en wereldwijd terug te dringen. 
+Deze simulaties  toonden aan dat de HFK-emissies vermoedelijk sterk onderschat 
+werden en de emissie van andere gefluoreerde producten -die niet onder de 
+internationale rapporteringsverplichtingen  vielen- waren overschat.
+Onder meer op vraag van de Vlaamse overheid is door het bedrijf sindsdien een proces 
+opgestart om de methodiek voor de emissie-inschattingen voor de vestiging  in 
+Zwijndrecht veel beter  te onderbouwen,  te documenteren en waar mogelijk te 
+herberekenen. Omdat het om een uniek en complex proces in Europa gaat, heeft dit 
+heel wat tijd gevraagd  en heel wat studiewerk vereist:
+Voor elk deel van de verschillende  productiefasen werden de best mogelijke 
+inschattingen van de emissies  beoogd. 
+Eind 2015 gebeurden  er bijvoorbeeld lokale metingen op de plaats  van de 
+meest relevante productieprocessen. Deze metingen bevestigden de eerdere 
+indicaties. 
+In 2017 werden extra debietsmetingen op enkele productieprocessen 
+geïnstalleerd om de inschatting van de emissies nog beter te onderbouwen. 
+Om de bestaande methodiek die werd gebruikt om de emissies van de 
+naverbrander te bepalen, nog verder  te verfijnen, werd in 2021 ook een 
+continue meting op de uitlaat geïnstalleerd,  die de periodieke staalnames zal 
+vervangen. Deze continue meting werd a.d.h.v. een bijzondere voorwaarde aan 
+het bedrijf opgelegd via een besluit  van de Deputatie van 17 september  2020. 
+Via een besluit van de deputatie van 3 januari  2019 werd in de 
+omgevingsvergunning van 3M als bijzondere  voorwaarde opgelegd dat – naar  
+analogie met bedrijven  die onder het systeem van emissiehandel vallen - een 
+monitoringplan voor de F-gassen  moest worden  opgesteld. In 2019 werd dit 
+monitoringplan door een onafhankelijke  instelling  (het Verificatiebureau 
+Benchmarking Vlaanderen (VBBV)) geverifieerd,  en door de 
+beleidsverantwoordelijken binnen het Departement Omgeving (intussen  VEKA)  
+3goedgekeurd. In dat monitoringplan wordt de nieuwe berekeningsmethode  
+uitvoerig beschreven en gedocumenteerd.
+Op basis van de methodologie vervat in dat monitoringplan werden de emissies 
+voor de periode 2005-2018  nadien herberekend, en vervolgens  ook eveneens 
+geverifieerd door het VBBV. Deze bijgestuurde  emissie-inschattingen werden  
+als accurater beschouwd in vergelijking met deze die in het verleden  
+gerapporteerd werden. 
+4.Cfr. supra. Het gaat om een optimalisatie  van de methodiek voor de inschatting van 
+de emissies van het bedrijf op basis van nieuwe inzichten bij het bedrijf ten gevolge  
+van labo-experimenten en bijkomende metingen. 
+5.De data werden aangepast voor de periode  2005-2018. Een herberekening van de 
+uitstoot vóór 2005 werd niet uitgevoerd omdat  in het verleden andere 
+productieprocessen onder  andere omstandigheden verliepen en hieromtrent 
+onvoldoende cijfermateriaal beschikbaar  was om tot betrouwbaardere emissiecijfers 
+te komen. 
+6.Herberekeningen van emissies  gebeuren op regelmatige basis.  Dit kan verschillende 
+oorzaken hebben: accuratere inschattingen door gebruik te maken van de resultaten  
+van monitoring,  optimalisaties  van de gebruikte  modellen, het beschikbaar komen van 
+nauwkeuriger inputdata,  … 
+Internationale richtlijnen  die berekeningsmethodieken aanbevelen, worden  eveneens 
+constant onderworpen aan verder onderzoek. Betere inzichten  in emissie-
+inschattingen van de sectoren zorgen  ook voor aanpassingen aan deze richtlijnen.
+Wat België (en Vlaanderen) betreft, worden de herberekeningen steeds uitvoerig 
+toegelicht in het Nationaal Inventaris Rapport,  en wat Vlaanderen betreft  worden  deze 
+ook transparant vermeld in de jaarlijkse voortgangsrapporten die aan de Vlaamse 
+regering worden  medegedeeld. In het meest recente voortgangsrapport van 16 juli 
+2021 werd bijvoorbeeld verwezen naar een belangrijke aanpassing die werd 
+doorgevoerd aan de emissies van CH4 in de landbouwsector voor de volledige 
+tijdsreeks. De gewichtstoename-factor  werd geoptimaliseerd  bij het rundvee 
+(melkvee, zoogkoeien, runderen  ouder dan 2 jaar).  Dit resulteerde  in een daling  van 
+de emissies en dit zowel van de spijsverteringsemissies als van deze van mestopslag.  
+Het gaat over totale dalingen van emissies in de landbouwsector over de volledige 
+tijdsreeks van -330 tot -430 kton CO2-eq. Ook de andere gewesten voeren indien nodig 
+herberekeningen uit die eveneens een aanzienlijke impact  kunnen hebben.  
+Zoals  eerder gemeld als antwoord op vraag  1: internationale aanbevelingen inzake 
+‘good practice’ bij het opstellen van nationale broeikasgasinventarissen, stellen dat 
+inschattingen van emissies continu  moeten verbeteren, en moeten worden bijgesteld 
+wanneer blijkt dat deze daardoor accurater zijn. Nieuwe inzichten kunnen leiden tot 
+nieuwe inschattingen van emissies die nadien ook officieel moeten worden  
+gerapporteerd. 
+7.De Europese Commissie heeft de jaarlijkse niet-ETS  emissieruimten voor de lidstaten  
+voor de periode 2021-2030  vastgesteld in het Uitvoeringsbesluit (EU) 2020/2126 van 
+16 december 2020. Zoals  vermeld in dit uitvoeringsbesluit heeft de Europese 
+Commissie voor de desbetreffende  berekeningen gebruik  gemaakt van de meest  
+nauwkeurige beschikbare broeikasgasemissiegegevens zoals door de lidstaten  
+gerapporteerd in 2020 en vastgelegd na een uitgebreide beoordeling.
+4De bijstelling van de emissies van F-gassen was reeds opgenomen in de Belgische 
+broeikasgasinventaris zoals gerapporteerd  en beoordeeld in 2020. Daardoor is ze dus 
+ook inderdaad in rekening gebracht bij de vaststelling van de Belgische  niet-ETS 
+emissieruimte voor de periode 2021-2030, en is er bijgevolg eigenlijk geen impact op 
+het traject. In wat volgt, wordt daarom gesproken van een theoretische impact. 
+De theoretische impact van de bijstelling van de F-gas emissies op de basisjaren voor 
+de trajectberekening  en daarmee  ook op zowel het begin- als eindpunt van het traject 
+voor de periode 2021-2030, wordt  hieronder bepaald als het verschil ten opzichte van 
+een situatie  waarbij  rekening zou worden  gehouden met de F-gas emissies zoals 
+opgenomen in de inventarisrapportering van 2019. 
+De bijstelling van de F-gas emissies in de inventarisrapportering van 2020 heeft geleid 
+tot hogere emissies  in de basisjaren ten opzichte van de inventarisrapportering in 
+2019, namelijk +0,6 Mton CO2-eq in 2005, +0,9 Mton CO2-eq in 2016, +1,2 Mton CO2-
+eq in 2017 en +1,4 Mton CO2-eq in 2018. Aangezien de emissies voor het jaar 2018 
+nog niet opgenomen waren in de inventarisrapportering in 2019,  werd de impact voor 
+2018 theoretisch  ingeschat. Daarnaast  wordt  ook nog opgemerkt dat voor de 
+impactberekening gebruik werd gemaakt van CO2-equivalenten  en van de waarden 
+voor het aardopwarmingsvermogen die zijn vastgesteld in het 5e evaluatieverslag van 
+de Intergouvernementele  Werkgroep inzake klimaatverandering (de zogenaamde AR5 
+GWP-waarden). Voor de trajectbepaling  in de periode 2021-2030  maakt de Europese 
+Commissie immers ook gebruik  van deze GWP-waarden.  In de inventarisrapportering 
+van 2019 en 2020 werd daarentegen,  zoals verplicht, nog gebruik gemaakt van de 
+zogenaamde AR4 GWP-waarden.
+Aan de hand van deze bijgestelde basisjaaremissies kan ook de theoretische impact 
+op het traject voor de periode  2021-2030 worden ingeschat. Het betreft  een verhoogde  
+emissieruimte voor de volledige periode 2021-2030 met +6,9 Mton CO2-eq ten 
+opzichte van de situatie op basis van de inventarisrapportering in 2019. 
+Wat de haalbaarheid van de doelstelling betreft wordt verwezen naar het antwoord op 
+vraag 8.
+8.De grootste emissie van F-gassen bij het bedrijf, de zgn. HFK-23-uitstoot, is afkomstig  
+van een welbepaalde  stap in het productieproces  waarvan procesgassen in het 
+verleden nog niet waren aangesloten op de bestaande naverbrander van het bedrijf. 
+In de bijzondere  voorwaarden van de omgevingsvergunning werd via een besluit van 
+de deputatie van 17 september 2020 aan 3M opgelegd  om deze gassen  af te leiden 
+naar de naverbrander. 
+De intakking van deze procesgassen op de naverbrander werd ondertussen 
+gerealiseerd hetgeen  onmiddellijk voor een significante daling van de uitstoot zorgt.
+In 2021 zal ook een deel van de procesgassen worden afgeleid naar een nieuwe  
+naverbrander die een hogere  verbrandingsefficiëntie kent. Ook dit is via de bijzondere 
+voorwaarden van de omgevingsvergunning opgelegd via een besluit van de deputatie 
+van 17 september 2020.
+In het Vlaams  Energie- en Klimaatplan 2021-2030 is opgenomen dat het bedrijf extra 
+inspanningen moet leveren om de jaarlijkse uitstoot aan F-gassen (volgens  de nieuwe 
+berekeningsmethode) zo snel mogelijk terug te dringen tot 0,15 Mton CO2-eq. Deze 
+doelstelling werd ook vertaald en geconcretiseerd  in de bijzondere voorwaarden van 
+de omgevingsvergunning.
+5Daarnaast is er ook in de bijzondere voorwaarden  van de omgevingsvergunning 
+opgenomen dat het bedrijf  aan de Vlaamse Overheid  jaarlijks rapporteert over 
+mogelijke bijkomende maatregelen om de uitstoot nog verder te reduceren,  en dit met 
+het oog op het bereiken van de 0,15 Mton CO2eq streefdoelstelling.  Aan de hand van 
+een halfjaarlijks  overleg wordt een stand van zaken  over de lopende en geplande 
+maatregelen besproken.
+ 

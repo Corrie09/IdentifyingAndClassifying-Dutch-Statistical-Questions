@@ -1,0 +1,71 @@
+title: Zelfrijdende wagens - Proefproject Concorda
+thema: Mobiliteit en Verkeer
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1741484
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1542970
+SCHRIFTELIJKE VRAAG
+nr. 1474
+van PETER VAN ROMPUY
+datum: 7 juli 2021
+aan LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT  EN OPENBARE  WERKEN
+Zelfrijdende wagens   -  Proefproject Concorda
+Ik stel deze vraag in opvolging van een vraag om uitleg  (nr. 1455) in de vergadering  van 
+de commissie Mobiliteit van 28 januari 2021 betreffende  proefprojecten  met zelfrijdende 
+auto’s.
+Er waren toen nog geen resultaten bekend over het proefproject Concorda. Binnen het 
+project wordt ingezoomd  op de connectiviteit  en dataoverdracht voor geautomatiseerde 
+mobiliteit, en op mogelijke beleidsrelevante wijzigingen in het globale kader  van het 
+autonome rijden.  
+Gezien het belang van dit project vraag ik graag naar de resultaten en conclusies binnen  
+het proefproject Concorda.
+1.Wat zijn de resultaten en conclusies  van het proefprojecten Concorda?
+2.Zal het proefproject  een vervolg kennen? In welke vorm?
+LYDIA PEETERS
+VLAAMS MINISTER VAN MOBILITEIT  EN OPENBARE  WERKEN
+ANTWOORD
+op vraag nr. 1474 van 7 juli 2021
+van PETER VAN ROMPUY  
+1.Het Concorda-project (alsook  het parallelle ‘Smart Highway’) focuste op innovatieve 
+communicatietechnologieën (V2X) annex  beveiligde  data-overdracht, enen 
+onderzocht  de randvoorwaarden voor een veilige, stapsgewijze introductie van 
+geautomatiseerde voertuigen.
+Waar eerstgenoemde  activiteit werd gevalideerd middels 5 testomgevingen  – 
+waaronder het langs  de E313 uitgebouwde  ‘testbed Vlaanderen’, omvatte het tweede 
+luik een analyse van mogelijke business modellen, een doorlichting van relevante 
+wetgeving op vlak van communicatie(-protocollen), data-gebruik, cyber-security  en 
+aansprakelijkheid alsook, specifiek voor het Vlaamse  testbed, de ontwikkeling en 
+validatie van een real-time simulatiemodel  op microniveau.
+Zowel de uitbouw van de testomgevingen en de (evaluatie-) resultaten  hierbij  als de 
+uitgevoerde ‘studies’ zijn gedocumenteerd in rapporten die evenwel  slechts ten dele 
+publiek beschikbaar (zullen) zijn, middels de project-website 
+www.concordaproject.eu..
+Ook werden tijdens de looptijd van het project meerdere (wetenschappelijke)  papers 
+gepubliceerd.
+Als algemene conclusie  mag worden gesteld  dat (1) communicatietechnologie alsmaar 
+sneller evolueert en ook alsmaar performanter doch ook complexer blijkt en (2) een 
+ruimere introductie van geautomatiseerde  mobiliteit best stapsgewijze en 
+weldoordacht dient aangepakt, vanuit meerdere  perspectieven, en wel degelijk een 
+aantal aanpassingen meebrengt  en zelfs vergt op organisatorisch,  zakelijk en ook 
+regulerend vlak.
+2.Een aantal sporen  worden thans verder uitgediept voornamelijk via het project 5G-
+Blueprint dat mede door het Departement MOW aangestuurd wordt 
+(https://www.5gblueprint.eu/). Centraal hierin  staan ‘tele-geleide’  (logistieke)  
+operaties in grensoverschrijdende context  als opstap  naar geautomatiseerde 
+mobiliteit waarvoor 5G technologie onontbeerlijk wordt geacht. 
+Andere initiatieven die in enige mate een ‘opvolging’ inhouden  betreffen:
+-Het Mobilidata  programma dat een duurzame uitbouw van een Vlaamse  
+digitale data-infrastructuur beoogt,  als basis voor een ruimere uitrol van C-ITS 
+diensten – waarbij lessen uit eerdere pilootprojecten ter harte  worden 
+genomen, en in een latere fase ook zelfrijdende voertuigen;
+-Het proefproject ‘autonome  shuttles’ op de Terhills-terreinen, in samenwerking  
+met o.m. Flanders  Make (https://www.flandersmake.be/nl/nieuws/autonome-
+shuttles-zonder-veiligheidssteward-op-terhills-tegen-eind-2022);
+-Een transnationaal onderzoeksproject ‘Impact of CAD on Safe Smart Roads’ 
+onder auspiciën van CEDR (Conférence Européenne des Directeurs des 
+Routes), door AWV mede gefinancierd en ook opgevolgd, bedoeld om 
+nationale/regionale wegbeheerders voor te bereiden  op de uitdagingen  van 
+connectiviteit, digitalisatie en automatisatie in een wereld van coöperatieve, 
+geconnecteerd en autonome mobiliteit (start gepland einde 2021);
+-Tenslotte past het ook het project ‘Autoship’  te vermelden (Autoship-
+project.eu ), met o.m. De Vlaamse Waterweg als partner, dat de transitie naar 
+een nieuwe generatie van autonome vaartuigen analyseert.

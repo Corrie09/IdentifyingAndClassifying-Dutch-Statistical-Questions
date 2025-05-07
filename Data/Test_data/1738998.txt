@@ -1,0 +1,124 @@
+title: VDAB - Applicatie Talent API
+thema: Werk
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1738998
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1541520
+SCHRIFTELIJKE VRAAG
+nr. 940
+van AXEL RONSE
+datum: 2 juli 2021
+aan HILDE CREVITS
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER  VAN ECONOMIE, INNOVATIE, 
+WERK, SOCIALE ECONOMIE EN LANDBOUW
+VDAB  -  Applicatie  Talent API
+VDAB werkt samen  met Radix  om de best passende jobs aan te bieden. Zo werd de 
+applicatie Jobnet  ontwikkeld. Die wordt nu vervangen door Talent API. Deze software moet 
+de VDAB-medewerkers  bijstaan om jobadvies op maat te geven en vacatures beter te 
+koppelen aan werkzoekenden.
+Radix maakt voor de ontwikkeling van het nieuwe Talent API gebruik van artificiële 
+intelligentie (AI) en focust onder meer op synoniemen in vacatures, onderlinge 
+vaardigheden, het surfgedrag van de bezoekers  op de VDAB-website, de ervaring,…  Op die 
+manier gaat er meer aandacht naar de context. De nieuwe tool zal ook meer ingaan tegen 
+mogelijke vooroordelen.
+De uitdagingen rond digitalisering en de inzet van AI zijn bekend. Het belangrijkste daarbij 
+is dat naast vertrouwen  en transparantie,  AI ondersteunend wordt  ingezet. Het kan leiden 
+tot nieuwe inzichten, maar de finale beslissing  ligt bij de betrokkene en de VDAB-
+medewerker. De VDAB-experts  hebben  dan ook inzage in hoe de software  werkt en welke  
+parameters worden  gebruikt om jobs en werkzoekenden te koppelen.
+Daarnaast maakt VDAB gebruik van AI om de afstand tot de arbeidsmarkt in te schatten.
+1.Hoe evalueert VDAB de applicatie Jobnet?  Op welke manier  werd deze evaluatie  
+meegenomen bij de ontwikkeling van Talent API?
+2.Wat is het verschil  tussen  Jobnet en de nieuwe tool Talent API? Wat zal er veranderen 
+en wat zijn de nieuwe mogelijkheden  voor VDAB en de cliënten?  Hoe kan dit de VDAB-
+medewerkers beter  bijstaan?
+3.De software  moet de vooroordelen op de arbeidsmarkt  tegengaan. 
+Op welke manier  wordt  dat gerealiseerd?
+HILDE CREVITS 
+VICEMINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER  VAN ECONOMIE, INNOVATIE, 
+WERK, SOCIALE ECONOMIE EN LANDBOUW
+ANTWOORD
+op vraag nr. 940 van 2 juli 2021
+van AXEL RONSE
+1.Sinds 2018 maakt VDAB bij het aanbieden van gepersonaliseerde jobsuggesties ook 
+gebruik van het Deep Learning systeem, JobNET, om matchings te bekomen door te 
+kijken naar patronen in historische  matches. 
+Het voordeel van deze tool is dat het systeem zelf zeer complexe  patronen kan 
+ontdekken en dat deze makkelijk in de tijd bijgetraind  kunnen worden. Dit betekent 
+dat het in staat is om zelf complexe regels op te stellen, die exact afgestemd zijn op 
+bepaalde vacatures of profielen. 
+Het nadeel echter is dat het moeilijker is om zelf regels aan dit systeem op te leggen 
+en  dat het niet mogelijk is om te verklaren hoe een bepaalde match tot stand  is 
+gekomen.
+Een antwoord bieden  op deze geobserveerde tekortkomingen van het huidige JobNET  
+zonder de voordelen te verliezen was een belangrijke functionele  vereiste binnen  het 
+openbaar bestek voor een matchingtool  op basis van big data en artificiële  intelligentie 
+(AI), een procedure  van openbare aanbesteding  met onderhandeling die werd 
+uitgeschreven in 2020.
+2.VDAB  maakt al verschillende jaren gebruik van de tool Elise die een passend 
+vacatureaanbod genereert  voor burgers en aan werkgevers geschikte kandidaten 
+voorstelt en dit op basis van vooropgestelde regels.  
+Het voordeel van deze manier van werken  is dat ze zeer configureerbaar en de 
+vooropgestelde matches  langs beide  kanten verklaarbaar zijn. 
+Het nadeel  is dat het bepalen en vastleggen van deze regels zeer arbeidsintensief is, 
+regelmatig aangepast dienen te worden en veel aspecten, die belangrijk zijn in het 
+vinden goede  matches, niet gecapteerd kunnen worden  met deze zelf geschreven 
+regels. 
+Het Deep Learning  systeem JobNET zal om matchings voor te stellen kijken naar 
+patronen in historische data. 
+Het voordeel van Jobnet is dat het in staat is om zelf complexe  regels op te stellen.
+Het nadeel is dat het moeilijker is om zelf regels aan het systeem  op te leggen en dat 
+het niet mogelijk is om te verklaren hoe een bepaalde match tot stand is gekomen.
+Het gebruik van beide tools werkte complementair  in voorgestelde matches maar 
+tevens werd er ook verder gezocht naar oplossingen van de gekende nadelen. 
+Via Talent API kunnen de voordelen van beide tools samengevoegd worden om zo de 
+beste matches te vinden  met behulp van AI technieken,  waarbij kenmerken  of features  
+zoals customisatie,  verklaarbaarheid, fairness, meertaligheid en realtime 
+voorspellingen gegarandeerd worden. 
+Het samenbrengen van de voordelen van beide tools wordt bereikt door gebruik te 
+maken van een multi-model  architectuur: het is opgebouwd uit een ensemble  van 
+modellen. Elk model  is zo gebouwd dat het gespecialiseerd is om een bepaald aspect 
+van de data te behandelen (zoals ervaring, opleiding, skills of vaardigheden, locatie 
+...). Deze modulaire architectuur laat Talent API toe om de sterkte van AI ten volle te 
+benutten, terwijl resultaten verklaarbaar  blijven doordat  een matchingscore kan 
+teruggebracht tot een score op individuele  specificaties. 
+Daarnaast capteert,  zoekt,  structureert  en verrijkt Talent API profielen door ervaring,  
+opleiding, locatie,  hard skills,  soft skills,  talen,  expertisedomeinen en vele andere 
+attributen te extraheren en te verwerken. Zowel  gestructureerde als ongestructureerde  
+data worden  automatisch verrijkt door aanvullende informatie  af te leiden uit de 
+context. Zo worden bijvoorbeeld impliciete skills automatisch geïdentificeerd uit 
+doorlopende tekst.  Dit wordt bereikt door met behulp van Natural Language Processing 
+ook de semantische betekenis van een bepaalde skill te bepalen. Bijvoorbeeld, voor 
+een profiel waarin  ervaring als “vrachtwagenchauffeur” wordt vernoemd,  zullen  
+impliciete skills zoals bv. “rijbewijs C” gedetecteerd worden.
+3.Eén van de belangrijkste criteria  voor VDAB  bij gunning van Talent API was het 
+‘Fairness by Design’ principe.  Met Talent API willen  we de gebruiker niet alleen 
+relevante matches leveren, maar willen we er ook voor zorgen  dat deze vrij van 
+vooroordelen zijn. Ontwikkelaars  bij Radix hebben er aldus voor gezorgd  dat Talent API 
+objectiviteit in het rekruteringsproces verwerkt dankzij een ontkoppelde,  multi-model  
+architectuur. Deze multi-model architectuur geeft ook meteen de mogelijkheid om 
+Fairness te bekomen  door verklaarbaarheid: In deze architectuur wordt er een model 
+per attribuut getraind. Op deze manier  is het duidelijk op welke  vlakken de match tot 
+stand is gekomen en worden  matchingfactoren in kaart gebracht. Bovendien kunnen 
+de gewichten van bepaalde attributen ook aangepast worden om de eventuele 
+ongewenste effecten bij te kunnen sturen.
+Daarnaast worden beschermde attributen zoals geslacht, leeftijd of  nationaliteit uit de 
+dataset weggelaten. Dit is gekend als ‘Fairness door onwetendheid’. In sommige  
+gevallen volstaat dergelijke aanpak echter  niet. Zo kan geslacht bijvoorbeeld impliciet 
+afgeleid worden  uit andere attributen, zoals functietitel (bijvoorbeeld poetsvrouw,  
+verpleegster, tuinman ...) Talent API lost dit op door functietitels onafhankelijk  van het 
+geslacht door dezelfde  wiskundige representatie  voor te stellen.  Op deze manier  kan 
+het model geen onderscheid maken tussen verpleger of verpleegster. 
+Tenslotte gebeurt er ook een onafhankelijke analyse (monitoring) door VDAB naar 
+mogelijke vooroordelen binnen  het Talent API model en mogelijke verschillen tussen 
+verschillende bevolkingsgroepen op basis van beschermde attributen.
+Praktisch zal VDAB op geregelde  tijdstippen de resultaten van Talent  API monitoren op 
+vooroordelen. Hierbij zal VDAB voor een testdataset nagaan welke  resultaten  Talent 
+API zou weergeven. Door de koppeling  te maken tussen de testdataset  en de 
+beschermende attributen kan VDAB  nu nagaan of er vooroordelen  aanwezig  zijn in de 
+resultaten van Talent API. 
+Deze manier van werken heeft als voordeel dat VDAB de monitoring onafhankelijk  kan 
+uitvoeren waarbij via objectieve metrieken  de geobserveerde mogelijke vooroordelen 
+kunnen gekwantificeerd en gevisualiseerd worden.  VDAB experten kunnen op basis van 
+deze resultaten beslissen wat aanvaardbaar  is en vanaf wanneer  het Talent API model 
+aangepast dient te worden om de vooroordelen te verminderen.  Deze bias analyse is 
+reeds uitgevoerd bij het in productie  gaan van Talent API en zal in de toekomst op een 
+dashboard weergegeven worden.

@@ -1,0 +1,148 @@
+title: Publieke investeringen - Schillenbenadering
+thema: Begroting
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1752003
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1548330
+SCHRIFTELIJKE VRAAG
+nr. 671
+van PETER VAN ROMPUY
+datum: 24 augustus  2021
+aan MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+Schillenbenadering op de publieke investeringen
+Ik stel deze vraag in opvolging van schriftelijke vraag nr. 253 van 9 maart 2020 betreffende 
+toegepaste schillenbenadering  op de publieke  investeringen. 
+Als gevolg  van de recente  verfijning  van de methode  om de Vlaamse  publieke  investeringen 
+in kaart te brengen,  wordt gebruikgemaakt van de schillenbenadering.  Concreet:
+-kern: investeringsuitgaven Vlaamse overheid;
+-schil 1: investeringsbijdragen;
+-schil 2: ondersteuning investeringen via kredietverstrekking en participaties.
+Voor de kerninvesteringen werd gezorgd voor een volledige aansluiting met de 
+overheidsrekeningen zoals gebruikt door het INR (Instituut  voor de Nationale Rekeningen). 
+Kerninvesteringen zijn eigen overheidsinvesteringen en -uitgaven die door de overheid  zelf 
+verricht worden (op eigen balans). De volgende wijzigingen  werden  aangebracht:
+-de desinvesteringen zijn in mindering gebracht van de ESR-7-uitgaven (ESR:  Europees 
+Systeem van Nationale  en Regionale Rekeningen); 
+-investeringsbijdragen aan het gesubsidieerd autonoom onderwijs  zijn meegenomen als 
+kerninvesteringen (i.p.v. investeringsbijdragen);  
+-de pps-constructies (publiek-private samenwerking) die door het INR geherklasseerd  zijn 
+als investeringen  van Vlaanderen,  werden  ook consequent  meegenomen als een 
+kerninvestering. 
+Schil 1 bestaat uit ESR-5- en -6-kredieten aan instellingen buiten  (ESR-5)  en binnen de 
+overheid (ESR-6) met als doel investeringen mogelijk te maken (investeringsbijdragen). 
+In vergelijking met rapportering voordien, werd schil 1 beperkt. 
+-Er is voor gekozen om niet meer de totaliteit van de kapitaalsoverdrachten (ESR-5 en 
+ESR-6) mee te nemen, maar enkel de investeringsbijdragen binnen deze categorie  (ergo: 
+excl. uitbetalingen in het kader van waarborgverleningen).  
+-Excl. investeringsbijdragen aan het gesubsidieerd autonoom onderwijs  
+(kerninvesteringen i.p.v. investeringsbijdragen). 
+-Incl. investeringsbijdrage die Vlaanderen  levert voor de bouw van de Sluis Terneuzen.  
+Forfaitaire investeringsbijdragen die het VIPA (Vlaams Infrastructuurfonds voor 
+Persoonsgebonden Aangelegenheden) betaalt  als tegemoetkoming voor de investeringen 
+in de ziekenhuissector, de ouderenzorg en de gehandicaptenzorg. 
+Schil 2 (ondersteuning  investeringen via participaties) onderging  geen wijzigingen  aan de 
+methodologie en omvat:
+-ESR-8-kredieten die grotendeels bestemd zijn voor kredietverstrekkingen voor sociale  
+woningbouw;
+-participaties  in ondernemingen.
+De beschikbaarheidsvergoedingen  staan wel in verband met investeringen, maar zijn niet 
+opgenomen in de huidige schillenbenadering.  Voor een juist beeld van het 
+investeringsbeleid dient ook gekeken te worden naar de rapporteringen inzake alternatieve 
+financiering.
+Graag volgende vragen.
+1.Voor de jaren 2020 en 2021 van de begrotingsmiddelen (VAK - vastleggingskrediet) 
+voor investeringen voor elk van de drie niveaus (kern, schil 1, schil 2). Graag ook een 
+overzicht van de verdeling per beleidsdomein  en de bestemming binnen de respectieve 
+beleidsdomeinen. 
+2.Voor 2020 de effectief gerealiseerde investeringsuitgaven (kern, schil 1, schil 2). 
+3.Voor 2020 het aandeel van de investeringsuitgaven in de totale uitgaven (voor  elk van 
+de drie niveaus). 
+4.Voor 2020 de beschikbaarheidsvergoedingen die in verband staan met Vlaamse  
+publieke investeringen. 
+5.Hoe evalueert de minister  deze cijfers?
+6.Hoe groot is de impact van de pandemie op de cijfers van 2020,  alsook die van de 
+komende jaren?
+MATTHIAS DIEPENDAELE
+VLAAMS MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED
+ANTWOORD
+op vraag nr. 671 van 24 augustus 2021
+van PETER VAN ROMPUY
+1.
+2BA 2020 BO 2021 BO21-2BA20BO21 vs. 2BA20 
+in%
+Beleid Beleid Beleid Beleid
+Begroting
+Kern 3.288.905 5.783.621 2.494.716 175,85%
+Schil 1 1.406.038 1.417.807 11.769 100,84%
+Schil 2 3.147.749 2.806.264 -341.485 89,15%
+Begroting 2020, beleidskredieten 
+opgesplitst naar beleidsdomein (duizend  
+euro)  
+ Kern Schil 1 Schil 2
+Hogere Entiteiten 2.472 0 0
+Financiën en Begroting 4.840 0 1.632
+Internationaal Vlaanderen 2.830 18.161 1.543
+Economie, Wetenschappen en Innovatie 32.732 189.659 893.969
+Onderwijs en Vorming 927.194 96.251 39.808
+Welzijn, Volksgezondheid  en Gezin 30.158 319.503 21.135
+Cultuur, Jeugd,  Sport en Media 16.102 47.656 6.250
+Werk en Sociale Economie 8.945 417 33.648
+Landbouw en Visserij 1.466 59.711 750
+Mobiliteit en Openbare Werken 2.086.804 252.785 69.583
+Kanselarij en Bestuur 12.268 24.990 0
+Omgeving 163.094 396.905 2.079.431
+Kanselarij, Bestuur, Buitenlandse Zaken en 
+Justitie 0 0 0
+Totaal 3.288.905 1.406.038 3.147.749
+Begroting 2021, beleidskredieten opgesplitst 
+naar beleidsdomein (duizend euro)
+Kern Schil 1 Schil 2
+Hogere Entiteiten 0 0 0
+Financiën en Begroting 4.840 0 1.545
+Economie, Wetenschappen en Innovatie 30.433 238.761 336.239
+Onderwijs en Vorming 954.575 106.918 43.008
+Welzijn, Volksgezondheid en Gezin 27.838 342.135 21.135
+Cultuur, Jeugd, Sport en Media 73.732 17.800 8.250
+Werk en Sociale Economie 8.274 0 35.000
+Landbouw en Visserij 1.244 60.582 500
+Mobiliteit en Openbare Werken 4.467.951 178.248 32.044
+Omgeving 168.023 439.3952.327.000
+Kanselarij, Bestuur, Buitenlandse Zaken en Justitie 46.711 33.968 1.543
+Totaal 5.783.6211.417.8072.806.264
+De component Onderzoek & Ontwikkeling  is in bovenstaande tabellen  bij de 
+kerninvesteringen niet opgenomen doordat dit gebaseerd is op uitvoeringsgegevens 
+die door het INR worden aangeleverd. De bestemming  binnen  de beleidsdomeinen is 
+beschreven in de beleids- en begrotingstoelichtingen.
+2-3.
+Uitvoering 2020Aandeelpercentage tov 
+totale uitgaven
+Betaal Betaal
+Uitvoering
+Kern + Activering O&O 3.982.931 7,68%
+Schil 1 1.307.236 2,52%
+Schil 2 2.425.585 4,68%
+De activering O&O die is opgenomen bij de kerninvesteringen zijn voorlopige  cijfers.  
+Definitieve cijfers zal het INR in oktober 2021 publiceren.
+4.Aan het INR werd voor 2020 finaal 326,7 mio euro aan beschikbaarheidsvergoedingen 
+gerapporteerd. Deze beschikbaarheidsvergoedingen bevatten zowel  ‘off balance’ als 
+‘on balance’ projecten.  Voor de ‘on balance’  projecten zitten de investeringscijfers  
+reeds verwerkt bij de Kern in de uitvoeringscijfers.
+Meer details over deze beschikbaarheidsvergoedingen en corresponderende projecten  
+zullen in het basisrapport grote projecten  2021 staan dat in oktober 2021 zal 
+gepubliceerd worden. De minder omvangrijke projecten zoals PPS Wonen (1.113,5 
+duizend euro beschikbaarheidsvergoeding  in 2020), het Sportinfrastructuurplan  
+(4.265 duizend  euro in 2020) en de jeugdherberg Brasschaat (528,8 duizend euro in 
+2020) worden  hier echter niet in opgenomen.
+5-6.Het Vlaamse regeerakkoord voorzag al in een verhoging van de investeringskredieten 
+in bepaalde domeinen, zoals onderwijs,  openbare werken,  O&O-infrastructuur  en IT, 
+ziekenhuizen, cultuur- en topsportinfrastructuur en onroerend  erfgoed.
+Voor de beleidskredieten  is er een belangrijke bewegingen bij de kerninvesteringen  
+deze nemen in 2021 toe met 75,85% (of 2.494,7 miljoen euro). Deze beweging is 
+echter zeer sterk geïmpacteerd door eenmalige  gebeurtenissen in de begrotingen  van 
+2020 en 2021: de aanrekeningsregels  in de Vlaamse  Codex overheidsfinanciën  
+verplichtten om de reeds  geplande  werken  voor de Oosterweelverbinding volledig in 
+beleidskrediet in te schrijven  in de Vlaamse Begroting. Dit zorgt voor een toename in 
+de beleidskredieten voor kerninvesteringen met 2.466,7 miljoen euro. 
+Daarnaast is vanaf 2021 het Vlaamse relanceplan ‘Vlaamse Veerkracht’  in voege  
+getreden, waarvan een belangrijk deel te maken heeft met bouwinvesteringen  en 
+andere investeringen. De coronacrisis  heeft ook een temperend effect op de reguliere 
+uitgaven bijvoorbeeld door een vertraging bij de uitvoering van werken.

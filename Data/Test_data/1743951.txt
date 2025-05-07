@@ -1,0 +1,70 @@
+title: Digitale meter - Problemen opvolgen energieverbruik via 'Mijn Fluvius'
+thema: Energie
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1743951
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1543568
+SCHRIFTELIJKE VRAAG
+nr. 1221
+van CHRIS  JANSSENS
+datum: 8 juli 2021
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Digitale meter  -  Problemen opvolgen energieverbruik via 'Mijn Fluvius'
+Distributienetbeheerder Fluvius biedt de gratis online  toepassing ‘Mijn Fluvius’  aan 
+waarbij gebruikers  hun energieverbruik kunnen opvolgen. Elk gezin met een digitale 
+meter kan op deze manier alle verbruikswaarden per dag voor zowel  elektriciteit als 
+aardgas raadplegen en zo een beter zicht krijgen op hun energieverbruik.
+Een aantal gebruikers met digitale meter klaagt echter  over het feit dat de gegevens niet 
+up-to-date zijn en dat men vaak dagen moet wachten eer ze beschikbaar zijn. Er worden 
+ook vragen gesteld bij de juistheid van de gegevens en het feit dat het verbruik louter 
+geschat zou worden.  Het zou echter perfect  technisch mogelijk moeten zijn voor 
+personen die over een digitale meter beschikken om hun energieverbruik  correct en tijdig 
+te kunnen opvolgen. Dat ligt in het verlengde van het voornemen om van de digitale 
+meter een ‘slimme’  meter te maken.
+1.Heeft  de minister weet van dergelijke klachten? Zo ja, hoeveel klachten heeft zij of 
+haar diensten hieromtrent ontvangen en welk gevolg werd eraan gegeven?
+2.Is de minister van plan hieromtrent contact op te nemen  met Fluvius? Zo niet, 
+waarom niet?
+3.Bevindt het probleem zich volgens de minister louter bij de distributienetbeheerder 
+of zijn er problemen/vertragingen bij het doorstromen van de gegevens  van de 
+digitale meter naar de distributienetbeheerder?
+ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD 
+op vraag nr. 1221 van 8 juli 2021  
+van CHRIS JANSSENS
+1.Einde juni 2021 waren in Vlaanderen ongeveer 884.000 digitale  meters geplaatst. Aan 
+ongeveer 167.000 netgebruikers  werd een mandaat  tot verbruikshistoriek toegekend. 
+In de praktijk zijn er ongeveer 61.000 actieve gebruikers van het webportaal “Mijn 
+Fluvius”. Op mijn kabinet en bij VEKA  zijn minder  dan 10 vragen of klachten ontvangen 
+over de werking van het webportaal.  Tot op heden  werden  bij Fluvius 233 vragen of 
+klachten geregistreerd over de verbruikshistoriek  via het portaal. Dit betekent minder 
+dan 0,5% van het aantal actieve portaalgebruikers.
+2.De werking van het webportaal verloopt zoals voorzien. Zoals blijkt uit deelvraag  3 zijn 
+klachten of problemen meestal te wijten  aan tijdelijke technische oorzaken.  Het 
+webportaal geeft niet in real-time de verbruiksgegevens weer. Het is niet mijn intentie 
+om specifiek hiervoor contact  op te nemen  met Fluvius.
+3.Het meest  voorkomende probleem is het gebrek aan een stabiele verbinding van de 
+meter met het netwerk van de telecomprovider. Dit heeft een impact op het 
+doorstromen van de gegevens van de digitale meter naar de systemen van de 
+netbeheerders. Als het signaal ontbreekt of te zwak is, resulteert dit voor de klant in 
+ontbrekende gegevens op het portaal. Zodra de communicatie  hersteld  is, worden de 
+beschikbare meterstanden zichtbaar  op het portaal. Indien er toch meterstanden niet 
+kunnen gerecupereerd worden, worden ontbrekende waarden ingevuld met lineaire 
+schattingen of interpolaties op basis van eerder  en later uitgelezen meterstanden.
+Voor aanhoudende communicatieproblemen wordt - in afwachting van een bekabelde 
+oplossing - naar een andere structurele  oplossing gezocht  (bv. proefopstelling met 
+antenne).
+Soms zijn er interne werkzaamheden of storingen in de systemen  van de 
+netbeheerders. De Fluvius-systemen verzamelen elke dag op korte tijd enorme 
+hoeveelheden gegevens van alle digitale meters  in Vlaanderen. Heel uitzonderlijk  loopt 
+dit proces  vertraging op. Dan bewaart de digitale  meter de verbruiksdata en 
+piekvermogens en worden deze gegevens op een later tijdstip uitgelezen.  Dergelijke 
+werkzaamheden of storingen worden via een banner aangekondigd  of gemeld op het 
+portaal.
+De gegevens  van het elektriciteits- en gasverbruik staan telkens meestal  de dag erna 
+op het portaal.  Voor het piekvermogen is dat bij het begin van de volgende maand. Is 
+de uitlezing van de digitale  meter uitzonderlijk niet mogelijk, dan bewaart de digitale  
+meter deze verbruiken en piekvermogens en worden deze gegevens later uitgelezen. 
+Klanten die in ‘real time’ inzicht willen krijgen in hun verbruik  of piekvermogen, kunnen 
+applicaties aansluiten op de gebruikerspoorten van hun digitale  meter. Zie 
+www.maakjemeterslim.be voor een overzicht van mogelijke  applicaties.

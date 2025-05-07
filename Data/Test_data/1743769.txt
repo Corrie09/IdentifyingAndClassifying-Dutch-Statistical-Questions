@@ -1,0 +1,107 @@
+title: Straling zendmasten en hoogspanningslijnen - Metingen
+thema: Natuur en Milieu
+Ruimtelijke ordening
+pdf link: https://docs.vlaamsparlement.be/pfile?id=1743769
+thema link: https://www.vlaamsparlement.be/parlementaire-documenten/schriftelijke-vragen/1541898
+SCHRIFTELIJKE VRAAG
+nr. 1213
+van CARMEN RYHEUL
+datum: 5 juli 2021
+aan ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+Straling zendmasten en hoogspanningslijnen  -  Metingen
+Gezinnen die op minder  dan 150 meter van een zendantenne (bijvoorbeeld een gsm-mast) 
+wonen, kunnen steeds een gratis  stralingsmeting aanvragen bij het Departement 
+Omgeving. Voor andere  antennes (radar, tv, radio)  beoordeelt de afdeling  Handhaving of 
+een meting  noodzakelijk is, onafhankelijk van de afstand.
+Ook hoogspanningslijnen  veroorzaken  elektromagnetische straling. Die straling wordt ELF-
+straling (Extreem Lage Frequentie) genoemd  en heeft een frequentie  van 50 Hz. Wie in de 
+buurt van een hoogspanningslijn verblijft of bouwgrond heeft, kan daarom eveneens een 
+gratis stralingsmeting aanvragen bij het Departement Omgeving. De berekening wordt  
+uitgevoerd met een model dat ontwikkeld  werd door de ULG en imec.
+De door de Vlaamse overheid aangestelde Ventilus-intendant verklaarde in recente  
+persberichten dan weer dat mensen die in de buurt van een hoogspanningslijn wonen 
+steeds op Elia een beroep kunnen doen voor gratis metingen  van elektrische en 
+magnetische velden, maar hij “vergat” hierbij blijkbaar of was niet op de hoogte dat deze 
+gratis dienstverlening ook door het Departement  Omgeving wordt aangeboden.
+1.Hoeveel stralingsmetingen voor zend(antennes) werden er bij het Departement  
+Omgeving aangevraagd sinds 2015? Graag  een overzicht van het aantal aanvragen 
+met een opdeling per jaar en per provincie.  Ook graag vermelden hoeveel van die 
+aanvragen ook daadwerkelijk goedgekeurd werden  en welke  niet. 
+a)Wat zijn de meest voorkomende redenen  voor het niet goedkeuren  van een 
+aanvraag?
+b)Wat waren de resultaten van deze stralingsmetingen; bij hoeveel van deze 
+metingen werden  de normen voor elektromagnetische straling overschreden? Ook 
+hier graag een opdeling  per jaar en per provincie.
+2.Hoeveel stralingsmetingen voor ELF-straling voor personen die in de buurt van 
+hoogspanningslijnen verblijven of bouwgrond hebben, werden  er bij het Departement  
+Omgeving aangevraagd sinds 2015? Graag  een overzicht van het aantal aanvragen 
+met een opdeling per jaar en per provincie.  Ook graag vermelden hoeveel van die 
+aanvragen ook daadwerkelijk goedgekeurd werden  en welke  niet. 
+a)Wat zijn de meest voorkomende redenen  voor het niet goedkeuren  van een 
+aanvraag?
+b)Wat waren  de resultaten  van deze stralingsmetingen;  hoeveel van deze metingen  
+kwamen uit op een magnetisch veld hoger dan 0,4 µT? Ook hier graag  een 
+opdeling per jaar en per provincie.
+3.Vanwaar de verschillen in berichtgeving over welke  instantie gratis stralingsmetingen 
+aan de bevolking aanbiedt tussen de minister en haar Ventilus-intendant? Welke  acties 
+zal de minister ondernemen  om dergelijke verschillen  in de toekomst te voorkomen?
+4.Beschikt  de minister over cijfers met betrekking tot het aantal stralingsmetingen, op 
+verzoek van omwonenden,  die werden uitgevoerd door Elia? Zo ja, graag een overzicht  
+van het aantal aanvragen sinds 2015 met eveneens een opdeling per jaar en per 
+provincie en een vermelding van de resultaten.  Zo niet, overweegt  de minister (en zo 
+ja, binnen welke  termijn)  om met Elia een protocol  op te stellen  waarbij Elia deze, voor 
+het overheidsbeleid  belangrijke meetgegevens, periodiek overmaakt  aan Vlaamse 
+Regering of het Departement  Omgeving?
+ZUHAL DEMIR
+VLAAMS MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
+ANTWOORD 
+op vraag nr. 1213 van 5 juli 2021
+van CARMEN RYHEUL
+1Tabel 1 geeft het aantal aanvragen voor stralingsmetingen weer die bij het Departement 
+Omgeving zijn toegekomen, per jaar en per provincie. Het aantal niet goedgekeurde  
+aanvragen wordt ook telkens  weergegeven. Het verschil  tussen het aantal aanvragen en de 
+niet goedgekeurde aanvragen geeft het aantal goedkeurde aanvragen. In totaal werden 493 
+aanvragen voor een meting behandeld sinds juli 2015.  
+Tabel 1: aantal aanvragen en aantal niet-goedgekeurde aanvragen, opgedeeld  per jaar en 
+per provincie     
+a)De meest voorkomende  reden  voor het niet goedkeuren van een aanvraag is dat de 
+verblijfplaats van de aanvrager zich niet in de nabije omgeving  van een zendantenne 
+bevindt. Voor gsm-zendantennes ligt de grens op 150 m tussen  zendantenne en de 
+verblijfplaats waar gemeten wordt.    
+b)Tabel 2 geeft het aantal stralingsmetingen  en normoverschrijdingen weer, opgedeeld  per 
+jaar en per provincie. 
+Tabel 2: aantal  stralingsmetingen en normoverschrijdingen, opgedeeld per jaar en per 
+provincie
+2Het departement  Omgeving voert geen stralingsmetingen op vraag van omwonenden  uit in 
+de omgeving  van hoogspanningslijnen. Het Departement voert wel berekeningen uit van de 
+blootstelling aan magnetische velden  in de omgeving van hoogspanningslijnen: 
+https://omgeving.vlaanderen.be/hoogspanning. De aantallen gaan daarom over het aantal 
+berekeningen dat werd uitgevoerd  door het departement Omgeving  In totaal werden  1636 
+aanvragen voor een berekening behandeld  sinds juli 2015.  Voor die datum  zijn er geen 
+gegevens beschikbaar.  Bij 35 aanvragen ging het niet om een adres, maar om een ruimer  
+gebied zoals een straat of een wijk in het kader van bv. de ontwikkeling  van percelen tot 
+woningen.
+a)Er worden geen aanvragen voor een berekening  van de magnetische velden in de 
+omgeving van hoogspanningslijnen afgekeurd.   
+b)Tabel 3 geeft de resultaten van de berekeningen van de magnetische velden  in de 
+omgeving van hoogspanningslijnen  van de jaargemiddelde blootstelling.  Een aanvraag  
+voor een berekening kan gaan om een woning  of perceel (als er nog geen woning 
+gebouwd is).   
+Tabel 3: aantal  berekeningen van het magnetisch in en buiten de zone waar meer dan 
+0.4 µT kan voorkomen, opgedeeld per jaar en per provincie
+3Elia voert, zoals u aangeeft  in uw vraag, stralingsmetingen uit op vraag van mensen die in 
+de buurt van een hoogspanningslijn wonen. Het departement  Omgeving voert echter geen 
+metingen uit, maar wel berekeningen van de blootstelling op vraag van omwonenden van 
+hoogspanningslijnen.   
+4Omwille van de privacy  van de aanvragers, kan Elia gegevens niet zomaar bezorgen aan het 
+departement Omgeving. Het departement Omgeving  werkt wel binnen  een beleidstraject 
+aan zoveel mogelijk transparantie van gegevens. Daarbij hoort ook het beschikbaar stellen 
+van gegevens, rekening  houdend met de privacy van omwonenden.  Elia gaat gegevens  
+bezorgen. Elia heeft wel de geanonimiseerde gegevens bezorgd op 19 juli 2021. Elia heeft 
+sinds 2015, 539 metingen uitgevoerd in de omgeving  van hoogspanningslijnen. Tabel 4 
+geeft de resultaten van de metingen.  Op een locatie worden  soms meerdere metingen  
+uitgevoerd. In dat geval nemen  we de hoogste meetwaarde voor die locatie.   
+Tabel 4: aantal metingen van het magnetisch in en buiten  de zone waar meer dan 0.4 µT 
+kan voorkomen, opgedeeld per jaar en per provincie
+
