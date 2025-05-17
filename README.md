@@ -67,7 +67,7 @@ Bolded results do not differ significantly from the best-performing result at th
 | XGBoost             | 66           | 66            | 65           | 0:01:55       |
 | mBERT               | **77**       | **77**        | **77**       | 3:30:03       |
 | RobBERT             | **77**       | **78**        | **77**       | 3:18:34       |
-| GroNLP              | **78**       | **78**        | **78**       | 3:21:06       |
+| GroNLP BERT         | **78**       | **78**        | **78**       | 3:21:06       |
 
 
 
