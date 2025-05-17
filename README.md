@@ -1,4 +1,4 @@
-# thesis-question-classification
+# thesis-question-classification-KU-LEUVEN
 
 # Statistical Question Classification in Flemish Parliamentary Data
 
@@ -46,4 +46,4 @@ This repository supports the master's thesis project on classifying and identify
 If you use this code or dataset for academic purposes, please cite the thesis or contact the author.
 
 
-🛠 Maintained by [Jef Van Kerckhoven and Corneel Moons]
+🛠 Maintained by [Jef Van Kerckhoven, KU Leuven and Corneel Moons, KU Leuven]
