@@ -48,12 +48,12 @@ Bolded results do not differ significantly from the best-performing result at th
 | Regex 2             | 88           | 89            | 87           | 0:00:00       |
 | Logistic Regression | **90**       | **90**        | **90**       | 0:00:00       |
 | Naive Bayes         |80            | 79            | 77           | 0:00:00       |
-| SVM                 | **89**       | **87**       | **88**       | 0:00:00       |
-| Random Forest       | **90**       | **90**       | **90**       | 0:00:00       |
-| XGBoost             | **91**       | **91**       | **91**       | 0:00:07       |
-| **mBERT**           | **91**       | **91**       | **91**       | 0:04:51       |
-| **RobBERT**         | 89           | 88            | 88           | 0:03:07       |
-| **GroNLP BERT**     | **92**       | **92**        | **92**       | 0:03:31       |
+| SVM                 | **89**       | **87**        | **88**       | 0:00:00       |
+| Random Forest       | **90**       | **90**        | **90**       | 0:00:00       |
+| XGBoost             | **91**       | **91**        | **91**       | 0:00:07       |
+| mBERT               | **91**       | **91**        | **91**       | 0:04:51       |
+| RobBERT             | 89           | 88            | 88           | 0:03:07       |
+| GroNLP BERT         | **92**       | **92**        | **92**       | 0:03:31       |
 
 
 **Classifier**
@@ -65,9 +65,9 @@ Bolded results do not differ significantly from the best-performing result at th
 | SVM                 | 65           | 68            | 66           | 0:00:12       |
 | Random Forest       | 67           | 70            | 67           | 0:05:25       |
 | XGBoost             | 66           | 66            | 65           | 0:01:55       |
-| **mBERT**           | **77**       | **77**        | **77**       | 3:30:03       |
-| **RobBERT**         | **77**       | **78**        | **77**       | 3:18:34       |
-| **GroNLP**          | **78**       | **78**        | **78**       | 3:21:06       |
+| mBERT               | **77**       | **77**        | **77**       | 3:30:03       |
+| RobBERT             | **77**       | **78**        | **77**       | 3:18:34       |
+| GroNLP              | **78**       | **78**        | **78**       | 3:21:06       |
 
 
 
