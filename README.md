@@ -38,7 +38,9 @@ This repository supports the master's thesis project on classifying and identify
 
 ## Results 
 
-**Identtifier**
+Bolded results do not differ significantly from the best-performing result at the 95% confidence level.
+
+**Identifier**
 
 | Model               | Accuracy (%) | Precision (%) | F1 Score (%) | Training Time |
 | ------------------- | ------------ | ------------- | ------------ | ------------- |
